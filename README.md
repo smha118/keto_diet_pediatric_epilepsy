@@ -16,8 +16,8 @@ After 4.modify_mergeomics_results, the results files were loaded onto the Cytosc
 
 ```mermaid
 flowchart TD;
-	A[WGNCA] --> C[1.mmvec]
-	B[MMVEC] --> C[1.mmvec]
+	A[WGNCA] --> C[1.parse_mmvec]
+	B[MMVEC] --> C[1.parse_mmvec]
 	C-->D{WGCNA from RNA-seq data?}
 	D -- Yes --> E[2.parse_wgcna_modules]
 	D -- No --> F[3.Merge_module_info2mmvec_network_for_wkda]
