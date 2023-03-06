@@ -1,0 +1,11 @@
+glutamate
+tryptamine
+urate
+gamma-glutamylglutamine
+N-palmitoyl-sphingosine (d18:1/16:0)
+N-formylanthranilic acid
+N-palmitoyl-sphinganine (d18:0/16:0)
+N-palmitoyl-sphingadienine (d18:2/16:0)*
+ceramide (d16:1/24:1, d18:1/22:1)*
+ceramide (d18:1/14:0, d16:1/16:0)*
+ceramide (d18:1/20:0, d16:1/22:0, d20:1/18:0)*

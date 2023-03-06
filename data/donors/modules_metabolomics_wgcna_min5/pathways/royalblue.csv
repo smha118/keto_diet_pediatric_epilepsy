@@ -1,0 +1,15 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Tryptophan metabolism",41,0.13226,2,0.0064928,2.1876,0.54539,0.53845,0.04484
+"Nitrogen metabolism",6,0.019355,1,0.01923,1.716,1,0.53845,0
+"D-Glutamine and D-glutamate metabolism",6,0.019355,1,0.01923,1.716,1,0.53845,0.5
+"Arginine biosynthesis",14,0.045161,1,0.044409,1.3525,1,0.70871,0.11675
+"Butanoate metabolism",15,0.048387,1,0.04752,1.3231,1,0.70871,0
+"Histidine metabolism",16,0.051613,1,0.050622,1.2957,1,0.70871,0
+"Sphingolipid metabolism",21,0.067742,1,0.066014,1.1804,1,0.75732,0.26978
+"Glutathione metabolism",28,0.090323,1,0.087226,1.0594,1,0.75732,0.01966
+"Alanine, aspartate and glutamate metabolism",28,0.090323,1,0.087226,1.0594,1,0.75732,0.19712
+"Porphyrin and chlorophyll metabolism",30,0.096774,1,0.093216,1.0305,1,0.75732,0
+"Glyoxylate and dicarboxylate metabolism",32,0.10323,1,0.099173,1.0036,1,0.75732,0
+"Arginine and proline metabolism",38,0.12258,1,0.11686,0.93234,1,0.81801,0.086
+"Aminoacyl-tRNA biosynthesis",48,0.15484,1,0.14572,0.83649,1,0.94156,0
+"Purine metabolism",65,0.20968,1,0.19304,0.71435,1,1,0

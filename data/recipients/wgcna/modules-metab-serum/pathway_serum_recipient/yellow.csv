@@ -1,0 +1,27 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Phenylalanine, tyrosine and tryptophan biosynthesis",4,0.050465,3,6.7678e-06,5.1696,0.00056849,0.00056849,0.5
+"Aminoacyl-tRNA biosynthesis",48,0.60558,6,1.5132e-05,4.8201,0.0012559,0.00063554,0
+"Arginine biosynthesis",14,0.17663,3,0.00056843,3.2453,0.046611,0.015916,0
+"Valine, leucine and isoleucine biosynthesis",8,0.10093,2,0.0040377,2.3939,0.32705,0.084792,0
+"Phenylalanine metabolism",12,0.15139,2,0.0092348,2.0346,0.73878,0.15514,0.61904
+"Alanine, aspartate and glutamate metabolism",28,0.35325,2,0.046909,1.3287,1,0.5948,0
+"D-Arginine and D-ornithine metabolism",4,0.050465,1,0.049566,1.3048,1,0.5948,0
+"Valine, leucine and isoleucine degradation",40,0.50465,2,0.088525,1.0529,1,0.86219,0
+"Tryptophan metabolism",41,0.51726,2,0.092377,1.0344,1,0.86219,0.14305
+"Ubiquinone and other terpenoid-quinone biosynthesis",9,0.11355,1,0.10825,0.96555,1,0.90934,1
+"Ascorbate and aldarate metabolism",10,0.12616,1,0.11957,0.92237,1,0.9131,0
+"Histidine metabolism",16,0.20186,1,0.18468,0.73359,1,1,0.22131
+"Fructose and mannose metabolism",18,0.22709,1,0.20534,0.68752,1,1,0.03313
+"Pentose and glucuronate interconversions",18,0.22709,1,0.20534,0.68752,1,1,0.07812
+"Pantothenate and CoA biosynthesis",19,0.23971,1,0.21549,0.66657,1,1,0
+"Selenocompound metabolism",20,0.25232,1,0.22551,0.64683,1,1,0
+"beta-Alanine metabolism",21,0.26494,1,0.23542,0.62816,1,1,0
+"Pyruvate metabolism",22,0.27756,1,0.2452,0.61048,1,1,0
+"Lysine degradation",25,0.31541,1,0.27384,0.5625,1,1,0.14085
+"Glycolysis / Gluconeogenesis",26,0.32802,1,0.28316,0.54797,1,1,0
+"Galactose metabolism",27,0.34064,1,0.29236,0.53408,1,1,0
+"Glutathione metabolism",28,0.35325,1,0.30145,0.52079,1,1,0.02698
+"Glycine, serine and threonine metabolism",34,0.42895,1,0.35371,0.45135,1,1,0
+"Pyrimidine metabolism",39,0.49203,1,0.39441,0.40405,1,1,0.0256
+"Tyrosine metabolism",42,0.52988,1,0.41766,0.37918,1,1,0.08276
+"Purine metabolism",66,0.83267,1,0.57545,0.24,1,1,0

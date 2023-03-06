@@ -1,0 +1,6 @@
+biliverdin
+bilirubin (Z,Z)
+bilirubin (E,E)*
+linolenoylcarnitine (C18:3)*
+arachidonoylcarnitine (C20:4)
+dehydrophytosphingosine*

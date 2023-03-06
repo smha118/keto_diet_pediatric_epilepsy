@@ -1,0 +1,9 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Vitamin B6 metabolism",9,0.02988,1,0.029564,1.5292,1,1,0
+"Butanoate metabolism",15,0.049801,1,0.048882,1.3108,1,1,0
+"Histidine metabolism",16,0.053121,1,0.052072,1.2834,1,1,0
+"Citrate cycle (TCA cycle)",20,0.066401,1,0.064744,1.1888,1,1,0.03273
+"Propanoate metabolism",23,0.076361,1,0.07416,1.1298,1,1,0
+"Alanine, aspartate and glutamate metabolism",28,0.092961,1,0.089683,1.0473,1,1,0
+"Amino sugar and nucleotide sugar metabolism",37,0.12284,1,0.1171,0.93144,1,1,0.06569
+"Pyrimidine metabolism",39,0.12948,1,0.1231,0.90973,1,1,0.01584

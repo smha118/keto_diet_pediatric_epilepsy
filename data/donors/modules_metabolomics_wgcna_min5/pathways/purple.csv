@@ -1,0 +1,6 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Phenylalanine metabolism",10,0.025806,1,0.025582,1.5921,1,1,0
+"Biotin metabolism",10,0.025806,1,0.025582,1.5921,1,1,0.2
+"Glycerolipid metabolism",16,0.04129,1,0.040694,1.3905,1,1,0.23676
+"Galactose metabolism",27,0.069677,1,0.067942,1.1679,1,1,0
+"Steroid biosynthesis",42,0.10839,1,0.10416,0.98231,1,1,0.06121

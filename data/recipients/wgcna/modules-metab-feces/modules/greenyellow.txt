@@ -1,0 +1,25 @@
+linoleate (18:2n6)
+palmitoleate (16:1n7)
+adenine
+caprate (10:0)
+caproate (6:0)
+pentadecanoate (15:0)
+glycerol
+4-guanidinobutanoate
+1-palmitoylglycerol (16:0)
+1-oleoylglycerol (18:1)
+1-linoleoylglycerol (18:2)
+adrenate (22:4n6)
+stearidonate (18:4n3)
+10-nonadecenoate (19:1n9)
+linolenate [alpha or gamma; (18:3n3 or 6)]
+2-hydroxypalmitate
+2,4-dihydroxybutyrate
+oleoyl-linoleoyl-glycerol (18:1/18:2) [1]
+oleoyl-linoleoyl-glycerol (18:1/18:2) [2]
+N-formylphenylalanine
+oleate/vaccenate (18:1)
+hexadecatrienoate (16:3n3)
+hexadecadienoate (16:2n6)
+3-indoleglyoxylic acid
+3-hydroxymargarate

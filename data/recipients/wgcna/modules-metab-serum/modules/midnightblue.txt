@@ -1,0 +1,19 @@
+4-hydroxyphenylacetate
+linoleate (18:2n6)
+palmitate (16:0)
+nonadecanoate (19:0)
+dihomo-linoleate (20:2n6)
+2-hydroxystearate
+methionine sulfoxide
+adrenate (22:4n6)
+linolenate [alpha or gamma; (18:3n3 or 6)]
+mead acid (20:3n9)
+docosapentaenoate (n6 DPA; 22:5n6)
+dihomo-linolenate (20:3n3 or n6)
+oleate/vaccenate (18:1)
+1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6)*
+1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*
+1-oleoyl-2-arachidonoyl-GPI (18:1/20:4)*
+docosatrienoate (22:3n6)*
+nisinate (24:6n3)
+(N(1) + N(8))-acetylspermidine

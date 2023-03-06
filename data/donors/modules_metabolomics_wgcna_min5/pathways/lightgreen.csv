@@ -1,0 +1,4 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Pyrimidine metabolism",39,0.075484,2,0.0018223,2.7394,0.15307,0.15307,0.02089
+"Alanine, aspartate and glutamate metabolism",28,0.054194,1,0.053254,1.2736,1,1,0
+"Aminoacyl-tRNA biosynthesis",48,0.092903,1,0.090112,1.0452,1,1,0

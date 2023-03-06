@@ -1,0 +1,4 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Arginine biosynthesis",14,0.027888,1,0.027648,1.5583,1,1,0
+"Lysine degradation",25,0.049801,1,0.049011,1.3097,1,1,0.00469
+"Tryptophan metabolism",41,0.081673,1,0.079521,1.0995,1,1,0.0139

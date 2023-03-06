@@ -1,0 +1,27 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Glycine, serine and threonine metabolism",33,0.48968,5,8.1959e-05,4.0864,0.0068845,0.0068845,0.24127
+"Pyrimidine metabolism",39,0.57871,5,0.00018743,3.7272,0.015557,0.0078722,0.18751
+"Aminoacyl-tRNA biosynthesis",48,0.71226,5,0.00051012,3.2923,0.04183,0.014283,0.16667
+"Cysteine and methionine metabolism",33,0.48968,4,0.0011352,2.9449,0.091948,0.023838,0.1263
+"Alanine, aspartate and glutamate metabolism",28,0.41548,3,0.0073447,2.134,0.58757,0.12339,0.22356
+"Glyoxylate and dicarboxylate metabolism",32,0.47484,3,0.010697,1.9707,0.84506,0.14976,0.1217
+"Nicotinate and nicotinamide metabolism",15,0.22258,2,0.019673,1.7061,1,0.23608,0
+"Pyruvate metabolism",22,0.32645,2,0.040643,1.391,1,0.42675,0.20684
+"Glycolysis / Gluconeogenesis",26,0.38581,2,0.055171,1.2583,1,0.51493,0.10044
+"Glycerophospholipid metabolism",36,0.53419,2,0.097841,1.0095,1,0.72994,0.07396
+"Amino sugar and nucleotide sugar metabolism",37,0.54903,2,0.10252,0.98919,1,0.72994,0.05035
+"Arginine and proline metabolism",38,0.56387,2,0.10726,0.96955,1,0.72994,0.01407
+"Valine, leucine and isoleucine biosynthesis",8,0.11871,1,0.11297,0.94705,1,0.72994,0
+"Tryptophan metabolism",41,0.60839,2,0.12184,0.91421,1,0.73104,0.23722
+"Arginine biosynthesis",14,0.20774,1,0.18957,0.72223,1,1,0
+"Histidine metabolism",16,0.23742,1,0.21367,0.67027,1,1,0
+"Glycerolipid metabolism",16,0.23742,1,0.21367,0.67027,1,1,0.09346
+"Pantothenate and CoA biosynthesis",19,0.28194,1,0.24853,0.60462,1,1,0
+"Ether lipid metabolism",20,0.29677,1,0.25982,0.58533,1,1,0
+"Citrate cycle (TCA cycle)",20,0.29677,1,0.25982,0.58533,1,1,0.04634
+"beta-Alanine metabolism",21,0.31161,1,0.27095,0.56712,1,1,0
+"Sphingolipid metabolism",21,0.31161,1,0.27095,0.56712,1,1,0
+"Pentose phosphate pathway",22,0.32645,1,0.28191,0.54989,1,1,0
+"Propanoate metabolism",23,0.34129,1,0.29272,0.53355,1,1,0
+"Tyrosine metabolism",42,0.62323,1,0.47081,0.32715,1,1,0
+"Purine metabolism",65,0.96452,1,0.62937,0.2011,1,1,0.01651

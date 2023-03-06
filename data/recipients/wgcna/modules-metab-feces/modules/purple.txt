@@ -1,0 +1,25 @@
+5-hydroxyindoleacetate
+valerate (5:0)
+gamma-glutamylhistidine
+N-acetylglutamate
+threonylphenylalanine
+hexadecanedioate (C16-DC)
+deoxycarnitine
+alpha-hydroxycaproate
+3,4-dihydroxybutyrate
+alanylleucine
+ergothioneine
+glutaminylleucine
+leucylalanine
+leucylglutamine*
+leucylglycine
+lysylleucine
+valylleucine
+histidylalanine
+phenylalanylglycine
+phenylalanylalanine
+tyrosylglycine
+tryptophylglycine
+O-sulfo-tyrosine
+3-dehydrodeoxycholate
+N-carbamoylputrescine

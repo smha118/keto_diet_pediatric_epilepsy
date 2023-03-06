@@ -1,0 +1,43 @@
+histamine
+4-acetamidophenol
+3-(N-acetyl-cystein-S-yl) acetaminophen
+4-acetaminophen sulfate
+benzoate
+hippurate
+4-acetamidophenylglucuronide
+allo-threonine
+3-indoxyl sulfate
+maleate
+triethanolamine
+7-ketodeoxycholate
+3-hydroxylaurate
+genistein
+N-acetyltryptophan
+gamma-glutamyl-epsilon-lysine
+gamma-glutamylglycine
+phenol sulfate
+N-acetylcitrulline
+2-hydroxyacetaminophen sulfate*
+pregnenediol disulfate (C21H34O8S2)*
+2,4-dihydroxybutyrate
+lansoprazole
+soyasaponin I
+N-delta-acetylornithine
+octadecenedioylcarnitine (C18:1-DC)*
+octadecanedioylcarnitine (C18-DC)*
+4-methoxyphenol sulfate
+citraconate/glutaconate
+behenoylcarnitine (C22)*
+lignoceroylcarnitine (C24)*
+THC carboxylic acid
+3-hydroxyoleoylcarnitine
+delta-CEHC sulfate
+cholic acid glucuronide
+eicosenamide (20:1)*
+tetrahydrocortisol sulfate (1)
+tetrahydrocortisol sulfate (2)
+tetrahydrocortisol disulfate
+clarithromycin
+pregnenetriol sulfate*
+pregnenetriol disulfate*
+menthol glucuronide

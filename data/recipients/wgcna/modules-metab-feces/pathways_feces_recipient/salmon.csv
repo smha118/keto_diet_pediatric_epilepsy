@@ -1,0 +1,6 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Caffeine metabolism",12,0.039841,1,0.039262,1.406,1,1,0.30769
+"Sphingolipid metabolism",21,0.069721,1,0.067891,1.1682,1,1,0.26978
+"Lysine degradation",25,0.083001,1,0.080394,1.0948,1,1,0
+"Glycine, serine and threonine metabolism",34,0.11288,1,0.10804,0.96643,1,1,0.06742
+"Glycerophospholipid metabolism",36,0.11952,1,0.11409,0.94276,1,1,0.01736

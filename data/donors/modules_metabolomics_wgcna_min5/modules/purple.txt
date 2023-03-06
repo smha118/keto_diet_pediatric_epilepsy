@@ -1,0 +1,38 @@
+2-hydroxyphenylacetate
+biotin
+lanosterol
+2-hydroxystearate
+glycerol
+azelate (C9-DC)
+suberate (C8-DC)
+pimelate (C7-DC)
+p-cresol
+dehydrolithocholate
+6-oxolithocholate
+dodecanedioate (C12-DC)
+2-hydroxymyristate
+sebacate (C10-DC)
+skatol
+isovalerylglycine
+7-methylguanine
+isobutyrylglycine
+undecanedioate (C11-DC)
+3-methyladipate
+sucralose
+N-methylalanine
+sitostanol
+androstenediol (3alpha, 17alpha) monosulfate (2)
+4-cholesten-3-one
+2,3-dihydroxyisovalerate
+urobilin
+glycyrrhetinate
+indolin-2-one
+1-methyl-beta-carboline-3-carboxylic acid
+2,4-dihydroxyhydrocinnamate
+coprostanol
+3-methylglutarate/2-methylglutarate
+2-hydroxynervonate*
+arachidoyl ethanolamide (20:0)*
+behenoyl ethanolamide (22:0)*
+lignoceroyl ethanolamide (24:0)*
+dodecenedioate (C12:1-DC)*

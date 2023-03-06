@@ -1,0 +1,12 @@
+uridine
+asparagine
+2'-deoxycytidine
+argininate*
+glutaminylleucine
+leucylglutamine*
+valylleucine
+histidylalanine
+phenylalanylalanine
+tyrosylglycine
+valylglutamine
+acetylagmatine

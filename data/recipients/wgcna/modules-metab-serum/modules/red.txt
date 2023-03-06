@@ -1,0 +1,39 @@
+aspartate
+pelargonate (9:0)
+adenine
+caprate (10:0)
+undecanoate (11:0)
+heptanoate (7:0)
+caproate (6:0)
+valerate (5:0)
+butyrate/isobutyrate (4:0)
+azelate (C9-DC)
+benzoate
+3-phenylpropionate (hydrocinnamate)
+suberate (C8-DC)
+pimelate (C7-DC)
+adipate (C6-DC)
+8-hydroxyoctanoate
+dodecanedioate (C12-DC)
+sebacate (C10-DC)
+tetradecanedioate (C14-DC)
+undecanedioate (C11-DC)
+glycerophosphoinositol*
+3-(2-hydroxyphenyl)propionate
+alpha-hydroxycaproate
+2-hydroxyglutarate
+N-stearoyltaurine
+tridecanedioate (C13-DC)
+perfluorooctanesulfonate (PFOS)
+dodecenedioate (C12:1-DC)*
+hexadecenedioate (C16:1-DC)*
+3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)**
+hydroxy-undecanedioate (OH-C11:0-DC)*
+decadienedioic acid (C10:2-DC)**
+neopentyl glycol sebacate**
+neopentyl glycol glutarate**
+propylene glutarate (1)**
+propylene glutarate (2)**
+propylene suberate (1)**
+propylene suberate (2)**
+perfluorohexanesulfonate (PFHxS)

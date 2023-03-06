@@ -1,0 +1,4 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Glycolysis / Gluconeogenesis",26,0.051793,1,0.050937,1.293,1,1,0.00021
+"Fatty acid degradation",39,0.077689,1,0.075744,1.1207,1,1,0
+"Steroid biosynthesis",42,0.083665,1,0.081406,1.0893,1,1,0

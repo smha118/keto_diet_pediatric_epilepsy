@@ -1,0 +1,6 @@
+guanine
+2'-deoxyguanosine
+2'-deoxyuridine
+thymidine
+2'-deoxyinosine
+indole-3-carboxylate
