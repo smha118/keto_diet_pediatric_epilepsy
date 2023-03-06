@@ -1,4 +1,5 @@
-# keto_diet_pediatric_epilepsy
+# Multiomics data analysis and code for ketogenic diet therapy for pediatric epilepsy 
+
 
 This github page contains source code used for multiomics data analysis in <br>
 "Ketogenic diet therapy for pediatric epilepsy 
