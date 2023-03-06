@@ -22,7 +22,7 @@ After 4.modify_mergeomics_results, the results files were loaded onto the Cytosc
 
 
 ```mermaid
-flowchart multiomics;
+flowchart TD;
 	A[WGNCA] --> C[1.mmvec]
 	B[WGCNA] --> C[1.mmvec]
 	C-->D{RNA-seq data?}
