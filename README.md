@@ -13,7 +13,16 @@ The results of wKDA were then used to modify the node description in 4.modify_me
 After 4.modify_mergeomics_results, the results files were loaded onto the Cytoscape for further visualization.
 
 ```mermaid
-flowchart multiomics
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
+
+```mermaid
+flowchart multiomics;
 	A[WGNCA] --> C[1.mmvec]
 	B[WGCNA] --> C[1.mmvec]
 	C-->D{RNA-seq data?}
