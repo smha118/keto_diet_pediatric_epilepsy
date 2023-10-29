@@ -1,0 +1,106 @@
+3-phosphoglycerate
+hypoxanthine
+N6,N6,N6-trimethyllysine
+S-adenosylhomocysteine (SAH)
+adenosine 5'-monophosphate (AMP)
+5-methylthioadenosine (MTA)
+arachidonate (20:4n6)
+corticosterone
+sphingosine
+sphinganine
+flavin adenine dinucleotide (FAD)
+inosine
+nicotinamide
+phosphate
+serotonin
+adenosine
+cysteine
+xanthine
+glycerate
+acetylphosphate
+glycerol
+nicotinamide ribonucleotide (NMN)
+1-palmitoyl-2-oleoyl-GPE (16:0/18:1)
+stearoyl sphingomyelin (d18:1/18:0)
+N-stearoyl-sphingosine (d18:1/18:0)*
+xanthosine
+glycylvaline
+1,2-dipalmitoyl-GPC (16:0/16:0)
+palmitoylcarnitine (C16)
+threonate
+myristoleate (14:1n5)
+octanoylcarnitine (C8)
+myristoylcarnitine (C14)
+nicotinamide riboside
+stearoylcarnitine (C18)
+orotidine
+taurocyamine
+oleoylcarnitine (C18:1)
+malonylcarnitine
+sedoheptulose-7-phosphate
+N6-succinyladenosine
+N6-carboxymethyllysine
+methylphosphate
+1-stearoyl-2-oleoyl-GPE (18:0/18:1)
+1-stearoyl-2-arachidonoyl-GPS (18:0/20:4)
+succinylcarnitine (C4-DC)
+sphingomyelin (d18:1/18:1, d18:2/18:0)
+palmitoyl sphingomyelin (d18:1/16:0)
+cysteine sulfinic acid
+4-cholesten-3-one
+cis-4-decenoylcarnitine (C10:1)
+linoleoylcarnitine (C18:2)*
+mannonate*
+retinal
+dimethylmalonic acid
+1-arachidonoyl-GPA (20:4)
+1-linoleoyl-GPS (18:2)*
+sphingomyelin (d18:1/24:1, d18:2/24:0)*
+sphingomyelin (d18:1/20:2, d18:2/20:1, d16:1/22:2)*
+sphingomyelin (d17:1/16:0, d18:1/15:0, d16:1/17:0)*
+3-hydroxyhexanoate
+suberoylcarnitine (C8-DC)
+1-(1-enyl-stearoyl)-2-oleoyl-GPE (P-18:0/18:1)
+sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)
+1-palmitoyl-2-stearoyl-GPC (16:0/18:0)
+sphingomyelin (d18:2/24:1, d18:1/24:2)*
+1-stearoyl-2-arachidonoyl-GPE (18:0/20:4)
+1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)*
+1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)*
+1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE (P-16:0/20:4)*
+1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)*
+behenoyl dihydrosphingomyelin (d18:0/22:0)*
+sphingomyelin (d18:0/18:0, d19:0/17:0)*
+1-oleoyl-2-linoleoyl-GPE (18:1/18:2)*
+1-linoleoyl-GPA (18:2)*
+1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*
+1,2-dipalmitoyl-GPE (16:0/16:0)*
+1,2-dilinoleoyl-GPE (18:2/18:2)*
+1-oleoyl-2-arachidonoyl-GPE (18:1/20:4)*
+1-oleoyl-2-docosahexaenoyl-GPE (18:1/22:6)*
+1-linoleoyl-2-arachidonoyl-GPE (18:2/20:4)*
+1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)*
+thioproline
+palmitoleoylcarnitine (C16:1)*
+trans-3,4-methyleneheptanoylglycine
+sphingomyelin (d18:0/20:0, d16:0/22:0)*
+sphingomyelin (d18:1/19:0, d19:1/18:0)*
+sphingomyelin (d18:2/18:1)*
+sphingomyelin (d18:2/24:2)*
+linolenoylcarnitine (C18:3)*
+arachidonoylcarnitine (C20:4)
+dihomo-linolenoylcarnitine (C20:3n3 or 6)*
+5-dodecenoylcarnitine (C12:1)
+3-hydroxypalmitoylcarnitine
+glucuronide of C10H18O2 (11)*
+glucuronide of C10H18O2 (12)*
+glycine conjugate of C10H14O2 (1)*
+sphingomyelin (d17:1/14:0, d16:1/15:0)*
+hydroxy-N6,N6,N6-trimethyllysine*
+3-hydroxydecanoylcarnitine
+branched-chain, straight-chain, or cyclopropyl 12:1 fatty acid*
+cis-3,4-methyleneheptanoylcarnitine
+3-hydroxyoctanoylcarnitine (1)
+3-hydroxyoctanoylcarnitine (2)
+cis-3,4-methyleneheptanoylglycine
+N,N-dimethyl-pro-pro

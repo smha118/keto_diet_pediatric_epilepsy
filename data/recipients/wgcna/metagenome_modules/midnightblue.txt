@@ -1,0 +1,150 @@
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Enterococcus.s__Enterococcus_gallinarum
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Proteus.s__Proteus_penneri
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Robinsoniella.s__Robinsoniella_sp_RHS
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Enterococcus.s__Enterococcus_gallinarum
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Erysipelatoclostridium.s__Clostridium_cocleatum
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Enterococcus.s__Enterococcus_gallinarum
+COA-PWY: coenzyme A biosynthesis I|g__Proteus.s__Proteus_penneri
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Enterococcus.s__Enterococcus_gallinarum
+FAO-PWY: fatty acid &beta;-oxidation I|g__Klebsiella.s__Klebsiella_variicola
+FUCCAT-PWY: fucose degradation|g__Klebsiella.s__Klebsiella_pneumoniae
+GALACTARDEG-PWY: D-galactarate degradation I|g__Klebsiella.s__Klebsiella_pneumoniae
+GLUCARDEG-PWY: D-glucarate degradation I|g__Klebsiella.s__Klebsiella_pneumoniae
+GLUCARGALACTSUPER-PWY: superpathway of D-glucarate and D-galactarate degradation|g__Klebsiella.s__Klebsiella_pneumoniae
+GLUTORN-PWY: L-ornithine biosynthesis|g__Enterococcus.s__Enterococcus_gallinarum
+GLYCOCAT-PWY: glycogen degradation I (bacterial)|unclassified
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Proteus.s__Proteus_penneri
+GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol|g__Enterococcus.s__Enterococcus_gallinarum
+HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)|g__Klebsiella.s__Klebsiella_pneumoniae
+HEMESYN2-PWY: heme biosynthesis II (anaerobic)|g__Klebsiella.s__Klebsiella_pneumoniae
+HISDEG-PWY: L-histidine degradation I|g__Enterococcus.s__Enterococcus_gallinarum
+HISTSYN-PWY: L-histidine biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Klebsiella.s__Klebsiella_variicola
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Klebsiella.s__Klebsiella_variicola_CAG_634
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Enterococcus.s__Enterococcus_gallinarum
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Erysipelatoclostridium.s__Clostridium_cocleatum
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Klebsiella.s__Klebsiella_pneumoniae
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+NAD-BIOSYNTHESIS-II: NAD salvage pathway II|g__Klebsiella.s__Klebsiella_pneumoniae
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Enterococcus.s__Enterococcus_gallinarum
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Klebsiella.s__Klebsiella_variicola_CAG_634
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|g__Enterococcus.s__Enterococcus_gallinarum
+P161-PWY: acetylene degradation|g__Enterococcus.s__Enterococcus_gallinarum
+P161-PWY: acetylene degradation|g__Robinsoniella.s__Robinsoniella_sp_RHS
+P164-PWY: purine nucleobases degradation I (anaerobic)|g__Enterococcus.s__Enterococcus_gallinarum
+P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)|g__Hungatella.s__Hungatella_hathewayi
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Klebsiella.s__Klebsiella_pneumoniae
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-1042: glycolysis IV (plant cytosol)|g__Erysipelatoclostridium.s__Clostridium_cocleatum
+PWY-1042: glycolysis IV (plant cytosol)|g__Klebsiella.s__Klebsiella_variicola
+PWY-1042: glycolysis IV (plant cytosol)|g__Robinsoniella.s__Robinsoniella_sp_RHS
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-2941: L-lysine biosynthesis II|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-2942: L-lysine biosynthesis III|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Erysipelatoclostridium.s__Clostridium_cocleatum
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-4041: &gamma;-glutamyl cycle|g__Proteus.s__Proteus_penneri
+PWY-4321: L-glutamate degradation IV
+PWY-4321: L-glutamate degradation IV|unclassified
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-5030: L-histidine degradation III|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-5097: L-lysine biosynthesis VI|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Robinsoniella.s__Robinsoniella_sp_RHS
+PWY-5103: L-isoleucine biosynthesis III|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-5103: L-isoleucine biosynthesis III|g__Erysipelatoclostridium.s__Clostridium_cocleatum
+PWY-5103: L-isoleucine biosynthesis III|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation|g__Klebsiella.s__Klebsiella_variicola
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation|g__Proteus.s__Proteus_mirabilis
+PWY-5173: superpathway of acetyl-CoA biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-5686: UMP biosynthesis|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Proteus.s__Proteus_penneri
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Proteus.s__Proteus_penneri
+PWY-621: sucrose degradation III (sucrose invertase)|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-6305: putrescine biosynthesis IV|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-6305: putrescine biosynthesis IV|g__Proteus.s__Proteus_penneri
+PWY-6317: galactose degradation I (Leloir pathway)|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-6471: peptidoglycan biosynthesis IV (Enterococcus faecium)|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-6527: stachyose degradation|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-6609: adenine and adenosine salvage III|g__Erysipelatoclostridium.s__Clostridium_cocleatum
+PWY-6609: adenine and adenosine salvage III|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-6609: adenine and adenosine salvage III|g__Proteus.s__Proteus_penneri
+PWY-6700: queuosine biosynthesis|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-6700: queuosine biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-6731: starch degradation III|unclassified
+PWY-6803: phosphatidylcholine acyl editing|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-6837: fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)|g__Klebsiella.s__Klebsiella_variicola
+PWY-6891: thiazole biosynthesis II (Bacillus)|unclassified
+PWY-6897: thiamin salvage II|g__Hungatella.s__Hungatella_hathewayi
+PWY-6936: seleno-amino acid biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-7013: L-1,2-propanediol degradation|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-7094: fatty acid salvage|g__Escherichia.s__Escherichia_coli
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Erysipelatoclostridium.s__Clostridium_cocleatum
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Klebsiella.s__Klebsiella_variicola
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Klebsiella.s__Klebsiella_variicola_CAG_634
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Proteus.s__Proteus_penneri
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Robinsoniella.s__Robinsoniella_sp_RHS
+PWY-7115: C4 photosynthetic carbon assimilation cycle, NAD-ME type|unclassified
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Klebsiella.s__Klebsiella_variicola_CAG_634
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Robinsoniella.s__Robinsoniella_sp_RHS
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Erysipelatoclostridium.s__Clostridium_cocleatum
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Erysipelatoclostridium.s__Clostridium_cocleatum
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-7294: xylose degradation IV
+PWY-7315: dTDP-N-acetylthomosamine biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-7328: superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis|g__Escherichia.s__Escherichia_coli
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|g__Klebsiella.s__Klebsiella_variicola
+PWY0-1296: purine ribonucleosides degradation|g__Enterococcus.s__Enterococcus_gallinarum
+PWY0-1296: purine ribonucleosides degradation|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY0-1296: purine ribonucleosides degradation|g__Proteus.s__Proteus_penneri
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Enterococcus.s__Enterococcus_gallinarum
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Enterococcus.s__Enterococcus_gallinarum
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Enterococcus.s__Enterococcus_gallinarum
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Klebsiella.s__Klebsiella_variicola_CAG_634
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Proteus.s__Proteus_penneri
+PWY3O-355: stearate biosynthesis III (fungi)|unclassified
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Enterococcus.s__Enterococcus_gallinarum
+RHAMCAT-PWY: L-rhamnose degradation I|g__Klebsiella.s__Klebsiella_pneumoniae
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Hungatella.s__Hungatella_hathewayi
+SO4ASSIM-PWY: sulfate reduction I (assimilatory)|g__Proteus.s__Proteus_mirabilis
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Enterococcus.s__Enterococcus_gallinarum
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Erysipelatoclostridium.s__Clostridium_cocleatum
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Proteus.s__Proteus_penneri
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Enterococcus.s__Enterococcus_gallinarum
+VALSYN-PWY: L-valine biosynthesis|g__Enterococcus.s__Enterococcus_gallinarum
+VALSYN-PWY: L-valine biosynthesis|g__Erysipelatoclostridium.s__Clostridium_cocleatum
+VALSYN-PWY: L-valine biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+VALSYN-PWY: L-valine biosynthesis|g__Klebsiella.s__Klebsiella_variicola
+VALSYN-PWY: L-valine biosynthesis|g__Klebsiella.s__Klebsiella_variicola_CAG_634
+VALSYN-PWY: L-valine biosynthesis|g__Proteus.s__Proteus_penneri
+VALSYN-PWY: L-valine biosynthesis|g__Robinsoniella.s__Robinsoniella_sp_RHS

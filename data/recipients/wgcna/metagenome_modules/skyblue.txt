@@ -1,0 +1,47 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Blautia.s__Ruminococcus_gnavus
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Blautia.s__Ruminococcus_gnavus
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Blautia.s__Ruminococcus_gnavus
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Blautia.s__Ruminococcus_gnavus
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Blautia.s__Ruminococcus_gnavus
+COA-PWY: coenzyme A biosynthesis I|g__Blautia.s__Ruminococcus_gnavus
+COBALSYN-PWY: adenosylcobalamin salvage from cobinamide I|g__Blautia.s__Ruminococcus_gnavus
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Blautia.s__Ruminococcus_gnavus
+HISTSYN-PWY: L-histidine biosynthesis|g__Blautia.s__Ruminococcus_gnavus
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Blautia.s__Ruminococcus_gnavus
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Blautia.s__Ruminococcus_gnavus
+P161-PWY: acetylene degradation|g__Blautia.s__Ruminococcus_gnavus
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Blautia.s__Ruminococcus_gnavus
+PWY-1042: glycolysis IV (plant cytosol)|g__Blautia.s__Ruminococcus_gnavus
+PWY-2942: L-lysine biosynthesis III|g__Blautia.s__Ruminococcus_gnavus
+PWY-3841: folate transformations II|g__Blautia.s__Ruminococcus_gnavus
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Blautia.s__Ruminococcus_gnavus
+PWY-5097: L-lysine biosynthesis VI|g__Blautia.s__Ruminococcus_gnavus
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Blautia.s__Ruminococcus_gnavus
+PWY-5101: L-isoleucine biosynthesis II|g__Blautia.s__Ruminococcus_gnavus
+PWY-5103: L-isoleucine biosynthesis III|g__Blautia.s__Ruminococcus_gnavus
+PWY-5464: superpathway of cytosolic glycolysis (plants), pyruvate dehydrogenase and TCA cycle
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Blautia.s__Ruminococcus_gnavus
+PWY-5686: UMP biosynthesis|g__Blautia.s__Ruminococcus_gnavus
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Blautia.s__Ruminococcus_gnavus
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Blautia.s__Ruminococcus_gnavus
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Blautia.s__Ruminococcus_gnavus
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Blautia.s__Ruminococcus_gnavus
+PWY-6317: galactose degradation I (Leloir pathway)|g__Blautia.s__Ruminococcus_gnavus
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Blautia.s__Ruminococcus_gnavus
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Blautia.s__Ruminococcus_gnavus
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Blautia.s__Ruminococcus_gnavus
+PWY-6527: stachyose degradation|g__Blautia.s__Ruminococcus_gnavus
+PWY-6609: adenine and adenosine salvage III|g__Blautia.s__Ruminococcus_gnavus
+PWY-6700: queuosine biosynthesis|g__Blautia.s__Ruminococcus_gnavus
+PWY-6737: starch degradation V|g__Blautia.s__Ruminococcus_gnavus
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Blautia.s__Ruminococcus_gnavus
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Blautia.s__Ruminococcus_gnavus
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Blautia.s__Ruminococcus_gnavus
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Blautia.s__Ruminococcus_gnavus
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Blautia.s__Ruminococcus_gnavus
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Blautia.s__Ruminococcus_gnavus
+PWY0-1296: purine ribonucleosides degradation|g__Blautia.s__Ruminococcus_gnavus
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Blautia.s__Ruminococcus_gnavus
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Blautia.s__Ruminococcus_gnavus
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Blautia.s__Ruminococcus_gnavus
+VALSYN-PWY: L-valine biosynthesis|g__Blautia.s__Ruminococcus_gnavus

@@ -1,0 +1,331 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Clostridium.s__Clostridium_paraputrificum
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+3-HYDROXYPHENYLACETATE-DEGRADATION-PWY: 4-hydroxyphenylacetate degradation|unclassified
+ANAEROFRUCAT-PWY: homolactic fermentation|g__Citrobacter.s__Citrobacter_amalonaticus
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Citrobacter.s__Citrobacter_amalonaticus
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Clostridium.s__Clostridium_paraputrificum
+ARG+POLYAMINE-SYN: superpathway of arginine and polyamine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Citrobacter.s__Citrobacter_amalonaticus
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Clostridium.s__Clostridium_paraputrificum
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Clostridium.s__Clostridium_paraputrificum
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Klebsiella.s__Klebsiella_oxytoca
+ARO-PWY: chorismate biosynthesis I|g__Clostridium.s__Clostridium_paraputrificum
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Clostridium.s__Clostridium_paraputrificum
+AST-PWY: L-arginine degradation II (AST pathway)|g__Acinetobacter.s__Acinetobacter_radioresistens
+AST-PWY: L-arginine degradation II (AST pathway)|g__Citrobacter.s__Citrobacter_amalonaticus
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Clostridium.s__Clostridium_paraputrificum
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Citrobacter.s__Citrobacter_amalonaticus
+CITRULBIO-PWY: L-citrulline biosynthesis|g__Clostridium.s__Clostridium_paraputrificum
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Acinetobacter.s__Acinetobacter_radioresistens
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Citrobacter.s__Citrobacter_amalonaticus
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Clostridium.s__Clostridium_paraputrificum
+COA-PWY: coenzyme A biosynthesis I|g__Acinetobacter.s__Acinetobacter_radioresistens
+COA-PWY: coenzyme A biosynthesis I|g__Clostridium.s__Clostridium_paraputrificum
+COBALSYN-PWY: adenosylcobalamin salvage from cobinamide I|g__Citrobacter.s__Citrobacter_amalonaticus
+COLANSYN-PWY: colanic acid building blocks biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Clostridium.s__Clostridium_paraputrificum
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+DENOVOPURINE2-PWY: superpathway of purine nucleotides de novo biosynthesis II|g__Citrobacter.s__Citrobacter_amalonaticus
+DENOVOPURINE2-PWY: superpathway of purine nucleotides de novo biosynthesis II|g__Klebsiella.s__Klebsiella_oxytoca
+ECASYN-PWY: enterobacterial common antigen biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+ENTBACSYN-PWY: enterobactin biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+FAO-PWY: fatty acid &beta;-oxidation I|g__Acinetobacter.s__Acinetobacter_radioresistens
+FAO-PWY: fatty acid &beta;-oxidation I|g__Citrobacter.s__Citrobacter_amalonaticus
+FAO-PWY: fatty acid &beta;-oxidation I|unclassified
+FERMENTATION-PWY: mixed acid fermentation|g__Citrobacter.s__Citrobacter_amalonaticus
+FUC-RHAMCAT-PWY: superpathway of fucose and rhamnose degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+FUCCAT-PWY: fucose degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+FUCCAT-PWY: fucose degradation|g__Clostridium.s__Clostridium_paraputrificum
+GALACT-GLUCUROCAT-PWY: superpathway of hexuronide and hexuronate degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+GALACTARDEG-PWY: D-galactarate degradation I|g__Citrobacter.s__Citrobacter_amalonaticus
+GALACTUROCAT-PWY: D-galacturonate degradation I|g__Citrobacter.s__Citrobacter_amalonaticus
+GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+GLUCARDEG-PWY: D-glucarate degradation I|g__Citrobacter.s__Citrobacter_amalonaticus
+GLUCARDEG-PWY: D-glucarate degradation I|unclassified
+GLUCARGALACTSUPER-PWY: superpathway of D-glucarate and D-galactarate degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+GLUCONEO-PWY: gluconeogenesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+GLUCUROCAT-PWY: superpathway of &beta;-D-glucuronide and D-glucuronate degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+GLUTORN-PWY: L-ornithine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+GLUTORN-PWY: L-ornithine biosynthesis|g__Clostridium.s__Clostridium_paraputrificum
+GLYCOCAT-PWY: glycogen degradation I (bacterial)|g__Citrobacter.s__Citrobacter_amalonaticus
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Citrobacter.s__Citrobacter_amalonaticus
+GLYCOL-GLYOXDEG-PWY: superpathway of glycol metabolism and degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+GLYCOLYSIS-E-D: superpathway of glycolysis and Entner-Doudoroff|g__Citrobacter.s__Citrobacter_amalonaticus
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Citrobacter.s__Citrobacter_amalonaticus
+GLYOXYLATE-BYPASS: glyoxylate cycle|g__Citrobacter.s__Citrobacter_amalonaticus
+HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)|g__Citrobacter.s__Citrobacter_amalonaticus
+HEMESYN2-PWY: heme biosynthesis II (anaerobic)|g__Citrobacter.s__Citrobacter_amalonaticus
+HEXITOLDEGSUPER-PWY: superpathway of hexitol degradation (bacteria)|g__Citrobacter.s__Citrobacter_amalonaticus
+HISDEG-PWY: L-histidine degradation I|g__Citrobacter.s__Citrobacter_amalonaticus
+HISDEG-PWY: L-histidine degradation I|unclassified
+HISTSYN-PWY: L-histidine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+HISTSYN-PWY: L-histidine biosynthesis|g__Clostridium.s__Clostridium_paraputrificum
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Lactococcus.s__Lactococcus_lactis
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Citrobacter.s__Citrobacter_amalonaticus
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Clostridium.s__Clostridium_paraputrificum
+KETOGLUCONMET-PWY: ketogluconate metabolism|g__Citrobacter.s__Citrobacter_amalonaticus
+LACTOSECAT-PWY: lactose and galactose degradation I|g__Clostridium.s__Clostridium_paraputrificum
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Lactococcus.s__Lactococcus_lactis
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Lactococcus.s__Lactococcus_lactis
+NAD-BIOSYNTHESIS-II: NAD salvage pathway II|g__Citrobacter.s__Citrobacter_amalonaticus
+NAGLIPASYN-PWY: lipid IVA biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Citrobacter.s__Citrobacter_amalonaticus
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Clostridium.s__Clostridium_paraputrificum
+P125-PWY: superpathway of (R,R)-butanediol biosynthesis|unclassified
+P161-PWY: acetylene degradation
+P161-PWY: acetylene degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+P161-PWY: acetylene degradation|g__Clostridium.s__Clostridium_paraputrificum
+P441-PWY: superpathway of N-acetylneuraminate degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Citrobacter.s__Citrobacter_amalonaticus
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Clostridium.s__Clostridium_paraputrificum
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Clostridium.s__Clostridium_paraputrificum
+PENTOSE-P-PWY: pentose phosphate pathway|g__Citrobacter.s__Citrobacter_amalonaticus
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Clostridium.s__Clostridium_paraputrificum
+PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)|g__Citrobacter.s__Citrobacter_amalonaticus
+POLYISOPRENSYN-PWY: polyisoprenoid biosynthesis (E. coli)|g__Citrobacter.s__Citrobacter_amalonaticus
+PPGPPMET-PWY: ppGpp biosynthesis|g__Acinetobacter.s__Acinetobacter_radioresistens
+PPGPPMET-PWY: ppGpp biosynthesis|unclassified
+PWY-1042: glycolysis IV (plant cytosol)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-1042: glycolysis IV (plant cytosol)|g__Clostridium.s__Clostridium_paraputrificum
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Acinetobacter.s__Acinetobacter_radioresistens
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-1861: formaldehyde assimilation II (RuMP Cycle)
+PWY-1861: formaldehyde assimilation II (RuMP Cycle)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-2723: trehalose degradation V|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-2941: L-lysine biosynthesis II|g__Clostridium.s__Clostridium_paraputrificum
+PWY-2942: L-lysine biosynthesis III|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-2942: L-lysine biosynthesis III|g__Clostridium.s__Clostridium_paraputrificum
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Clostridium.s__Clostridium_paraputrificum
+PWY-3801: sucrose degradation II (sucrose synthase)
+PWY-3841: folate transformations II|g__Clostridium.s__Clostridium_paraputrificum
+PWY-4041: &gamma;-glutamyl cycle|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-4041: &gamma;-glutamyl cycle|g__Clostridium.s__Clostridium_paraputrificum
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Clostridium.s__Clostridium_paraputrificum
+PWY-4984: urea cycle|g__Clostridium.s__Clostridium_paraputrificum
+PWY-5022: 4-aminobutanoate degradation V|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5097: L-lysine biosynthesis VI|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5097: L-lysine biosynthesis VI|g__Clostridium.s__Clostridium_paraputrificum
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Clostridium.s__Clostridium_paraputrificum
+PWY-5101: L-isoleucine biosynthesis II|unclassified
+PWY-5103: L-isoleucine biosynthesis III|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5103: L-isoleucine biosynthesis III|g__Clostridium.s__Clostridium_paraputrificum
+PWY-5104: L-isoleucine biosynthesis IV|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5136: fatty acid &beta;-oxidation II (peroxisome)|g__Acinetobacter.s__Acinetobacter_radioresistens
+PWY-5136: fatty acid &beta;-oxidation II (peroxisome)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation|g__Acinetobacter.s__Acinetobacter_radioresistens
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation|unclassified
+PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5173: superpathway of acetyl-CoA biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Clostridium.s__Clostridium_paraputrificum
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|g__Lactococcus.s__Lactococcus_lactis
+PWY-5367: petroselinate biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5367: petroselinate biosynthesis|unclassified
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|g__Enterococcus.s__Enterococcus_faecalis
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5659: GDP-mannose biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Clostridium.s__Clostridium_paraputrificum
+PWY-5675: nitrate reduction V (assimilatory)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5676: acetyl-CoA fermentation to butanoate II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5686: UMP biosynthesis|g__Clostridium.s__Clostridium_paraputrificum
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5723: Rubisco shunt|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5791: 1,4-dihydroxy-2-naphthoate biosynthesis II (plants)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5837: 1,4-dihydroxy-2-naphthoate biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5838: superpathway of menaquinol-8 biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5840: superpathway of menaquinol-7 biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5845: superpathway of menaquinol-9 biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5850: superpathway of menaquinol-6 biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5860: superpathway of demethylmenaquinol-6 biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5861: superpathway of demethylmenaquinol-8 biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5862: superpathway of demethylmenaquinol-9 biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5863: superpathway of phylloquinol biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5896: superpathway of menaquinol-10 biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5897: superpathway of menaquinol-11 biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5898: superpathway of menaquinol-12 biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5899: superpathway of menaquinol-13 biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5913: TCA cycle VI (obligate autotrophs)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5920: superpathway of heme biosynthesis from glycine|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5971: palmitate biosynthesis II (bacteria and plants)|unclassified
+PWY-6060: malonate degradation II (biotin-dependent)
+PWY-6060: malonate degradation II (biotin-dependent)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Clostridium.s__Clostridium_paraputrificum
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Clostridium.s__Clostridium_paraputrificum
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Clostridium.s__Clostridium_paraputrificum
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Clostridium.s__Clostridium_paraputrificum
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Clostridium.s__Clostridium_paraputrificum
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Clostridium.s__Clostridium_paraputrificum
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Clostridium.s__Clostridium_paraputrificum
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Clostridium.s__Clostridium_paraputrificum
+PWY-6168: flavin biosynthesis III (fungi)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-621: sucrose degradation III (sucrose invertase)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Clostridium.s__Clostridium_paraputrificum
+PWY-6284: superpathway of unsaturated fatty acids biosynthesis (E. coli)|unclassified
+PWY-6285: superpathway of fatty acids biosynthesis (E. coli)|unclassified
+PWY-6305: putrescine biosynthesis IV|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6317: galactose degradation I (Leloir pathway)|g__Clostridium.s__Clostridium_paraputrificum
+PWY-6318: L-phenylalanine degradation IV (mammalian, via side chain)|unclassified
+PWY-6353: purine nucleotides degradation II (aerobic)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Clostridium.s__Clostridium_paraputrificum
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Clostridium.s__Clostridium_paraputrificum
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Clostridium.s__Clostridium_paraputrificum
+PWY-6396: superpathway of 2,3-butanediol biosynthesis
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6527: stachyose degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6545: pyrimidine deoxyribonucleotides de novo biosynthesis III|unclassified
+PWY-6588: pyruvate fermentation to acetone|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6606: guanosine nucleotides degradation II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6608: guanosine nucleotides degradation III|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6609: adenine and adenosine salvage III|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6609: adenine and adenosine salvage III|g__Clostridium.s__Clostridium_paraputrificum
+PWY-6700: queuosine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6703: preQ0 biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6737: starch degradation V|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6737: starch degradation V|g__Clostridium.s__Clostridium_paraputrificum
+PWY-6803: phosphatidylcholine acyl editing|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6823: molybdenum cofactor biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6837: fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)|g__Acinetobacter.s__Acinetobacter_radioresistens
+PWY-6837: fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6837: fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)|unclassified
+PWY-6891: thiazole biosynthesis II (Bacillus)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6892: thiazole biosynthesis I (E. coli)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6892: thiazole biosynthesis I (E. coli)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6895: superpathway of thiamin diphosphate biosynthesis II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6897: thiamin salvage II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6897: thiamin salvage II|g__Clostridium.s__Clostridium_paraputrificum
+PWY-6901: superpathway of glucose and xylose degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6936: seleno-amino acid biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7013: L-1,2-propanediol degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7013: L-1,2-propanediol degradation|unclassified
+PWY-7094: fatty acid salvage|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Acinetobacter.s__Acinetobacter_radioresistens
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Clostridium.s__Clostridium_paraputrificum
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Enterococcus.s__Enterococcus_faecium
+PWY-7115: C4 photosynthetic carbon assimilation cycle, NAD-ME type|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7117: C4 photosynthetic carbon assimilation cycle, PEPCK type|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7118: chitin degradation to ethanol
+PWY-7118: chitin degradation to ethanol|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I|g__Clostridium.s__Clostridium_paraputrificum
+PWY-7187: pyrimidine deoxyribonucleotides de novo biosynthesis II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7187: pyrimidine deoxyribonucleotides de novo biosynthesis II|g__Clostridium.s__Clostridium_paraputrificum
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Clostridium.s__Clostridium_paraputrificum
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Clostridium.s__Clostridium_paraputrificum
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Clostridium.s__Clostridium_paraputrificum
+PWY-7208: superpathway of pyrimidine nucleobases salvage|unclassified
+PWY-7210: pyrimidine deoxyribonucleotides biosynthesis from CTP|unclassified
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Clostridium.s__Clostridium_paraputrificum
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Acinetobacter.s__Acinetobacter_radioresistens
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Clostridium.s__Clostridium_paraputrificum
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Acinetobacter.s__Acinetobacter_radioresistens
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Clostridium.s__Clostridium_paraputrificum
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Acinetobacter.s__Acinetobacter_radioresistens
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Clostridium.s__Clostridium_paraputrificum
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Acinetobacter.s__Acinetobacter_radioresistens
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Clostridium.s__Clostridium_paraputrificum
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Clostridium.s__Clostridium_paraputrificum
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7237: myo-, chiro- and scillo-inositol degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7242: D-fructuronate degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Clostridium.s__Clostridium_paraputrificum
+PWY-7279: aerobic respiration II (cytochrome c) (yeast)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7315: dTDP-N-acetylthomosamine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7345: superpathway of anaerobic sucrose degradation
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Clostridium.s__Clostridium_paraputrificum
+PWY-7377: cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion)
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Clostridium.s__Clostridium_paraputrificum
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7409: phospholipid remodeling (phosphatidylethanolamine, yeast)
+PWY-7409: phospholipid remodeling (phosphatidylethanolamine, yeast)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Acinetobacter.s__Acinetobacter_radioresistens
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY0-1261: anhydromuropeptides recycling|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY0-1296: purine ribonucleosides degradation|g__Clostridium.s__Clostridium_paraputrificum
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Clostridium.s__Clostridium_paraputrificum
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Clostridium.s__Clostridium_paraputrificum
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Clostridium.s__Clostridium_paraputrificum
+PWY0-1338: polymyxin resistance|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY0-1338: polymyxin resistance|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-1415: superpathway of heme biosynthesis from uroporphyrinogen-III|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY0-1415: superpathway of heme biosynthesis from uroporphyrinogen-III|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-1479: tRNA processing|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY0-1479: tRNA processing|g__Clostridium.s__Clostridium_paraputrificum
+PWY0-1533: methylphosphonate degradation I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|unclassified
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)|g__Clostridium.s__Clostridium_paraputrificum
+PWY0-862: (5Z)-dodec-5-enoate biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY1F-823: leucopelargonidin and leucocyanidin biosynthesis
+PWY1F-823: leucopelargonidin and leucocyanidin biosynthesis|g__Lactococcus.s__Lactococcus_lactis
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY4LZ-257: superpathway of fermentation (Chlamydomonas reinhardtii)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY66-400: glycolysis VI (metazoan)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY66-400: glycolysis VI (metazoan)|g__Clostridium.s__Clostridium_paraputrificum
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Clostridium.s__Clostridium_paraputrificum
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+RHAMCAT-PWY: L-rhamnose degradation I|g__Citrobacter.s__Citrobacter_amalonaticus
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Citrobacter.s__Citrobacter_amalonaticus
+SALVADEHYPOX-PWY: adenosine nucleotides degradation II|g__Citrobacter.s__Citrobacter_amalonaticus
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Acinetobacter.s__Acinetobacter_radioresistens
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+SO4ASSIM-PWY: sulfate reduction I (assimilatory)|g__Citrobacter.s__Citrobacter_amalonaticus
+SULFATE-CYS-PWY: superpathway of sulfate assimilation and cysteine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+THISYN-PWY: superpathway of thiamin diphosphate biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+THISYN-PWY: superpathway of thiamin diphosphate biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Citrobacter.s__Citrobacter_amalonaticus
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Clostridium.s__Clostridium_paraputrificum
+TRNA-CHARGING-PWY: tRNA charging|g__Citrobacter.s__Citrobacter_amalonaticus
+TRNA-CHARGING-PWY: tRNA charging|g__Clostridium.s__Clostridium_paraputrificum
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Clostridium.s__Clostridium_paraputrificum
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Clostridium.s__Clostridium_paraputrificum
+VALSYN-PWY: L-valine biosynthesis|g__Acinetobacter.s__Acinetobacter_radioresistens
+VALSYN-PWY: L-valine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+VALSYN-PWY: L-valine biosynthesis|g__Clostridium.s__Clostridium_paraputrificum

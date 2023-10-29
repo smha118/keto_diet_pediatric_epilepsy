@@ -1,0 +1,4 @@
+NUMBER	MODULES	COLOR
+1	midnightblue_feces	#FF9F7F
+2	darkturquoise_feces	#ECFF7F
+3	DEG_feces	#A3FFB2

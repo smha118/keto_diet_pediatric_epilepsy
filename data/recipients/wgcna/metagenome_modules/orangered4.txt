@@ -1,0 +1,12 @@
+CATECHOL-ORTHO-CLEAVAGE-PWY: catechol degradation to &beta;-ketoadipate
+HEXITOLDEGSUPER-PWY: superpathway of hexitol degradation (bacteria)
+PWY-5417: catechol degradation III (ortho-cleavage pathway)
+PWY-5431: aromatic compounds degradation via &beta;-ketoadipate
+PWY-5723: Rubisco shunt
+PWY-5855: ubiquinol-7 biosynthesis (prokaryotic)
+PWY-5856: ubiquinol-9 biosynthesis (prokaryotic)
+PWY-5857: ubiquinol-10 biosynthesis (prokaryotic)
+PWY-6708: ubiquinol-8 biosynthesis (prokaryotic)
+PWY-6731: starch degradation III
+PWY0-1338: polymyxin resistance
+UBISYN-PWY: superpathway of ubiquinol-8 biosynthesis (prokaryotic)

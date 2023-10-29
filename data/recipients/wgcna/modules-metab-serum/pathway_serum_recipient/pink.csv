@@ -1,7 +1,0 @@
-"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
-"Glycerophospholipid metabolism",36,0.095618,2,0.0032358,2.49,0.27181,0.27181,0.11182
-"Linoleic acid metabolism",5,0.01328,1,0.013227,1.8785,1,0.55555,0
-"alpha-Linolenic acid metabolism",13,0.034529,1,0.034118,1.467,1,0.95529,0
-"Arachidonic acid metabolism",36,0.095618,1,0.092332,1.0346,1,1,0
-"Pyrimidine metabolism",39,0.10359,1,0.099726,1.0012,1,1,0.0068
-"Primary bile acid biosynthesis",46,0.12218,1,0.1168,0.93254,1,1,0

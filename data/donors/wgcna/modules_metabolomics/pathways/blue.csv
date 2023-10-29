@@ -1,0 +1,25 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Aminoacyl-tRNA biosynthesis",48,1.0529,8,4.5937e-06,5.3378,0.00038587,0.00038587,0
+"Vitamin B6 metabolism",9,0.19742,4,2.2556e-05,4.6467,0.0018722,0.00094736,0.64706
+"Primary bile acid biosynthesis",46,1.009,6,0.00035198,3.4535,0.028862,0.0084263,0.03298
+"Valine, leucine and isoleucine biosynthesis",8,0.17548,3,0.00050157,3.2997,0.040627,0.0084263,0
+"Taurine and hypotaurine metabolism",8,0.17548,3,0.00050157,3.2997,0.040627,0.0084263,0.71428
+"Phenylalanine metabolism",10,0.21935,3,0.0010428,2.9818,0.082382,0.014599,0.59524
+"Glycine, serine and threonine metabolism",33,0.72387,4,0.005037,2.2978,0.39288,0.060443,0.41518
+"Arginine and proline metabolism",38,0.83355,4,0.008406,2.0754,0.64726,0.088263,0.10126
+"Porphyrin and chlorophyll metabolism",30,0.65806,3,0.026135,1.5828,1,0.24393,0.12753
+"Nicotinate and nicotinamide metabolism",15,0.32903,2,0.041027,1.3869,1,0.34462,0.1943
+"Valine, leucine and isoleucine degradation",40,0.87742,3,0.054818,1.2611,1,0.41861,0
+"Phenylalanine, tyrosine and tryptophan biosynthesis",4,0.087742,1,0.084976,1.0707,1,0.59484,0.5
+"Alanine, aspartate and glutamate metabolism",28,0.61419,2,0.12389,0.90697,1,0.80051,0
+"Glyoxylate and dicarboxylate metabolism",32,0.70194,2,0.15411,0.81217,1,0.92467,0.13757
+"Tyrosine metabolism",42,0.92129,2,0.23444,0.62997,1,1,0.15435
+"Histidine metabolism",16,0.35097,1,0.29996,0.52293,1,1,0.22131
+"Pantothenate and CoA biosynthesis",19,0.41677,1,0.34552,0.46153,1,1,0
+"Selenocompound metabolism",20,0.43871,1,0.36005,0.44364,1,1,0
+"Citrate cycle (TCA cycle)",20,0.43871,1,0.36005,0.44364,1,1,0.09038
+"beta-Alanine metabolism",21,0.46065,1,0.37427,0.42681,1,1,0
+"Pentose phosphate pathway",22,0.48258,1,0.38819,0.41096,1,1,0.04712
+"Glutathione metabolism",28,0.61419,1,0.46558,0.33201,1,1,0.08873
+"Cysteine and methionine metabolism",33,0.72387,1,0.52273,0.28172,1,1,0.02184
+"Tryptophan metabolism",41,0.89935,1,0.60206,0.22036,1,1,0.0139

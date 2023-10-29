@@ -1,0 +1,19 @@
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|unclassified
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|unclassified
+FERMENTATION-PWY: mixed acid fermentation|unclassified
+GLUTORN-PWY: L-ornithine biosynthesis|unclassified
+GLYCOLYSIS-TCA-GLYOX-BYPASS: superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass|unclassified
+KETOGLUCONMET-PWY: ketogluconate metabolism|unclassified
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|unclassified
+PWY-2723: trehalose degradation V|unclassified
+PWY-2942: L-lysine biosynthesis III|unclassified
+PWY-5022: 4-aminobutanoate degradation V|unclassified
+PWY-6168: flavin biosynthesis III (fungi)|unclassified
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|unclassified
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|unclassified
+PWY-6527: stachyose degradation|unclassified
+PWY-6531: mannitol cycle|unclassified
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)|unclassified
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)|unclassified
+PWY66-422: D-galactose degradation V (Leloir pathway)|unclassified
+TRNA-CHARGING-PWY: tRNA charging|unclassified

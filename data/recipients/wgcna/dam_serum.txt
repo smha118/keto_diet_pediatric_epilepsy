@@ -1,0 +1,21 @@
+NODE
+flavin adenine dinucleotide (FAD)
+indoleacetate
+bilirubin (E,E)*
+docosapentaenoate (n3 DPA; 22:5n3)
+heneicosapentaenoate (21:5n3)
+indoleacetylglycine
+linoleoyl-docosahexaenoyl-glycerol (18:2/22:6) [1]*
+succinylcarnitine (C4-DC)
+1-stearoyl-GPG (18:0)
+12-HHTrE
+ophthalmate
+pantothenate
+docosahexaenoate (DHA; 22:6n3)
+sucrose
+perfluorohexanesulfonate (PFHxS)
+glucuronate
+eicosapentaenoate (EPA; 20:5n3)
+1-stearoyl-2-oleoyl-GPE (18:0/18:1)
+phosphoenolpyruvate (PEP)
+2,3-dihydroxy-2-methylbutyrate

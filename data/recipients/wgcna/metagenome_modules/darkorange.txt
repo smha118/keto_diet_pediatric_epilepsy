@@ -1,0 +1,51 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Lachnoclostridium.s__Clostridium_bolteae
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Lachnoclostridium.s__Clostridium_bolteae
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Lachnoclostridium.s__Clostridium_bolteae
+ARO-PWY: chorismate biosynthesis I|g__Lachnoclostridium.s__Clostridium_bolteae
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Lachnoclostridium.s__Clostridium_bolteae
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Lachnoclostridium.s__Clostridium_bolteae
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Lachnoclostridium.s__Clostridium_bolteae
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Lachnoclostridium.s__Clostridium_bolteae
+COA-PWY: coenzyme A biosynthesis I|g__Lachnoclostridium.s__Clostridium_bolteae
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Lachnoclostridium.s__Clostridium_bolteae
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Lachnoclostridium.s__Clostridium_bolteae
+GLUTORN-PWY: L-ornithine biosynthesis|g__Lachnoclostridium.s__Clostridium_bolteae
+HISTSYN-PWY: L-histidine biosynthesis|g__Lachnoclostridium.s__Clostridium_bolteae
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Lachnoclostridium.s__Clostridium_bolteae
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Lachnoclostridium.s__Clostridium_bolteae
+P161-PWY: acetylene degradation|g__Lachnoclostridium.s__Clostridium_bolteae
+P164-PWY: purine nucleobases degradation I (anaerobic)|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-1042: glycolysis IV (plant cytosol)|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-2942: L-lysine biosynthesis III|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-3841: folate transformations II|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-5097: L-lysine biosynthesis VI|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-5103: L-isoleucine biosynthesis III|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-5104: L-isoleucine biosynthesis IV|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline)|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-5686: UMP biosynthesis|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-621: sucrose degradation III (sucrose invertase)|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-6609: adenine and adenosine salvage III|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-6700: queuosine biosynthesis|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-6737: starch degradation V|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY0-1296: purine ribonucleosides degradation|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Lachnoclostridium.s__Clostridium_bolteae
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Lachnoclostridium.s__Clostridium_bolteae
+VALSYN-PWY: L-valine biosynthesis|g__Lachnoclostridium.s__Clostridium_bolteae

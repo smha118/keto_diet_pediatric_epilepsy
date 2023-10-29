@@ -1,0 +1,59 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|unclassified
+ANAEROFRUCAT-PWY: homolactic fermentation|unclassified
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|unclassified
+ARG+POLYAMINE-SYN: superpathway of arginine and polyamine biosynthesis|unclassified
+ARGININE-SYN4-PWY: L-ornithine de novo  biosynthesis|unclassified
+ARO-PWY: chorismate biosynthesis I|unclassified
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|unclassified
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|unclassified
+CALVIN-PWY: Calvin-Benson-Bassham cycle|unclassified
+CENTFERM-PWY: pyruvate fermentation to butanoate|unclassified
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|unclassified
+FUC-RHAMCAT-PWY: superpathway of fucose and rhamnose degradation|unclassified
+GALACTUROCAT-PWY: D-galacturonate degradation I|unclassified
+GLUCONEO-PWY: gluconeogenesis I|unclassified
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|unclassified
+GLYCOLYSIS-E-D: superpathway of glycolysis and Entner-Doudoroff|unclassified
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|unclassified
+HEXITOLDEGSUPER-PWY: superpathway of hexitol degradation (bacteria)|unclassified
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|unclassified
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|unclassified
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|unclassified
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|unclassified
+P4-PWY: superpathway of L-lysine, L-threonine and L-methionine biosynthesis I|unclassified
+PENTOSE-P-PWY: pentose phosphate pathway|unclassified
+PWY-1042: glycolysis IV (plant cytosol)|unclassified
+PWY-3841: folate transformations II|unclassified
+PWY-5097: L-lysine biosynthesis VI|unclassified
+PWY-5100: pyruvate fermentation to acetate and lactate II|unclassified
+PWY-5103: L-isoleucine biosynthesis III|unclassified
+PWY-5104: L-isoleucine biosynthesis IV|unclassified
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|unclassified
+PWY-5484: glycolysis II (from fructose 6-phosphate)|unclassified
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|unclassified
+PWY-5747: 2-methylcitrate cycle II|unclassified
+PWY-5989: stearate biosynthesis II (bacteria and plants)|unclassified
+PWY-6151: S-adenosyl-L-methionine cycle I|unclassified
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|unclassified
+PWY-6305: putrescine biosynthesis IV|unclassified
+PWY-6317: galactose degradation I (Leloir pathway)|unclassified
+PWY-6353: purine nucleotides degradation II (aerobic)|unclassified
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|unclassified
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|unclassified
+PWY-6519: 8-amino-7-oxononanoate biosynthesis I|unclassified
+PWY-6590: superpathway of Clostridium acetobutylicum acidogenic fermentation|unclassified
+PWY-6606: guanosine nucleotides degradation II|unclassified
+PWY-6608: guanosine nucleotides degradation III|unclassified
+PWY-6609: adenine and adenosine salvage III|unclassified
+PWY-6629: superpathway of L-tryptophan biosynthesis|unclassified
+PWY-6901: superpathway of glucose and xylose degradation|unclassified
+PWY-6936: seleno-amino acid biosynthesis|unclassified
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|unclassified
+PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|unclassified
+PWY0-1261: anhydromuropeptides recycling|unclassified
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|unclassified
+PWY4LZ-257: superpathway of fermentation (Chlamydomonas reinhardtii)|unclassified
+PWY66-400: glycolysis VI (metazoan)|unclassified
+SALVADEHYPOX-PWY: adenosine nucleotides degradation II|unclassified
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|unclassified
+VALSYN-PWY: L-valine biosynthesis|unclassified

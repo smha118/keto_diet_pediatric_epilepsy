@@ -1,0 +1,18 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Purine metabolism",66,1.0956,7,5.7949e-05,4.237,0.0048677,0.0048677,0.06278
+"Pyrimidine metabolism",39,0.64741,4,0.0032864,2.4833,0.27277,0.13803,0.08755
+"D-Arginine and D-ornithine metabolism",4,0.066401,1,0.064829,1.1882,1,1,0
+"Galactose metabolism",27,0.44821,2,0.072103,1.142,1,1,0.03188
+"Alanine, aspartate and glutamate metabolism",28,0.46481,2,0.076875,1.1142,1,1,0.06971
+"Porphyrin and chlorophyll metabolism",30,0.49801,2,0.086713,1.0619,1,1,0.25039
+"Ascorbate and aldarate metabolism",10,0.166,1,0.15456,0.81089,1,1,0.25
+"Caffeine metabolism",12,0.1992,1,0.18259,0.73851,1,1,0
+"Arginine biosynthesis",14,0.2324,1,0.20973,0.67834,1,1,0.11675
+"Histidine metabolism",16,0.2656,1,0.236,0.62709,1,1,0
+"Fructose and mannose metabolism",18,0.2988,1,0.26143,0.58264,1,1,0.03313
+"Pentose and glucuronate interconversions",18,0.2988,1,0.26143,0.58264,1,1,0.125
+"Pentose phosphate pathway",22,0.36521,1,0.30988,0.50881,1,1,0.04712
+"Inositol phosphate metabolism",30,0.49801,1,0.39778,0.40036,1,1,0
+"Cysteine and methionine metabolism",33,0.54781,1,0.42788,0.36867,1,1,0
+"Amino sugar and nucleotide sugar metabolism",37,0.61421,1,0.46578,0.33182,1,1,0
+"Tryptophan metabolism",41,0.68061,1,0.50127,0.29993,1,1,0.10493

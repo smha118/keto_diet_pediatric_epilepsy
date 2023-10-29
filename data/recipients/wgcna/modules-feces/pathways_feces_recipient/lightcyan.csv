@@ -1,0 +1,4 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Phenylalanine metabolism",12,0.031873,2,0.00034634,3.4605,0.029093,0.029093,0
+"Butanoate metabolism",15,0.039841,1,0.039288,1.4057,1,1,0
+"Purine metabolism",66,0.1753,1,0.16426,0.78447,1,1,0.00117

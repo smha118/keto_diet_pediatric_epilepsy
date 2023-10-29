@@ -1,0 +1,254 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Akkermansia.s__Akkermansia_muciniphila
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Akkermansia.s__Akkermansia_muciniphila
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_ovatus
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_vulgatus
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+ARGININE-SYN4-PWY: L-ornithine de novo  biosynthesis
+ARGININE-SYN4-PWY: L-ornithine de novo  biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus
+ARGININE-SYN4-PWY: L-ornithine de novo  biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Akkermansia.s__Akkermansia_muciniphila
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Anaerotruncus.s__Anaerotruncus_colihominis
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Akkermansia.s__Akkermansia_muciniphila
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Lawsonella.s__Lawsonella_clevelandensis
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_ovatus
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_vulgatus
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+CITRULBIO-PWY: L-citrulline biosynthesis
+CITRULBIO-PWY: L-citrulline biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Akkermansia.s__Akkermansia_muciniphila
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_ovatus
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_vulgatus
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_vulgatus
+COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Akkermansia.s__Akkermansia_muciniphila
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_vulgatus
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|unclassified
+FASYN-ELONG-PWY: fatty acid elongation -- saturated|g__Bacteroides.s__Bacteroides_vulgatus
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Bacteroides.s__Bacteroides_ovatus
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Bacteroides.s__Bacteroides_vulgatus
+FUCCAT-PWY: fucose degradation|g__Akkermansia.s__Akkermansia_muciniphila
+GLUTORN-PWY: L-ornithine biosynthesis|g__Anaerotruncus.s__Anaerotruncus_colihominis
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Bacteroides.s__Bacteroides_ovatus
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Bacteroides.s__Bacteroides_vulgatus
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Bacteroides.s__Bacteroides_ovatus
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Bacteroides.s__Bacteroides_vulgatus
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+HISDEG-PWY: L-histidine degradation I|g__Bacteroides.s__Bacteroides_ovatus
+HISDEG-PWY: L-histidine degradation I|g__Bacteroides.s__Bacteroides_vulgatus
+HISDEG-PWY: L-histidine degradation I|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus
+HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Akkermansia.s__Akkermansia_muciniphila
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Akkermansia.s__Akkermansia_muciniphila
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Lawsonella.s__Lawsonella_clevelandensis
+KETOGLUCONMET-PWY: ketogluconate metabolism|g__Lawsonella.s__Lawsonella_clevelandensis
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bacteroides.s__Bacteroides_ovatus
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bacteroides.s__Bacteroides_vulgatus
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Akkermansia.s__Akkermansia_muciniphila
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_vulgatus
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_vulgatus
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PENTOSE-P-PWY: pentose phosphate pathway|g__Bacteroides.s__Bacteroides_ovatus
+PENTOSE-P-PWY: pentose phosphate pathway|g__Bacteroides.s__Bacteroides_vulgatus
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Akkermansia.s__Akkermansia_muciniphila
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_ovatus
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_vulgatus
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-1042: glycolysis IV (plant cytosol)|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_ovatus
+PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-1042: glycolysis IV (plant cytosol)|g__Lawsonella.s__Lawsonella_clevelandensis
+PWY-2942: L-lysine biosynthesis III|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_ovatus
+PWY-2942: L-lysine biosynthesis III|g__Lawsonella.s__Lawsonella_clevelandensis
+PWY-3841: folate transformations II|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_ovatus
+PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_ovatus
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-5005: biotin biosynthesis II|g__Dialister.s__Dialister_invisus_CAG_218
+PWY-5030: L-histidine degradation III
+PWY-5030: L-histidine degradation III|g__Bacteroides.s__Bacteroides_ovatus
+PWY-5030: L-histidine degradation III|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-5030: L-histidine degradation III|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-5097: L-lysine biosynthesis VI|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-5097: L-lysine biosynthesis VI|g__Anaerotruncus.s__Anaerotruncus_colihominis
+PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_ovatus
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Anaerotruncus.s__Anaerotruncus_colihominis
+PWY-5101: L-isoleucine biosynthesis II|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-5103: L-isoleucine biosynthesis III|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-5103: L-isoleucine biosynthesis III|g__Lawsonella.s__Lawsonella_clevelandensis
+PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline)|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Eggerthella.s__Eggerthella_lenta
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Eggerthella.s__Eggerthella_lenta
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Bacteroides.s__Bacteroides_ovatus
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-5659: GDP-mannose biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+PWY-5659: GDP-mannose biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-5659: GDP-mannose biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-5686: UMP biosynthesis|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-5686: UMP biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+PWY-5686: UMP biosynthesis|g__Lawsonella.s__Lawsonella_clevelandensis
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_ovatus
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-5973: cis-vaccenate biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Lawsonella.s__Lawsonella_clevelandensis
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_ovatus
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lawsonella.s__Lawsonella_clevelandensis
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_ovatus
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_ovatus
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-6138: CMP-N-acetylneuraminate biosynthesis I (eukaryotes)
+PWY-6145: superpathway of sialic acids and CMP-sialic acids biosynthesis
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_ovatus
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lawsonella.s__Lawsonella_clevelandensis
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_ovatus
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_ovatus
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_ovatus
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-6608: guanosine nucleotides degradation III|g__Bacteroides.s__Bacteroides_ovatus
+PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_ovatus
+PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-6700: queuosine biosynthesis|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-6700: queuosine biosynthesis|g__Dialister.s__Dialister_invisus_CAG_218
+PWY-6703: preQ0 biosynthesis|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-6737: starch degradation V|g__Anaerotruncus.s__Anaerotruncus_colihominis
+PWY-6897: thiamin salvage II|g__Bacteroides.s__Bacteroides_ovatus
+PWY-6936: seleno-amino acid biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-7007: methyl ketone biosynthesis
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_ovatus
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Lawsonella.s__Lawsonella_clevelandensis
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_ovatus
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_ovatus
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Anaerotruncus.s__Anaerotruncus_colihominis
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_ovatus
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Anaerotruncus.s__Anaerotruncus_colihominis
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_ovatus
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Bacteroides.s__Bacteroides_ovatus
+PWY-7315: dTDP-N-acetylthomosamine biosynthesis|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis
+PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Anaerotruncus.s__Anaerotruncus_colihominis
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Bacteroides.s__Bacteroides_ovatus
+PWY-7383: anaerobic energy metabolism (invertebrates, cytosol)
+PWY-7383: anaerobic energy metabolism (invertebrates, cytosol)|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Akkermansia.s__Akkermansia_muciniphila
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Bacteroides.s__Bacteroides_vulgatus
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|g__Akkermansia.s__Akkermansia_muciniphila
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_vulgatus
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Bacteroides.s__Bacteroides_ovatus
+PWY66-400: glycolysis VI (metazoan)|g__Akkermansia.s__Akkermansia_muciniphila
+PWY66-400: glycolysis VI (metazoan)|g__Bacteroides.s__Bacteroides_ovatus
+PWY66-400: glycolysis VI (metazoan)|g__Bacteroides.s__Bacteroides_vulgatus
+PWY66-400: glycolysis VI (metazoan)|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_ovatus
+RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_vulgatus
+RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+RHAMCAT-PWY: L-rhamnose degradation I|g__Blautia.s__Ruminococcus_gnavus
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Akkermansia.s__Akkermansia_muciniphila
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_ovatus
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_vulgatus
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bacteroides.s__Bacteroides_vulgatus
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Bacteroides.s__Bacteroides_vulgatus
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Anaerotruncus.s__Anaerotruncus_colihominis
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Akkermansia.s__Akkermansia_muciniphila
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Lawsonella.s__Lawsonella_clevelandensis
+VALSYN-PWY: L-valine biosynthesis|g__Akkermansia.s__Akkermansia_muciniphila
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus_CAG_6
+VALSYN-PWY: L-valine biosynthesis|g__Lawsonella.s__Lawsonella_clevelandensis

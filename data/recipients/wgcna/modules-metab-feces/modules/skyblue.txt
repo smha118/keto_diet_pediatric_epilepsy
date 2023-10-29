@@ -1,7 +1,0 @@
-gamma-glutamyltyrosine
-gamma-glutamylleucine
-azelate (C9-DC)
-gamma-glutamylphenylalanine
-gamma-glutamylvaline
-gamma-glutamylisoleucine*
-N-acetylmethionine sulfoxide

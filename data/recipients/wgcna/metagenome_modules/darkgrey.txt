@@ -1,0 +1,58 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Coprobacillus.s__Coprobacillus_cateniformis
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Coprobacillus.s__Coprobacillus_cateniformis
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Coprobacillus.s__Coprobacillus_cateniformis
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Coprobacillus.s__Coprobacillus_cateniformis
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Coprobacillus.s__Coprobacillus_cateniformis
+COA-PWY: coenzyme A biosynthesis I|g__Coprobacillus.s__Coprobacillus_cateniformis
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Coprobacillus.s__Coprobacillus_cateniformis
+HISTSYN-PWY: L-histidine biosynthesis|g__Coprobacillus.s__Coprobacillus_cateniformis
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Coprobacillus.s__Coprobacillus_cateniformis
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Clostridioides.s__Clostridioides_difficile
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Coprobacillus.s__Coprobacillus_cateniformis
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-1042: glycolysis IV (plant cytosol)|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-2941: L-lysine biosynthesis II|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-2942: L-lysine biosynthesis III|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-3841: folate transformations II|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-5097: L-lysine biosynthesis VI|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-5101: L-isoleucine biosynthesis II|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-5103: L-isoleucine biosynthesis III|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-5686: UMP biosynthesis|g__Clostridioides.s__Clostridioides_difficile
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-621: sucrose degradation III (sucrose invertase)|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-6609: adenine and adenosine salvage III|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-6700: queuosine biosynthesis|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-6737: starch degradation V|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-6936: seleno-amino acid biosynthesis|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-7187: pyrimidine deoxyribonucleotides de novo biosynthesis II|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY0-1296: purine ribonucleosides degradation|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)|g__Coprobacillus.s__Coprobacillus_cateniformis
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Coprobacillus.s__Coprobacillus_cateniformis
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Clostridioides.s__Clostridioides_difficile
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Coprobacillus.s__Coprobacillus_cateniformis
+TRNA-CHARGING-PWY: tRNA charging|g__Clostridioides.s__Clostridioides_difficile
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Coprobacillus.s__Coprobacillus_cateniformis
+VALSYN-PWY: L-valine biosynthesis|g__Coprobacillus.s__Coprobacillus_cateniformis

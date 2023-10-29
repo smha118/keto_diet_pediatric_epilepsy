@@ -1,0 +1,4555 @@
+MODULE	NODE
+red_meta	1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+red_meta	1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Dielma.s__Dielma_fastidiosa
+red_meta	ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Dielma.s__Dielma_fastidiosa
+red_meta	ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	BIOTIN-BIOSYNTHESIS-PWY: biotin biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	CATECHOL-ORTHO-CLEAVAGE-PWY: catechol degradation to &beta;-ketoadipate|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Dielma.s__Dielma_fastidiosa
+red_meta	COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	COA-PWY: coenzyme A biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	COA-PWY: coenzyme A biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	COA-PWY: coenzyme A biosynthesis I|g__Dielma.s__Dielma_fastidiosa
+red_meta	COA-PWY: coenzyme A biosynthesis I|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	COA-PWY: coenzyme A biosynthesis I|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	FASYN-ELONG-PWY: fatty acid elongation -- saturated|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	GLUCONEO-PWY: gluconeogenesis I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Dielma.s__Dielma_fastidiosa
+red_meta	GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol|g__Hungatella.s__Hungatella_hathewayi
+red_meta	HISDEG-PWY: L-histidine degradation I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	HISDEG-PWY: L-histidine degradation I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	HISDEG-PWY: L-histidine degradation I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	HISDEG-PWY: L-histidine degradation I|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	HISTSYN-PWY: L-histidine biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+red_meta	HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	HSERMETANA-PWY: L-methionine biosynthesis III|g__Alistipes.s__Alistipes_finegoldii
+red_meta	HSERMETANA-PWY: L-methionine biosynthesis III|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	NAD-BIOSYNTHESIS-II: NAD salvage pathway II|unclassified
+red_meta	NAGLIPASYN-PWY: lipid IVA biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	NONMEVIPP-PWY: methylerythritol phosphate pathway I|unclassified
+red_meta	NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Dielma.s__Dielma_fastidiosa
+red_meta	P161-PWY: acetylene degradation|g__Dielma.s__Dielma_fastidiosa
+red_meta	PANTO-PWY: phosphopantothenate biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PENTOSE-P-PWY: pentose phosphate pathway|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PENTOSE-P-PWY: pentose phosphate pathway|g__Dielma.s__Dielma_fastidiosa
+red_meta	PENTOSE-P-PWY: pentose phosphate pathway|g__Lachnoclostridium.s__Clostridium_clostridioforme
+red_meta	PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	POLYAMSYN-PWY: superpathway of polyamine biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PPGPPMET-PWY: ppGpp biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-1042: glycolysis IV (plant cytosol)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-1042: glycolysis IV (plant cytosol)|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-1042: glycolysis IV (plant cytosol)|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-1042: glycolysis IV (plant cytosol)|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-2942: L-lysine biosynthesis III|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-2942: L-lysine biosynthesis III|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-2942: L-lysine biosynthesis III|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-3841: folate transformations II|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-3841: folate transformations II|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-3841: folate transformations II|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-3841: folate transformations II|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Alistipes.s__Alistipes_putredinis
+red_meta	PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-4702: phytate degradation I|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-5030: L-histidine degradation III|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-5030: L-histidine degradation III|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-5030: L-histidine degradation III|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-5030: L-histidine degradation III|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-5030: L-histidine degradation III|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-5088: L-glutamate degradation VIII (to propanoate)
+red_meta	PWY-5097: L-lysine biosynthesis VI|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-5097: L-lysine biosynthesis VI|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-5097: L-lysine biosynthesis VI|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-5100: pyruvate fermentation to acetate and lactate II|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-5100: pyruvate fermentation to acetate and lactate II|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-5101: L-isoleucine biosynthesis II|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-5101: L-isoleucine biosynthesis II|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-5103: L-isoleucine biosynthesis III|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-5177: glutaryl-CoA degradation|g__Lachnoclostridium.s__Clostridium_clostridioforme
+red_meta	PWY-5417: catechol degradation III (ortho-cleavage pathway)|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-5431: aromatic compounds degradation via &beta;-ketoadipate|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-5659: GDP-mannose biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-5659: GDP-mannose biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-5667: CDP-diacylglycerol biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-5667: CDP-diacylglycerol biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-5667: CDP-diacylglycerol biosynthesis I|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-5667: CDP-diacylglycerol biosynthesis I|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-5686: UMP biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-5686: UMP biosynthesis|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-5686: UMP biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-5686: UMP biosynthesis|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-5686: UMP biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-5686: UMP biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-5973: cis-vaccenate biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-5989: stearate biosynthesis II (bacteria and plants)|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-6123: inosine-5'-phosphate biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6123: inosine-5'-phosphate biosynthesis I|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-6124: inosine-5'-phosphate biosynthesis II|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_uniformis_CAG_3
+red_meta	PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6124: inosine-5'-phosphate biosynthesis II|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-6151: S-adenosyl-L-methionine cycle I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6151: S-adenosyl-L-methionine cycle I|g__Clostridium.s__Clostridium_sp_chh4_2
+red_meta	PWY-6151: S-adenosyl-L-methionine cycle I|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-6151: S-adenosyl-L-methionine cycle I|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-6478: GDP-D-glycero-&alpha;-D-manno-heptose biosynthesis
+red_meta	PWY-6478: GDP-D-glycero-&alpha;-D-manno-heptose biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+red_meta	PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Lachnoclostridium.s__Clostridium_lavalense
+red_meta	PWY-6519: 8-amino-7-oxononanoate biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-6527: stachyose degradation|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-6608: guanosine nucleotides degradation III|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6609: adenine and adenosine salvage III|g__Butyricimonas.s__Butyricimonas_virosa
+red_meta	PWY-6609: adenine and adenosine salvage III|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-6609: adenine and adenosine salvage III|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6700: queuosine biosynthesis|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-6700: queuosine biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-6700: queuosine biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-6703: preQ0 biosynthesis|g__Alistipes.s__Alistipes_putredinis
+red_meta	PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6737: starch degradation V|g__Clostridium.s__Clostridium_sp_chh4_2
+red_meta	PWY-6737: starch degradation V|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-6737: starch degradation V|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-6859: all-trans-farnesol biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-6897: thiamin salvage II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6897: thiamin salvage II|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6897: thiamin salvage II|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6897: thiamin salvage II|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-6936: seleno-amino acid biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7039: phosphatidate metabolism, as a signaling molecule|unclassified
+red_meta	PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Clostridium.s__Clostridium_sp_chh4_2
+red_meta	PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-7187: pyrimidine deoxyribonucleotides de novo biosynthesis II|g__Cutibacterium.s__Cutibacterium_acnes
+red_meta	PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Cutibacterium.s__Cutibacterium_acnes
+red_meta	PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Clostridium.s__Clostridium_sp_chh4_2
+red_meta	PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Clostridium.s__Clostridium_sp_chh4_2
+red_meta	PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-7234: inosine-5'-phosphate biosynthesis III|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-7234: inosine-5'-phosphate biosynthesis III|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-7446: sulfoglycolysis|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-7456: mannan degradation|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Alistipes.s__Alistipes_putredinis
+red_meta	PWY-7664: oleate biosynthesis IV (anaerobic)|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY0-1296: purine ribonucleosides degradation|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY0-1296: purine ribonucleosides degradation|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY66-389: phytol degradation|g__Lachnoclostridium.s__Clostridium_clostridioforme
+red_meta	PWY66-400: glycolysis VI (metazoan)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY66-400: glycolysis VI (metazoan)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY66-400: glycolysis VI (metazoan)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY66-400: glycolysis VI (metazoan)|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY66-422: D-galactose degradation V (Leloir pathway)|g__Dielma.s__Dielma_fastidiosa
+red_meta	PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_fragilis
+red_meta	RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	RHAMCAT-PWY: L-rhamnose degradation I|g__Hungatella.s__Hungatella_hathewayi
+red_meta	RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_fragilis
+red_meta	RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+red_meta	TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_uniformis_CAG_3
+red_meta	TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	VALSYN-PWY: L-valine biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	VALSYN-PWY: L-valine biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+lightcyan_meta	1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Lachnoclostridium.s__Clostridium_bolteae
+lightcyan_meta	ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	ARO-PWY: chorismate biosynthesis I|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	COA-PWY: coenzyme A biosynthesis I|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Lachnoclostridium.s__Clostridium_symbiosum
+lightcyan_meta	DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Enterococcus.s__Enterococcus_raffinosus
+lightcyan_meta	DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	GALACTUROCAT-PWY: D-galacturonate degradation I|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	GLUTORN-PWY: L-ornithine biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	HISDEG-PWY: L-histidine degradation I|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	HISTSYN-PWY: L-histidine biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	LACTOSECAT-PWY: lactose and galactose degradation I|g__Enterococcus.s__Enterococcus_raffinosus
+lightcyan_meta	METHGLYUT-PWY: superpathway of methylglyoxal degradation|unclassified
+lightcyan_meta	NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Enterococcus.s__Enterococcus_raffinosus
+lightcyan_meta	NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	P161-PWY: acetylene degradation|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PENTOSE-P-PWY: pentose phosphate pathway|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PENTOSE-P-PWY: pentose phosphate pathway|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-1042: glycolysis IV (plant cytosol)|g__Enterococcus.s__Enterococcus_raffinosus
+lightcyan_meta	PWY-1042: glycolysis IV (plant cytosol)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-1861: formaldehyde assimilation II (RuMP Cycle)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-2942: L-lysine biosynthesis III|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-4981: L-proline biosynthesis II (from arginine)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-5030: L-histidine degradation III|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-5097: L-lysine biosynthesis VI|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-5100: pyruvate fermentation to acetate and lactate II|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-5103: L-isoleucine biosynthesis III|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-5104: L-isoleucine biosynthesis IV|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-5659: GDP-mannose biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-5667: CDP-diacylglycerol biosynthesis I|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-5686: UMP biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-5686: UMP biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-5692: allantoin degradation to glyoxylate II|unclassified
+lightcyan_meta	PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-5918: superpathay of heme biosynthesis from glutamate|unclassified
+lightcyan_meta	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6123: inosine-5'-phosphate biosynthesis I|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+lightcyan_meta	PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6124: inosine-5'-phosphate biosynthesis II|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+lightcyan_meta	PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6151: S-adenosyl-L-methionine cycle I|g__Enterococcus.s__Enterococcus_raffinosus
+lightcyan_meta	PWY-6151: S-adenosyl-L-methionine cycle I|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-621: sucrose degradation III (sucrose invertase)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6608: guanosine nucleotides degradation III|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6609: adenine and adenosine salvage III|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6700: queuosine biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6737: starch degradation V|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6749: CMP-legionaminate biosynthesis I|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6897: thiamin salvage II|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6936: seleno-amino acid biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Enterococcus.s__Enterococcus_raffinosus
+lightcyan_meta	PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Enterococcus.s__Enterococcus_raffinosus
+lightcyan_meta	PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-7242: D-fructuronate degradation|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-821: superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)|unclassified
+lightcyan_meta	PWY0-1296: purine ribonucleosides degradation|g__Anaerotruncus.s__Anaerotruncus_colihominis
+lightcyan_meta	PWY0-1296: purine ribonucleosides degradation|g__Enterococcus.s__Enterococcus_raffinosus
+lightcyan_meta	PWY0-1296: purine ribonucleosides degradation|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY0-41: allantoin degradation IV (anaerobic)|unclassified
+lightcyan_meta	PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY66-400: glycolysis VI (metazoan)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Hungatella.s__Hungatella_hathewayi
+lightcyan_meta	TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Enterococcus.s__Enterococcus_raffinosus
+lightcyan_meta	URDEGR-PWY: superpathway of allantoin degradation in plants|unclassified
+lightcyan_meta	VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	VALSYN-PWY: L-valine biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+grey60_feces	5,6-dihydrothymine_feces
+grey60_feces	3-hydroxybutyrate (BHBA)_feces
+grey60_feces	myo-inositol_feces
+grey60_feces	spermine_feces
+grey60_feces	glycerophosphorylcholine (GPC)_feces
+grey60_feces	1-stearoyl-GPC (18:0)_feces
+grey60_feces	1-stearoyl-GPE (18:0)_feces
+grey60_feces	N1-methyl-2-pyridone-5-carboxamide_feces
+grey60_feces	1-(1-enyl-palmitoyl)-GPC (P-16:0)*_feces
+grey60_feces	1-(1-enyl-palmitoyl)-GPE (P-16:0)*_feces
+grey60_feces	1-(1-enyl-stearoyl)-GPE (P-18:0)*_feces
+grey60_feces	1-(1-enyl-oleoyl)-GPE (P-18:1)*_feces
+grey60_feces	1-(1-enyl-stearoyl)-2-oleoyl-GPE (P-18:0/18:1)_feces
+grey60_feces	1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)*_feces
+grey60_feces	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE (P-16:0/20:4)*_feces
+grey60_feces	1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)*_feces
+grey60_feces	1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*_feces
+grey60_feces	1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*_feces
+grey60_feces	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*_feces
+grey60_feces	1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*_feces
+darkgrey_feces	dihomo-linoleate (20:2n6)_feces
+darkgrey_feces	1-stearoyl-GPI (18:0)_feces
+darkgrey_feces	3-dehydrocholate_feces
+darkgrey_feces	docosapentaenoate (n3 DPA; 22:5n3)_feces
+darkgrey_feces	glycerophosphoinositol*_feces
+darkgrey_feces	dihomo-linolenate (20:3n3 or n6)_feces
+darkgrey_feces	2-stearoyl-GPE (18:0)*_feces
+darkgrey_feces	1-stearoyl-GPS (18:0)*_feces
+darkgrey_feces	1-dihomo-linolenylglycerol (20:3)_feces
+darkgrey_serum	stearate (18:0)_serum
+darkgrey_serum	hippurate_serum
+darkgrey_serum	dimethyl sulfone_serum
+darkgrey_serum	4-ethylphenol glucuronide_serum
+darkgrey_serum	4-ethylcatechol sulfate_serum
+green_serum	mevalonate_serum
+green_serum	cholate_serum
+green_serum	deoxycholate_serum
+green_serum	malonate_serum
+green_serum	xylose_serum
+green_serum	pipecolate_serum
+green_serum	ursodeoxycholate_serum
+green_serum	methylsuccinate_serum
+green_serum	2'-deoxycytidine_serum
+green_serum	tartarate_serum
+green_serum	2-isopropylmalate_serum
+green_serum	gentisate_serum
+green_serum	1-methylguanidine_serum
+green_serum	isobutyrylcarnitine (C4)_serum
+green_serum	7-ketodeoxycholate_serum
+green_serum	beta-muricholate_serum
+green_serum	N-(2-furoyl)glycine_serum
+green_serum	2-hydroxyadipate_serum
+green_serum	N1-methylinosine_serum
+green_serum	isobutyrylglycine_serum
+green_serum	phenylpropionylglycine_serum
+green_serum	catechol sulfate_serum
+green_serum	4-ethylphenylsulfate_serum
+green_serum	thymol sulfate_serum
+green_serum	N-methylproline_serum
+green_serum	homovanillate sulfate_serum
+green_serum	ursocholate_serum
+green_serum	3-(4-hydroxyphenyl)propionate_serum
+green_serum	2-oxindole-3-acetate_serum
+green_serum	imidazole propionate_serum
+green_serum	2-hydroxydecanoate_serum
+green_serum	4-methylcatechol sulfate_serum
+green_serum	3-methyl catechol sulfate (1)_serum
+green_serum	2-piperidinone_serum
+green_serum	2-aminophenol sulfate_serum
+green_serum	3-(3-hydroxyphenyl)propionate sulfate_serum
+green_serum	3-hydroxypyridine sulfate_serum
+green_serum	maltol sulfate_serum
+green_serum	4-vinylguaiacol sulfate_serum
+green_serum	1,2,3-benzenetriol sulfate (2)_serum
+green_serum	adipoylcarnitine (C6-DC)_serum
+green_serum	2-methylcitrate/homocitrate_serum
+green_serum	indoxyl glucuronide_serum
+green_serum	N,N,N-trimethyl-5-aminovalerate_serum
+green_serum	ethyl alpha-glucopyranoside_serum
+green_serum	glucuronide of C14H22O4 (1)*_serum
+green_serum	daidzein 7-O-glucuronide_serum
+green_serum	genistein glucuronide*_serum
+green_serum	N,N-dimethylalanine_serum
+green_serum	dihydrocaffeate sulfate (2)_serum
+green_serum	3-hydroxy-2-methylpyridine sulfate_serum
+green_serum	4-vinylcatechol sulfate_serum
+cyan_serum	N-acetylputrescine_serum
+cyan_serum	allantoic acid_serum
+cyan_serum	urate_serum
+cyan_serum	cysteine s-sulfate_serum
+cyan_serum	10-undecenoate (11:1n1)_serum
+cyan_serum	gamma-glutamyl-epsilon-lysine_serum
+cyan_serum	N6-carbamoylthreonyladenosine_serum
+cyan_serum	N1-methyl-2-pyridone-5-carboxamide_serum
+cyan_serum	N1-methyl-4-pyridone-3-carboxamide_serum
+cyan_serum	glycerophosphoglycerol_serum
+cyan_serum	1-methyl-5-imidazoleacetate_serum
+cyan_serum	1-oleoyl-GPG (18:1)*_serum
+cyan_serum	linoleoyl-docosahexaenoyl-glycerol (18:2/22:6) [1]*_serum
+cyan_serum	linoleoyl-docosahexaenoyl-glycerol (18:2/22:6) [2]*_serum
+cyan_serum	N-palmitoyl-sphingadienine (d18:2/16:0)*_serum
+cyan_serum	2-butenoylglycine_serum
+cyan_serum	heptenedioate (C7:1-DC)*_serum
+cyan_serum	dihydroferulic acid sulfate_serum
+cyan_serum	4-chlorobenzoic acid_serum
+cyan_serum	2-methoxyhydroquinone sulfate (1)_serum
+cyan_serum	2-methoxyhydroquinone sulfate (2)_serum
+mediumpurple2_fx	Rmnd5b_fx
+mediumpurple2_fx	Has1_fx
+mediumpurple2_fx	Tusc2_fx
+mediumpurple2_fx	Mertk_fx
+mediumpurple2_fx	Matn4_fx
+mediumpurple2_fx	Sfrp5_fx
+mediumpurple2_fx	Prep_fx
+mediumpurple2_fx	Tmem132e_fx
+mediumpurple2_fx	P2rx1_fx
+mediumpurple2_fx	F2rl1_fx
+mediumpurple2_fx	Ajuba_fx
+mediumpurple2_fx	Atp13a3_fx
+mediumpurple2_fx	Lmnb1_fx
+mediumpurple2_fx	Trpm6_fx
+mediumpurple2_fx	Hoga1_fx
+mediumpurple2_fx	Hadha_fx
+mediumpurple2_fx	4833439L19Rik_fx
+mediumpurple2_fx	Ndufb3_fx
+mediumpurple2_fx	Sppl2a_fx
+mediumpurple2_fx	Zbtb46_fx
+mediumpurple2_fx	Ndst4_fx
+mediumpurple2_fx	Sorcs2_fx
+mediumpurple2_fx	Zfp326_fx
+mediumpurple2_fx	Tamm41_fx
+mediumpurple2_fx	Kctd13_fx
+mediumpurple2_fx	Fam24b_fx
+mediumpurple2_fx	Zfp92_fx
+mediumpurple2_fx	Hsd11b2_fx
+mediumpurple2_fx	Tmem231_fx
+mediumpurple2_fx	Eda2r_fx
+mediumpurple2_fx	Spag6_fx
+mediumpurple2_fx	1700028J19Rik_fx
+mediumpurple2_fx	Ndp_fx
+mediumpurple2_fx	Stn1_fx
+mediumpurple2_fx	Erich5_fx
+mediumpurple2_fx	Snx12_fx
+mediumpurple2_fx	Ttc34_fx
+mediumpurple2_fx	Frmpd4_fx
+mediumpurple2_fx	Gas1_fx
+mediumpurple2_fx	Adamts18_fx
+mediumpurple2_fx	6430503K07Rik_fx
+mediumpurple2_fx	Ano9_fx
+mediumpurple2_fx	Gm17494_fx
+mediumpurple2_fx	0610040J01Rik_fx
+mediumpurple2_fx	Gm6822_fx
+mediumpurple2_fx	Gm10146_fx
+mediumpurple2_fx	Gm4925_fx
+mediumpurple2_fx	Mageb16-ps1_fx
+mediumpurple2_fx	Gm11604_fx
+mediumpurple2_fx	BC046251_fx
+mediumpurple2_fx	Mdfic2_fx
+mediumpurple2_fx	LOC118567373_fx
+mediumpurple2_fx	B130034C11Rik_fx
+mediumpurple2_fx	Gm3468_fx
+mediumpurple2_fx	Gm26549_fx
+mediumpurple2_fx	4930488L21Rik_fx
+mediumpurple2_fx	ENSMUSG00000097579_fx_fx
+mediumpurple2_fx	Dalir_fx
+mediumpurple2_fx	Gm10421_fx
+mediumpurple2_fx	2900009J06Rik_fx
+mediumpurple2_fx	Gm38372_fx
+mediumpurple2_fx	Gm42568_fx
+mediumpurple2_fx	Gm37941_fx
+mediumpurple2_fx	Gm5539_fx
+mediumpurple2_fx	Gm35394_fx
+mediumpurple2_fx	C530043K16Rik_fx
+mediumpurple2_fx	Gm44571_fx
+darkseagreen4_fx	Nab1_fx
+darkseagreen4_fx	Cd33_fx
+darkseagreen4_fx	Nit1_fx
+darkseagreen4_fx	Map1s_fx
+darkseagreen4_fx	Rab36_fx
+darkseagreen4_fx	Dek_fx
+darkseagreen4_fx	Sema3g_fx
+darkseagreen4_fx	Parvb_fx
+darkseagreen4_fx	Abcc1_fx
+darkseagreen4_fx	Dhx16_fx
+darkseagreen4_fx	Mbd1_fx
+darkseagreen4_fx	Sall3_fx
+darkseagreen4_fx	Kat5_fx
+darkseagreen4_fx	Cwf19l1_fx
+darkseagreen4_fx	Sgo2a_fx
+darkseagreen4_fx	Trip12_fx
+darkseagreen4_fx	Lhx3_fx
+darkseagreen4_fx	Nusap1_fx
+darkseagreen4_fx	Chac1_fx
+darkseagreen4_fx	Sike1_fx
+darkseagreen4_fx	Creb3_fx
+darkseagreen4_fx	Ptch2_fx
+darkseagreen4_fx	Pus1_fx
+darkseagreen4_fx	Malsu1_fx
+darkseagreen4_fx	4930519F16Rik_fx
+darkseagreen4_fx	Maml2_fx
+darkseagreen4_fx	Elovl4_fx
+darkseagreen4_fx	Stra6_fx
+darkseagreen4_fx	Heyl_fx
+darkseagreen4_fx	Cspg4_fx
+darkseagreen4_fx	Dennd5a_fx
+darkseagreen4_fx	Dexi_fx
+darkseagreen4_fx	Snx10_fx
+darkseagreen4_fx	Tcte2_fx
+darkseagreen4_fx	Tbkbp1_fx
+darkseagreen4_fx	Sde2_fx
+darkseagreen4_fx	Mtg1_fx
+darkseagreen4_fx	Plekhg5_fx
+darkseagreen4_fx	Rbm48_fx
+darkseagreen4_fx	Foxf1_fx
+darkseagreen4_fx	Smco3_fx
+darkseagreen4_fx	Otud1_fx
+darkseagreen4_fx	Wdr81_fx
+darkseagreen4_fx	1700067K01Rik_fx
+darkseagreen4_fx	Morn4_fx
+darkseagreen4_fx	Zbtb14_fx
+darkseagreen4_fx	Tatdn1_fx
+darkseagreen4_fx	Serpinb1b_fx
+darkseagreen4_fx	Aldh1a1_fx
+darkseagreen4_fx	Ptprn2_fx
+darkseagreen4_fx	Ipcef1_fx
+darkseagreen4_fx	Snora23_fx
+darkseagreen4_fx	Gm25930_fx
+darkseagreen4_fx	Il11ra1_fx
+darkseagreen4_fx	Gm12522_fx
+darkseagreen4_fx	Chst14_fx
+darkseagreen4_fx	ENSMUSG00000075596_fx_fx
+darkseagreen4_fx	Fam229a_fx
+darkseagreen4_fx	Gm11627_fx
+darkseagreen4_fx	6530402F18Rik_fx
+darkseagreen4_fx	Gm15206_fx
+darkseagreen4_fx	Gm7658_fx
+darkseagreen4_fx	Gm12089_fx
+darkseagreen4_fx	4933435F18Rik_fx
+darkseagreen4_fx	ENSMUSG00000087885_fx_fx
+darkseagreen4_fx	ENSMUSG00000088359_fx_fx
+darkseagreen4_fx	Gm16712_fx
+darkseagreen4_fx	Gm47512_fx
+darkseagreen4_fx	Gm16630_fx
+darkseagreen4_fx	Gm29340_fx
+darkseagreen4_fx	1700006F04Rik_fx
+darkseagreen4_fx	Gm43314_fx
+darkseagreen4_fx	Gm4754_fx
+darkseagreen4_fx	Gm20371_fx
+darkseagreen4_fx	Gm44699_fx
+lavenderblush3_fx	Gmcl1_fx
+lavenderblush3_fx	Tpra1_fx
+lavenderblush3_fx	Bmp7_fx
+lavenderblush3_fx	Cfap161_fx
+lavenderblush3_fx	Ehf_fx
+lavenderblush3_fx	Zc3h18_fx
+lavenderblush3_fx	Sec63_fx
+lavenderblush3_fx	Vrk1_fx
+lavenderblush3_fx	Sptlc1_fx
+lavenderblush3_fx	Slf1_fx
+lavenderblush3_fx	Atp8a2_fx
+lavenderblush3_fx	Diaph3_fx
+lavenderblush3_fx	Wnt7b_fx
+lavenderblush3_fx	Scaf4_fx
+lavenderblush3_fx	Slc11a2_fx
+lavenderblush3_fx	Clic5_fx
+lavenderblush3_fx	Ptk7_fx
+lavenderblush3_fx	Rnf138_fx
+lavenderblush3_fx	Map3k7cl_fx
+lavenderblush3_fx	Tmem70_fx
+lavenderblush3_fx	Cln8_fx
+lavenderblush3_fx	Eng_fx
+lavenderblush3_fx	Oxt_fx
+lavenderblush3_fx	Bfsp1_fx
+lavenderblush3_fx	Helz2_fx
+lavenderblush3_fx	Gclm_fx
+lavenderblush3_fx	Mttp_fx
+lavenderblush3_fx	Pip4p2_fx
+lavenderblush3_fx	Decr1_fx
+lavenderblush3_fx	Mpdz_fx
+lavenderblush3_fx	Per3_fx
+lavenderblush3_fx	Plbd2_fx
+lavenderblush3_fx	Slc6a13_fx
+lavenderblush3_fx	Tgfb1i1_fx
+lavenderblush3_fx	Dhx32_fx
+lavenderblush3_fx	Rps4x_fx
+lavenderblush3_fx	Lamp1_fx
+lavenderblush3_fx	Rasa3_fx
+lavenderblush3_fx	Irf2_fx
+lavenderblush3_fx	Snx20_fx
+lavenderblush3_fx	Slc37a4_fx
+lavenderblush3_fx	Slitrk5_fx
+lavenderblush3_fx	Faah_fx
+lavenderblush3_fx	Mon2_fx
+lavenderblush3_fx	Tpbg_fx
+lavenderblush3_fx	Pphln1_fx
+lavenderblush3_fx	Lpar3_fx
+lavenderblush3_fx	Haus6_fx
+lavenderblush3_fx	Samd10_fx
+lavenderblush3_fx	Daglb_fx
+lavenderblush3_fx	Tmem120a_fx
+lavenderblush3_fx	Trim39_fx
+lavenderblush3_fx	Pcdhb4_fx
+lavenderblush3_fx	Crh_fx
+lavenderblush3_fx	Ccdc158_fx
+lavenderblush3_fx	Supt7l_fx
+lavenderblush3_fx	Mapk14_fx
+lavenderblush3_fx	Fam204a_fx
+lavenderblush3_fx	Nfam1_fx
+lavenderblush3_fx	Fcer1g_fx
+lavenderblush3_fx	Kcnt1_fx
+lavenderblush3_fx	Rpl35_fx
+lavenderblush3_fx	Gm5113_fx
+lavenderblush3_fx	Fam217b_fx
+lavenderblush3_fx	Ctxn2_fx
+lavenderblush3_fx	Fign_fx
+lavenderblush3_fx	Smim24_fx
+lavenderblush3_fx	Ly6c1_fx
+lavenderblush3_fx	Gm14539_fx
+lavenderblush3_fx	AI480526_fx
+lavenderblush3_fx	A930007I19Rik_fx
+lavenderblush3_fx	B230377A18Rik_fx
+lavenderblush3_fx	Gm43162_fx
+lavenderblush3_fx	Gm42937_fx
+lavenderblush3_fx	Gm43254_fx
+lavenderblush3_fx	Gm44553_fx
+mediumpurple3_fx	Axin2_fx
+mediumpurple3_fx	Axl_fx
+mediumpurple3_fx	Ap1m1_fx
+mediumpurple3_fx	Taf6l_fx
+mediumpurple3_fx	Atp4a_fx
+mediumpurple3_fx	Gorasp2_fx
+mediumpurple3_fx	Lonrf3_fx
+mediumpurple3_fx	Washc3_fx
+mediumpurple3_fx	Unc5b_fx
+mediumpurple3_fx	Mdm2_fx
+mediumpurple3_fx	Tmbim4_fx
+mediumpurple3_fx	Cacng4_fx
+mediumpurple3_fx	Higd1b_fx
+mediumpurple3_fx	Dnaaf2_fx
+mediumpurple3_fx	Vipas39_fx
+mediumpurple3_fx	Ssr1_fx
+mediumpurple3_fx	Riok1_fx
+mediumpurple3_fx	Smad5_fx
+mediumpurple3_fx	Angpt1_fx
+mediumpurple3_fx	Rangap1_fx
+mediumpurple3_fx	Smoc2_fx
+mediumpurple3_fx	Man2a1_fx
+mediumpurple3_fx	Pmaip1_fx
+mediumpurple3_fx	Slc40a1_fx
+mediumpurple3_fx	Carf_fx
+mediumpurple3_fx	Ntmt1_fx
+mediumpurple3_fx	Hnmt_fx
+mediumpurple3_fx	Dapl1_fx
+mediumpurple3_fx	Tnfrsf1b_fx
+mediumpurple3_fx	Casp9_fx
+mediumpurple3_fx	Gpat3_fx
+mediumpurple3_fx	Dock11_fx
+mediumpurple3_fx	Enox2_fx
+mediumpurple3_fx	Mtcp1_fx
+mediumpurple3_fx	Rps6ka3_fx
+mediumpurple3_fx	Gsr_fx
+mediumpurple3_fx	Slc7a6os_fx
+mediumpurple3_fx	Terf2ip_fx
+mediumpurple3_fx	Mrpl34_fx
+mediumpurple3_fx	Leprot_fx
+mediumpurple3_fx	Myo1d_fx
+mediumpurple3_fx	Tdrd7_fx
+mediumpurple3_fx	Macrod1_fx
+mediumpurple3_fx	Ppp6r2_fx
+mediumpurple3_fx	Fam135b_fx
+mediumpurple3_fx	Ehmt1_fx
+mediumpurple3_fx	Kin_fx
+mediumpurple3_fx	Glra3_fx
+mediumpurple3_fx	Hdhd3_fx
+mediumpurple3_fx	Pold1_fx
+mediumpurple3_fx	Lrrd1_fx
+mediumpurple3_fx	Disp3_fx
+mediumpurple3_fx	Flt3_fx
+mediumpurple3_fx	Als2cl_fx
+mediumpurple3_fx	Slc38a6_fx
+mediumpurple3_fx	Col27a1_fx
+mediumpurple3_fx	Cdh20_fx
+mediumpurple3_fx	Creb5_fx
+mediumpurple3_fx	Tll1_fx
+mediumpurple3_fx	Foxk1_fx
+mediumpurple3_fx	Ide_fx
+mediumpurple3_fx	Eif4a1_fx
+mediumpurple3_fx	Plekhh1_fx
+mediumpurple3_fx	Stat4_fx
+mediumpurple3_fx	Nol7_fx
+mediumpurple3_fx	Gm10136_fx
+mediumpurple3_fx	Vkorc1l1_fx
+mediumpurple3_fx	9230112E08Rik_fx
+mediumpurple3_fx	Bves_fx
+mediumpurple3_fx	Ptrh2_fx
+mediumpurple3_fx	Zfp429_fx
+mediumpurple3_fx	Gm5915_fx
+mediumpurple3_fx	Gm9385_fx
+mediumpurple3_fx	Gm12216_fx
+mediumpurple3_fx	Rps11-ps2_fx
+mediumpurple3_fx	Gm15443_fx
+mediumpurple3_fx	Gm11510_fx
+mediumpurple3_fx	Gssos2_fx
+mediumpurple3_fx	A730017L22Rik_fx
+mediumpurple3_fx	Tmem170b_fx
+mediumpurple3_fx	Pet100_fx
+mediumpurple3_fx	A530058N18Rik_fx
+mediumpurple3_fx	Spmip8_fx
+mediumpurple3_fx	Gm17484_fx
+mediumpurple3_fx	Gm20522_fx
+mediumpurple3_fx	Rps19-ps4_fx
+mediumpurple3_fx	9230114K14Rik_fx
+mediumpurple3_fx	ENSMUSG00000097618_fx_fx
+mediumpurple3_fx	Gm28299_fx
+mediumpurple3_fx	Gm28182_fx
+mediumpurple3_fx	Gm37003_fx
+mediumpurple3_fx	Pcdhga9_fx
+mediumpurple3_fx	Gm37368_fx
+mediumpurple3_fx	Gm38286_fx
+mediumpurple3_fx	2900037B21Rik_fx
+mediumpurple3_fx	Gm37366_fx
+mediumpurple3_fx	Gm38125_fx
+mediumpurple3_fx	Gm37879_fx
+mediumpurple3_fx	Gm43009_fx
+mediumpurple3_fx	Gm42577_fx
+mediumpurple3_fx	Gm44231_fx
+antiquewhite4_fx	Trmt1_fx
+antiquewhite4_fx	Ggct_fx
+antiquewhite4_fx	Adprh_fx
+antiquewhite4_fx	Ralb_fx
+antiquewhite4_fx	Pfdn2_fx
+antiquewhite4_fx	1700008O03Rik_fx
+antiquewhite4_fx	Scarf2_fx
+antiquewhite4_fx	Dhx40_fx
+antiquewhite4_fx	Natd1_fx
+antiquewhite4_fx	Cabcoco1_fx
+antiquewhite4_fx	Arid5b_fx
+antiquewhite4_fx	Ccar1_fx
+antiquewhite4_fx	Sumo3_fx
+antiquewhite4_fx	Nipal4_fx
+antiquewhite4_fx	Dcaf4_fx
+antiquewhite4_fx	Rasa1_fx
+antiquewhite4_fx	Mettl6_fx
+antiquewhite4_fx	Cryl1_fx
+antiquewhite4_fx	Klhl1_fx
+antiquewhite4_fx	Slc29a1_fx
+antiquewhite4_fx	Sap130_fx
+antiquewhite4_fx	Lancl1_fx
+antiquewhite4_fx	Tmeff2_fx
+antiquewhite4_fx	Zfp142_fx
+antiquewhite4_fx	Agfg1_fx
+antiquewhite4_fx	Abl2_fx
+antiquewhite4_fx	Tatdn3_fx
+antiquewhite4_fx	Phyh_fx
+antiquewhite4_fx	Xrn2_fx
+antiquewhite4_fx	Odf2l_fx
+antiquewhite4_fx	Nfx1_fx
+antiquewhite4_fx	Mthfr_fx
+antiquewhite4_fx	Commd8_fx
+antiquewhite4_fx	Tfr2_fx
+antiquewhite4_fx	Trim24_fx
+antiquewhite4_fx	Mad2l1_fx
+antiquewhite4_fx	Ddx47_fx
+antiquewhite4_fx	Prmt8_fx
+antiquewhite4_fx	Kat8_fx
+antiquewhite4_fx	Mcf2_fx
+antiquewhite4_fx	Arl2bp_fx
+antiquewhite4_fx	Dus2_fx
+antiquewhite4_fx	Tle3_fx
+antiquewhite4_fx	Rbpms2_fx
+antiquewhite4_fx	Pik3c3_fx
+antiquewhite4_fx	Ucp2_fx
+antiquewhite4_fx	Zfp661_fx
+antiquewhite4_fx	Hykk_fx
+antiquewhite4_fx	Igsf10_fx
+antiquewhite4_fx	Zfand1_fx
+antiquewhite4_fx	Lonp2_fx
+antiquewhite4_fx	Mcat_fx
+antiquewhite4_fx	Eif3b_fx
+antiquewhite4_fx	Mok_fx
+antiquewhite4_fx	Slc44a2_fx
+antiquewhite4_fx	R74862_fx
+antiquewhite4_fx	Zfp422_fx
+antiquewhite4_fx	Ankrd23_fx
+antiquewhite4_fx	Usf3_fx
+antiquewhite4_fx	Ndufaf3_fx
+antiquewhite4_fx	B3gat3_fx
+antiquewhite4_fx	Lekr1_fx
+antiquewhite4_fx	Gm16485_fx
+antiquewhite4_fx	Zfp652os_fx
+antiquewhite4_fx	Gm13497_fx
+antiquewhite4_fx	Gm15860_fx
+antiquewhite4_fx	Snord13_fx
+antiquewhite4_fx	Peds1_fx
+antiquewhite4_fx	Gm16973_fx
+antiquewhite4_fx	E330034L11Rik_fx
+antiquewhite4_fx	Gm9403_fx
+antiquewhite4_fx	Gm44013_fx
+antiquewhite4_fx	Pnma8c_fx
+plum_fx	Apba3_fx
+plum_fx	Tfap4_fx
+plum_fx	Kctd20_fx
+plum_fx	Fance_fx
+plum_fx	Crlf1_fx
+plum_fx	Cmpk2_fx
+plum_fx	Ccdc88c_fx
+plum_fx	Igsf11_fx
+plum_fx	Sfi1_fx
+plum_fx	Mms19_fx
+plum_fx	Pstpip2_fx
+plum_fx	Rev1_fx
+plum_fx	Fubp3_fx
+plum_fx	Rbm18_fx
+plum_fx	Gpsm1_fx
+plum_fx	Harbi1_fx
+plum_fx	Col1a2_fx
+plum_fx	Edil3_fx
+plum_fx	Zyg11b_fx
+plum_fx	Zfp60_fx
+plum_fx	Parp11_fx
+plum_fx	Mylip_fx
+plum_fx	Dock10_fx
+plum_fx	Med30_fx
+plum_fx	Tcfl5_fx
+plum_fx	Rabggtb_fx
+plum_fx	Rreb1_fx
+plum_fx	Arhgef10l_fx
+plum_fx	Ago1_fx
+plum_fx	Kctd12b_fx
+plum_fx	Pde3a_fx
+plum_fx	Kcnj12_fx
+plum_fx	Ttc9_fx
+plum_fx	Lncpint_fx
+plum_fx	Xxylt1_fx
+plum_fx	Slc38a9_fx
+plum_fx	8030423F21Rik_fx
+plum_fx	Lclat1_fx
+plum_fx	Klhl18_fx
+plum_fx	Chsy3_fx
+plum_fx	Mmgt1_fx
+plum_fx	Zbtb16_fx
+plum_fx	Col4a4_fx
+plum_fx	Fam149a_fx
+plum_fx	Rpl7a-ps5_fx
+plum_fx	5730409E04Rik_fx
+plum_fx	Zfp865_fx
+plum_fx	Mrpl48-ps_fx
+plum_fx	Gm12250_fx
+plum_fx	Rpl17-ps4_fx
+plum_fx	Tomm6os_fx
+plum_fx	Tsix_fx
+plum_fx	Tbx3os1_fx
+plum_fx	Gm15938_fx
+plum_fx	Gm23751_fx
+plum_fx	Mettl23_fx
+plum_fx	Vkorc1_fx
+plum_fx	Zfp87_fx
+plum_fx	ENSMUSG00000097775_fx_fx
+plum_fx	Gm4654_fx
+plum_fx	Gm3693_fx
+plum_fx	2810039B14Rik_fx
+plum_fx	Gm8326_fx
+plum_fx	Gm38353_fx
+plum_fx	Gm38083_fx
+plum_fx	Gm38029_fx
+plum_fx	Gm43378_fx
+plum_fx	Gm36266_fx
+plum_fx	Zfp862-ps_fx
+brown_hx	Scml2_hx
+brown_hx	Fap_hx
+brown_hx	Septin1_hx
+brown_hx	Acvrl1_hx
+brown_hx	Vps9d1_hx
+brown_hx	Ergic1_hx
+brown_hx	Folh1_hx
+brown_hx	Rmnd5a_hx
+brown_hx	Golga2_hx
+brown_hx	Dennd1c_hx
+brown_hx	Qtrt1_hx
+brown_hx	Cdk12_hx
+brown_hx	Ciao1_hx
+brown_hx	Lin7b_hx
+brown_hx	Pgf_hx
+brown_hx	Slc25a18_hx
+brown_hx	Psmd4_hx
+brown_hx	Metap1_hx
+brown_hx	Dhx34_hx
+brown_hx	Inpp5k_hx
+brown_hx	Srm_hx
+brown_hx	Actn3_hx
+brown_hx	Fgfrl1_hx
+brown_hx	Tmem184b_hx
+brown_hx	Dqx1_hx
+brown_hx	Kcnd1_hx
+brown_hx	Ebf3_hx
+brown_hx	Piezo1_hx
+brown_hx	Pkd2l2_hx
+brown_hx	Psmb1_hx
+brown_hx	Rabl6_hx
+brown_hx	Tsr3_hx
+brown_hx	Nat9_hx
+brown_hx	Prune1_hx
+brown_hx	Capza2_hx
+brown_hx	Med28_hx
+brown_hx	Lonrf3_hx
+brown_hx	Ube2a_hx
+brown_hx	Med24_hx
+brown_hx	Pipox_hx
+brown_hx	Cd40_hx
+brown_hx	Serinc3_hx
+brown_hx	Pigt_hx
+brown_hx	Dhx58_hx
+brown_hx	Mafk_hx
+brown_hx	Gpx3_hx
+brown_hx	Zfyve27_hx
+brown_hx	Mrpl58_hx
+brown_hx	Aldh3a1_hx
+brown_hx	Mrpl24_hx
+brown_hx	Pex3_hx
+brown_hx	Tube1_hx
+brown_hx	Reps1_hx
+brown_hx	Fam184a_hx
+brown_hx	Nedd1_hx
+brown_hx	Mybpc1_hx
+brown_hx	Vps26a_hx
+brown_hx	Srgap1_hx
+brown_hx	Dock2_hx
+brown_hx	Mdm1_hx
+brown_hx	Timm13_hx
+brown_hx	Sumo3_hx
+brown_hx	Mrps24_hx
+brown_hx	Myocd_hx
+brown_hx	Map2k6_hx
+brown_hx	Cmpk2_hx
+brown_hx	Cacng4_hx
+brown_hx	Gga3_hx
+brown_hx	Mif4gd_hx
+brown_hx	Pafah1b1_hx
+brown_hx	Ten1_hx
+brown_hx	Tekt1_hx
+brown_hx	Coro6_hx
+brown_hx	Tmigd1_hx
+brown_hx	Timm22_hx
+brown_hx	Rph3al_hx
+brown_hx	Ntn1_hx
+brown_hx	Dhrs7_hx
+brown_hx	Pigh_hx
+brown_hx	Galnt16_hx
+brown_hx	Cdca7l_hx
+brown_hx	Nrde2_hx
+brown_hx	Tgfb3_hx
+brown_hx	Cdc42bpb_hx
+brown_hx	Slc17a4_hx
+brown_hx	Gpld1_hx
+brown_hx	Edn1_hx
+brown_hx	Nol8_hx
+brown_hx	Pxdc1_hx
+brown_hx	Eci2_hx
+brown_hx	Fancc_hx
+brown_hx	Nid2_hx
+brown_hx	Pbk_hx
+brown_hx	Rb1_hx
+brown_hx	Fbxl3_hx
+brown_hx	Sema5a_hx
+brown_hx	Gm29394_hx
+brown_hx	Adcy8_hx
+brown_hx	Tmem44_hx
+brown_hx	Acr_hx
+brown_hx	Tmem30c_hx
+brown_hx	Cfap91_hx
+brown_hx	Calcoco1_hx
+brown_hx	Prmt5_hx
+brown_hx	Ccndbp1_hx
+brown_hx	Pigx_hx
+brown_hx	Thbs2_hx
+brown_hx	Mrps18a_hx
+brown_hx	Psd2_hx
+brown_hx	Dnajc18_hx
+brown_hx	Iws1_hx
+brown_hx	Cdx1_hx
+brown_hx	Hmgxb3_hx
+brown_hx	Gm9750_hx
+brown_hx	Tmem216_hx
+brown_hx	Ms4a6b_hx
+brown_hx	Rps6kb2_hx
+brown_hx	Banf1_hx
+brown_hx	Tmem134_hx
+brown_hx	Rin1_hx
+brown_hx	Plcb3_hx
+brown_hx	Slit1_hx
+brown_hx	Banp_hx
+brown_hx	Gaa_hx
+brown_hx	Pigq_hx
+brown_hx	Tmem70_hx
+brown_hx	Slc40a1_hx
+brown_hx	Chst10_hx
+brown_hx	Rhbdd1_hx
+brown_hx	B3gat2_hx
+brown_hx	Ogfrl1_hx
+brown_hx	Iqca1_hx
+brown_hx	Ilkap_hx
+brown_hx	Cdh7_hx
+brown_hx	Tnfrsf11a_hx
+brown_hx	Slc35f5_hx
+brown_hx	Mcm6_hx
+brown_hx	Vangl2_hx
+brown_hx	Abl2_hx
+brown_hx	Iars2_hx
+brown_hx	Cfap126_hx
+brown_hx	Fmo4_hx
+brown_hx	Ppp6c_hx
+brown_hx	Lrrc26_hx
+brown_hx	Dusp19_hx
+brown_hx	Iftap_hx
+brown_hx	Myef2_hx
+brown_hx	Hypk_hx
+brown_hx	Spint1_hx
+brown_hx	Bfsp1_hx
+brown_hx	Cd93_hx
+brown_hx	Slc52a3_hx
+brown_hx	Tpx2_hx
+brown_hx	Raly_hx
+brown_hx	Tnik_hx
+brown_hx	Anxa5_hx
+brown_hx	Rab33b_hx
+brown_hx	Kpna4_hx
+brown_hx	Nmd3_hx
+brown_hx	Ccna1_hx
+brown_hx	Casq2_hx
+brown_hx	Slc6a17_hx
+brown_hx	Ddx20_hx
+brown_hx	Tmem144_hx
+brown_hx	Sfrp2_hx
+brown_hx	Ppa2_hx
+brown_hx	Ptgfr_hx
+brown_hx	Pear1_hx
+brown_hx	Dclk2_hx
+brown_hx	Adgrl2_hx
+brown_hx	Decr1_hx
+brown_hx	Ppp3r2_hx
+brown_hx	Ptgr1_hx
+brown_hx	Artn_hx
+brown_hx	Dph2_hx
+brown_hx	Eqtn_hx
+brown_hx	Pithd1_hx
+brown_hx	Lypla2_hx
+brown_hx	Lrrc41_hx
+brown_hx	Ebna1bp2_hx
+brown_hx	Wasf2_hx
+brown_hx	H6pd_hx
+brown_hx	Mfn2_hx
+brown_hx	Dffb_hx
+brown_hx	Man2b2_hx
+brown_hx	Cgref1_hx
+brown_hx	Spp1_hx
+brown_hx	Ibsp_hx
+brown_hx	Cfap251_hx
+brown_hx	Rab35_hx
+brown_hx	Oasl2_hx
+brown_hx	Radil_hx
+brown_hx	Ddx54_hx
+brown_hx	Glcci1_hx
+brown_hx	Slc46a3_hx
+brown_hx	Ephb4_hx
+brown_hx	Irf5_hx
+brown_hx	Smarcad1_hx
+brown_hx	Uba3_hx
+brown_hx	A2m_hx
+brown_hx	Clec4a2_hx
+brown_hx	Oca2_hx
+brown_hx	ENSMUSG00000030771_hx
+brown_hx	Nucb1_hx
+brown_hx	Abraxas2_hx
+brown_hx	Usp11_hx
+brown_hx	Fgf15_hx
+brown_hx	Ggn_hx
+brown_hx	Dctd_hx
+brown_hx	Mak16_hx
+brown_hx	Dnaja2_hx
+brown_hx	Necab2_hx
+brown_hx	Dus2_hx
+brown_hx	Nfatc3_hx
+brown_hx	Maml2_hx
+brown_hx	Cfdp1_hx
+brown_hx	Srpr_hx
+brown_hx	Bace1_hx
+brown_hx	Mpzl2_hx
+brown_hx	Kank2_hx
+brown_hx	Aqp9_hx
+brown_hx	Neo1_hx
+brown_hx	Plod2_hx
+brown_hx	Parp16_hx
+brown_hx	Tbx18_hx
+brown_hx	Cmtm7_hx
+brown_hx	Nme6_hx
+brown_hx	Nradd_hx
+brown_hx	Mlh1_hx
+brown_hx	Mrpl3_hx
+brown_hx	Thsd7a_hx
+brown_hx	Zswim6_hx
+brown_hx	Rnft2_hx
+brown_hx	Itgbl1_hx
+brown_hx	Ucp3_hx
+brown_hx	Slc16a8_hx
+brown_hx	Tbc1d4_hx
+brown_hx	Dis3_hx
+brown_hx	Ttll4_hx
+brown_hx	Tmem35a_hx
+brown_hx	Pcgf3_hx
+brown_hx	Vps8_hx
+brown_hx	Tlr13_hx
+brown_hx	Ephx4_hx
+brown_hx	Tcea1_hx
+brown_hx	Rnf225_hx
+brown_hx	Golim4_hx
+brown_hx	Atp2c2_hx
+brown_hx	Rnf43_hx
+brown_hx	Dynlrb2_hx
+brown_hx	Daam1_hx
+brown_hx	8430429K09Rik_hx
+brown_hx	Pbx2_hx
+brown_hx	Glis1_hx
+brown_hx	Cxcl10_hx
+brown_hx	Tbxa2r_hx
+brown_hx	Htr2a_hx
+brown_hx	Shc4_hx
+brown_hx	Kcnh4_hx
+brown_hx	Rmi1_hx
+brown_hx	Fbxl21_hx
+brown_hx	Iqcg_hx
+brown_hx	Tsen34_hx
+brown_hx	Alg8_hx
+brown_hx	Abca7_hx
+brown_hx	Cdhr3_hx
+brown_hx	Tdp2_hx
+brown_hx	Pou2af2_hx
+brown_hx	Slain2_hx
+brown_hx	Ankmy2_hx
+brown_hx	Ubac1_hx
+brown_hx	Gng12_hx
+brown_hx	Pcdh8_hx
+brown_hx	Rnf139_hx
+brown_hx	Mospd3_hx
+brown_hx	Mrpl47_hx
+brown_hx	Tob1_hx
+brown_hx	Wdtc1_hx
+brown_hx	Fermt2_hx
+brown_hx	Phyhipl_hx
+brown_hx	H2az1_hx
+brown_hx	Mturn_hx
+brown_hx	Rnf144b_hx
+brown_hx	Cnbd2_hx
+brown_hx	Wdr36_hx
+brown_hx	Trpc4ap_hx
+brown_hx	Pals2_hx
+brown_hx	Slc19a3_hx
+brown_hx	Parp12_hx
+brown_hx	Tbkbp1_hx
+brown_hx	Tctn1_hx
+brown_hx	Ss18l1_hx
+brown_hx	Rsad1_hx
+brown_hx	Snx22_hx
+brown_hx	Flicr_hx
+brown_hx	Ralyl_hx
+brown_hx	Htatip2_hx
+brown_hx	Ncoa5_hx
+brown_hx	Stk32a_hx
+brown_hx	Ginm1_hx
+brown_hx	Klhl42_hx
+brown_hx	Gpr176_hx
+brown_hx	Kcns1_hx
+brown_hx	Klhdc4_hx
+brown_hx	Suco_hx
+brown_hx	Skic2_hx
+brown_hx	Plppr2_hx
+brown_hx	Sh3bgr_hx
+brown_hx	Madd_hx
+brown_hx	Creg1_hx
+brown_hx	Iqcc_hx
+brown_hx	Iqsec3_hx
+brown_hx	Agbl2_hx
+brown_hx	Gpr161_hx
+brown_hx	Arhgef10l_hx
+brown_hx	Ccdc8_hx
+brown_hx	N4bp2l1_hx
+brown_hx	Tmtc4_hx
+brown_hx	Tspo_hx
+brown_hx	Mcm3_hx
+brown_hx	Hirip3_hx
+brown_hx	Maff_hx
+brown_hx	Garem1_hx
+brown_hx	Lrrtm3_hx
+brown_hx	Mamstr_hx
+brown_hx	Zfp536_hx
+brown_hx	Vwce_hx
+brown_hx	Irf2bp1_hx
+brown_hx	S100a1_hx
+brown_hx	Rin3_hx
+brown_hx	Lingo4_hx
+brown_hx	Cyb5d1_hx
+brown_hx	9030612E09Rik_hx
+brown_hx	Cetn4_hx
+brown_hx	Cenph_hx
+brown_hx	Preb_hx
+brown_hx	Bricd5_hx
+brown_hx	Tssc4_hx
+brown_hx	Mtmr11_hx
+brown_hx	Snx12_hx
+brown_hx	Hpcal4_hx
+brown_hx	Patl1_hx
+brown_hx	Tmem229b_hx
+brown_hx	Olig1_hx
+brown_hx	Pcdhb20_hx
+brown_hx	Pnma3_hx
+brown_hx	Bst2_hx
+brown_hx	Rpl14-ps1_hx
+brown_hx	Nqo2_hx
+brown_hx	Zfp445_hx
+brown_hx	Ticam1_hx
+brown_hx	Cltc_hx
+brown_hx	Neurl3_hx
+brown_hx	Ythdf3_hx
+brown_hx	Iho1_hx
+brown_hx	Phf13_hx
+brown_hx	Eno4_hx
+brown_hx	Mcmbp_hx
+brown_hx	A630023P12Rik_hx
+brown_hx	Fgfbp1_hx
+brown_hx	Zfp689_hx
+brown_hx	Iba57_hx
+brown_hx	Syt12_hx
+brown_hx	Cox7b2_hx
+brown_hx	Upk1b_hx
+brown_hx	Gpr3_hx
+brown_hx	Lig4_hx
+brown_hx	Rasd1_hx
+brown_hx	Ankrd55_hx
+brown_hx	Fzd2_hx
+brown_hx	Kcnb1_hx
+brown_hx	Prkaa1_hx
+brown_hx	Map10_hx
+brown_hx	Pcdhb9_hx
+brown_hx	Jagn1_hx
+brown_hx	Gfod1_hx
+brown_hx	Hspb3_hx
+brown_hx	Zfp786_hx
+brown_hx	Mest_hx
+brown_hx	D630039A03Rik_hx
+brown_hx	Zmat1_hx
+brown_hx	Aph1c_hx
+brown_hx	Slamf8_hx
+brown_hx	4930597O21Rik_hx
+brown_hx	Kics2_hx
+brown_hx	Lipg_hx
+brown_hx	Ech1_hx
+brown_hx	Ceacam10_hx
+brown_hx	Eapp_hx
+brown_hx	Cpsf3_hx
+brown_hx	Gm9945_hx
+brown_hx	Rab39_hx
+brown_hx	9130017K11Rik_hx
+brown_hx	Fam72a_hx
+brown_hx	Eif3b_hx
+brown_hx	Gm5468_hx
+brown_hx	Fxyd3_hx
+brown_hx	Aak1_hx
+brown_hx	Bcl2_hx
+brown_hx	Zfp746_hx
+brown_hx	Gsta2_hx
+brown_hx	Gm2531_hx
+brown_hx	Rpl21-ps12_hx
+brown_hx	Ccdc192_hx
+brown_hx	Fxyd2_hx
+brown_hx	Ndufs8_hx
+brown_hx	Dbp_hx
+brown_hx	Kcng2_hx
+brown_hx	Hydin_hx
+brown_hx	Cd2ap_hx
+brown_hx	Rai1_hx
+brown_hx	Cks2_hx
+brown_hx	Actg1_hx
+brown_hx	Gm22748_hx
+brown_hx	Gm24927_hx
+brown_hx	Ifitm7_hx
+brown_hx	Anks6_hx
+brown_hx	Zfp575_hx
+brown_hx	Usp51_hx
+brown_hx	Bmpr2_hx
+brown_hx	Blcap_hx
+brown_hx	Rpl31-ps8_hx
+brown_hx	Ccdc87_hx
+brown_hx	Gtf2f2_hx
+brown_hx	Afdn_hx
+brown_hx	Apol9b_hx
+brown_hx	Cd59b_hx
+brown_hx	Slc7a14_hx
+brown_hx	Epc2_hx
+brown_hx	Fbp1_hx
+brown_hx	Tmem132b_hx
+brown_hx	Rps12-ps10_hx
+brown_hx	Utp3_hx
+brown_hx	Tbpl1_hx
+brown_hx	Bscl2_hx
+brown_hx	Gm10343_hx
+brown_hx	Gm960_hx
+brown_hx	Psmb11_hx
+brown_hx	Fzd10os_hx
+brown_hx	Zfp449_hx
+brown_hx	Pgap1_hx
+brown_hx	Rbmxl2_hx
+brown_hx	Plekhf1_hx
+brown_hx	Gm10638_hx
+brown_hx	Gm10644_hx
+brown_hx	S100a16_hx
+brown_hx	Spc24_hx
+brown_hx	Mex3a_hx
+brown_hx	Gm16589_hx
+brown_hx	Mafb_hx
+brown_hx	Gas2l3_hx
+brown_hx	Pdzd7_hx
+brown_hx	Fjx1_hx
+brown_hx	Fnbp1_hx
+brown_hx	Gm10863_hx
+brown_hx	Msrb1_hx
+brown_hx	Gm24233_hx
+brown_hx	Cdk2ap1rt_hx
+brown_hx	ENSMUSG00000078484_hx
+brown_hx	Ube2v1_hx
+brown_hx	Hsbp1l1_hx
+brown_hx	Apela_hx
+brown_hx	Ccr5_hx
+brown_hx	Trim71_hx
+brown_hx	Pigb_hx
+brown_hx	Maea_hx
+brown_hx	B230307C23Rik_hx
+brown_hx	Gm12543_hx
+brown_hx	Gm14513_hx
+brown_hx	Gm13815_hx
+brown_hx	Gm4986_hx
+brown_hx	Gm12568_hx
+brown_hx	Gm13787_hx
+brown_hx	Gm11653_hx
+brown_hx	Gm15032_hx
+brown_hx	Gm14681_hx
+brown_hx	Gm15549_hx
+brown_hx	Gm14253_hx
+brown_hx	Gm12987_hx
+brown_hx	Gm7658_hx
+brown_hx	Gm13453_hx
+brown_hx	Gm13340_hx
+brown_hx	Gm13604_hx
+brown_hx	Gm5391_hx
+brown_hx	Gm16053_hx
+brown_hx	Gm6136_hx
+brown_hx	Gm5398_hx
+brown_hx	Abhd11os_hx
+brown_hx	Gm16070_hx
+brown_hx	Platr32_hx
+brown_hx	1700016P03Rik_hx
+brown_hx	Gm13092_hx
+brown_hx	Zfp703_hx
+brown_hx	Gm13483_hx
+brown_hx	Igf2os_hx
+brown_hx	Mccc1os_hx
+brown_hx	Gm14204_hx
+brown_hx	0610009E02Rik_hx
+brown_hx	Tmem74bos_hx
+brown_hx	Gm11948_hx
+brown_hx	4933407K13Rik_hx
+brown_hx	Gm15501_hx
+brown_hx	Gm11266_hx
+brown_hx	Gm15938_hx
+brown_hx	ENSMUSG00000088359_hx
+brown_hx	Gm16300_hx
+brown_hx	Lrrc10b_hx
+brown_hx	Gm20721_hx
+brown_hx	Tnnc1_hx
+brown_hx	Myh15_hx
+brown_hx	A930015D03Rik_hx
+brown_hx	Gpank1_hx
+brown_hx	Gm20387_hx
+brown_hx	AA465934_hx
+brown_hx	Gm5871_hx
+brown_hx	Gm8210_hx
+brown_hx	ENSMUSG00000094605_hx
+brown_hx	Gm14403_hx
+brown_hx	Gm10784_hx
+brown_hx	Dnah7a_hx
+brown_hx	Rps19-ps4_hx
+brown_hx	Galntl6_hx
+brown_hx	Gm4221_hx
+brown_hx	ENSMUSG00000097102_hx
+brown_hx	ENSMUSG00000097123_hx
+brown_hx	9330159M07Rik_hx
+brown_hx	A830009L08Rik_hx
+brown_hx	ENSMUSG00000097246_hx
+brown_hx	3110045C21Rik_hx
+brown_hx	1500002F19Rik_hx
+brown_hx	B230217O12Rik_hx
+brown_hx	5031434O11Rik_hx
+brown_hx	Gm3650_hx
+brown_hx	Gm9625_hx
+brown_hx	Gm27032_hx
+brown_hx	Gm28557_hx
+brown_hx	Gm29155_hx
+brown_hx	Gm17971_hx
+brown_hx	Gm36944_hx
+brown_hx	9430037O13Rik_hx
+brown_hx	2900022M07Rik_hx
+brown_hx	A430110C17Rik_hx
+brown_hx	Gm37463_hx
+brown_hx	Gm37848_hx
+brown_hx	Gm37786_hx
+brown_hx	Gm38353_hx
+brown_hx	Gm38036_hx
+brown_hx	Gm37726_hx
+brown_hx	Gm38115_hx
+brown_hx	Gm37019_hx
+brown_hx	E430014B02Rik_hx
+brown_hx	Pcdhgb1_hx
+brown_hx	Pcdha5_hx
+brown_hx	A330069K06Rik_hx
+brown_hx	Gm19335_hx
+brown_hx	Gm37534_hx
+brown_hx	Gm37411_hx
+brown_hx	Gm38372_hx
+brown_hx	Gm37115_hx
+brown_hx	Gm38039_hx
+brown_hx	Gm36997_hx
+brown_hx	Gm37064_hx
+brown_hx	Gm38178_hx
+brown_hx	Gm37268_hx
+brown_hx	Gm36401_hx
+brown_hx	Gm38082_hx
+brown_hx	Gm37067_hx
+brown_hx	Gm42701_hx
+brown_hx	4921539H07Rik_hx
+brown_hx	Gm5865_hx
+brown_hx	Gm43075_hx
+brown_hx	Gm43423_hx
+brown_hx	Gm43715_hx
+brown_hx	Gm42699_hx
+brown_hx	Gm43625_hx
+brown_hx	Gm42440_hx
+brown_hx	4932422M17Rik_hx
+brown_hx	Gm43544_hx
+brown_hx	Gm3724_hx
+brown_hx	Gm43463_hx
+brown_hx	Gm42607_hx
+brown_hx	9530097N15Rik_hx
+brown_hx	Gm43457_hx
+brown_hx	Gm42930_hx
+brown_hx	Gm42572_hx
+brown_hx	Gm43229_hx
+brown_hx	Gm40309_hx
+brown_hx	Gm44433_hx
+brown_hx	Gm44037_hx
+brown_hx	Gm44250_hx
+brown_hx	Gm3279_hx
+brown_hx	1700097M23Rik_hx
+brown_hx	Gm45053_hx
+brown_hx	9430064I24Rik_hx
+brown_hx	6720469O03Rik_hx
+brown_hx	Gm32647_hx
+brown_hx	Gm33989_hx
+brown_hx	Gm44616_hx
+brown_hx	Gm45069_hx
+brown_hx	Gm45221_hx
+brown_hx	Gm44953_hx
+brown_hx	Pafah1b1-ps2_hx
+brown_hx	Wdr97_hx
+brown_hx	Gm44700_hx
+brown_hx	Gm17931_hx
+brown_hx	A230057D06Rik_hx
+brown_hx	Bc1-ps1_hx
+ivory_hx	Dyrk1b_hx
+ivory_hx	Alkbh7_hx
+ivory_hx	Nqo1_hx
+ivory_hx	Pias4_hx
+ivory_hx	Fhl2_hx
+ivory_hx	Phax_hx
+ivory_hx	Tsacc_hx
+ivory_hx	Fuz_hx
+ivory_hx	Amotl1_hx
+ivory_hx	Bicc1_hx
+ivory_hx	Rnf5_hx
+ivory_hx	Ccdc59_hx
+ivory_hx	Actr6_hx
+ivory_hx	Rhbdf1_hx
+ivory_hx	Acsl6_hx
+ivory_hx	Mettl2_hx
+ivory_hx	Slc25a29_hx
+ivory_hx	Txndc15_hx
+ivory_hx	Poc5_hx
+ivory_hx	Hacl1_hx
+ivory_hx	Hmbox1_hx
+ivory_hx	Psmb5_hx
+ivory_hx	Cct5_hx
+ivory_hx	Gtpbp8_hx
+ivory_hx	Acy1_hx
+ivory_hx	Cacna1h_hx
+ivory_hx	Thada_hx
+ivory_hx	Ptpn2_hx
+ivory_hx	Ostf1_hx
+ivory_hx	Rce1_hx
+ivory_hx	Noc3l_hx
+ivory_hx	Gpr35_hx
+ivory_hx	Nifk_hx
+ivory_hx	Dars2_hx
+ivory_hx	Exosc9_hx
+ivory_hx	Clcc1_hx
+ivory_hx	Tmem68_hx
+ivory_hx	Nsmaf_hx
+ivory_hx	Col15a1_hx
+ivory_hx	Nol6_hx
+ivory_hx	Elp1_hx
+ivory_hx	Eif2b3_hx
+ivory_hx	Prxl2b_hx
+ivory_hx	Rchy1_hx
+ivory_hx	Gpn3_hx
+ivory_hx	Usp30_hx
+ivory_hx	Rita1_hx
+ivory_hx	Dtx1_hx
+ivory_hx	Zfp638_hx
+ivory_hx	Sumf1_hx
+ivory_hx	Far2_hx
+ivory_hx	Eri2_hx
+ivory_hx	Tmem9b_hx
+ivory_hx	Arhgef7_hx
+ivory_hx	Nek1_hx
+ivory_hx	Anxa2_hx
+ivory_hx	Man2c1_hx
+ivory_hx	Rims3_hx
+ivory_hx	Cep15_hx
+ivory_hx	Fan1_hx
+ivory_hx	Srsf2_hx
+ivory_hx	Exosc4_hx
+ivory_hx	Plcg2_hx
+ivory_hx	Mrps2_hx
+ivory_hx	Nfkbid_hx
+ivory_hx	Dcaf15_hx
+ivory_hx	Srrt_hx
+ivory_hx	Lzts3_hx
+ivory_hx	Vopp1_hx
+ivory_hx	Car14_hx
+ivory_hx	Tbce_hx
+ivory_hx	Tnrc18_hx
+ivory_hx	Gramd1b_hx
+ivory_hx	Metap1d_hx
+ivory_hx	Rimoc1_hx
+ivory_hx	Gnl3_hx
+ivory_hx	Ipo11_hx
+ivory_hx	Eml6_hx
+ivory_hx	Tmem201_hx
+ivory_hx	Zfp367_hx
+ivory_hx	Riox1_hx
+ivory_hx	Taf9b_hx
+ivory_hx	Plcxd3_hx
+ivory_hx	Pgrmc2_hx
+ivory_hx	Asap2_hx
+ivory_hx	Tceal5_hx
+ivory_hx	Cgrrf1_hx
+ivory_hx	Ptprn2_hx
+ivory_hx	Tatdn2_hx
+ivory_hx	Pwwp2b_hx
+ivory_hx	TrnC_hx
+ivory_hx	Numa1_hx
+ivory_hx	Lyar_hx
+ivory_hx	Zfp160_hx
+ivory_hx	Trim40_hx
+ivory_hx	Zfp976_hx
+ivory_hx	Gm2058_hx
+ivory_hx	Heg1_hx
+ivory_hx	Alg10b_hx
+ivory_hx	Ankrd63_hx
+ivory_hx	Gm11956_hx
+ivory_hx	Rbm12_hx
+ivory_hx	Rps19-ps11_hx
+ivory_hx	Gm8738_hx
+ivory_hx	ENSMUSG00000097618_hx
+ivory_hx	Gm38254_hx
+ivory_hx	Gm32200_hx
+ivory_hx	Gm8234_hx
+ivory_hx	Gm43318_hx
+ivory_hx	Gm42679_hx
+ivory_hx	2900064F13Rik_hx
+lightcyan1_hx	Wnt9a_hx
+lightcyan1_hx	Mmp14_hx
+lightcyan1_hx	Def8_hx
+lightcyan1_hx	Irf9_hx
+lightcyan1_hx	Abcf3_hx
+lightcyan1_hx	Itpkc_hx
+lightcyan1_hx	Grm3_hx
+lightcyan1_hx	Plod3_hx
+lightcyan1_hx	Cyba_hx
+lightcyan1_hx	Rad51c_hx
+lightcyan1_hx	Aldh1a2_hx
+lightcyan1_hx	Stk4_hx
+lightcyan1_hx	Nprl3_hx
+lightcyan1_hx	Tpgs1_hx
+lightcyan1_hx	Osbp2_hx
+lightcyan1_hx	Ccdc43_hx
+lightcyan1_hx	Mtr_hx
+lightcyan1_hx	Amph_hx
+lightcyan1_hx	Pde1b_hx
+lightcyan1_hx	Kif21a_hx
+lightcyan1_hx	Mylk_hx
+lightcyan1_hx	Strn_hx
+lightcyan1_hx	Mapre2_hx
+lightcyan1_hx	Pcyox1l_hx
+lightcyan1_hx	Gpr137_hx
+lightcyan1_hx	Xpnpep1_hx
+lightcyan1_hx	Trub1_hx
+lightcyan1_hx	Gli1_hx
+lightcyan1_hx	Poglut2_hx
+lightcyan1_hx	Scly_hx
+lightcyan1_hx	Actr3_hx
+lightcyan1_hx	Pou2f1_hx
+lightcyan1_hx	Rprd2_hx
+lightcyan1_hx	Acad10_hx
+lightcyan1_hx	Pxmp2_hx
+lightcyan1_hx	Cdk8_hx
+lightcyan1_hx	Agk_hx
+lightcyan1_hx	Srgap3_hx
+lightcyan1_hx	Zfp108_hx
+lightcyan1_hx	Dynlt3_hx
+lightcyan1_hx	Plxnb3_hx
+lightcyan1_hx	Smarca5_hx
+lightcyan1_hx	Copb2_hx
+lightcyan1_hx	Katnip_hx
+lightcyan1_hx	Fbxw8_hx
+lightcyan1_hx	Lss_hx
+lightcyan1_hx	Rpgrip1l_hx
+lightcyan1_hx	Fem1c_hx
+lightcyan1_hx	Atp6v0b_hx
+lightcyan1_hx	Hacd3_hx
+lightcyan1_hx	Fgd5_hx
+lightcyan1_hx	Phka1_hx
+lightcyan1_hx	Diaph2_hx
+lightcyan1_hx	Tiparp_hx
+lightcyan1_hx	Vezt_hx
+lightcyan1_hx	Igfbp7_hx
+lightcyan1_hx	Man1b1_hx
+lightcyan1_hx	Cib2_hx
+lightcyan1_hx	Nsrp1_hx
+lightcyan1_hx	Atp5mg_hx
+lightcyan1_hx	Rnf122_hx
+lightcyan1_hx	Myl6b_hx
+lightcyan1_hx	Zmym5_hx
+lightcyan1_hx	Emp3_hx
+lightcyan1_hx	Mrps28_hx
+lightcyan1_hx	Sh3kbp1_hx
+lightcyan1_hx	Hectd2_hx
+lightcyan1_hx	Rusc1_hx
+lightcyan1_hx	Ttc1_hx
+lightcyan1_hx	Gk5_hx
+lightcyan1_hx	Atf4_hx
+lightcyan1_hx	Dhx9_hx
+lightcyan1_hx	Foxf1_hx
+lightcyan1_hx	Mcts2_hx
+lightcyan1_hx	Taf10_hx
+lightcyan1_hx	Rnf208_hx
+lightcyan1_hx	Basp1_hx
+lightcyan1_hx	Arl4a_hx
+lightcyan1_hx	Commd3_hx
+lightcyan1_hx	Tmco1_hx
+lightcyan1_hx	Lamb2_hx
+lightcyan1_hx	Fancm_hx
+lightcyan1_hx	Fto_hx
+lightcyan1_hx	Arhgap24_hx
+lightcyan1_hx	Mamld1_hx
+lightcyan1_hx	Cfap418_hx
+lightcyan1_hx	Atp8b2_hx
+lightcyan1_hx	Ppp1r1b_hx
+lightcyan1_hx	Btbd3_hx
+lightcyan1_hx	Mro_hx
+lightcyan1_hx	Gm10167_hx
+lightcyan1_hx	Mpzl3_hx
+lightcyan1_hx	Zfp804a_hx
+lightcyan1_hx	Snx29_hx
+lightcyan1_hx	Gm4787_hx
+lightcyan1_hx	Mgst2_hx
+lightcyan1_hx	Tmem203_hx
+lightcyan1_hx	Smarcd2_hx
+lightcyan1_hx	H2-T10_hx
+lightcyan1_hx	Gm13675_hx
+lightcyan1_hx	Gm14776_hx
+lightcyan1_hx	Gm12122_hx
+lightcyan1_hx	Gm13446_hx
+lightcyan1_hx	Gm13835_hx
+lightcyan1_hx	Gm21814_hx
+lightcyan1_hx	Gm26756_hx
+lightcyan1_hx	Gm4575_hx
+lightcyan1_hx	Gm2464_hx
+lightcyan1_hx	Gm37628_hx
+lightcyan1_hx	Gm37524_hx
+lightcyan1_hx	Gm43010_hx
+lightcyan1_hx	2900064K03Rik_hx
+lightcyan1_hx	Gm43341_hx
+lightcyan1_hx	Gm45124_hx
+lightcyan1_hx	B230209E15Rik_hx
+grey60_hx	Cdh4_hx
+grey60_hx	Loxl3_hx
+grey60_hx	Gmcl1_hx
+grey60_hx	Rab34_hx
+grey60_hx	Baz1b_hx
+grey60_hx	Tmem39a_hx
+grey60_hx	Dgcr2_hx
+grey60_hx	Abhd17a_hx
+grey60_hx	Mob3a_hx
+grey60_hx	Rad23a_hx
+grey60_hx	Cdip1_hx
+grey60_hx	Myo9b_hx
+grey60_hx	Gata6_hx
+grey60_hx	Tpr_hx
+grey60_hx	Tmbim1_hx
+grey60_hx	Runx1t1_hx
+grey60_hx	Dio2_hx
+grey60_hx	Fzd3_hx
+grey60_hx	Fbxw9_hx
+grey60_hx	Dynlt2b_hx
+grey60_hx	Ankrd52_hx
+grey60_hx	Dnajb9_hx
+grey60_hx	Endog_hx
+grey60_hx	Aph1a_hx
+grey60_hx	E2f3_hx
+grey60_hx	Etaa1_hx
+grey60_hx	Rpl19_hx
+grey60_hx	Ttpal_hx
+grey60_hx	Pitpna_hx
+grey60_hx	Plod1_hx
+grey60_hx	Atp6v1e1_hx
+grey60_hx	Fkbp8_hx
+grey60_hx	Polr2i_hx
+grey60_hx	Mical1_hx
+grey60_hx	Prep_hx
+grey60_hx	Poc1b_hx
+grey60_hx	Sgk1_hx
+grey60_hx	Vsir_hx
+grey60_hx	Mpg_hx
+grey60_hx	Ahsa2_hx
+grey60_hx	Tnip1_hx
+grey60_hx	Ascc2_hx
+grey60_hx	Polm_hx
+grey60_hx	Bcap29_hx
+grey60_hx	Kif3c_hx
+grey60_hx	Trim47_hx
+grey60_hx	Fbxl20_hx
+grey60_hx	Myh10_hx
+grey60_hx	Strn3_hx
+grey60_hx	4930447C04Rik_hx
+grey60_hx	Aopep_hx
+grey60_hx	Ap3b1_hx
+grey60_hx	Ppwd1_hx
+grey60_hx	Fam107a_hx
+grey60_hx	Sh3bp5_hx
+grey60_hx	Parg_hx
+grey60_hx	Naa16_hx
+grey60_hx	Ephx2_hx
+grey60_hx	Trio_hx
+grey60_hx	Sybu_hx
+grey60_hx	Samm50_hx
+grey60_hx	Rogdi_hx
+grey60_hx	St3gal6_hx
+grey60_hx	Ndufb4_hx
+grey60_hx	Lima1_hx
+grey60_hx	Marchf5_hx
+grey60_hx	Cnpy3_hx
+grey60_hx	Nrxn1_hx
+grey60_hx	Mtpap_hx
+grey60_hx	Il33_hx
+grey60_hx	Zdhhc6_hx
+grey60_hx	Ndufb8_hx
+grey60_hx	Twnk_hx
+grey60_hx	Btrc_hx
+grey60_hx	Kcnip2_hx
+grey60_hx	Sbds_hx
+grey60_hx	Nab2_hx
+grey60_hx	Tubgcp2_hx
+grey60_hx	Aasdhppt_hx
+grey60_hx	Nif3l1_hx
+grey60_hx	Wnt10a_hx
+grey60_hx	Ecel1_hx
+grey60_hx	Ngef_hx
+grey60_hx	Lrrfip1_hx
+grey60_hx	Ubxn4_hx
+grey60_hx	Sdccag8_hx
+grey60_hx	Dcaf6_hx
+grey60_hx	Angel2_hx
+grey60_hx	Ddr2_hx
+grey60_hx	Niban2_hx
+grey60_hx	Miga2_hx
+grey60_hx	Arl6ip6_hx
+grey60_hx	Ly75_hx
+grey60_hx	Arl14ep_hx
+grey60_hx	Tspan18_hx
+grey60_hx	Mdk_hx
+grey60_hx	Rasgrp1_hx
+grey60_hx	Stard7_hx
+grey60_hx	Dennd2d_hx
+grey60_hx	Olfm3_hx
+grey60_hx	Gpr89_hx
+grey60_hx	Ctsk_hx
+grey60_hx	Sgip1_hx
+grey60_hx	Atg4c_hx
+grey60_hx	Ctps1_hx
+grey60_hx	Mfsd2a_hx
+grey60_hx	Tomm7_hx
+grey60_hx	Miip_hx
+grey60_hx	Rfc1_hx
+grey60_hx	Mthfd2l_hx
+grey60_hx	Tmed2_hx
+grey60_hx	Zcchc8_hx
+grey60_hx	Stx2_hx
+grey60_hx	Golga3_hx
+grey60_hx	Mad1l1_hx
+grey60_hx	Auts2_hx
+grey60_hx	Ino80b_hx
+grey60_hx	Ccdc77_hx
+grey60_hx	Lrp6_hx
+grey60_hx	Aebp2_hx
+grey60_hx	Slc8a2_hx
+grey60_hx	U2af2_hx
+grey60_hx	Xylt1_hx
+grey60_hx	Ino80e_hx
+grey60_hx	Mrpl17_hx
+grey60_hx	Polr3e_hx
+grey60_hx	Cetn2_hx
+grey60_hx	Lamp1_hx
+grey60_hx	Txnl4b_hx
+grey60_hx	Nudt21_hx
+grey60_hx	Hsd11b2_hx
+grey60_hx	Cul5_hx
+grey60_hx	Mns1_hx
+grey60_hx	Phip_hx
+grey60_hx	Faim_hx
+grey60_hx	Rbm6_hx
+grey60_hx	Gtf3c1_hx
+grey60_hx	Cip2a_hx
+grey60_hx	Dpyd_hx
+grey60_hx	Tasor2_hx
+grey60_hx	Rxfp1_hx
+grey60_hx	Hdlbp_hx
+grey60_hx	Ccs_hx
+grey60_hx	Ccnd3_hx
+grey60_hx	Irf2bpl_hx
+grey60_hx	Efcab14_hx
+grey60_hx	Atp5pd_hx
+grey60_hx	Zyg11b_hx
+grey60_hx	Ttyh2_hx
+grey60_hx	Zfr2_hx
+grey60_hx	Zc4h2_hx
+grey60_hx	Arhgap5_hx
+grey60_hx	Supt16_hx
+grey60_hx	R3hdm4_hx
+grey60_hx	Metap2_hx
+grey60_hx	Sostdc1_hx
+grey60_hx	Ndufa13_hx
+grey60_hx	Armh4_hx
+grey60_hx	Cnot1_hx
+grey60_hx	Arhgap21_hx
+grey60_hx	Acaa2_hx
+grey60_hx	C1qc_hx
+grey60_hx	Prmt9_hx
+grey60_hx	Zfp692_hx
+grey60_hx	Actr5_hx
+grey60_hx	Cdkn2aip_hx
+grey60_hx	Fbxo8_hx
+grey60_hx	Fbxo25_hx
+grey60_hx	Herc1_hx
+grey60_hx	Wdr26_hx
+grey60_hx	Stim2_hx
+grey60_hx	Gpatch2_hx
+grey60_hx	Tgfb2_hx
+grey60_hx	Lgi2_hx
+grey60_hx	Gnaz_hx
+grey60_hx	Gbp7_hx
+grey60_hx	Etfrf1_hx
+grey60_hx	Limd2_hx
+grey60_hx	Scamp5_hx
+grey60_hx	Kcna2_hx
+grey60_hx	Pde9a_hx
+grey60_hx	Mfsd6_hx
+grey60_hx	Elmod1_hx
+grey60_hx	Sh2b3_hx
+grey60_hx	Stk40_hx
+grey60_hx	Rgs8_hx
+grey60_hx	Naa25_hx
+grey60_hx	Aqp11_hx
+grey60_hx	Lhfpl4_hx
+grey60_hx	Synpo_hx
+grey60_hx	Gjc2_hx
+grey60_hx	Sorcs1_hx
+grey60_hx	Kcnj4_hx
+grey60_hx	Ackr3_hx
+grey60_hx	Tubb2b_hx
+grey60_hx	Tmem86b_hx
+grey60_hx	4933415A04Rik_hx
+grey60_hx	Yod1_hx
+grey60_hx	Hrk_hx
+grey60_hx	Tmem198b_hx
+grey60_hx	Mc4r_hx
+grey60_hx	Arid4a_hx
+grey60_hx	Nwd1_hx
+grey60_hx	Syngr2_hx
+grey60_hx	Mrgpre_hx
+grey60_hx	Mblac1_hx
+grey60_hx	Ccnq_hx
+grey60_hx	Zfp672_hx
+grey60_hx	Arhgap23_hx
+grey60_hx	Fam118b_hx
+grey60_hx	Tvp23a_hx
+grey60_hx	Cited1_hx
+grey60_hx	Islr2_hx
+grey60_hx	Flrt3_hx
+grey60_hx	Siglech_hx
+grey60_hx	Rps19bp1_hx
+grey60_hx	Ezr_hx
+grey60_hx	Zfp952_hx
+grey60_hx	Tcf4_hx
+grey60_hx	Lifr_hx
+grey60_hx	Ano9_hx
+grey60_hx	Afp_hx
+grey60_hx	Pard6g_hx
+grey60_hx	Lrif1_hx
+grey60_hx	AI987944_hx
+grey60_hx	Lig1_hx
+grey60_hx	C330011M18Rik_hx
+grey60_hx	Nsd2_hx
+grey60_hx	Arl16_hx
+grey60_hx	Abat_hx
+grey60_hx	Kcnc1_hx
+grey60_hx	Hnrnpa3_hx
+grey60_hx	Naa38_hx
+grey60_hx	Tonsl_hx
+grey60_hx	Ptk2b_hx
+grey60_hx	Rps26-ps1_hx
+grey60_hx	H3f3a_hx
+grey60_hx	Rps12_hx
+grey60_hx	Rps15a-ps5_hx
+grey60_hx	Htra2_hx
+grey60_hx	Gm13192_hx
+grey60_hx	9930111J21Rik2_hx
+grey60_hx	Cfap210_hx
+grey60_hx	Zfp946_hx
+grey60_hx	Ttll9_hx
+grey60_hx	Pms2_hx
+grey60_hx	Gm14830_hx
+grey60_hx	Gm15793_hx
+grey60_hx	Gm15773_hx
+grey60_hx	Gm4459_hx
+grey60_hx	Tmem240_hx
+grey60_hx	B930095G15Rik_hx
+grey60_hx	Wipf3_hx
+grey60_hx	2810403D21Rik_hx
+grey60_hx	Gm15860_hx
+grey60_hx	Slc5a3_hx
+grey60_hx	0610040B10Rik_hx
+grey60_hx	Mfsd14a_hx
+grey60_hx	Snhg9_hx
+grey60_hx	Gm27010_hx
+grey60_hx	1500015A07Rik_hx
+grey60_hx	Gm7266_hx
+grey60_hx	Gm12669_hx
+grey60_hx	Gm29488_hx
+grey60_hx	Pcdhgc5_hx
+grey60_hx	Gm37238_hx
+grey60_hx	Gm37949_hx
+grey60_hx	Gm37606_hx
+grey60_hx	Gm37895_hx
+grey60_hx	Gm42448_hx
+grey60_hx	2510017J16Rik_hx
+grey60_hx	Gm42772_hx
+grey60_hx	Gm43166_hx
+grey60_hx	Gm42790_hx
+grey60_hx	Rpl7-ps7_hx
+grey60_hx	Gm43884_hx
+grey60_hx	Gm44797_hx
+grey60_hx	Gm44562_hx
+brown4_hx	Gnai3_hx
+brown4_hx	Dnajc5_hx
+brown4_hx	Poldip2_hx
+brown4_hx	Zfp81_hx
+brown4_hx	Rps9_hx
+brown4_hx	Aprt_hx
+brown4_hx	Neu1_hx
+brown4_hx	Zfp655_hx
+brown4_hx	Mcu_hx
+brown4_hx	Prrt1_hx
+brown4_hx	Lama5_hx
+brown4_hx	Syt14_hx
+brown4_hx	Ro60_hx
+brown4_hx	Trim37_hx
+brown4_hx	Wasf1_hx
+brown4_hx	Abtb3_hx
+brown4_hx	Dnajb12_hx
+brown4_hx	Pes1_hx
+brown4_hx	Cacna1g_hx
+brown4_hx	Ap4s1_hx
+brown4_hx	Marveld2_hx
+brown4_hx	Arhgef3_hx
+brown4_hx	Mipep_hx
+brown4_hx	Lsg1_hx
+brown4_hx	Larp4_hx
+brown4_hx	Pla2g7_hx
+brown4_hx	Nelfe_hx
+brown4_hx	Pcgf5_hx
+brown4_hx	Pcx_hx
+brown4_hx	Spindoc_hx
+brown4_hx	Ints4_hx
+brown4_hx	Mcrip2_hx
+brown4_hx	Inpp1_hx
+brown4_hx	Capn10_hx
+brown4_hx	Syt2_hx
+brown4_hx	Tmem141_hx
+brown4_hx	Prss12_hx
+brown4_hx	Fam76a_hx
+brown4_hx	Casp9_hx
+brown4_hx	Ctnnbip1_hx
+brown4_hx	Pxn_hx
+brown4_hx	Cald1_hx
+brown4_hx	Cbx3_hx
+brown4_hx	Sh3gl3_hx
+brown4_hx	Itm2a_hx
+brown4_hx	Mmp2_hx
+brown4_hx	Ccl17_hx
+brown4_hx	Ctsh_hx
+brown4_hx	Traip_hx
+brown4_hx	Colgalt2_hx
+brown4_hx	Polr2f_hx
+brown4_hx	Nrxn2_hx
+brown4_hx	Pxk_hx
+brown4_hx	Sbf1_hx
+brown4_hx	Psd_hx
+brown4_hx	Dennd11_hx
+brown4_hx	Olfml2b_hx
+brown4_hx	Mesd_hx
+brown4_hx	Cul7_hx
+brown4_hx	Tm6sf1_hx
+brown4_hx	Golga4_hx
+brown4_hx	Soga3_hx
+brown4_hx	Osbpl2_hx
+brown4_hx	Rimklb_hx
+brown4_hx	Slc16a11_hx
+brown4_hx	Fmod_hx
+brown4_hx	Pbrm1_hx
+brown4_hx	Ctf1_hx
+brown4_hx	Hoxd11_hx
+brown4_hx	Dpm3_hx
+brown4_hx	Aida_hx
+brown4_hx	Smim7_hx
+brown4_hx	Tmem60_hx
+brown4_hx	Thtpa_hx
+brown4_hx	Nxph3_hx
+brown4_hx	Cldn12_hx
+brown4_hx	Acap2_hx
+brown4_hx	Proser1_hx
+brown4_hx	Iqcj_hx
+brown4_hx	Pfdn4_hx
+brown4_hx	Gan_hx
+brown4_hx	Ppp2r5d_hx
+brown4_hx	Exosc5_hx
+brown4_hx	Nol4l_hx
+brown4_hx	Snrpa_hx
+brown4_hx	Tmem167b_hx
+brown4_hx	Armc2_hx
+brown4_hx	Catip_hx
+brown4_hx	Alg6_hx
+brown4_hx	BC025920_hx
+brown4_hx	Selenom_hx
+brown4_hx	Perm1_hx
+brown4_hx	Gm14853_hx
+brown4_hx	Gm12846_hx
+brown4_hx	Rpl17-ps10_hx
+brown4_hx	Gm13668_hx
+brown4_hx	Gm15506_hx
+brown4_hx	Pet100_hx
+brown4_hx	Gm22540_hx
+brown4_hx	Smim13_hx
+brown4_hx	Gpr137b-ps_hx
+brown4_hx	2610306M01Rik_hx
+brown4_hx	Snrpn_hx
+brown4_hx	Gm44242_hx
+brown4_hx	Gm44518_hx
+salmon_hx	Dlat_hx
+salmon_hx	Pemt_hx
+salmon_hx	Tpd52l2_hx
+salmon_hx	Fmr1_hx
+salmon_hx	Sync_hx
+salmon_hx	Coasy_hx
+salmon_hx	Ocel1_hx
+salmon_hx	Adprh_hx
+salmon_hx	Cavin1_hx
+salmon_hx	Emg1_hx
+salmon_hx	Gab2_hx
+salmon_hx	Apba3_hx
+salmon_hx	Jkamp_hx
+salmon_hx	Fbxo11_hx
+salmon_hx	Ddx39a_hx
+salmon_hx	Cdt1_hx
+salmon_hx	Ctnnb1_hx
+salmon_hx	Ncaph2_hx
+salmon_hx	Rnmt_hx
+salmon_hx	Vav2_hx
+salmon_hx	Tmem167_hx
+salmon_hx	Fbxw5_hx
+salmon_hx	Arnt_hx
+salmon_hx	Anp32e_hx
+salmon_hx	Eps8_hx
+salmon_hx	Slc12a5_hx
+salmon_hx	Ksr1_hx
+salmon_hx	Kdm6b_hx
+salmon_hx	Ncor1_hx
+salmon_hx	Chtf18_hx
+salmon_hx	Sar1a_hx
+salmon_hx	Tbata_hx
+salmon_hx	Appl2_hx
+salmon_hx	Hint1_hx
+salmon_hx	Mdh1_hx
+salmon_hx	Cdkn2aipnl_hx
+salmon_hx	Guk1_hx
+salmon_hx	Dnajc27_hx
+salmon_hx	Rab10_hx
+salmon_hx	Ddx52_hx
+salmon_hx	Rhbdf2_hx
+salmon_hx	Top2a_hx
+salmon_hx	Ahsa1_hx
+salmon_hx	Trim9_hx
+salmon_hx	Mnat1_hx
+salmon_hx	Wdr37_hx
+salmon_hx	Mlh3_hx
+salmon_hx	Angel1_hx
+salmon_hx	Cinp_hx
+salmon_hx	Zkscan3_hx
+salmon_hx	Spin1_hx
+salmon_hx	Dapk1_hx
+salmon_hx	Cspg4b_hx
+salmon_hx	Phf7_hx
+salmon_hx	Anxa8_hx
+salmon_hx	Bmp1_hx
+salmon_hx	Myo10_hx
+salmon_hx	Pop1_hx
+salmon_hx	Cpox_hx
+salmon_hx	Ccdc116_hx
+salmon_hx	Ppil2_hx
+salmon_hx	Ccdc14_hx
+salmon_hx	Tra2b_hx
+salmon_hx	Usp25_hx
+salmon_hx	Tfeb_hx
+salmon_hx	Glo1_hx
+salmon_hx	Abcg1_hx
+salmon_hx	Myl12a_hx
+salmon_hx	Cdc23_hx
+salmon_hx	Npc1_hx
+salmon_hx	Dcp2_hx
+salmon_hx	Impa2_hx
+salmon_hx	Tcof1_hx
+salmon_hx	Tmx3_hx
+salmon_hx	Zfhx4_hx
+salmon_hx	Ube3a_hx
+salmon_hx	Faap100_hx
+salmon_hx	Pias2_hx
+salmon_hx	Atp5f1a_hx
+salmon_hx	Bet1l_hx
+salmon_hx	Ifitm1_hx
+salmon_hx	Tmem192_hx
+salmon_hx	Slc15a1_hx
+salmon_hx	Hspa4l_hx
+salmon_hx	Nop16_hx
+salmon_hx	Gsta3_hx
+salmon_hx	Rbbp5_hx
+salmon_hx	Mptx1_hx
+salmon_hx	Meig1_hx
+salmon_hx	Rgs5_hx
+salmon_hx	Chrna1_hx
+salmon_hx	Nop10_hx
+salmon_hx	Trim44_hx
+salmon_hx	Harbi1_hx
+salmon_hx	Mal_hx
+salmon_hx	Ndufaf5_hx
+salmon_hx	Ampd2_hx
+salmon_hx	Dkk2_hx
+salmon_hx	Tlcd4_hx
+salmon_hx	Tspan5_hx
+salmon_hx	Smc2_hx
+salmon_hx	Zdhhc21_hx
+salmon_hx	Spaar_hx
+salmon_hx	Exo5_hx
+salmon_hx	Utp11_hx
+salmon_hx	Arhgef19_hx
+salmon_hx	Xrcc2_hx
+salmon_hx	Rpl22_hx
+salmon_hx	Klhl7_hx
+salmon_hx	Dvl1_hx
+salmon_hx	Htt_hx
+salmon_hx	Cwh43_hx
+salmon_hx	Ppargc1a_hx
+salmon_hx	Tada2b_hx
+salmon_hx	Lias_hx
+salmon_hx	Hsd17b11_hx
+salmon_hx	Eif2b1_hx
+salmon_hx	Cct6a_hx
+salmon_hx	Ulk1_hx
+salmon_hx	St7_hx
+salmon_hx	Ccz1_hx
+salmon_hx	Flt1_hx
+salmon_hx	Luc7l2_hx
+salmon_hx	Copg1_hx
+salmon_hx	Hmces_hx
+salmon_hx	Gabarapl1_hx
+salmon_hx	Ttyh1_hx
+salmon_hx	Ndufc2_hx
+salmon_hx	Aqp8_hx
+salmon_hx	Thumpd1_hx
+salmon_hx	Ndufb11_hx
+salmon_hx	Naxd_hx
+salmon_hx	Saraf_hx
+salmon_hx	Ntpcr_hx
+salmon_hx	Ciao2b_hx
+salmon_hx	Barx2_hx
+salmon_hx	Tagln_hx
+salmon_hx	Commd4_hx
+salmon_hx	Adamts7_hx
+salmon_hx	Tfdp2_hx
+salmon_hx	Nt5e_hx
+salmon_hx	Syncrip_hx
+salmon_hx	Dync1li1_hx
+salmon_hx	Dhx30_hx
+salmon_hx	Pdcd6ip_hx
+salmon_hx	Scn5a_hx
+salmon_hx	Prkar2a_hx
+salmon_hx	Chrm1_hx
+salmon_hx	Smap2_hx
+salmon_hx	Fbxo21_hx
+salmon_hx	Card10_hx
+salmon_hx	Mif_hx
+salmon_hx	Arhgap44_hx
+salmon_hx	Cep350_hx
+salmon_hx	Cct2_hx
+salmon_hx	Farp2_hx
+salmon_hx	Pomt2_hx
+salmon_hx	Zbbx_hx
+salmon_hx	Ccdc106_hx
+salmon_hx	Hectd1_hx
+salmon_hx	Ccl12_hx
+salmon_hx	Ugt2a3_hx
+salmon_hx	Pknox2_hx
+salmon_hx	Rab3gap1_hx
+salmon_hx	Srp72_hx
+salmon_hx	Arhgap26_hx
+salmon_hx	Etl4_hx
+salmon_hx	Nop14_hx
+salmon_hx	Setd7_hx
+salmon_hx	Fam91a1_hx
+salmon_hx	Hand1_hx
+salmon_hx	Uggt1_hx
+salmon_hx	Osbpl5_hx
+salmon_hx	Fam13a_hx
+salmon_hx	Ptger2_hx
+salmon_hx	Pced1a_hx
+salmon_hx	Rpl10a_hx
+salmon_hx	Kmt2c_hx
+salmon_hx	Dlec1_hx
+salmon_hx	Tmem237_hx
+salmon_hx	Iffo1_hx
+salmon_hx	Setd1b_hx
+salmon_hx	Josd2_hx
+salmon_hx	Mapkap1_hx
+salmon_hx	Zscan2_hx
+salmon_hx	Mycbpap_hx
+salmon_hx	Ube2h_hx
+salmon_hx	Arid4b_hx
+salmon_hx	Prrc2b_hx
+salmon_hx	Sec24c_hx
+salmon_hx	Atp8b1_hx
+salmon_hx	Zer1_hx
+salmon_hx	Slc26a11_hx
+salmon_hx	Cited2_hx
+salmon_hx	Pak5_hx
+salmon_hx	Cbx4_hx
+salmon_hx	Zfhx2_hx
+salmon_hx	Siah1b_hx
+salmon_hx	Wwp1_hx
+salmon_hx	Atg2b_hx
+salmon_hx	Rap1gap_hx
+salmon_hx	Pum3_hx
+salmon_hx	Meis3_hx
+salmon_hx	Ccnb1_hx
+salmon_hx	Fbxo2_hx
+salmon_hx	Inava_hx
+salmon_hx	Tmcc2_hx
+salmon_hx	Klhl23_hx
+salmon_hx	Fcmr_hx
+salmon_hx	Asxl1_hx
+salmon_hx	Alkbh5_hx
+salmon_hx	Shisal2b_hx
+salmon_hx	Gpr153_hx
+salmon_hx	Nemp2_hx
+salmon_hx	Niban3_hx
+salmon_hx	Lysmd4_hx
+salmon_hx	ENSMUSG00000044060_hx
+salmon_hx	Wfikkn2_hx
+salmon_hx	Bod1_hx
+salmon_hx	Csrnp3_hx
+salmon_hx	Ttc41_hx
+salmon_hx	Napepld_hx
+salmon_hx	Prkce_hx
+salmon_hx	Sh2d5_hx
+salmon_hx	B3gat1_hx
+salmon_hx	Gldn_hx
+salmon_hx	Kctd11_hx
+salmon_hx	Ttc6_hx
+salmon_hx	Brox_hx
+salmon_hx	C2cd3_hx
+salmon_hx	Dynlrb1_hx
+salmon_hx	A430005L14Rik_hx
+salmon_hx	Ly6g2_hx
+salmon_hx	Lonp2_hx
+salmon_hx	Fbxo10_hx
+salmon_hx	Gng7_hx
+salmon_hx	Zfp260_hx
+salmon_hx	Hoxb13_hx
+salmon_hx	Tmem17_hx
+salmon_hx	Lgals3_hx
+salmon_hx	Tnfsf15_hx
+salmon_hx	Gpatch11_hx
+salmon_hx	2310061I04Rik_hx
+salmon_hx	Ftl1_hx
+salmon_hx	Insl6_hx
+salmon_hx	Six1_hx
+salmon_hx	Zbtb22_hx
+salmon_hx	H1f4_hx
+salmon_hx	Cd209f_hx
+salmon_hx	Rft1_hx
+salmon_hx	Cfap300_hx
+salmon_hx	3110082I17Rik_hx
+salmon_hx	Ubxn7_hx
+salmon_hx	Sh2d4a_hx
+salmon_hx	Shisa6_hx
+salmon_hx	Fam83e_hx
+salmon_hx	Spcs3_hx
+salmon_hx	Zfp867_hx
+salmon_hx	Lrrc8c_hx
+salmon_hx	Zfp182_hx
+salmon_hx	Gm49359_hx
+salmon_hx	Nell1_hx
+salmon_hx	Cdca7_hx
+salmon_hx	Gm9996_hx
+salmon_hx	Ero1b_hx
+salmon_hx	Megf6_hx
+salmon_hx	Wdr91_hx
+salmon_hx	Grin2a_hx
+salmon_hx	Gm10069_hx
+salmon_hx	Zfp930_hx
+salmon_hx	Ssbp3_hx
+salmon_hx	Serpina10_hx
+salmon_hx	Rpl13a-ps1_hx
+salmon_hx	Ncs1_hx
+salmon_hx	Naa15_hx
+salmon_hx	Zfp947_hx
+salmon_hx	Sox11_hx
+salmon_hx	Snord118_hx
+salmon_hx	ENSMUSG00000065037_hx
+salmon_hx	Rnu12_hx
+salmon_hx	Spag8_hx
+salmon_hx	Ecsit_hx
+salmon_hx	Gm3695_hx
+salmon_hx	Ninl_hx
+salmon_hx	Trp53i11_hx
+salmon_hx	Psmb3_hx
+salmon_hx	Zfp125_hx
+salmon_hx	Cacng7_hx
+salmon_hx	Gpr179_hx
+salmon_hx	Hrct1_hx
+salmon_hx	Smim15_hx
+salmon_hx	Egr4_hx
+salmon_hx	Gm10044_hx
+salmon_hx	Gm10433_hx
+salmon_hx	Stmp1_hx
+salmon_hx	Gm13306_hx
+salmon_hx	Serf2_hx
+salmon_hx	Lcmt2_hx
+salmon_hx	Aarsd1_hx
+salmon_hx	Gm10923_hx
+salmon_hx	Zfp990_hx
+salmon_hx	Spaca6_hx
+salmon_hx	C920021L13Rik_hx
+salmon_hx	Gm14021_hx
+salmon_hx	Rpl17-ps5_hx
+salmon_hx	Gm12331_hx
+salmon_hx	Gm12390_hx
+salmon_hx	Gm7429_hx
+salmon_hx	Gm12229_hx
+salmon_hx	Gm14816_hx
+salmon_hx	Gm14336_hx
+salmon_hx	Gm10601_hx
+salmon_hx	Gm2986_hx
+salmon_hx	Gm12042_hx
+salmon_hx	Gm12367_hx
+salmon_hx	Taco1os_hx
+salmon_hx	C530005A16Rik_hx
+salmon_hx	Gm15952_hx
+salmon_hx	Gm2415_hx
+salmon_hx	Gm15500_hx
+salmon_hx	Man2c1os_hx
+salmon_hx	Gm13016_hx
+salmon_hx	5530601H04Rik_hx
+salmon_hx	BC037032_hx
+salmon_hx	Gm16008_hx
+salmon_hx	A330041J22Rik_hx
+salmon_hx	LOC118568483_hx
+salmon_hx	ENSMUSG00000087785_hx
+salmon_hx	ENSMUSG00000090108_hx
+salmon_hx	Ifi203-ps_hx
+salmon_hx	Gm17203_hx
+salmon_hx	Vgll3_hx
+salmon_hx	Gm20522_hx
+salmon_hx	Gm20646_hx
+salmon_hx	H2bc13_hx
+salmon_hx	Syne1_hx
+salmon_hx	Pvt1_hx
+salmon_hx	ENSMUSG00000097479_hx
+salmon_hx	4933406C10Rik_hx
+salmon_hx	G730003C15Rik_hx
+salmon_hx	Gm17322_hx
+salmon_hx	Gm17597_hx
+salmon_hx	4921514A10Rik_hx
+salmon_hx	A330033J07Rik_hx
+salmon_hx	Gm10561_hx
+salmon_hx	Gm29483_hx
+salmon_hx	Gm28723_hx
+salmon_hx	Rps27a-ps1_hx
+salmon_hx	Gm36935_hx
+salmon_hx	Pcdhga9_hx
+salmon_hx	Gm56350_hx
+salmon_hx	7530428D23Rik_hx
+salmon_hx	Gm37409_hx
+salmon_hx	Gm37834_hx
+salmon_hx	6030460B20Rik_hx
+salmon_hx	Gm37897_hx
+salmon_hx	Gm8407_hx
+salmon_hx	Gm20045_hx
+salmon_hx	Gm37880_hx
+salmon_hx	Gm37879_hx
+salmon_hx	Gm38065_hx
+salmon_hx	Gm37161_hx
+salmon_hx	Gm42421_hx
+salmon_hx	Gm38413_hx
+salmon_hx	Gm43149_hx
+salmon_hx	Gm42591_hx
+salmon_hx	Gm42933_hx
+salmon_hx	Gm42994_hx
+salmon_hx	Gm34583_hx
+salmon_hx	Gm18913_hx
+salmon_hx	Gm44175_hx
+salmon_hx	Gm45033_hx
+salmon_hx	Gm20083_hx
+salmon_hx	Gm45183_hx
+red_hx	Krit1_hx
+red_hx	Hars1_hx
+red_hx	Ubl3_hx
+red_hx	Sdf2_hx
+red_hx	Peg3_hx
+red_hx	Zim1_hx
+red_hx	Tmem161a_hx
+red_hx	Akap8l_hx
+red_hx	Mea1_hx
+red_hx	Btbd6_hx
+red_hx	Cdkn1b_hx
+red_hx	Sult2b1_hx
+red_hx	Btbd2_hx
+red_hx	Mast2_hx
+red_hx	Calr_hx
+red_hx	Tax1bp1_hx
+red_hx	Dgkq_hx
+red_hx	Prdx2_hx
+red_hx	Zfp287_hx
+red_hx	Slc1a3_hx
+red_hx	Eif4g2_hx
+red_hx	Smpd4_hx
+red_hx	Ccdc159_hx
+red_hx	Chrd_hx
+red_hx	Psmd2_hx
+red_hx	Scube2_hx
+red_hx	Ccdc124_hx
+red_hx	Rhoa_hx
+red_hx	Abhd8_hx
+red_hx	Relt_hx
+red_hx	Rps18_hx
+red_hx	Hipk1_hx
+red_hx	Vps72_hx
+red_hx	Bmp7_hx
+red_hx	Ascl2_hx
+red_hx	Bcr_hx
+red_hx	Pou6f1_hx
+red_hx	Tango2_hx
+red_hx	Ehmt2_hx
+red_hx	Sash1_hx
+red_hx	Trabd_hx
+red_hx	Prpsap1_hx
+red_hx	Nelfcd_hx
+red_hx	Ift27_hx
+red_hx	Cyb5r3_hx
+red_hx	Stard3_hx
+red_hx	Anxa6_hx
+red_hx	Elp5_hx
+red_hx	Fis1_hx
+red_hx	Rab3d_hx
+red_hx	H13_hx
+red_hx	Psmc3ip_hx
+red_hx	Xab2_hx
+red_hx	Vip_hx
+red_hx	Hdac2_hx
+red_hx	Stxbp5_hx
+red_hx	Pcmt1_hx
+red_hx	Lrp11_hx
+red_hx	Sec63_hx
+red_hx	Dcn_hx
+red_hx	Micu1_hx
+red_hx	Pwwp3a_hx
+red_hx	Grb10_hx
+red_hx	Mdm2_hx
+red_hx	Nfyb_hx
+red_hx	Prss57_hx
+red_hx	Hnrnpab_hx
+red_hx	Ube2b_hx
+red_hx	Drg1_hx
+red_hx	Drg2_hx
+red_hx	Nbas_hx
+red_hx	Tspan13_hx
+red_hx	Rock2_hx
+red_hx	Lig3_hx
+red_hx	Txndc17_hx
+red_hx	Snhg16_hx
+red_hx	Slc46a1_hx
+red_hx	Snx11_hx
+red_hx	Aloxe3_hx
+red_hx	Psma6_hx
+red_hx	Snw1_hx
+red_hx	Chga_hx
+red_hx	Ylpm1_hx
+red_hx	Nup153_hx
+red_hx	Serf1_hx
+red_hx	Kctd6_hx
+red_hx	Samd4_hx
+red_hx	Bap1_hx
+red_hx	Rnaseh2b_hx
+red_hx	Pspc1_hx
+red_hx	Lats2_hx
+red_hx	Dcp1a_hx
+red_hx	Wnt5a_hx
+red_hx	Dnajc15_hx
+red_hx	Psme1_hx
+red_hx	Ttll8_hx
+red_hx	L3mbtl2_hx
+red_hx	Rpap3_hx
+red_hx	Ppp1r1a_hx
+red_hx	Mgrn1_hx
+red_hx	Mroh1_hx
+red_hx	Rabl2_hx
+red_hx	Tagln3_hx
+red_hx	Cmss1_hx
+red_hx	Tmem45a_hx
+red_hx	Ncam2_hx
+red_hx	Pdia5_hx
+red_hx	Psmg1_hx
+red_hx	Ripply3_hx
+red_hx	Gart_hx
+red_hx	Slc4a8_hx
+red_hx	Twf2_hx
+red_hx	Ube2j2_hx
+red_hx	Stk31_hx
+red_hx	Pde10a_hx
+red_hx	Mrpl14_hx
+red_hx	Fbxl17_hx
+red_hx	Gm20517_hx
+red_hx	Smchd1_hx
+red_hx	Lbh_hx
+red_hx	Birc6_hx
+red_hx	Ralbp1_hx
+red_hx	Telo2_hx
+red_hx	Pot1b_hx
+red_hx	Axin1_hx
+red_hx	Zeb1_hx
+red_hx	Epc1_hx
+red_hx	Cox7a2l_hx
+red_hx	Celf4_hx
+red_hx	Zfp397_hx
+red_hx	Thoc1_hx
+red_hx	Pfdn6_hx
+red_hx	Wdr33_hx
+red_hx	Impact_hx
+red_hx	Atp9b_hx
+red_hx	Anxa1_hx
+red_hx	Ppp2r5b_hx
+red_hx	Uhrf2_hx
+red_hx	Aip_hx
+red_hx	Men1_hx
+red_hx	Kcnk4_hx
+red_hx	Tcf7l2_hx
+red_hx	Mxi1_hx
+red_hx	Add3_hx
+red_hx	Anapc11_hx
+red_hx	R3hcc1l_hx
+red_hx	Cdk2_hx
+red_hx	Rps26_hx
+red_hx	Chmp6_hx
+red_hx	Clns1a_hx
+red_hx	Ifitm3_hx
+red_hx	Nptx1_hx
+red_hx	Rab40c_hx
+red_hx	Thoc3_hx
+red_hx	Alkbh8_hx
+red_hx	Cdk15_hx
+red_hx	Mff_hx
+red_hx	Sdhaf4_hx
+red_hx	Zfand2b_hx
+red_hx	Des_hx
+red_hx	Eif4e2_hx
+red_hx	Bok_hx
+red_hx	Tnni1_hx
+red_hx	Cyb5r1_hx
+red_hx	Ppfia4_hx
+red_hx	Ahctf1_hx
+red_hx	Tada1_hx
+red_hx	Blzf1_hx
+red_hx	Eprs1_hx
+red_hx	Nmt2_hx
+red_hx	Hsd17b7_hx
+red_hx	Aldh9a1_hx
+red_hx	Mmadhc_hx
+red_hx	Gpd2_hx
+red_hx	Olfm1_hx
+red_hx	Tor1b_hx
+red_hx	Crat_hx
+red_hx	Grb14_hx
+red_hx	Ndufa8_hx
+red_hx	Psmd14_hx
+red_hx	Zfp385b_hx
+red_hx	Caprin1_hx
+red_hx	Sema6d_hx
+red_hx	Nop56_hx
+red_hx	Snph_hx
+red_hx	Dok5_hx
+red_hx	Mmp24_hx
+red_hx	Tbl1xr1_hx
+red_hx	Mfn1_hx
+red_hx	Ppid_hx
+red_hx	Serpini1_hx
+red_hx	Ptpn22_hx
+red_hx	Creb3l4_hx
+red_hx	Hax1_hx
+red_hx	Pla2g12a_hx
+red_hx	Ifi44_hx
+red_hx	Ash1l_hx
+red_hx	Iqgap3_hx
+red_hx	Faxc_hx
+red_hx	Ube2j1_hx
+red_hx	Casp8ap2_hx
+red_hx	Erp44_hx
+red_hx	Bspry_hx
+red_hx	Chmp5_hx
+red_hx	Enho_hx
+red_hx	Dnajc6_hx
+red_hx	Usp1_hx
+red_hx	Czib_hx
+red_hx	Ybx1_hx
+red_hx	Eloa_hx
+red_hx	Eif4g3_hx
+red_hx	Map7d1_hx
+red_hx	Plekhm2_hx
+red_hx	Nub1_hx
+red_hx	Prkcz_hx
+red_hx	Mrpl20_hx
+red_hx	Kcnip4_hx
+red_hx	Eif2b4_hx
+red_hx	Nrbp1_hx
+red_hx	Dhx15_hx
+red_hx	Fip1l1_hx
+red_hx	Hnrnpdl_hx
+red_hx	Rassf6_hx
+red_hx	Uso1_hx
+red_hx	Sdad1_hx
+red_hx	Snx8_hx
+red_hx	Mtus2_hx
+red_hx	Ing3_hx
+red_hx	Bcl7b_hx
+red_hx	Rbm28_hx
+red_hx	Mepce_hx
+red_hx	Zkscan1_hx
+red_hx	Calu_hx
+red_hx	Ccdc136_hx
+red_hx	Sspo_hx
+red_hx	Sec61a1_hx
+red_hx	Slc6a6_hx
+red_hx	Slco1a4_hx
+red_hx	Rho_hx
+red_hx	Cd9_hx
+red_hx	Mark4_hx
+red_hx	Ercc2_hx
+red_hx	Rhpn2_hx
+red_hx	Maz_hx
+red_hx	Lyve1_hx
+red_hx	Phkg2_hx
+red_hx	Tpp1_hx
+red_hx	Stim1_hx
+red_hx	Stk33_hx
+red_hx	Brcc3_hx
+red_hx	Ctps2_hx
+red_hx	Mecp2_hx
+red_hx	Angpt2_hx
+red_hx	Sfrp1_hx
+red_hx	Klhl2_hx
+red_hx	Mfap3l_hx
+red_hx	Nkd1_hx
+red_hx	Dctn1_hx
+red_hx	Pla2g15_hx
+red_hx	Ankrd49_hx
+red_hx	Vstm5_hx
+red_hx	Afg3l1_hx
+red_hx	Yipf2_hx
+red_hx	Tmod2_hx
+red_hx	Acsbg1_hx
+red_hx	Zic1_hx
+red_hx	Cmtm6_hx
+red_hx	Rab6b_hx
+red_hx	Pik3r4_hx
+red_hx	Prr5l_hx
+red_hx	Slx9_hx
+red_hx	Tmprss7_hx
+red_hx	Arid2_hx
+red_hx	Map2k4_hx
+red_hx	Clasp2_hx
+red_hx	Gtpbp6_hx
+red_hx	Ttc7b_hx
+red_hx	Mrpl15_hx
+red_hx	Gucy1a1_hx
+red_hx	Slc66a2_hx
+red_hx	Gas2l1_hx
+red_hx	Nipsnap1_hx
+red_hx	Kif4_hx
+red_hx	Zxdc_hx
+red_hx	Fras1_hx
+red_hx	Sos2_hx
+red_hx	Grip1_hx
+red_hx	Synrg_hx
+red_hx	Parm1_hx
+red_hx	Xkr6_hx
+red_hx	Elmod2_hx
+red_hx	Lars2_hx
+red_hx	Sec31a_hx
+red_hx	Myo1d_hx
+red_hx	Eif1_hx
+red_hx	Thrsp_hx
+red_hx	Acta2_hx
+red_hx	Ska1_hx
+red_hx	Zdhhc23_hx
+red_hx	Elf1_hx
+red_hx	Eea1_hx
+red_hx	Phpt1_hx
+red_hx	Trim17_hx
+red_hx	Trim3_hx
+red_hx	Zfyve28_hx
+red_hx	Hook3_hx
+red_hx	Mxd4_hx
+red_hx	Bltp1_hx
+red_hx	Ccn3_hx
+red_hx	Ubr5_hx
+red_hx	H2-DMa_hx
+red_hx	Limch1_hx
+red_hx	Rcor1_hx
+red_hx	Camk4_hx
+red_hx	Mylip_hx
+red_hx	Rilp_hx
+red_hx	Lasp1_hx
+red_hx	Nfe2l1_hx
+red_hx	Sde2_hx
+red_hx	Zcchc2_hx
+red_hx	Dido1_hx
+red_hx	Psmd7_hx
+red_hx	Mreg_hx
+red_hx	Ttc36_hx
+red_hx	Mocos_hx
+red_hx	Mrpl12_hx
+red_hx	Usp53_hx
+red_hx	Ppp1ca_hx
+red_hx	Slc25a28_hx
+red_hx	Marchf9_hx
+red_hx	Ambra1_hx
+red_hx	Cmtm5_hx
+red_hx	Tet2_hx
+red_hx	Rcc2_hx
+red_hx	Arhgef38_hx
+red_hx	Pif1_hx
+red_hx	Pcf11_hx
+red_hx	Kctd12b_hx
+red_hx	Coro2b_hx
+red_hx	Mapk1ip1_hx
+red_hx	Myo3b_hx
+red_hx	Arsb_hx
+red_hx	Chchd7_hx
+red_hx	Rbm45_hx
+red_hx	Dnal1_hx
+red_hx	Sipa1l1_hx
+red_hx	Bmt2_hx
+red_hx	Gng2_hx
+red_hx	Ppp2r3a_hx
+red_hx	Tmem11_hx
+red_hx	Gprasp1_hx
+red_hx	Usp48_hx
+red_hx	Rell2_hx
+red_hx	Gpr22_hx
+red_hx	Hepacam2_hx
+red_hx	2510039O18Rik_hx
+red_hx	Megf8_hx
+red_hx	Hs6st1_hx
+red_hx	2410002F23Rik_hx
+red_hx	C2cd4c_hx
+red_hx	Ing1_hx
+red_hx	Vps13a_hx
+red_hx	Gm11223_hx
+red_hx	Lyrm4_hx
+red_hx	Cxxc5_hx
+red_hx	Chtf8_hx
+red_hx	Tspyl1_hx
+red_hx	Msx1_hx
+red_hx	Tmem202_hx
+red_hx	Arl4c_hx
+red_hx	Glt1d1_hx
+red_hx	Il17d_hx
+red_hx	Gja1_hx
+red_hx	Tacstd2_hx
+red_hx	Krt9_hx
+red_hx	Arf3_hx
+red_hx	Spats2_hx
+red_hx	Slc6a7_hx
+red_hx	Klf13_hx
+red_hx	Il1rapl1_hx
+red_hx	Sh2d6_hx
+red_hx	Styx_hx
+red_hx	Nebl_hx
+red_hx	Nudcd3_hx
+red_hx	Slc39a8_hx
+red_hx	D130007C19Rik_hx
+red_hx	Tmem74_hx
+red_hx	Set_hx
+red_hx	Myh4_hx
+red_hx	Antkmt_hx
+red_hx	1600029O15Rik_hx
+red_hx	Septin11_hx
+red_hx	Gstm1_hx
+red_hx	Mrps14_hx
+red_hx	Znrf2_hx
+red_hx	Fam133b_hx
+red_hx	Rpl18_hx
+red_hx	Nap1l4_hx
+red_hx	0610040J01Rik_hx
+red_hx	Ipmk_hx
+red_hx	Lrrtm1_hx
+red_hx	Smim20_hx
+red_hx	Rpl34-ps2_hx
+red_hx	Gspt1_hx
+red_hx	Arf2_hx
+red_hx	Nsl1_hx
+red_hx	Phactr2_hx
+red_hx	Manbal_hx
+red_hx	Zfp35_hx
+red_hx	Usp31_hx
+red_hx	Snora28_hx
+red_hx	Hnrnpr_hx
+red_hx	Pomgnt2_hx
+red_hx	Dok1_hx
+red_hx	Gm10250_hx
+red_hx	Csde1_hx
+red_hx	Rnf121_hx
+red_hx	Nsmce3_hx
+red_hx	Vsig10l_hx
+red_hx	Ren1_hx
+red_hx	Safb_hx
+red_hx	Naip5_hx
+red_hx	Lyrm9_hx
+red_hx	Armcx5_hx
+red_hx	Vma21_hx
+red_hx	Pappa2_hx
+red_hx	Gm10545_hx
+red_hx	Gm10643_hx
+red_hx	Ap1ar_hx
+red_hx	Sox2_hx
+red_hx	Zfp950_hx
+red_hx	Smim26_hx
+red_hx	Pak6_hx
+red_hx	ENSMUSG00000076287_hx
+red_hx	Gm22786_hx
+red_hx	Rab11b_hx
+red_hx	Gm22543_hx
+red_hx	Gm12353_hx
+red_hx	Col4a3_hx
+red_hx	Pou2af3_hx
+red_hx	Fdx2_hx
+red_hx	Gm13328_hx
+red_hx	Gm8802_hx
+red_hx	Gm16200_hx
+red_hx	Prdx2-ps1_hx
+red_hx	Gm11667_hx
+red_hx	Gm14537_hx
+red_hx	Ctsf_hx
+red_hx	Gm12540_hx
+red_hx	Gm13450_hx
+red_hx	Gm24596_hx
+red_hx	A530072M11Rik_hx
+red_hx	Gm12326_hx
+red_hx	4833418N02Rik_hx
+red_hx	D330050G23Rik_hx
+red_hx	Snhg17_hx
+red_hx	Oip5os1_hx
+red_hx	Gm12992_hx
+red_hx	Gm14302_hx
+red_hx	Trp53cor1_hx
+red_hx	4930417H01Rik_hx
+red_hx	A830082K12Rik_hx
+red_hx	5330434G04Rik_hx
+red_hx	B230216N24Rik_hx
+red_hx	Ier3ip1_hx
+red_hx	Ttbk2_hx
+red_hx	Shprh_hx
+red_hx	Zfp964_hx
+red_hx	Gm4707_hx
+red_hx	Gm20621_hx
+red_hx	Tmem121b_hx
+red_hx	ENSMUSG00000096841_hx
+red_hx	Gm10827_hx
+red_hx	ENSMUSG00000097059_hx
+red_hx	4732419C18Rik_hx
+red_hx	ENSMUSG00000097345_hx
+red_hx	Mirg_hx
+red_hx	4930500F10Rik_hx
+red_hx	ENSMUSG00000097674_hx
+red_hx	A730056A06Rik_hx
+red_hx	Rpl31-ps16_hx
+red_hx	Gm29538_hx
+red_hx	Gm28154_hx
+red_hx	Ppp1ccb_hx
+red_hx	Gm7436_hx
+red_hx	Gm28182_hx
+red_hx	Kcnq1ot1_hx
+red_hx	D330025C20Rik_hx
+red_hx	Gm37573_hx
+red_hx	Gm37968_hx
+red_hx	Gm37813_hx
+red_hx	Gm37248_hx
+red_hx	Gm37402_hx
+red_hx	Gm2272_hx
+red_hx	Gm38236_hx
+red_hx	Gm37011_hx
+red_hx	Gm42946_hx
+red_hx	Gm42716_hx
+red_hx	Gm42597_hx
+red_hx	Gm6543_hx
+red_hx	C030015E24Rik_hx
+red_hx	Gm43582_hx
+red_hx	Gm42729_hx
+red_hx	Gm42632_hx
+red_hx	Mrpl33_hx
+red_hx	Gm43266_hx
+red_hx	Gm44421_hx
+red_hx	9330102E08Rik_hx
+red_hx	Gm44432_hx
+red_hx	Gm44883_hx
+red_hx	Gm45162_hx
+lightpink4_hx	Rin2_hx
+lightpink4_hx	Nosip_hx
+lightpink4_hx	Cs_hx
+lightpink4_hx	Zfp318_hx
+lightpink4_hx	Plcg1_hx
+lightpink4_hx	Myb_hx
+lightpink4_hx	Igf1_hx
+lightpink4_hx	Hspa4_hx
+lightpink4_hx	Ccnh_hx
+lightpink4_hx	Ube2e1_hx
+lightpink4_hx	Oxct1_hx
+lightpink4_hx	Eif3e_hx
+lightpink4_hx	Pigp_hx
+lightpink4_hx	Atp5po_hx
+lightpink4_hx	Phf10_hx
+lightpink4_hx	Tle4_hx
+lightpink4_hx	Terf1_hx
+lightpink4_hx	Smap1_hx
+lightpink4_hx	Arl8a_hx
+lightpink4_hx	Trp53bp2_hx
+lightpink4_hx	Fcna_hx
+lightpink4_hx	Pcsk2_hx
+lightpink4_hx	Nras_hx
+lightpink4_hx	Efna3_hx
+lightpink4_hx	Rnf115_hx
+lightpink4_hx	F3_hx
+lightpink4_hx	Npr2_hx
+lightpink4_hx	Lurap1_hx
+lightpink4_hx	Nsg1_hx
+lightpink4_hx	Mtf2_hx
+lightpink4_hx	Cnbp_hx
+lightpink4_hx	Chst15_hx
+lightpink4_hx	Kat6a_hx
+lightpink4_hx	Nae1_hx
+lightpink4_hx	Ddx6_hx
+lightpink4_hx	Tmed1_hx
+lightpink4_hx	Calml4_hx
+lightpink4_hx	Aph1b_hx
+lightpink4_hx	Rbm11_hx
+lightpink4_hx	Eif3l_hx
+lightpink4_hx	Trim45_hx
+lightpink4_hx	Ndufb7_hx
+lightpink4_hx	Filip1_hx
+lightpink4_hx	Skp1_hx
+lightpink4_hx	Bicral_hx
+lightpink4_hx	Cyld_hx
+lightpink4_hx	Thoc2_hx
+lightpink4_hx	Fam120a_hx
+lightpink4_hx	Stox2_hx
+lightpink4_hx	Pyurf_hx
+lightpink4_hx	Pigv_hx
+lightpink4_hx	Gskip_hx
+lightpink4_hx	Mcmdc2_hx
+lightpink4_hx	Zfp84_hx
+lightpink4_hx	Dync2h1_hx
+lightpink4_hx	Fam185a_hx
+lightpink4_hx	Arxes2_hx
+lightpink4_hx	Elfn1_hx
+lightpink4_hx	Sv2c_hx
+lightpink4_hx	Mat2a_hx
+lightpink4_hx	Synpr_hx
+lightpink4_hx	Mettl15_hx
+lightpink4_hx	Zfp846_hx
+lightpink4_hx	Deaf1_hx
+lightpink4_hx	H2aj_hx
+lightpink4_hx	Copz1_hx
+lightpink4_hx	Rpl27_hx
+lightpink4_hx	Dhrs3_hx
+lightpink4_hx	Serpinh1_hx
+lightpink4_hx	H2-D1_hx
+lightpink4_hx	Cops9_hx
+lightpink4_hx	Svip_hx
+lightpink4_hx	Misp3_hx
+lightpink4_hx	Zfas1_hx
+lightpink4_hx	Mmp24os1_hx
+lightpink4_hx	B3galt5_hx
+lightpink4_hx	Cyp4v3_hx
+lightpink4_hx	Gm13868_hx
+lightpink4_hx	Tmem238l_hx
+lightpink4_hx	Zfp111_hx
+lightpink4_hx	Bloc1s1_hx
+lightpink4_hx	Gm7094_hx
+lightpink4_hx	Gm37219_hx
+lightpink4_hx	Gm38286_hx
+lightpink4_hx	Lhfpl3_hx
+lightpink4_hx	Gm44224_hx
+lightpink4_hx	Gm44777_hx
+lightpink4_hx	Gm45191_hx
+DEG_feces	4-hydroxyhippurate_feces
+DEG_feces	campesterol_feces
+DEG_feces	thiamin (vitamin B1)_feces
+DEG_feces	beta-sitosterol_feces
+DEG_feces	3-phenylpropionate (hydrocinnamate)_feces
+DEG_feces	argininate*_feces
+DEG_feces	caproate (6:0)_feces
+DEG_feces	N2,N6-diacetyllysine_feces
+DEG_feces	glutaminylleucine_feces
+DEG_feces	glycerophosphoinositol*_feces
+DEG_feces	eicosapentaenoate (EPA; 20:5n3)_feces
+DEG_feces	2R,3R-dihydroxybutyrate_feces
+DEG_feces	betaine_feces
+DEG_feces	3-hydroxybutyrate (BHBA)_feces
+DEG_feces	oleoyl-linoleoyl-glycerol (18:1/18:2) [1]_feces
+DEG_feces	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*_feces
+DEG_feces	erythronate*_feces
+DEG_feces	2,4-dihydroxybutyrate_feces
+DEG_feces	5-hydroxypicolinic acid_feces
+DEG_feces	gamma-glutamylphenylalanine_feces
+DEG_feces	N-acetyl-1-methylhistidine*_feces
+DEG_feces	leucylalanine_feces
+DEG_feces	myo-inositol_feces
+DEG_feces	alanylleucine_feces
+DEG_feces	imidazole lactate_feces
+DEG_feces	1-palmitoyl-2-oleoyl-GPE (16:0/18:1)_feces
+DEG_feces	hydroxymethylpyrimidine_feces
+DEG_feces	N-formylphenylalanine_feces
+DEG_feces	1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*_feces
+DEG_feces	4-cholesten-3-one_feces
+DEG_feces	vanillic acid glycine_feces
+DEG_feces	linolenoylcarnitine (C18:3)*_feces
+DEG_feces	isovalerylglycine_feces
+DEG_feces	2-isopropylmalate_feces
+DEG_feces	caprate (10:0)_feces
+DEG_feces	stearidonate (18:4n3)_feces
+DEG_feces	isocaproate (i6:0)_feces
+DEG_feces	N1-methyl-4-pyridone-3-carboxamide_feces
+DEG_feces	linoleate (18:2n6)_feces
+DEG_feces	N-methylproline_feces
+DEG_feces	N6-formyllysine_feces
+DEG_feces	mannose_feces
+DEG_feces	1-arachidonoyl-GPC (20:4n6)*_feces
+DEG_feces	2-methylbutyrylcarnitine (C5)_feces
+DEG_feces	1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*_feces
+DEG_serum	flavin adenine dinucleotide (FAD)_serum
+DEG_serum	indoleacetate_serum
+DEG_serum	bilirubin (E,E)*_serum
+DEG_serum	docosapentaenoate (n3 DPA; 22:5n3)_serum
+DEG_serum	heneicosapentaenoate (21:5n3)_serum
+DEG_serum	indoleacetylglycine_serum
+DEG_serum	linoleoyl-docosahexaenoyl-glycerol (18:2/22:6) [1]*_serum
+DEG_serum	succinylcarnitine (C4-DC)_serum
+DEG_serum	1-stearoyl-GPG (18:0)_serum
+DEG_serum	12-HHTrE_serum
+DEG_serum	ophthalmate_serum
+DEG_serum	pantothenate_serum
+DEG_serum	docosahexaenoate (DHA; 22:6n3)_serum
+DEG_serum	sucrose_serum
+DEG_serum	perfluorohexanesulfonate (PFHxS)_serum
+DEG_serum	glucuronate_serum
+DEG_serum	eicosapentaenoate (EPA; 20:5n3)_serum
+DEG_serum	1-stearoyl-2-oleoyl-GPE (18:0/18:1)_serum
+DEG_serum	phosphoenolpyruvate (PEP)_serum
+DEG_serum	2,3-dihydroxy-2-methylbutyrate_serum
+DEG_fx	Hyls1_fx
+DEG_fx	Ecm2_fx
+DEG_fx	Cog4_fx
+DEG_fx	Gpi1_fx
+DEG_fx	Ddx3y_fx
+DEG_fx	Rpl3_fx
+DEG_fx	Aldh3b1_fx
+DEG_fx	Slc6a12_fx
+DEG_fx	Tbcel_fx
+DEG_fx	Focad_fx
+DEG_fx	Gm527_fx
+DEG_fx	F5_fx
+DEG_fx	Rbbp8_fx
+DEG_fx	Rere_fx
+DEG_fx	Smarce1_fx
+DEG_fx	Brinp2_fx
+DEG_fx	Shroom1_fx
+DEG_fx	Wdr33_fx
+DEG_fx	Kdm5d_fx
+DEG_fx	Arhgap4_fx
+DEG_fx	Ddx3x_fx
+DEG_fx	Uty_fx
+DEG_fx	Fgf14_fx
+DEG_fx	Rexo2_fx
+DEG_fx	Setmar_fx
+DEG_fx	Gigyf1_fx
+DEG_fx	Nqo1_fx
+DEG_fx	Prpf6_fx
+DEG_fx	Rbbp4_fx
+DEG_fx	Pals2_fx
+DEG_fx	Nap1l1_fx
+DEG_fx	AI504432_fx
+DEG_fx	Tfb1m_fx
+DEG_fx	Drg2_fx
+DEG_fx	B4galt3_fx
+DEG_fx	Pop1_fx
+DEG_fx	Sars2_fx
+DEG_fx	Peds1_fx
+DEG_fx	Zc3hav1_fx
+DEG_fx	Gtdc1_fx
+DEG_fx	Gm13421_fx
+DEG_fx	Serpinb1a_fx
+DEG_fx	Pdap1_fx
+DEG_fx	Coro1c_fx
+DEG_fx	Plekhg1_fx
+DEG_fx	Plekhj1_fx
+DEG_fx	Nhsl2_fx
+DEG_fx	Fktn_fx
+DEG_fx	Ttc13_fx
+DEG_fx	Dmkn_fx
+DEG_fx	Ak1_fx
+DEG_fx	Pon2_fx
+DEG_fx	Ssbp4_fx
+DEG_fx	Mif4gd_fx
+DEG_fx	Hscb_fx
+DEG_fx	Ptpmt1_fx
+DEG_fx	Dync1li1_fx
+DEG_fx	Pramel12_fx
+DEG_fx	Tmem169_fx
+DEG_fx	Unc80_fx
+DEG_fx	Pes1_fx
+DEG_fx	Got2_fx
+DEG_fx	Samd14_fx
+DEG_fx	Vip_fx
+DEG_fx	Dld_fx
+DEG_fx	Col8a2_fx
+DEG_fx	Bin3_fx
+DEG_fx	Glrx5_fx
+DEG_fx	Utp14a_fx
+DEG_fx	Usp4_fx
+DEG_fx	Klc4_fx
+DEG_fx	Gpt_fx
+DEG_fx	Lrrc1_fx
+DEG_fx	Nfatc3_fx
+DEG_fx	Ark2c_fx
+DEG_fx	Mrpl30_fx
+DEG_fx	Sp7_fx
+DEG_fx	Tbr1_fx
+DEG_fx	Sorcs3_fx
+DEG_fx	Kidins220_fx
+DEG_fx	Rps19bp1_fx
+DEG_fx	Igsf10_fx
+DEG_fx	Ndufb7_fx
+DEG_fx	Tgs1_fx
+DEG_fx	Ints14_fx
+DEG_fx	Ube2e1_fx
+DEG_fx	BC065397_fx
+DEG_fx	Kcnc2_fx
+DEG_fx	Fads2_fx
+DEG_fx	Casc3_fx
+DEG_fx	Ercc4_fx
+DEG_fx	Ensa_fx
+DEG_fx	Hltf_fx
+DEG_fx	Ncmap_fx
+DEG_fx	Ube2e2_fx
+DEG_fx	Tmem191_fx
+DEG_fx	Eif1ad_fx
+DEG_fx	Evl_fx
+DEG_fx	Ap3m2_fx
+DEG_fx	Rfx3_fx
+DEG_fx	Nsfl1c_fx
+DEG_fx	Ltbp4_fx
+DEG_fx	Dsp_fx
+DEG_fx	Eif2s3y_fx
+DEG_fx	Cntn1_fx
+DEG_fx	Insc_fx
+DEG_fx	Gigyf2_fx
+DEG_fx	Etfb_fx
+DEG_fx	Selplg_fx
+DEG_fx	Gale_fx
+DEG_fx	Lta4h_fx
+DEG_fx	Cnnm1_fx
+DEG_fx	Scrt2_fx
+DEG_fx	Fam3a_fx
+DEG_fx	Gmfg_fx
+DEG_fx	Zfp420_fx
+DEG_fx	Rubcnl_fx
+DEG_fx	Csnk2b_fx
+DEG_fx	Mapk15_fx
+DEG_fx	AI854703_fx
+DEG_fx	Eno4_fx
+DEG_fx	Got1_fx
+DEG_fx	Gtf2e2_fx
+DEG_fx	Epb41l4b_fx
+DEG_fx	Odf2l_fx
+DEG_fx	E130308A19Rik_fx
+DEG_fx	Fem1a_fx
+DEG_fx	Bcl2l2_fx
+DEG_fx	Atp6v1d_fx
+DEG_fx	Usp24_fx
+DEG_fx	Tmem167_fx
+DEG_fx	6430584L05Rik_fx
+DEG_fx	Ascl1_fx
+DEG_fx	Iqcg_fx
+DEG_fx	Zfp955a_fx
+DEG_fx	Camk2g_fx
+DEG_fx	Cln8_fx
+DEG_fx	Otud6b_fx
+DEG_fx	Ppm1f_fx
+DEG_fx	Dennd1a_fx
+DEG_fx	Gys1_fx
+DEG_fx	Serinc1_fx
+DEG_fx	Pcnx2_fx
+DEG_fx	Rtraf_fx
+DEG_fx	Nup50_fx
+DEG_fx	Mink1_fx
+DEG_fx	Wdr6_fx
+DEG_fx	Gm33989_fx
+DEG_fx	Hnrnpll_fx
+DEG_fx	Castor1_fx
+DEG_fx	Dhx8_fx
+DEG_fx	Aurkaip1_fx
+DEG_fx	Psmd11_fx
+DEG_fx	Pigm_fx
+DEG_fx	Snapc2_fx
+DEG_fx	Akap7_fx
+DEG_fx	Iglon5_fx
+DEG_fx	Ccdc167_fx
+DEG_fx	Selenoh_fx
+DEG_fx	Lgals1_fx
+DEG_fx	Nkd1_fx
+DEG_fx	Nr3c2_fx
+DEG_fx	Gas2_fx
+DEG_fx	Nlgn3_fx
+DEG_fx	Nfatc2ip_fx
+DEG_fx	Ciao2b_fx
+DEG_fx	Zfp661_fx
+DEG_fx	Nfic_fx
+DEG_fx	Cd200_fx
+DEG_fx	Amdhd2_fx
+DEG_fx	Gabra4_fx
+DEG_fx	Ppp2cb_fx
+DEG_fx	Elavl2_fx
+DEG_fx	Utp14b_fx
+DEG_fx	Reep5_fx
+DEG_fx	Utp25_fx
+DEG_fx	Sar1b_fx
+DEG_fx	Adcyap1r1_fx
+DEG_fx	Kif9_fx
+DEG_fx	Itih5_fx
+DEG_fx	Atf7_fx
+DEG_fx	Zfp667_fx
+DEG_fx	Cd47_fx
+DEG_fx	Crebbp_fx
+DEG_fx	Xpr1_fx
+DEG_fx	Phf2_fx
+DEG_fx	Rnf152_fx
+DEG_fx	Pank1_fx
+DEG_fx	Rgs3_fx
+DEG_fx	Esf1_fx
+DEG_fx	Smim19_fx
+DEG_fx	Usp51_fx
+DEG_fx	Echdc2_fx
+DEG_fx	Sphkap_fx
+DEG_fx	Rmi1_fx
+DEG_fx	Trerf1_fx
+DEG_fx	Bfar_fx
+DEG_fx	Hck_fx
+DEG_fx	Acrbp_fx
+DEG_fx	Slc24a4_fx
+DEG_fx	Prom1_fx
+DEG_fx	Eif2b3_fx
+DEG_fx	Mansc1_fx
+DEG_fx	Kctd13_fx
+DEG_fx	Alg3_fx
+DEG_fx	Megf9_fx
+DEG_fx	Chtf8_fx
+DEG_fx	Slc6a9_fx
+DEG_fx	Phf10_fx
+DEG_fx	Npdc1_fx
+DEG_fx	Zfp976_fx
+DEG_fx	Gnptab_fx
+DEG_fx	Zfp346_fx
+DEG_fx	Hexa_fx
+DEG_fx	Cry2_fx
+DEG_fx	Pou6f2_fx
+DEG_fx	Tbc1d30_fx
+DEG_fx	1700028E10Rik_fx
+DEG_fx	Elapor2_fx
+DEG_fx	Phkg1_fx
+DEG_fx	Itfg1_fx
+DEG_fx	Manea_fx
+DEG_fx	Mrps24_fx
+DEG_fx	Kcnk12_fx
+DEG_fx	Gtf2b_fx
+DEG_fx	Pcbp2_fx
+DEG_fx	Mybl1_fx
+DEG_fx	Scara3_fx
+DEG_fx	Gpr176_fx
+DEG_fx	Nol4_fx
+DEG_fx	Ube2j2_fx
+DEG_fx	Exosc7_fx
+DEG_fx	Tox_fx
+DEG_fx	Pcbp4_fx
+DEG_fx	AU021092_fx
+DEG_fx	Tmem104_fx
+DEG_fx	Gucy1b1_fx
+DEG_fx	Ccdc87_fx
+DEG_fx	Aspm_fx
+DEG_fx	Gsdme_fx
+DEG_fx	Atp5pd_fx
+DEG_fx	Slc39a2_fx
+DEG_fx	Tro_fx
+DEG_fx	Pcmtd1_fx
+DEG_fx	Sult2b1_fx
+DEG_fx	Hycc2_fx
+DEG_fx	1500015A07Rik_fx
+DEG_fx	Pdgfa_fx
+DEG_fx	Myrip_fx
+DEG_fx	Siae_fx
+DEG_fx	Trpc5_fx
+DEG_fx	Alkbh4_fx
+DEG_fx	Fut9_fx
+DEG_fx	Gm3279_fx
+DEG_fx	Mfn1_fx
+DEG_fx	Dynlt3_fx
+DEG_fx	Stk32b_fx
+DEG_fx	Slc16a2_fx
+DEG_fx	Pcsk2os1_fx
+DEG_fx	Pitpnm1_fx
+DEG_fx	Rcor1_fx
+DEG_fx	Dennd6a_fx
+DEG_fx	Phldb1_fx
+DEG_fx	Chaserr_fx
+DEG_fx	Homez_fx
+DEG_fx	Rpl27a_fx
+DEG_fx	Snrnp48_fx
+DEG_fx	Tnpo3_fx
+DEG_fx	Kcnq3_fx
+DEG_fx	Fkbp14_fx
+DEG_fx	Arhgef17_fx
+DEG_fx	Med27_fx
+DEG_fx	Rsph1_fx
+DEG_fx	Kcnc1_fx
+DEG_fx	Ttc4_fx
+DEG_fx	Bloc1s4_fx
+DEG_fx	Jmy_fx
+DEG_fx	Mpdz_fx
+DEG_fx	Carmil2_fx
+DEG_fx	Rpusd1_fx
+DEG_fx	C130026L21Rik_fx
+DEG_fx	Ivns1abp_fx
+DEG_fx	Bltp2_fx
+DEG_fx	Rbpj_fx
+DEG_fx	Stk4_fx
+DEG_fx	Pcnx_fx
+DEG_fx	Dnajb14_fx
+DEG_fx	Acbd5_fx
+DEG_fx	Fyco1_fx
+DEG_fx	Cxcl16_fx
+DEG_fx	Myom3_fx
+DEG_fx	Ap2s1_fx
+DEG_fx	Parm1_fx
+DEG_fx	Zfp341_fx
+DEG_fx	Gpr180_fx
+DEG_fx	Snhg11_fx
+DEG_fx	Seh1l_fx
+DEG_fx	Zfp617_fx
+DEG_fx	Nfam1_fx
+DEG_fx	Rasgrf2_fx
+DEG_fx	Erbb4_fx
+DEG_fx	Psmb8_fx
+DEG_fx	Grem1_fx
+DEG_fx	Cxxc1_fx
+DEG_fx	Bcorl1_fx
+DEG_fx	Racgap1_fx
+DEG_fx	Eif5_fx
+DEG_fx	Sema5a_fx
+DEG_fx	Casp9_fx
+DEG_fx	Tti1_fx
+DEG_fx	Srsf7_fx
+DEG_fx	Nudcd1_fx
+DEG_fx	Necap2_fx
+DEG_fx	Cgrrf1_fx
+DEG_fx	L3mbtl2_fx
+DEG_fx	Adamts19_fx
+DEG_fx	Jade1_fx
+DEG_fx	Exosc10_fx
+DEG_fx	Stk19_fx
+DEG_fx	Celsr3_fx
+DEG_fx	Atp1a2_fx
+DEG_fx	Pam16_fx
+DEG_fx	Ube2k_fx
+DEG_fx	Gm15417_fx
+DEG_fx	Rnaset2a_fx
+DEG_fx	Washc4_fx
+DEG_fx	Eva1b_fx
+DEG_fx	Zfp260_fx
+DEG_fx	Fis1_fx
+DEG_fx	Rab2b_fx
+DEG_fx	Slc17a5_fx
+DEG_fx	Nisch_fx
+DEG_fx	Stt3b_fx
+DEG_fx	Commd6_fx
+DEG_fx	Kcnn3_fx
+DEG_fx	Fam241a_fx
+DEG_fx	Trpc4_fx
+DEG_fx	Fam135a_fx
+DEG_fx	Serp1_fx
+DEG_fx	S100a10_fx
+DEG_fx	Msl3l2_fx
+DEG_fx	Ggps1_fx
+DEG_fx	Mrpl18_fx
+DEG_fx	Nt5dc3_fx
+DEG_fx	Gipc1_fx
+DEG_fx	Ebpl_fx
+DEG_fx	Ranbp10_fx
+DEG_fx	Kremen1_fx
+DEG_fx	Gfod1_fx
+DEG_fx	Bmp4_fx
+DEG_fx	Psmg3_fx
+DEG_fx	Prkd3_fx
+DEG_fx	Wdr13_fx
+DEG_fx	Mfsd12_fx
+DEG_fx	Rps19-ps3_fx
+DEG_fx	Dohh_fx
+DEG_fx	Epha4_fx
+DEG_fx	Sertad4_fx
+DEG_fx	Epha6_fx
+DEG_fx	Manf_fx
+DEG_fx	Ranbp6_fx
+DEG_fx	Golt1b_fx
+DEG_fx	C4b_fx
+DEG_fx	Pole3_fx
+DEG_fx	Taf12_fx
+DEG_fx	Xrn1_fx
+DEG_fx	Kif3c_fx
+DEG_fx	Ptms_fx
+DEG_fx	Usp6nl_fx
+DEG_fx	Zfhx2_fx
+DEG_fx	4933406C10Rik_fx
+DEG_fx	Cep83_fx
+DEG_fx	Ccnt1_fx
+DEG_fx	Trappc6a_fx
+DEG_fx	Rpgr_fx
+DEG_fx	Gimap6_fx
+DEG_fx	Map3k21_fx
+DEG_fx	Sec22a_fx
+DEG_fx	Fam107a_fx
+DEG_fx	Myd88_fx
+DEG_fx	Ndufa12_fx
+DEG_fx	Pcolce_fx
+DEG_fx	Lpcat4_fx
+DEG_fx	Ppfibp2_fx
+DEG_fx	Nsun6_fx
+DEG_fx	Gli3_fx
+DEG_fx	Pomc_fx
+DEG_fx	Dnaja2_fx
+DEG_fx	Ccnj_fx
+DEG_fx	Gria4_fx
+DEG_fx	St6galnac2_fx
+DEG_fx	Slc35f2_fx
+DEG_fx	Ppp1r14b_fx
+DEG_fx	Mrpl10_fx
+DEG_fx	9530026P05Rik_fx
+DEG_fx	Wipi2_fx
+DEG_fx	Tmem65_fx
+DEG_fx	Sppl3_fx
+DEG_fx	Bnc2_fx
+DEG_fx	Rpl10_fx
+DEG_fx	Rap2b_fx
+DEG_fx	Gm1604a_fx
+DEG_fx	Zkscan1_fx
+DEG_fx	Ifrd1_fx
+DEG_fx	Rrbp1_fx
+DEG_fx	Cdk18_fx
+DEG_fx	Spryd7_fx
+DEG_fx	Dyrk3_fx
+DEG_fx	Cnot8_fx
+DEG_fx	Hsd17b4_fx
+DEG_fx	Crebzf_fx
+DEG_fx	Gask1b_fx
+DEG_fx	Maea_fx
+DEG_fx	Ccdc22_fx
+DEG_fx	Chkb_fx
+DEG_fx	Gpr26_fx
+DEG_fx	Zmat4_fx
+DEG_fx	Snora73b_fx
+DEG_fx	Itpa_fx
+DEG_fx	Cops3_fx
+DEG_fx	Trappc2l_fx
+DEG_fx	Mtmr2_fx
+DEG_fx	Cluap1_fx
+DEG_fx	Nrg2_fx
+DEG_fx	Npc2_fx
+DEG_fx	Zfp119a_fx
+DEG_fx	Grm2_fx
+DEG_fx	1700008O03Rik_fx
+DEG_fx	Gps2_fx
+DEG_fx	Camk2b_fx
+DEG_fx	Bag1_fx
+DEG_fx	Frmd8_fx
+DEG_fx	Papss1_fx
+DEG_fx	Usp27x_fx
+DEG_fx	Ufsp2_fx
+DEG_fx	Cracd_fx
+DEG_fx	Kcnb2_fx
+DEG_fx	Cpsf3_fx
+DEG_fx	Tlr12_fx
+DEG_fx	Trim62_fx
+DEG_fx	Uqcc3_fx
+DEG_fx	Syk_fx
+DEG_fx	Ap1s2_fx
+DEG_fx	Adcy6_fx
+DEG_fx	Klf16_fx
+DEG_fx	Mrpl42_fx
+DEG_fx	Ube2v1_fx
+DEG_fx	Dpm2_fx
+DEG_fx	Hrk_fx
+DEG_fx	Ubash3b_fx
+DEG_fx	Cela1_fx
+DEG_fx	Limd2_fx
+DEG_fx	Lonp2_fx
+DEG_fx	Hdgfl2_fx
+DEG_fx	Wapl_fx
+DEG_fx	Grb10_fx
+DEG_fx	E4f1_fx
+DEG_fx	Scp2_fx
+DEG_fx	Cdon_fx
+DEG_fx	Rnf146_fx
+DEG_fx	Cacnb2_fx
+DEG_fx	Ifngr2_fx
+DEG_fx	Zfp36l2_fx
+DEG_fx	Tob1_fx
+DEG_fx	Sgsm1_fx
+DEG_fx	Kcnk4_fx
+DEG_fx	Auts2_fx
+DEG_fx	Ubr2_fx
+DEG_fx	H3c15_fx
+DEG_fx	Sesn3_fx
+DEG_fx	B3galt5_fx
+DEG_fx	Nme5_fx
+DEG_fx	Heph_fx
+DEG_fx	Myorg_fx
+DEG_fx	Mybpc1_fx
+DEG_fx	Fbxo22_fx
+DEG_fx	Slc6a17_fx
+DEG_fx	Srp72_fx
+DEG_fx	Fggy_fx
+DEG_fx	Gjc2_fx
+DEG_fx	Grm3_fx
+DEG_fx	Cracdl_fx
+DEG_fx	Rcn1_fx
+DEG_fx	Gstm2_fx
+DEG_fx	Lrrc58_fx
+DEG_fx	Dcc_fx
+DEG_fx	Gpaa1_fx
+DEG_fx	Eif4ebp1_fx
+DEG_fx	Pik3c3_fx
+DEG_fx	Rpsa_fx
+DEG_fx	Rhbdl3_fx
+DEG_fx	Homer2_fx
+DEG_fx	Pknox1_fx
+DEG_fx	Kcnip2_fx
+DEG_fx	Nsg2_fx
+DEG_fx	Ccdc59_fx
+DEG_fx	Greb1_fx
+DEG_fx	Samsn1_fx
+DEG_fx	Dlgap3_fx
+DEG_fx	Agap3_fx
+DEG_fx	Iars1_fx
+DEG_fx	Akap8_fx
+DEG_fx	Rdh14_fx
+DEG_fx	Hlf_fx
+DEG_fx	Gstm6_fx
+DEG_fx	Obi1_fx
+DEG_fx	Flot1_fx
+DEG_fx	Rpl5_fx
+DEG_fx	Asrgl1_fx
+DEG_fx	Ubxn1_fx
+DEG_fx	Kcnab2_fx
+DEG_fx	Mri1_fx
+DEG_fx	Ackr1_fx
+DEG_fx	Chek1_fx
+DEG_fx	Pcdhb19_fx
+DEG_fx	Tchh_fx
+DEG_fx	Ankrd11_fx
+DEG_fx	Rpl26_fx
+DEG_fx	Aup1_fx
+DEG_fx	Epn3_fx
+DEG_fx	Trpc7_fx
+DEG_fx	Arhgap23_fx
+DEG_fx	Psme4_fx
+DEG_fx	Daam2_fx
+DEG_fx	Taf5l_fx
+DEG_fx	Ppargc1a_fx
+DEG_fx	Kazald1_fx
+DEG_fx	Atm_fx
+DEG_fx	Pomk_fx
+DEG_fx	Yy1_fx
+DEG_fx	Acacb_fx
+DEG_fx	Ark2n_fx
+DEG_fx	Nherf1_fx
+DEG_fx	Cab39l_fx
+DEG_fx	Hdlbp_fx
+DEG_fx	Mmadhc_fx
+DEG_fx	Herc2_fx
+DEG_fx	Id2_fx
+DEG_fx	Usp53_fx
+DEG_fx	Casd1_fx
+DEG_fx	Rnf114_fx
+DEG_fx	Acot7_fx
+DEG_fx	Eme2_fx
+DEG_fx	Pdgfb_fx
+DEG_fx	Clic4_fx
+DEG_fx	Son_fx
+DEG_fx	Acot6_fx
+DEG_fx	Mex3b_fx
+DEG_fx	Ccdc13_fx
+DEG_fx	Pgpep1_fx
+DEG_fx	Spata2l_fx
+DEG_fx	Firrm_fx
+DEG_fx	Lipg_fx
+DEG_fx	Pclo_fx
+DEG_fx	Gan_fx
+DEG_fx	Zfp235_fx
+DEG_fx	Gabbr2_fx
+DEG_fx	Zfp108_fx
+DEG_fx	Cacfd1_fx
+DEG_fx	Fam171a2_fx
+DEG_fx	Med4_fx
+DEG_fx	Siah1a_fx
+DEG_fx	Cul5_fx
+DEG_fx	Gucy2e_fx
+DEG_fx	Oprd1_fx
+DEG_fx	Dctn1_fx
+DEG_fx	Plekhh1_fx
+DEG_fx	Nmnat1_fx
+DEG_fx	Stxbp2_fx
+DEG_fx	Exosc5_fx
+DEG_fx	Tex30_fx
+DEG_fx	Xiap_fx
+DEG_fx	Eif2b2_fx
+DEG_fx	Arfip2_fx
+DEG_fx	Serbp1_fx
+DEG_fx	Zfp940_fx
+DEG_fx	Myb_fx
+DEG_fx	Rcan2_fx
+DEG_fx	Cfl1_fx
+DEG_fx	Adcy7_fx
+DEG_fx	4931440P22Rik_fx
+DEG_fx	Ndufv2_fx
+DEG_fx	Rlig1_fx
+DEG_fx	Uqcc4_fx
+DEG_fx	Foxk2_fx
+DEG_fx	Frrs1_fx
+DEG_fx	Dhx36_fx
+DEG_fx	Arl3_fx
+DEG_fx	Taco1_fx
+DEG_fx	Ppp2r3a_fx
+DEG_fx	Vamp8_fx
+DEG_fx	Cavin2_fx
+DEG_fx	Slc45a4_fx
+DEG_fx	Cog3_fx
+DEG_fx	Uevld_fx
+DEG_fx	Tor1aip2_fx
+DEG_fx	Acly_fx
+DEG_fx	Supt6_fx
+DEG_fx	Gm9946_fx
+DEG_fx	Scn8a_fx
+DEG_fx	Fryl_fx
+DEG_fx	Lrp11_fx
+DEG_fx	Pde10a_fx
+DEG_fx	Shpk_fx
+DEG_fx	Cldn15_fx
+DEG_fx	6030458C11Rik_fx
+DEG_fx	Tcta_fx
+DEG_fx	Wtap_fx
+DEG_fx	Gprin3_fx
+DEG_fx	Ogfod2_fx
+DEG_fx	Rab11fip2_fx
+DEG_fx	Golga1_fx
+DEG_fx	Dgkg_fx
+DEG_fx	Srsf6_fx
+DEG_fx	Zkscan14_fx
+DEG_fx	A330008L17Rik_fx
+DEG_fx	Mt3_fx
+DEG_fx	Ahcyl2_fx
+DEG_fx	Nrm_fx
+DEG_fx	Plpp7_fx
+DEG_fx	Prc1_fx
+DEG_fx	Acaca_fx
+DEG_fx	Fam241b_fx
+DEG_fx	Frmpd3_fx
+DEG_fx	Tmed10_fx
+DEG_fx	Snhg12_fx
+DEG_fx	Egfr_fx
+DEG_fx	Olfm1_fx
+DEG_fx	BC006965_fx
+DEG_fx	Runx2_fx
+DEG_fx	Akap9_fx
+DEG_fx	Ei24_fx
+DEG_fx	Grpel1_fx
+DEG_fx	Ssbp2_fx
+DEG_fx	Zxdb_fx
+DEG_fx	Nbea_fx
+DEG_fx	Zfp775_fx
+DEG_fx	Fuca2_fx
+DEG_fx	Crat_fx
+DEG_fx	Slc12a9_fx
+DEG_fx	Sptlc2_fx
+DEG_fx	Dmrta2_fx
+DEG_fx	Hif3a_fx
+DEG_fx	Timp2_fx
+DEG_fx	Polm_fx
+DEG_fx	Rfng_fx
+DEG_fx	Tbc1d9b_fx
+DEG_fx	St6gal1_fx
+DEG_fx	Sp3_fx
+DEG_fx	Ttc34_fx
+DEG_hx	Tmem69_fx
+DEG_hx	Cmya5_fx
+DEG_hx	9530051G07Rik_fx
+DEG_hx	Mpv17l_fx
+DEG_hx	Cnpy2_fx
+DEG_hx	Zkscan14_fx
+DEG_hx	Cwc22_fx
+DEG_hx	Pierce1_fx
+DEG_hx	Lhfpl4_fx
+DEG_hx	Ppil6_fx
+DEG_hx	Dock4_fx
+DEG_hx	Ddx55_fx
+DEG_hx	Fem1b_fx
+DEG_hx	Rom1_fx
+DEG_hx	Ufsp1_fx
+DEG_hx	Sgsm1_fx
+DEG_hx	Tmem114_fx
+DEG_hx	Myh9_fx
+DEG_hx	Ogfod3_fx
+DEG_hx	Creg2_fx
+DEG_hx	Crybg1_fx
+DEG_hx	Bmpr1b_fx
+DEG_hx	Celf6_fx
+DEG_hx	Gnaz_fx
+DEG_hx	Bmi1_fx
+DEG_hx	Rwdd3_fx
+DEG_hx	Dusp12_fx
+DEG_hx	Phip_fx
+DEG_hx	Cd276_fx
+DEG_hx	Phf11b_fx
+DEG_hx	Ndor1_fx
+DEG_hx	Brip1os_fx
+DEG_hx	Sema6a_fx
+DEG_hx	Marveld2_fx
+DEG_hx	Atp6v1d_fx
+DEG_hx	Abcc9_fx
+DEG_hx	L3mbtl3_fx
+DEG_hx	Gsto1_fx
+DEG_hx	Nr1h2_fx
+DEG_hx	Ube2r2_fx
+DEG_hx	Agfg2_fx
+DEG_hx	D030028A08Rik_fx
+DEG_hx	Nebl_fx
+DEG_hx	Tbx2_fx
+DEG_hx	Ccm2_fx
+DEG_hx	Cenpu_fx
+DEG_hx	Nab1_fx
+DEG_hx	Pou3f1_fx
+DEG_hx	9130019O22Rik_fx
+DEG_hx	Fbxo34_fx
+DEG_hx	Zfp326_fx
+DEG_hx	Abhd11_fx
+DEG_hx	Taf9b_fx
+DEG_hx	Fubp1_fx
+DEG_hx	Nr4a3_fx
+DEG_hx	Scn2b_fx
+DEG_hx	AU040320_fx
+DEG_hx	Slc16a9_fx
+DEG_hx	Zfp383_fx
+DEG_hx	Ctsb_fx
+DEG_hx	B3gnt8_fx
+DEG_hx	Kctd4_fx
+DEG_hx	Hmga2_fx
+DEG_hx	Gabrb2_fx
+DEG_hx	Atp5po_fx
+DEG_hx	Eif3m_fx
+DEG_hx	Ino80b_fx
+DEG_hx	Gstp1_fx
+DEG_hx	Rpl21_fx
+DEG_hx	Btg1_fx
+DEG_hx	Mmut_fx
+DEG_hx	Unc5a_fx
+DEG_hx	Ufd1_fx
+DEG_hx	Haus8_fx
+DEG_hx	Trpc7_fx
+DEG_hx	Itga2b_fx
+DEG_hx	Gkap1_fx
+DEG_hx	Psme3ip1_fx
+DEG_hx	Golga2_fx
+DEG_hx	Tgs1_fx
+DEG_hx	Snx5_fx
+DEG_hx	Ube4b_fx
+DEG_hx	Clec3b_fx
+DEG_hx	Hsf4_fx
+DEG_hx	Crh_fx
+DEG_hx	Swap70_fx
+DEG_hx	Tpk1_fx
+DEG_hx	Lonp2_fx
+DEG_hx	Zbtb8a_fx
+DEG_hx	Fam136a_fx
+DEG_hx	Sypl2_fx
+DEG_hx	Ap3m2_fx
+DEG_hx	Zfp513_fx
+DEG_hx	Syt15_fx
+DEG_hx	Fbxo8_fx
+DEG_hx	4930522L14Rik_fx
+DEG_hx	Fut10_fx
+DEG_hx	Ezh1_fx
+DEG_hx	Nle1_fx
+DEG_hx	Celsr3_fx
+DEG_hx	Elp1_fx
+DEG_hx	Mob3c_fx
+DEG_hx	Hacd1_fx
+DEG_hx	Ocln_fx
+DEG_hx	Bhlha9_fx
+DEG_hx	Zfp341_fx
+DEG_hx	Cyp51_fx
+DEG_hx	Snx33_fx
+DEG_hx	Mrpl54_fx
+DEG_hx	Gpr17_fx
+DEG_hx	Pdxk_fx
+DEG_hx	Rnf5_fx
+DEG_hx	Nasp_fx
+DEG_hx	Cfl2_fx
+DEG_hx	Rsad1_fx
+DEG_hx	Rab5if_fx
+DEG_hx	Timm23_fx
+DEG_hx	Loxl3_fx
+DEG_hx	Morn5_fx
+DEG_hx	Ccnq_fx
+DEG_hx	Kcnma1_fx
+DEG_hx	Cenph_fx
+DEG_hx	Adarb2_fx
+DEG_hx	Srm_fx
+DEG_hx	Slitrk4_fx
+DEG_hx	Cfdp1_fx
+DEG_hx	Klhl24_fx
+DEG_hx	Arhgap17_fx
+DEG_hx	Prox1_fx
+DEG_hx	Lrrc56_fx
+DEG_hx	Spon1_fx
+DEG_hx	Cenps_fx
+DEG_hx	Tsacc_fx
+DEG_hx	Myl9_fx
+DEG_hx	Caprin1_fx
+DEG_hx	Dars2_fx
+DEG_hx	Irf8_fx
+DEG_hx	Itpr3_fx
+DEG_hx	Msc_fx
+DEG_hx	Svil_fx
+DEG_hx	Pcsk7_fx
+DEG_hx	Gramd1b_fx
+DEG_hx	St3gal2_fx
+DEG_hx	Ctsk_fx
+DEG_hx	Ccl27a_fx
+DEG_hx	Elp6_fx
+DEG_hx	Foxf2_fx
+DEG_hx	Syne2_fx
+DEG_hx	Nt5c3_fx
+DEG_hx	Atf4_fx
+DEG_hx	Fahd2a_fx
+DEG_hx	Cdh4_fx
+DEG_hx	Arhgap8_fx
+DEG_hx	Sh3pxd2a_fx
+DEG_hx	Hars1_fx
+DEG_hx	Abi3_fx
+DEG_hx	0610009E02Rik_fx
+DEG_hx	Fam222a_fx
+DEG_hx	Slfn5_fx
+DEG_hx	Kif1c_fx
+DEG_hx	Ing1_fx
+DEG_hx	Chac1_fx
+DEG_hx	Pafah1b3_fx
+DEG_hx	Zwilch_fx
+DEG_hx	Myo5b_fx
+DEG_hx	Ankrd28_fx
+DEG_hx	Utrn_fx
+DEG_hx	Pxk_fx
+DEG_hx	Rgs8_fx
+DEG_hx	Rnf213_fx
+DEG_hx	Get4_fx
+DEG_hx	Abcb10_fx
+DEG_hx	Tinf2_fx
+DEG_hx	Ctnnal1_fx
+DEG_hx	Daglb_fx
+DEG_hx	Olig1_fx
+DEG_hx	Tent5a_fx
+DEG_hx	Arhgap21_fx
+DEG_hx	Gm15545_fx
+DEG_hx	2900005J15Rik_fx
+DEG_hx	Ddx6_fx
+DEG_hx	Map4k3_fx
+DEG_hx	Zmym2_fx
+DEG_hx	Unc79_fx
+DEG_hx	Dnajc10_fx
+DEG_hx	Afg2a_fx
+DEG_hx	Lmo3_fx
+DEG_hx	Cttnbp2nl_fx
+DEG_hx	Gtf3a_fx
+DEG_hx	Brk1_fx
+DEG_hx	Stmn4_fx
+DEG_hx	Xrcc3_fx
+DEG_hx	Csnk1e_fx
+DEG_hx	Chordc1_fx
+DEG_hx	Rabgap1l_fx
+DEG_hx	Sh3gl3_fx
+DEG_hx	Car12_fx
+DEG_hx	Kcnb2_fx
+DEG_hx	N4bp3_fx
+DEG_hx	Ccdc136_fx
+DEG_hx	Kcnh5_fx
+DEG_hx	Flt4_fx
+DEG_hx	Fan1_fx
+DEG_hx	Snap29_fx
+DEG_hx	Rnf14_fx
+DEG_hx	Ccdc184_fx
+DEG_hx	Pgls_fx
+DEG_hx	Camk2n2_fx
+DEG_hx	Wfs1_fx
+DEG_hx	Nrg1_fx
+DEG_hx	Itih3_fx
+DEG_hx	Mier3_fx
+DEG_hx	Hspa12a_fx
+DEG_hx	Tstd1_fx
+DEG_hx	Scnm1_fx
+DEG_hx	Fam107a_fx
+DEG_hx	Praf2_fx
+DEG_hx	Mllt11_fx
+DEG_hx	Rps10_fx
+DEG_hx	Ano3_fx
+DEG_hx	Sdhb_fx
+DEG_hx	Usp51_fx
+DEG_hx	Gfpt1_fx
+DEG_hx	Ssh1_fx
+DEG_hx	Naa40_fx
+DEG_hx	Cept1_fx
+DEG_hx	Septin3_fx
+DEG_hx	Il13ra1_fx
+DEG_hx	Stmp1_fx
+DEG_hx	Gpat3_fx
+DEG_hx	Nsmce2_fx
+DEG_hx	Fam185a_fx
+DEG_hx	Usp34_fx
+DEG_hx	Brix1_fx
+DEG_hx	Txndc9_fx
+DEG_hx	Gon7_fx
+DEG_hx	Mex3b_fx
+DEG_hx	Lins1_fx
+DEG_hx	Gas5_fx
+DEG_hx	Mtmr1_fx
+DEG_hx	Mbtd1_fx
+DEG_hx	Proser1_fx
+DEG_hx	Cdr2l_fx
+DEG_hx	Fxn_fx
+DEG_hx	Izumo4_fx
+DEG_hx	Slc5a3_fx
+DEG_hx	Kdm6a_fx
+DEG_hx	Kcnc2_fx
+DEG_hx	Zdbf2_fx
+DEG_hx	Matn4_fx
+DEG_hx	Map7_fx
+DEG_hx	Ctbs_fx
+DEG_hx	Rps28_fx
+DEG_hx	Dlx1as_fx
+DEG_hx	Alg2_fx
+DEG_hx	Ube2f_fx
+DEG_hx	1700086O06Rik_fx
+DEG_hx	Prrc2c_fx
+DEG_hx	Zfp758_fx
+DEG_hx	Cox5b_fx
+DEG_hx	Ergic3_fx
+DEG_hx	Nsun3_fx
+DEG_hx	Arf6_fx
+DEG_hx	Zbbx_fx
+DEG_hx	Asxl2_fx
+DEG_hx	Mrps18a_fx
+DEG_hx	Rfx4_fx
+DEG_hx	Cnnm1_fx
+DEG_hx	Ptn_fx
+DEG_hx	Pcm1_fx
+DEG_hx	Sin3b_fx
+DEG_hx	Dph2_fx
+DEG_hx	Foxp4_fx
+DEG_hx	Rbmxl1_fx
+DEG_hx	Cacna1a_fx
+DEG_hx	Alkbh4_fx
+DEG_hx	Cyb561_fx
+DEG_hx	Mog_fx
+DEG_hx	Atg12_fx
+DEG_hx	Thbs3_fx
+DEG_hx	Ddc_fx
+DEG_hx	Actn4_fx
+DEG_hx	Txndc12_fx
+DEG_hx	Pnn_fx
+DEG_hx	Arfip1_fx
+DEG_hx	Arcn1_fx
+DEG_hx	Grk6_fx
+DEG_hx	Tmem19_fx
+DEG_hx	Prps1_fx
+DEG_hx	Mageh1_fx
+DEG_hx	Mns1_fx
+DEG_hx	Sardh_fx
+DEG_hx	Sanbr_fx
+DEG_hx	Smg1_fx
+DEG_hx	Atl2_fx
+DEG_hx	Rph3al_fx
+DEG_hx	Ipo4_fx
+DEG_hx	L1cam_fx
+DEG_hx	Slc6a20a_fx
+DEG_hx	Ndufb9_fx
+DEG_hx	Rbfox2_fx
+DEG_hx	Tdrd5_fx
+DEG_hx	Tgfb1i1_fx
+DEG_hx	Rpl9_fx
+DEG_hx	Sema3e_fx
+DEG_hx	Kcnq3_fx
+DEG_hx	Zdhhc13_fx
+DEG_hx	Cstpp1_fx
+DEG_hx	Fam107b_fx
+DEG_hx	Mtor_fx
+DEG_hx	Zswim4_fx
+DEG_hx	Myl4_fx
+DEG_hx	Nefl_fx
+DEG_hx	Zfp282_fx
+DEG_hx	Egln2_fx
+DEG_hx	Lsm14a_fx
+DEG_hx	Rfx3_fx
+DEG_hx	Atp8b5_fx
+DEG_hx	Fbrs_fx
+DEG_hx	Tppp_fx
+DEG_hx	Pcdhb16_fx
+DEG_hx	C630043F03Rik_fx
+DEG_hx	Tnrc18_fx
+DEG_hx	Dmxl2_fx
+DEG_hx	Rprd2_fx
+DEG_hx	Akr1b1_fx
+DEG_hx	Snai1_fx
+DEG_hx	Baz1b_fx
+DEG_hx	Ift70a1_fx
+DEG_hx	Lamb1_fx
+DEG_hx	Smarcd1_fx
+DEG_hx	Atp5mf_fx
+DEG_hx	Dpp8_fx
+DEG_hx	Slit1_fx
+DEG_hx	Wnk1_fx
+DEG_hx	Gale_fx
+DEG_hx	Copz2_fx
+DEG_hx	Ppp1r1b_fx
+DEG_hx	Lama5_fx
+DEG_hx	Pick1_fx
+DEG_hx	Gsk3a_fx
+DEG_hx	Nit2_fx
+DEG_hx	Ireb2_fx
+DEG_hx	Calb2_fx
+DEG_hx	Sdcbp2_fx
+DEG_hx	Ephb2_fx
+DEG_hx	Timm9_fx
+DEG_hx	Slc6a1_fx
+DEG_hx	Atg4a_fx
+DEG_hx	Sh3rf2_fx
+DEG_hx	Ubald1_fx
+DEG_hx	Rskr_fx
+DEG_hx	Fam13b_fx
+DEG_hx	Usp4_fx
+DEG_hx	Cfap20_fx
+DEG_hx	Ndst1_fx
+DEG_hx	Efhd2_fx
+DEG_hx	Tmem65_fx
+DEG_hx	Mpg_fx
+DEG_hx	Rabl2_fx
+DEG_hx	Arhgap39_fx
+DEG_hx	Mocos_fx
+DEG_hx	Ptov1_fx
+DEG_hx	Pde11a_fx
+DEG_hx	Gpx2_fx
+DEG_hx	Gli2_fx
+DEG_hx	Dnajc25_fx
+DEG_hx	Dync1h1_fx
+DEG_hx	Pfkfb4_fx
+DEG_hx	Msto1_fx
+DEG_hx	Slc16a11_fx
+DEG_hx	Ntn4_fx
+DEG_hx	Pced1a_fx
+DEG_hx	Cldn12_fx
+DEG_hx	Retreg1_fx
+DEG_hx	Mttp_fx
+DEG_hx	Arhgef28_fx
+DEG_hx	Rtn4r_fx
+DEG_hx	Atf2_fx
+DEG_hx	Entpd2_fx
+DEG_hx	Tmem178b_fx
+DEG_hx	Tal1_fx
+DEG_hx	Gemin7_fx
+DEG_hx	Tdo2_fx
+DEG_hx	Caprin2_fx
+DEG_hx	Cdc45_fx
+DEG_hx	Eif2ak3_fx
+DEG_hx	Kcnk4_fx
+DEG_hx	Suds3_fx
+DEG_hx	Fbxo45_fx
+DEG_hx	Cyp4x1_fx
+DEG_hx	Ralgps2_fx
+DEG_hx	Pkia_fx
+DEG_hx	Oga_fx
+DEG_hx	Rbm25_fx
+DEG_hx	Nup133_fx
+DEG_hx	Nrbp1_fx
+DEG_hx	Ap2m1_fx
+DEG_hx	Spryd3_fx
+DEG_hx	Cers4_fx
+DEG_hx	Psma4_fx
+DEG_hx	Tmem237_fx
+DEG_hx	Rpl34-ps1_fx
+DEG_hx	Dpep1_fx
+DEG_hx	Syt3_fx
+DEG_hx	Tpcn1_fx
+DEG_hx	Larp1_fx
+DEG_hx	Shank3_fx
+DEG_hx	Tor3a_fx
+DEG_hx	Xntrpc_fx
+DEG_hx	Atp23_fx
+DEG_hx	Cap2_fx
+DEG_hx	Zfyve27_fx
+DEG_hx	Glmn_fx
+DEG_hx	Stap2_fx
+DEG_hx	Grem1_fx
+DEG_hx	Repin1_fx
+DEG_hx	Ep300_fx
+DEG_hx	2610306M01Rik_fx
+DEG_hx	Cdk5rap1_fx
+DEG_hx	Tmem184b_fx
+DEG_hx	Lamc1_fx
+DEG_hx	Tex261_fx
+DEG_hx	Lrrfip2_fx
+DEG_hx	1110059E24Rik_fx
+DEG_hx	Ramp2_fx
+DEG_hx	Tagap1_fx
+DEG_hx	Rgmb_fx
+DEG_hx	Nsun7_fx
+DEG_hx	Smad3_fx
+DEG_hx	Gyg1_fx
+DEG_hx	Socs3_fx
+DEG_hx	Dnajb2_fx
+DEG_hx	Sgpl1_fx
+DEG_hx	Iqsec3_fx
+DEG_hx	Cenatac_fx
+DEG_hx	Myo1e_fx
+DEG_hx	Ryk_fx
+DEG_hx	Commd1_fx
+DEG_hx	Mro_fx
+DEG_hx	Cul4b_fx
+DEG_hx	Atxn2l_fx
+DEG_hx	Sec11c_fx
+DEG_hx	Crabp1_fx
+DEG_hx	Ino80d_fx
+DEG_hx	Mtif2_fx
+DEG_hx	Chodl_fx
+DEG_hx	Psd_fx
+DEG_hx	Sntg2_fx
+DEG_hx	Aox1_fx
+DEG_hx	Foxk2_fx
+DEG_hx	Nrg3_fx
+DEG_hx	Bri3bp_fx
+DEG_hx	Runx1t1_fx
+DEG_hx	Efr3a_fx
+DEG_hx	Atl3_fx
+DEG_hx	Nsrp1_fx
+DEG_hx	Nhlrc1_fx
+DEG_hx	Hnmt_fx
+DEG_hx	Mettl13_fx
+DEG_hx	Cox8b_fx
+DEG_hx	Myb_fx
+DEG_hx	Lrrn3_fx
+DEG_hx	Trmt2b_fx
+DEG_hx	Pik3r5_fx
+DEG_hx	Srgap2_fx
+DEG_hx	Jam2_fx
+DEG_hx	Pabpc4l_fx
+DEG_hx	Celf5_fx
+DEG_hx	Stoml1_fx
+DEG_hx	Eloa_fx
+DEG_hx	Tom1l2_fx
+DEG_hx	Pcnp_fx
+DEG_hx	Nacc2_fx
+DEG_hx	Mettl18_fx
+DEG_hx	Gm23318_fx
+DEG_hx	Scg5_fx
+DEG_hx	Fam172a_fx
+DEG_hx	Slc12a4_fx
+DEG_hx	Kcnb1_fx
+DEG_hx	Myh10_fx
+DEG_hx	Nutf2_fx
+DEG_hx	Btbd17_fx
+DEG_hx	Akap8_fx
+DEG_hx	Tbc1d24_fx
+DEG_hx	Tro_fx
+DEG_hx	Rem2_fx
+DEG_hx	Acadvl_fx
+DEG_hx	Ppp1r12a_fx
+DEG_hx	Unc50_fx
+DEG_hx	Arhgap25_fx
+DEG_hx	Cstf3_fx
+DEG_hx	Atp6v1h_fx
+DEG_hx	Dna2_fx
+DEG_hx	Gfra1_fx
+DEG_hx	Txn1_fx
+DEG_hx	Foxo1_fx
+DEG_hx	Sync_fx
+DEG_hx	Calhm5_fx
+DEG_hx	Ikzf1_fx
+DEG_hx	Smu1_fx
+DEG_hx	Xylt2_fx
+DEG_hx	Chrna7_fx
+DEG_hx	Picalm_fx
+DEG_hx	Polrmt_fx
+DEG_hx	Trim8_fx
+DEG_hx	Slc26a7_fx
+DEG_hx	C1ql2_fx
+DEG_hx	Mcam_fx
+DEG_hx	Gstt2_fx
+DEG_hx	Zbtb34_fx
+DEG_hx	Fbln5_fx
+DEG_hx	Armc1_fx
+DEG_hx	Ppp2r3d_fx
+DEG_hx	Gm7160_fx
+DEG_hx	Bloc1s1_fx
+DEG_hx	Ankrd11_fx
+DEG_hx	Zfp941_fx
+DEG_hx	Tbc1d9_fx
+DEG_hx	Syncrip_fx
+DEG_hx	Sgo2a_fx
+DEG_hx	Hipk3_fx
+DEG_hx	Klc3_fx
+DEG_hx	Inava_fx
+DEG_hx	Prox1os_fx
+DEG_hx	Gramd1c_fx
+DEG_hx	Dpysl3_fx
+DEG_hx	Dennd3_fx
+DEG_hx	Ankrd10_fx
+GWAS_hx	Dna2_hx
+GWAS_hx	Ctsb_hx
+GWAS_hx	Cfdp1_hx
+GWAS_hx	Tstd1_hx
+GWAS_hx	Snap29_hx
+GWAS_hx	Atp5mf_hx
+GWAS_hx	Atp23_hx
+GWAS_hx	Rwdd3_hx
+GWAS_hx	Rsad1_hx
+GWAS_hx	Rpl9_hx
+GWAS_hx	Rgmb_hx
+GWAS_hx	Ppil6_hx
+GWAS_hx	Aox1_hx
+GWAS_hx	Pcm1_hx
+GWAS_hx	Lsm14a_hx
+GWAS_hx	Gstp1_hx
+GWAS_hx	Gas5_hx
+GWAS_hx	Ergic3_hx
+GWAS_hx	Mro_hx
+GWAS_hx	Gtf3a_hx
+GWAS_hx	Zdbf2_hx
+GWAS_hx	Suds3_hx
+GWAS_hx	Rps28_hx
+GWAS_hx	Lins1_hx
+GWAS_hx	Rps10_hx
+GWAS_hx	Gemin7_hx
+GWAS_hx	Rprd2_hx
+GWAS_hx	Stap2_hx
+GWAS_hx	Ccm2_hx
+GWAS_hx	Nsrp1_hx
+GWAS_hx	Nefl_hx
+GWAS_hx	Dennd3_hx
+GWAS_hx	Trmt2b_hx
+GWAS_hx	Nit2_hx
+GWAS_hx	Ddx55_hx
+GWAS_hx	Pxk_hx
+GWAS_hx	Hacd1_hx
+GWAS_hx	Taf9b_hx
+GWAS_hx	Commd1_hx
+GWAS_hx	Ogfod3_hx
+GWAS_hx	Ndst1_hx
+GWAS_hx	Tppp_hx
+GWAS_hx	Mettl18_hx
+GWAS_hx	Atf4_hx
+GWAS_hx	Ube2f_hx
+GWAS_hx	Fam107b_hx
+GWAS_hx	Adarb2_hx
+GWAS_hx	Gnaz_hx
+GWAS_hx	Atl2_hx
+GWAS_hx	Arfip1_hx
+GWAS_hx	Ano3_hx
+GWAS_hx	C1ql2_hx
+GWAS_hx	Cyb561_hx
+GWAS_hx	Grem1_hx
+GWAS_hx	Daglb_hx
+GWAS_hx	Atp5po_hx
+GWAS_hx	Tdrd5_hx
+GWAS_hx	Cenpu_hx
+GWAS_hx	Gsto1_hx
+GWAS_hx	Cfl2_hx
+GWAS_hx	Slfn5_hx
+GWAS_hx	Lrrfip2_hx
+GWAS_hx	Ankrd10_hx
+GWAS_hx	Tom1l2_hx

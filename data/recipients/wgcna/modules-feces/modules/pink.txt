@@ -1,0 +1,29 @@
+quinolinate
+N-formylmethionine
+beta-alanine
+sphinganine
+fumarate
+pyridoxamine
+glucose
+xylose
+methyl indole-3-acetate
+1-palmitoyl-2-oleoyl-GPE (16:0/18:1)
+agmatine
+indolelactate
+7,12-diketolithocholate
+trigonelline (N'-methylnicotinate)
+3-ketosphinganine
+1-linoleoyl-GPE (18:2)*
+1-palmitoyl-2-linoleoyl-GPE (16:0/18:2)
+gamma-CEHC
+N-acetyl-cadaverine
+tyrosol
+prolylglycine
+alpha-CEHC sulfate
+cholate sulfate
+1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)*
+1,2-dipalmitoyl-GPE (16:0/16:0)*
+hexadecasphinganine (d16:0)*
+lithocholic acid sulfate (2)
+vitamin D3 sulfate
+chenodeoxycholic acid sulfate (1)

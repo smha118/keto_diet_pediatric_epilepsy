@@ -1,0 +1,48 @@
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Enterococcus.s__Enterococcus_faecalis
+COA-PWY: coenzyme A biosynthesis I|g__Enterococcus.s__Enterococcus_faecalis
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Enterococcus.s__Enterococcus_faecalis
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Enterococcus.s__Enterococcus_faecalis
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|g__Enterococcus.s__Enterococcus_faecalis
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Enterococcus.s__Enterococcus_faecalis
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Enterococcus.s__Enterococcus_faecalis
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Enterococcus.s__Enterococcus_faecalis
+PPGPPMET-PWY: ppGpp biosynthesis|g__Enterococcus.s__Enterococcus_faecalis
+PWY-3841: folate transformations II|g__Enterococcus.s__Enterococcus_faecalis
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Enterococcus.s__Enterococcus_faecalis
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Enterococcus.s__Enterococcus_faecalis
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Enterococcus.s__Enterococcus_faecalis
+PWY-5265: peptidoglycan biosynthesis II (staphylococci)|g__Enterococcus.s__Enterococcus_faecalis
+PWY-5686: UMP biosynthesis|g__Enterococcus.s__Enterococcus_faecalis
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6317: galactose degradation I (Leloir pathway)|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6471: peptidoglycan biosynthesis IV (Enterococcus faecium)|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6609: adenine and adenosine salvage III|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6700: queuosine biosynthesis|g__Enterococcus.s__Enterococcus_faecalis
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Enterococcus.s__Enterococcus_faecalis
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Enterococcus.s__Enterococcus_faecalis
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Enterococcus.s__Enterococcus_faecalis
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Enterococcus.s__Enterococcus_faecalis
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Enterococcus.s__Enterococcus_faecalis
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Enterococcus.s__Enterococcus_faecalis
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Enterococcus.s__Enterococcus_faecalis
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Enterococcus.s__Enterococcus_faecalis
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Enterococcus.s__Enterococcus_faecalis
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Enterococcus.s__Enterococcus_faecalis
+PWY-922: mevalonate pathway I|g__Enterococcus.s__Enterococcus_faecalis
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Enterococcus.s__Enterococcus_faecalis
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Enterococcus.s__Enterococcus_faecalis
+RHAMCAT-PWY: L-rhamnose degradation I|g__Enterococcus.s__Enterococcus_faecalis
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Enterococcus.s__Enterococcus_faecalis
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Enterococcus.s__Enterococcus_faecalis

@@ -1,0 +1,96 @@
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Lachnoclostridium.s__Clostridium_lavalense
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Lachnoclostridium.s__Clostridium_lavalense
+ARO-PWY: chorismate biosynthesis I|g__Lachnoclostridium.s__Clostridium_lavalense
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Hungatella.s__Hungatella_hathewayi
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Lachnoclostridium.s__Clostridium_lavalense
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Lachnoclostridium.s__Clostridium_lavalense
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Lachnoclostridium.s__Clostridium_lavalense
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Lachnoclostridium.s__Clostridium_lavalense
+COA-PWY: coenzyme A biosynthesis I|g__Lachnoclostridium.s__Clostridium_lavalense
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Lachnoclostridium.s__Clostridium_lavalense
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Escherichia.s__Escherichia_coli
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Lachnoclostridium.s__Clostridium_bolteae
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Lachnoclostridium.s__Clostridium_lavalense
+GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation|g__Hungatella.s__Hungatella_hathewayi
+GLUCARDEG-PWY: D-glucarate degradation I|g__Flavonifractor.s__Flavonifractor_plautii
+GLUTORN-PWY: L-ornithine biosynthesis|g__Lachnoclostridium.s__Clostridium_lavalense
+HISTSYN-PWY: L-histidine biosynthesis|g__Hungatella.s__Hungatella_hathewayi
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Lachnoclostridium.s__Clostridium_lavalense
+NONMEVIPP-PWY: methylerythritol phosphate pathway I|unclassified
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Lachnoclostridium.s__Clostridium_aldenense
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Lachnoclostridium.s__Clostridium_lavalense
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|g__Escherichia.s__Escherichia_coli
+P108-PWY: pyruvate fermentation to propanoate I|unclassified
+P161-PWY: acetylene degradation|g__Clostridium.s__Clostridium_cadaveris
+P161-PWY: acetylene degradation|g__Hungatella.s__Hungatella_hathewayi
+P164-PWY: purine nucleobases degradation I (anaerobic)|g__Hungatella.s__Hungatella_hathewayi
+P23-PWY: reductive TCA cycle I|unclassified
+PENTOSE-P-PWY: pentose phosphate pathway|g__Hungatella.s__Hungatella_hathewayi
+PENTOSE-P-PWY: pentose phosphate pathway|g__Lachnoclostridium.s__Clostridium_lavalense
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-1042: glycolysis IV (plant cytosol)|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-1042: glycolysis IV (plant cytosol)|g__Robinsoniella.s__Robinsoniella_sp_RHS
+PWY-2942: L-lysine biosynthesis III|g__Lachnoclostridium.s__Clostridium_aldenense
+PWY-2942: L-lysine biosynthesis III|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Lachnoclostridium.s__Clostridium_aldenense
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-5004: superpathway of L-citrulline metabolism
+PWY-5044: purine nucleotides degradation I (plants)
+PWY-5088: L-glutamate degradation VIII (to propanoate)
+PWY-5097: L-lysine biosynthesis VI|g__Lachnoclostridium.s__Clostridium_aldenense
+PWY-5097: L-lysine biosynthesis VI|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-5101: L-isoleucine biosynthesis II|g__Hungatella.s__Hungatella_hathewayi
+PWY-5103: L-isoleucine biosynthesis III|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-5104: L-isoleucine biosynthesis IV|g__Hungatella.s__Hungatella_hathewayi
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-5723: Rubisco shunt|unclassified
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Robinsoniella.s__Robinsoniella_sp_RHS
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Robinsoniella.s__Robinsoniella_sp_RHS
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Hungatella.s__Hungatella_hathewayi
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-621: sucrose degradation III (sucrose invertase)|g__Hungatella.s__Hungatella_hathewayi
+PWY-621: sucrose degradation III (sucrose invertase)|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-621: sucrose degradation III (sucrose invertase)|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-6270: isoprene biosynthesis I|unclassified
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Robinsoniella.s__Robinsoniella_sp_RHS
+PWY-6305: putrescine biosynthesis IV|unclassified
+PWY-6317: galactose degradation I (Leloir pathway)|g__Hungatella.s__Hungatella_hathewayi
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-6471: peptidoglycan biosynthesis IV (Enterococcus faecium)|unclassified
+PWY-6596: adenosine nucleotides degradation I
+PWY-6609: adenine and adenosine salvage III|g__Lachnoclostridium.s__Clostridium_aldenense
+PWY-6609: adenine and adenosine salvage III|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-6700: queuosine biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+PWY-6700: queuosine biosynthesis|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-6737: starch degradation V|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Robinsoniella.s__Robinsoniella_sp_RHS
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Robinsoniella.s__Robinsoniella_sp_RHS
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Robinsoniella.s__Robinsoniella_sp_RHS
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Robinsoniella.s__Robinsoniella_sp_RHS
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Hungatella.s__Hungatella_hathewayi
+PWY-7328: superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis|g__Escherichia.s__Escherichia_coli
+PWY-7385: 1,3-propanediol biosynthesis (engineered)|unclassified
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-7446: sulfoglycolysis|unclassified
+PWY-7560: methylerythritol phosphate pathway II|unclassified
+PWY0-1296: purine ribonucleosides degradation|g__Intestinibacter.s__Intestinibacter_bartlettii
+PWY0-1296: purine ribonucleosides degradation|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Hungatella.s__Hungatella_hathewayi
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Hungatella.s__Hungatella_hathewayi
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Lachnoclostridium.s__Clostridium_lavalense
+RUMP-PWY: formaldehyde oxidation I|unclassified
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Lachnoclostridium.s__Clostridium_lavalense
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Lachnoclostridium.s__Clostridium_lavalense
+VALSYN-PWY: L-valine biosynthesis|g__Lachnoclostridium.s__Clostridium_lavalense

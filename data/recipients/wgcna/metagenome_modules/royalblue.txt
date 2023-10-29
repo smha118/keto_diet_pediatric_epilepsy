@@ -1,0 +1,67 @@
+AEROBACTINSYN-PWY: aerobactin biosynthesis
+AEROBACTINSYN-PWY: aerobactin biosynthesis|g__Escherichia.s__Escherichia_coli
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|unclassified
+COLANSYN-PWY: colanic acid building blocks biosynthesis|unclassified
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|unclassified
+DENOVOPURINE2-PWY: superpathway of purine nucleotides de novo biosynthesis II|unclassified
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Escherichia.s__Escherichia_coli
+FUCCAT-PWY: fucose degradation|unclassified
+HSERMETANA-PWY: L-methionine biosynthesis III|unclassified
+LPSSYN-PWY: superpathway of lipopolysaccharide biosynthesis
+LPSSYN-PWY: superpathway of lipopolysaccharide biosynthesis|g__Escherichia.s__Escherichia_coli
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|g__Escherichia.s__Escherichia_coli
+P105-PWY: TCA cycle IV (2-oxoglutarate decarboxylase)|unclassified
+P108-PWY: pyruvate fermentation to propanoate I|unclassified
+P122-PWY: heterolactic fermentation|g__Escherichia.s__Escherichia_coli
+PANTO-PWY: phosphopantothenate biosynthesis I|unclassified
+PWY-1861: formaldehyde assimilation II (RuMP Cycle)|g__Escherichia.s__Escherichia_coli
+PWY-5083: NAD/NADH phosphorylation and dephosphorylation|unclassified
+PWY-5173: superpathway of acetyl-CoA biosynthesis|unclassified
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|unclassified
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|unclassified
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|unclassified
+PWY-5675: nitrate reduction V (assimilatory)|unclassified
+PWY-5686: UMP biosynthesis|unclassified
+PWY-5690: TCA cycle II (plants and fungi)|unclassified
+PWY-5913: TCA cycle VI (obligate autotrophs)|unclassified
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|unclassified
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|unclassified
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|unclassified
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|unclassified
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|unclassified
+PWY-6700: queuosine biosynthesis|unclassified
+PWY-6749: CMP-legionaminate biosynthesis I|g__Escherichia.s__Escherichia_coli
+PWY-6823: molybdenum cofactor biosynthesis|unclassified
+PWY-6895: superpathway of thiamin diphosphate biosynthesis II|unclassified
+PWY-6969: TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)|unclassified
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I|unclassified
+PWY-7187: pyrimidine deoxyribonucleotides de novo biosynthesis II|unclassified
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|unclassified
+PWY-7198: pyrimidine deoxyribonucleotides de novo biosynthesis IV|unclassified
+PWY-7200: superpathway of pyrimidine deoxyribonucleoside salvage|unclassified
+PWY-7211: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis|unclassified
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|unclassified
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|unclassified
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|unclassified
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|unclassified
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|unclassified
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|unclassified
+PWY-7254: TCA cycle VII (acetate-producers)|unclassified
+PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis|unclassified
+PWY-821: superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)
+PWY-841: superpathway of purine nucleotides de novo biosynthesis I|unclassified
+PWY0-1061: superpathway of L-alanine biosynthesis|unclassified
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|unclassified
+PWY0-1479: tRNA processing|unclassified
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|unclassified
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)|unclassified
+PWY0-42: 2-methylcitrate cycle I|unclassified
+PWY66-389: phytol degradation|g__Escherichia.s__Escherichia_coli
+PWY66-398: TCA cycle III (animals)
+PWY66-398: TCA cycle III (animals)|g__Escherichia.s__Escherichia_coli
+PYRIDNUCSYN-PWY: NAD biosynthesis I (from aspartate)|unclassified
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|unclassified
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|unclassified
+TCA-GLYOX-BYPASS: superpathway of glyoxylate bypass and TCA|unclassified
+TCA: TCA cycle I (prokaryotic)|unclassified
+TRPSYN-PWY: L-tryptophan biosynthesis|unclassified

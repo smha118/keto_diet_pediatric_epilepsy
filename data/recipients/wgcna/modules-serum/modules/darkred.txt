@@ -1,0 +1,8 @@
+1-palmitoyl-GPE (16:0)
+1-palmitoyl-2-linoleoyl-GPE (16:0/18:2)
+oleoyl-linoleoyl-glycerol (18:1/18:2) [1]
+oleoyl-linoleoyl-glycerol (18:1/18:2) [2]
+1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*
+1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*
+1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*
+linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*

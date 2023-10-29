@@ -1,0 +1,14 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Arginine biosynthesis",14,0.036129,2,0.00045013,3.3467,0.037811,0.037811,0.07614
+"Aminoacyl-tRNA biosynthesis",48,0.12387,2,0.0054168,2.2663,0.4496,0.21573,0
+"Purine metabolism",65,0.16774,2,0.0098402,2.007,0.8069,0.21573,0
+"Linoleic acid metabolism",5,0.012903,1,0.012853,1.891,1,0.21573,0
+"D-Glutamine and D-glutamate metabolism",6,0.015484,1,0.015409,1.8122,1,0.21573,0
+"Nitrogen metabolism",6,0.015484,1,0.015409,1.8122,1,0.21573,0
+"alpha-Linolenic acid metabolism",13,0.033548,1,0.03316,1.4794,1,0.39792,0
+"Alanine, aspartate and glutamate metabolism",28,0.072258,1,0.07039,1.1525,1,0.62677,0.11378
+"Glyoxylate and dicarboxylate metabolism",32,0.082581,1,0.080134,1.0962,1,0.62677,0
+"Arachidonic acid metabolism",36,0.092903,1,0.0898,1.0467,1,0.62677,0
+"Glycerophospholipid metabolism",36,0.092903,1,0.0898,1.0467,1,0.62677,0.09446
+"Arginine and proline metabolism",38,0.098065,1,0.094605,1.0241,1,0.62677,0.05786
+"Pyrimidine metabolism",39,0.10065,1,0.097,1.0132,1,0.62677,0

@@ -1,0 +1,25 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Clostridioides.s__Clostridioides_difficile
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Clostridioides.s__Clostridioides_difficile
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Clostridioides.s__Clostridioides_difficile
+CENTFERM-PWY: pyruvate fermentation to butanoate|g__Clostridioides.s__Clostridioides_difficile
+GLUTORN-PWY: L-ornithine biosynthesis|g__Clostridioides.s__Clostridioides_difficile
+HISTSYN-PWY: L-histidine biosynthesis|g__Clostridioides.s__Clostridioides_difficile
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Clostridioides.s__Clostridioides_difficile
+P164-PWY: purine nucleobases degradation I (anaerobic)|g__Clostridioides.s__Clostridioides_difficile
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Clostridioides.s__Clostridioides_difficile
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Clostridioides.s__Clostridioides_difficile
+PWY-5022: 4-aminobutanoate degradation V|g__Clostridioides.s__Clostridioides_difficile
+PWY-5676: acetyl-CoA fermentation to butanoate II|g__Clostridioides.s__Clostridioides_difficile
+PWY-5677: succinate fermentation to butanoate|g__Clostridioides.s__Clostridioides_difficile
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Clostridioides.s__Clostridioides_difficile
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Clostridioides.s__Clostridioides_difficile
+PWY-6588: pyruvate fermentation to acetone|g__Clostridioides.s__Clostridioides_difficile
+PWY-6590: superpathway of Clostridium acetobutylicum acidogenic fermentation|g__Clostridioides.s__Clostridioides_difficile
+PWY-6608: guanosine nucleotides degradation III|g__Clostridioides.s__Clostridioides_difficile
+PWY-6897: thiamin salvage II|g__Clostridioides.s__Clostridioides_difficile
+PWY-6936: seleno-amino acid biosynthesis|g__Clostridioides.s__Clostridioides_difficile
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Clostridioides.s__Clostridioides_difficile
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Clostridioides.s__Clostridioides_difficile
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Clostridioides.s__Clostridioides_difficile
+SALVADEHYPOX-PWY: adenosine nucleotides degradation II|g__Clostridioides.s__Clostridioides_difficile
+VALSYN-PWY: L-valine biosynthesis|g__Clostridioides.s__Clostridioides_difficile

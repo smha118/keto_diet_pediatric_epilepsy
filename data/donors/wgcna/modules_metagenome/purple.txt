@@ -1,0 +1,360 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Blautia.s__Blautia_producta
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Blautia.s__Blautia_wexlerae
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Roseburia.s__Roseburia_faecis
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Tyzzerella.s__Tyzzerella_nexilis
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Eubacterium.s__Eubacterium_limosum
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Blautia.s__Blautia_wexlerae
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Blautia.s__Blautia_producta
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Blautia.s__Blautia_wexlerae
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Lactonifactor.s__Lactonifactor_longoviformis
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Roseburia.s__Roseburia_faecis
+ARO-PWY: chorismate biosynthesis I|g__Blautia.s__Blautia_producta
+ARO-PWY: chorismate biosynthesis I|g__Blautia.s__Blautia_wexlerae
+ARO-PWY: chorismate biosynthesis I|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Blautia.s__Blautia_producta
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Blautia.s__Blautia_producta
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Blautia.s__Blautia_wexlerae
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Lactonifactor.s__Lactonifactor_longoviformis
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Roseburia.s__Roseburia_faecis
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Tyzzerella.s__Tyzzerella_nexilis
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Blautia.s__Blautia_obeum
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Blautia.s__Blautia_producta
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Blautia.s__Blautia_wexlerae
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Clostridium.s__Clostridium_sp_CAG_58
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Eubacterium.s__Eubacterium_limosum
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Intestinibacter.s__Intestinibacter_bartlettii
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Blautia.s__Blautia_producta
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Blautia.s__Blautia_wexlerae
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Clostridium.s__Clostridium_sp_CAG_58
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Roseburia.s__Roseburia_faecis
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Tyzzerella.s__Tyzzerella_nexilis
+COA-PWY: coenzyme A biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_longum
+COA-PWY: coenzyme A biosynthesis I|g__Blautia.s__Blautia_wexlerae
+COA-PWY: coenzyme A biosynthesis I|g__Clostridium.s__Clostridium_sp_CAG_58
+COA-PWY: coenzyme A biosynthesis I|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+COA-PWY: coenzyme A biosynthesis I|g__Roseburia.s__Roseburia_faecis
+COA-PWY: coenzyme A biosynthesis I|g__Tyzzerella.s__Tyzzerella_nexilis
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Blautia.s__Blautia_producta
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Blautia.s__Blautia_wexlerae
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_longum
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Blautia.s__Blautia_producta
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Blautia.s__Blautia_wexlerae
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Clostridium.s__Clostridium_sp_CAG_58
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+GLUCUROCAT-PWY: superpathway of &beta;-D-glucuronide and D-glucuronate degradation|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+GLUTORN-PWY: L-ornithine biosynthesis|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+GLUTORN-PWY: L-ornithine biosynthesis|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Roseburia.s__Roseburia_faecis
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Blautia.s__Blautia_producta
+HISDEG-PWY: L-histidine degradation I|g__Blautia.s__Blautia_producta
+HISTSYN-PWY: L-histidine biosynthesis|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+HISTSYN-PWY: L-histidine biosynthesis|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Blautia.s__Blautia_producta
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Blautia.s__Blautia_wexlerae
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Lactonifactor.s__Lactonifactor_longoviformis
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Roseburia.s__Roseburia_faecis
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Tyzzerella.s__Tyzzerella_nexilis
+KETOGLUCONMET-PWY: ketogluconate metabolism|unclassified
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bifidobacterium.s__Bifidobacterium_longum
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Blautia.s__Blautia_producta
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Blautia.s__Blautia_wexlerae
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Clostridium.s__Clostridium_sp_CAG_58
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Eubacterium.s__Eubacterium_limosum
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Intestinibacter.s__Intestinibacter_bartlettii
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Roseburia.s__Roseburia_faecis
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|g__Bifidobacterium.s__Bifidobacterium_longum
+P161-PWY: acetylene degradation|g__Blautia.s__Blautia_wexlerae
+P161-PWY: acetylene degradation|g__Tyzzerella.s__Tyzzerella_nexilis
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Blautia.s__Blautia_wexlerae
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Roseburia.s__Roseburia_faecis
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Blautia.s__Blautia_wexlerae
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Roseburia.s__Roseburia_faecis
+PENTOSE-P-PWY: pentose phosphate pathway|g__Blautia.s__Blautia_producta
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Blautia.s__Blautia_producta
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Lactonifactor.s__Lactonifactor_longoviformis
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Roseburia.s__Roseburia_faecis
+PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+POLYISOPRENSYN-PWY: polyisoprenoid biosynthesis (E. coli)|unclassified
+PWY-1042: glycolysis IV (plant cytosol)|g__Blautia.s__Blautia_obeum
+PWY-1042: glycolysis IV (plant cytosol)|g__Blautia.s__Blautia_producta
+PWY-1042: glycolysis IV (plant cytosol)|g__Blautia.s__Blautia_wexlerae
+PWY-1042: glycolysis IV (plant cytosol)|g__Clostridium.s__Clostridium_sp_CAG_58
+PWY-1042: glycolysis IV (plant cytosol)|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+PWY-1042: glycolysis IV (plant cytosol)|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-1042: glycolysis IV (plant cytosol)|g__Intestinibacter.s__Intestinibacter_bartlettii
+PWY-1042: glycolysis IV (plant cytosol)|g__Lactonifactor.s__Lactonifactor_longoviformis
+PWY-1042: glycolysis IV (plant cytosol)|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY-1361: benzoyl-CoA degradation I (aerobic)
+PWY-2942: L-lysine biosynthesis III|g__Blautia.s__Blautia_producta
+PWY-2942: L-lysine biosynthesis III|g__Blautia.s__Blautia_wexlerae
+PWY-2942: L-lysine biosynthesis III|g__Clostridium.s__Clostridium_sp_CAG_58
+PWY-2942: L-lysine biosynthesis III|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+PWY-2942: L-lysine biosynthesis III|g__Roseburia.s__Roseburia_hominis
+PWY-2942: L-lysine biosynthesis III|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY-3841: folate transformations II|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-3841: folate transformations II|g__Blautia.s__Blautia_producta
+PWY-3841: folate transformations II|g__Blautia.s__Blautia_wexlerae
+PWY-3841: folate transformations II|g__Roseburia.s__Roseburia_faecis
+PWY-3841: folate transformations II|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Blautia.s__Blautia_wexlerae
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Clostridium.s__Clostridium_sp_CAG_58
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Roseburia.s__Roseburia_faecis
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Eubacterium.s__Eubacterium_limosum
+PWY-5030: L-histidine degradation III|g__Blautia.s__Blautia_producta
+PWY-5097: L-lysine biosynthesis VI|g__Blautia.s__Blautia_producta
+PWY-5097: L-lysine biosynthesis VI|g__Blautia.s__Blautia_wexlerae
+PWY-5097: L-lysine biosynthesis VI|g__Clostridium.s__Clostridium_sp_CAG_58
+PWY-5097: L-lysine biosynthesis VI|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+PWY-5097: L-lysine biosynthesis VI|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-5097: L-lysine biosynthesis VI|g__Roseburia.s__Roseburia_faecis
+PWY-5097: L-lysine biosynthesis VI|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Blautia.s__Blautia_producta
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Blautia.s__Blautia_wexlerae
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Eubacterium.s__Eubacterium_limosum
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-5101: L-isoleucine biosynthesis II|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+PWY-5101: L-isoleucine biosynthesis II|g__Roseburia.s__Roseburia_faecis
+PWY-5103: L-isoleucine biosynthesis III|g__Blautia.s__Blautia_producta
+PWY-5103: L-isoleucine biosynthesis III|g__Blautia.s__Blautia_wexlerae
+PWY-5103: L-isoleucine biosynthesis III|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+PWY-5103: L-isoleucine biosynthesis III|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-5103: L-isoleucine biosynthesis III|g__Roseburia.s__Roseburia_faecis
+PWY-5103: L-isoleucine biosynthesis III|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY-5104: L-isoleucine biosynthesis IV|g__Blautia.s__Blautia_producta
+PWY-5177: glutaryl-CoA degradation|g__Clostridium.s__Clostridium_sp_CAG_58
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Blautia.s__Blautia_producta
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Roseburia.s__Roseburia_faecis
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Blautia.s__Blautia_producta
+PWY-5667: CDP-diacylglycerol biosynthesis I
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Blautia.s__Blautia_producta
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Blautia.s__Blautia_wexlerae
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Eubacterium.s__Eubacterium_limosum
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Roseburia.s__Roseburia_faecis
+PWY-5676: acetyl-CoA fermentation to butanoate II|g__Eubacterium.s__Eubacterium_limosum
+PWY-5686: UMP biosynthesis|g__Blautia.s__Blautia_producta
+PWY-5686: UMP biosynthesis|g__Blautia.s__Blautia_wexlerae
+PWY-5686: UMP biosynthesis|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+PWY-5686: UMP biosynthesis|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-5686: UMP biosynthesis|g__Lactonifactor.s__Lactonifactor_longoviformis
+PWY-5686: UMP biosynthesis|g__Roseburia.s__Roseburia_faecis
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Dialister.s__Dialister_invisus_CAG_218
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Roseburia.s__Roseburia_faecis
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Roseburia.s__Roseburia_hominis
+PWY-5941: glycogen degradation II (eukaryotic)|unclassified
+PWY-5973: cis-vaccenate biosynthesis|g__Blautia.s__Blautia_obeum
+PWY-5973: cis-vaccenate biosynthesis|g__Blautia.s__Blautia_wexlerae
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Blautia.s__Blautia_producta
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Blautia.s__Blautia_wexlerae
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Clostridium.s__Clostridium_sp_CAG_58
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Eubacterium.s__Eubacterium_limosum
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Roseburia.s__Roseburia_faecis
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Blautia.s__Blautia_producta
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Blautia.s__Blautia_wexlerae
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Clostridium.s__Clostridium_sp_CAG_58
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Eubacterium.s__Eubacterium_limosum
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lactonifactor.s__Lactonifactor_longoviformis
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Roseburia.s__Roseburia_faecis
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Eubacterium.s__Eubacterium_limosum
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Blautia.s__Blautia_producta
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Blautia.s__Blautia_wexlerae
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Lactonifactor.s__Lactonifactor_longoviformis
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Blautia.s__Blautia_producta
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Clostridium.s__Clostridium_sp_CAG_58
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Roseburia.s__Roseburia_faecis
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Blautia.s__Blautia_producta
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-621: sucrose degradation III (sucrose invertase)|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Blautia.s__Blautia_producta
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Blautia.s__Blautia_wexlerae
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Clostridium.s__Clostridium_sp_CAG_58
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Eubacterium.s__Eubacterium_limosum
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lactonifactor.s__Lactonifactor_longoviformis
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Roseburia.s__Roseburia_faecis
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY-6317: galactose degradation I (Leloir pathway)|g__Blautia.s__Blautia_producta
+PWY-6317: galactose degradation I (Leloir pathway)|g__Roseburia.s__Roseburia_faecis
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Blautia.s__Blautia_producta
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Lactonifactor.s__Lactonifactor_longoviformis
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Roseburia.s__Roseburia_faecis
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Blautia.s__Blautia_producta
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Blautia.s__Blautia_wexlerae
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Lactonifactor.s__Lactonifactor_longoviformis
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Roseburia.s__Roseburia_faecis
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Blautia.s__Blautia_producta
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Lactonifactor.s__Lactonifactor_longoviformis
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Roseburia.s__Roseburia_faecis
+PWY-6527: stachyose degradation|g__Blautia.s__Blautia_producta
+PWY-6527: stachyose degradation|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-6527: stachyose degradation|g__Roseburia.s__Roseburia_faecis
+PWY-6527: stachyose degradation|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY-6609: adenine and adenosine salvage III|g__Blautia.s__Blautia_producta
+PWY-6609: adenine and adenosine salvage III|g__Blautia.s__Blautia_wexlerae
+PWY-6609: adenine and adenosine salvage III|g__Clostridium.s__Clostridium_sp_CAG_58
+PWY-6609: adenine and adenosine salvage III|g__Dialister.s__Dialister_invisus_CAG_218
+PWY-6609: adenine and adenosine salvage III|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+PWY-6609: adenine and adenosine salvage III|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-6609: adenine and adenosine salvage III|g__Roseburia.s__Roseburia_faecis
+PWY-6609: adenine and adenosine salvage III|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY-6630: superpathway of L-tyrosine biosynthesis
+PWY-6700: queuosine biosynthesis|g__Blautia.s__Blautia_wexlerae
+PWY-6700: queuosine biosynthesis|g__Clostridium.s__Clostridium_sp_CAG_58
+PWY-6700: queuosine biosynthesis|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+PWY-6700: queuosine biosynthesis|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-6700: queuosine biosynthesis|g__Roseburia.s__Roseburia_faecis
+PWY-6700: queuosine biosynthesis|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY-6737: starch degradation V|g__Blautia.s__Blautia_producta
+PWY-6737: starch degradation V|g__Blautia.s__Blautia_wexlerae
+PWY-6737: starch degradation V|g__Clostridium.s__Clostridium_sp_CAG_58
+PWY-6737: starch degradation V|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+PWY-6737: starch degradation V|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-6737: starch degradation V|g__Lactonifactor.s__Lactonifactor_longoviformis
+PWY-6737: starch degradation V|g__Roseburia.s__Roseburia_faecis
+PWY-6737: starch degradation V|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY-6749: CMP-legionaminate biosynthesis I|g__Roseburia.s__Roseburia_faecis
+PWY-6749: CMP-legionaminate biosynthesis I|g__Sellimonas.s__Sellimonas_intestinalis
+PWY-6823: molybdenum cofactor biosynthesis|unclassified
+PWY-6859: all-trans-farnesol biosynthesis|unclassified
+PWY-6897: thiamin salvage II|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY-6936: seleno-amino acid biosynthesis|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-6936: seleno-amino acid biosynthesis|g__Roseburia.s__Roseburia_faecis
+PWY-7013: L-1,2-propanediol degradation|g__Eubacterium.s__Eubacterium_limosum
+PWY-7046: 4-coumarate degradation (anaerobic)|unclassified
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Blautia.s__Blautia_producta
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Blautia.s__Blautia_wexlerae
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Roseburia.s__Roseburia_faecis
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Eggerthella.s__Eggerthella_lenta
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Roseburia.s__Roseburia_faecis
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Blautia.s__Blautia_producta
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Blautia.s__Blautia_wexlerae
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Clostridium.s__Clostridium_sp_CAG_58
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Roseburia.s__Roseburia_faecis
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Blautia.s__Blautia_producta
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Blautia.s__Blautia_wexlerae
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Lactonifactor.s__Lactonifactor_longoviformis
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Blautia.s__Blautia_producta
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Blautia.s__Blautia_wexlerae
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Clostridium.s__Clostridium_sp_CAG_58
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Lactonifactor.s__Lactonifactor_longoviformis
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Roseburia.s__Roseburia_faecis
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Blautia.s__Blautia_producta
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Blautia.s__Blautia_wexlerae
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Lactonifactor.s__Lactonifactor_longoviformis
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Blautia.s__Blautia_producta
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Blautia.s__Blautia_wexlerae
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Lactonifactor.s__Lactonifactor_longoviformis
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-7237: myo-, chiro- and scillo-inositol degradation|g__Blautia.s__Blautia_producta
+PWY-7242: D-fructuronate degradation|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+PWY-7315: dTDP-N-acetylthomosamine biosynthesis|g__Blautia.s__Blautia_producta
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Agathobaculum.s__Agathobaculum_butyriciproducens
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Lachnoclostridium.s__Clostridium_symbiosum
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Blautia.s__Blautia_wexlerae
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Blautia.s__Blautia_obeum
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Blautia.s__Blautia_wexlerae
+PWY0-1296: purine ribonucleosides degradation|g__Blautia.s__Blautia_producta
+PWY0-1296: purine ribonucleosides degradation|g__Clostridium.s__Clostridium_sp_CAG_58
+PWY0-1296: purine ribonucleosides degradation|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY0-1296: purine ribonucleosides degradation|g__Lactonifactor.s__Lactonifactor_longoviformis
+PWY0-1296: purine ribonucleosides degradation|g__Roseburia.s__Roseburia_faecis
+PWY0-1296: purine ribonucleosides degradation|g__Streptococcus.s__Streptococcus_pasteurianus
+PWY0-1296: purine ribonucleosides degradation|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Blautia.s__Blautia_producta
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Clostridium.s__Clostridium_sp_CAG_58
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Tyzzerella.s__Tyzzerella_nexilis
+PWY0-1319: CDP-diacylglycerol biosynthesis II
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Blautia.s__Blautia_producta
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Blautia.s__Blautia_wexlerae
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Eubacterium.s__Eubacterium_limosum
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Roseburia.s__Roseburia_faecis
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Roseburia.s__Roseburia_faecis
+PWYG-321: mycolate biosynthesis|unclassified
+RHAMCAT-PWY: L-rhamnose degradation I|g__Blautia.s__Blautia_producta
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Blautia.s__Blautia_wexlerae
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Eubacterium.s__Eubacterium_limosum
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_longum
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Blautia.s__Blautia_producta
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Blautia.s__Blautia_wexlerae
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Roseburia.s__Roseburia_faecis
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Streptococcus.s__Streptococcus_pasteurianus
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Tyzzerella.s__Tyzzerella_nexilis
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Agathobaculum.s__Agathobaculum_butyriciproducens
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Blautia.s__Blautia_producta
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Blautia.s__Blautia_wexlerae
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Eubacterium.s__Eubacterium_limosum
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Roseburia.s__Roseburia_faecis
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_longum
+VALSYN-PWY: L-valine biosynthesis|g__Blautia.s__Blautia_producta
+VALSYN-PWY: L-valine biosynthesis|g__Blautia.s__Blautia_wexlerae
+VALSYN-PWY: L-valine biosynthesis|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+VALSYN-PWY: L-valine biosynthesis|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans
+VALSYN-PWY: L-valine biosynthesis|g__Lactonifactor.s__Lactonifactor_longoviformis
+VALSYN-PWY: L-valine biosynthesis|g__Roseburia.s__Roseburia_faecis
+VALSYN-PWY: L-valine biosynthesis|g__Tyzzerella.s__Tyzzerella_nexilis

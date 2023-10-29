@@ -1,0 +1,37 @@
+putrescine
+5-hydroxyindoleacetate
+fumarate
+gamma-glutamylglutamate
+gluconate
+2-aminoadipate
+malate
+riboflavin (vitamin B2)
+glutamate
+uracil
+thiamin (vitamin B1)
+thymine
+5-oxoproline
+N-acetylalanine
+choline
+glycerophosphorylcholine (GPC)
+ribitol
+1-oleoyl-GPE (18:1)
+glutarylcarnitine (C5-DC)
+glycerophosphoethanolamine
+N-acetylserine
+ergothioneine
+12-HETE
+sedoheptulose
+1-(1-enyl-palmitoyl)-GPE (P-16:0)*
+1-(1-enyl-stearoyl)-GPE (P-18:0)*
+prolylglycine
+3-hydroxyadipate
+1-(1-enyl-oleoyl)-GPE (P-18:1)*
+O-sulfo-tyrosine
+1-palmitoyl-GPS (16:0)*
+ribulose/xylulose
+nonanoylcarnitine (C9)
+14-HDoHE/17-HDoHE
+glycerophosphoserine*
+3-hydroxyhexanoylcarnitine (1)
+palmitoyl-sphingosine-phosphoethanolamine (d18:1/16:0)

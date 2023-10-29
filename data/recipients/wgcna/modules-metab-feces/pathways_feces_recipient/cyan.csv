@@ -1,8 +1,0 @@
-"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
-"Glycerophospholipid metabolism",36,0.095618,3,4.9441e-05,4.3059,0.0041531,0.0041531,0.21631
-"Linoleic acid metabolism",5,0.01328,1,0.013227,1.8785,1,0.55555,0
-"alpha-Linolenic acid metabolism",13,0.034529,1,0.034118,1.467,1,0.77081,0
-"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",14,0.037185,1,0.036705,1.4353,1,0.77081,0.00399
-"Lysine degradation",25,0.066401,1,0.064829,1.1882,1,1,0.14085
-"Arachidonic acid metabolism",36,0.095618,1,0.092332,1.0346,1,1,0
-"Tryptophan metabolism",41,0.1089,1,0.10463,0.98034,1,1,0

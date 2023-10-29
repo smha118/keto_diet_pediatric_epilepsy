@@ -1,0 +1,231 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Prevotella.s__Prevotella_buccae
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Prevotella.s__Prevotella_buccae
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Lachnospira.s__Lachnospira_pectinoschiza
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Roseburia.s__Roseburia_intestinalis
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+ARO-PWY: chorismate biosynthesis I|g__Roseburia.s__Roseburia_intestinalis
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Prevotella.s__Prevotella_buccae
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Robinsoniella.s__Robinsoniella_sp_RHS
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Blautia.s__Blautia_coccoides
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Lachnospira.s__Lachnospira_pectinoschiza
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Roseburia.s__Roseburia_intestinalis
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Veillonella.s__Veillonella_atypica
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Blautia.s__Blautia_coccoides
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Prevotella.s__Prevotella_buccae
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Lachnospira.s__Lachnospira_pectinoschiza
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Prevotella.s__Prevotella_buccae
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Roseburia.s__Roseburia_intestinalis
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Veillonella.s__Veillonella_atypica
+COA-PWY: coenzyme A biosynthesis I|g__Lachnospira.s__Lachnospira_pectinoschiza
+COA-PWY: coenzyme A biosynthesis I|g__Prevotella.s__Prevotella_buccae
+COA-PWY: coenzyme A biosynthesis I|g__Roseburia.s__Roseburia_intestinalis
+COA-PWY: coenzyme A biosynthesis I|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+COA-PWY: coenzyme A biosynthesis I|g__Veillonella.s__Veillonella_atypica
+COBALSYN-PWY: adenosylcobalamin salvage from cobinamide I|g__Roseburia.s__Roseburia_intestinalis
+COBALSYN-PWY: adenosylcobalamin salvage from cobinamide I|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Roseburia.s__Roseburia_intestinalis
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Blautia.s__Blautia_coccoides
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Lachnospira.s__Lachnospira_pectinoschiza
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Prevotella.s__Prevotella_buccae
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Roseburia.s__Roseburia_intestinalis
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+GLUTORN-PWY: L-ornithine biosynthesis|g__Coprococcus.s__Coprococcus_eutactus
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Cutibacterium.s__Cutibacterium_acnes
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Roseburia.s__Roseburia_intestinalis
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Prevotella.s__Prevotella_buccae
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Veillonella.s__Veillonella_atypica
+HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)|g__Veillonella.s__Veillonella_atypica
+HISTSYN-PWY: L-histidine biosynthesis|g__Prevotella.s__Prevotella_buccae
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Blautia.s__Blautia_coccoides
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Lachnospira.s__Lachnospira_pectinoschiza
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Roseburia.s__Roseburia_intestinalis
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Veillonella.s__Veillonella_atypica
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Blautia.s__Blautia_coccoides
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Robinsoniella.s__Robinsoniella_sp_RHS
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Veillonella.s__Veillonella_atypica
+P124-PWY: Bifidobacterium shunt|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+P161-PWY: acetylene degradation|g__Lachnospira.s__Lachnospira_pectinoschiza
+P161-PWY: acetylene degradation|g__Robinsoniella.s__Robinsoniella_sp_RHS
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Prevotella.s__Prevotella_buccae
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Prevotella.s__Prevotella_buccae
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Lachnospira.s__Lachnospira_pectinoschiza
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Prevotella.s__Prevotella_buccae
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Roseburia.s__Roseburia_intestinalis
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Veillonella.s__Veillonella_atypica
+PWY-1042: glycolysis IV (plant cytosol)|g__Blautia.s__Blautia_coccoides
+PWY-1042: glycolysis IV (plant cytosol)|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-1042: glycolysis IV (plant cytosol)|g__Prevotella.s__Prevotella_buccae
+PWY-1042: glycolysis IV (plant cytosol)|g__Roseburia.s__Roseburia_intestinalis
+PWY-1042: glycolysis IV (plant cytosol)|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-1042: glycolysis IV (plant cytosol)|g__Streptococcus.s__Streptococcus_pasteurianus
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Veillonella.s__Veillonella_atypica
+PWY-2942: L-lysine biosynthesis III|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-2942: L-lysine biosynthesis III|g__Prevotella.s__Prevotella_buccae
+PWY-2942: L-lysine biosynthesis III|g__Veillonella.s__Veillonella_atypica
+PWY-3841: folate transformations II|g__Prevotella.s__Prevotella_buccae
+PWY-5005: biotin biosynthesis II|g__Veillonella.s__Veillonella_atypica
+PWY-5097: L-lysine biosynthesis VI|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-5097: L-lysine biosynthesis VI|g__Roseburia.s__Roseburia_intestinalis
+PWY-5097: L-lysine biosynthesis VI|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-5097: L-lysine biosynthesis VI|g__Veillonella.s__Veillonella_atypica
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Blautia.s__Blautia_coccoides
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Roseburia.s__Roseburia_intestinalis
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-5101: L-isoleucine biosynthesis II|g__Blautia.s__Blautia_coccoides
+PWY-5101: L-isoleucine biosynthesis II|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-5101: L-isoleucine biosynthesis II|g__Roseburia.s__Roseburia_intestinalis
+PWY-5101: L-isoleucine biosynthesis II|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-5103: L-isoleucine biosynthesis III|g__Blautia.s__Blautia_coccoides
+PWY-5103: L-isoleucine biosynthesis III|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-5103: L-isoleucine biosynthesis III|g__Roseburia.s__Roseburia_intestinalis
+PWY-5103: L-isoleucine biosynthesis III|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-5103: L-isoleucine biosynthesis III|g__Veillonella.s__Veillonella_atypica
+PWY-5104: L-isoleucine biosynthesis IV|g__Blautia.s__Blautia_coccoides
+PWY-5104: L-isoleucine biosynthesis IV|g__Roseburia.s__Roseburia_intestinalis
+PWY-5104: L-isoleucine biosynthesis IV|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Veillonella.s__Veillonella_atypica
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Veillonella.s__Veillonella_atypica
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Prevotella.s__Prevotella_buccae
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Roseburia.s__Roseburia_intestinalis
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-5686: UMP biosynthesis|g__Blautia.s__Blautia_coccoides
+PWY-5686: UMP biosynthesis|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-5686: UMP biosynthesis|g__Prevotella.s__Prevotella_buccae
+PWY-5686: UMP biosynthesis|g__Roseburia.s__Roseburia_intestinalis
+PWY-5686: UMP biosynthesis|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-5686: UMP biosynthesis|g__Veillonella.s__Veillonella_atypica
+PWY-5692: allantoin degradation to glyoxylate II|unclassified
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Prevotella.s__Prevotella_buccae
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-5705: allantoin degradation to glyoxylate III|unclassified
+PWY-5791: 1,4-dihydroxy-2-naphthoate biosynthesis II (plants)|g__Veillonella.s__Veillonella_atypica
+PWY-5837: 1,4-dihydroxy-2-naphthoate biosynthesis I|g__Veillonella.s__Veillonella_atypica
+PWY-5863: superpathway of phylloquinol biosynthesis|g__Veillonella.s__Veillonella_atypica
+PWY-5918: superpathay of heme biosynthesis from glutamate|g__Veillonella.s__Veillonella_atypica
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Prevotella.s__Prevotella_buccae
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Roseburia.s__Roseburia_intestinalis
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Veillonella.s__Veillonella_atypica
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Blautia.s__Blautia_coccoides
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Prevotella.s__Prevotella_buccae
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Roseburia.s__Roseburia_intestinalis
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Streptococcus.s__Streptococcus_pasteurianus
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Veillonella.s__Veillonella_atypica
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Veillonella.s__Veillonella_atypica
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Prevotella.s__Prevotella_buccae
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Veillonella.s__Veillonella_atypica
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Veillonella.s__Veillonella_atypica
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Veillonella.s__Veillonella_atypica
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Prevotella.s__Prevotella_buccae
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Roseburia.s__Roseburia_intestinalis
+PWY-6168: flavin biosynthesis III (fungi)|g__Prevotella.s__Prevotella_buccae
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Blautia.s__Blautia_coccoides
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Enterococcus.s__Enterococcus_gallinarum
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Prevotella.s__Prevotella_buccae
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Roseburia.s__Roseburia_intestinalis
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Streptococcus.s__Streptococcus_pasteurianus
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Veillonella.s__Veillonella_atypica
+PWY-6317: galactose degradation I (Leloir pathway)|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Prevotella.s__Prevotella_buccae
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Veillonella.s__Veillonella_atypica
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Prevotella.s__Prevotella_buccae
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Veillonella.s__Veillonella_atypica
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Prevotella.s__Prevotella_buccae
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Roseburia.s__Roseburia_intestinalis
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Veillonella.s__Veillonella_atypica
+PWY-6527: stachyose degradation|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-6608: guanosine nucleotides degradation III|g__Roseburia.s__Roseburia_intestinalis
+PWY-6608: guanosine nucleotides degradation III|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-6609: adenine and adenosine salvage III|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-6609: adenine and adenosine salvage III|g__Prevotella.s__Prevotella_buccae
+PWY-6609: adenine and adenosine salvage III|g__Roseburia.s__Roseburia_intestinalis
+PWY-6609: adenine and adenosine salvage III|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-6700: queuosine biosynthesis|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-6700: queuosine biosynthesis|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-6700: queuosine biosynthesis|g__Prevotella.s__Prevotella_buccae
+PWY-6700: queuosine biosynthesis|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-6700: queuosine biosynthesis|g__Veillonella.s__Veillonella_atypica
+PWY-6703: preQ0 biosynthesis|g__Prevotella.s__Prevotella_buccae
+PWY-6703: preQ0 biosynthesis|g__Veillonella.s__Veillonella_atypica
+PWY-6737: starch degradation V|g__Blautia.s__Blautia_coccoides
+PWY-6737: starch degradation V|g__Prevotella.s__Prevotella_buccae
+PWY-6737: starch degradation V|g__Roseburia.s__Roseburia_intestinalis
+PWY-6737: starch degradation V|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-6897: thiamin salvage II|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-6936: seleno-amino acid biosynthesis|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Blautia.s__Blautia_coccoides
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Intestinibacter.s__Intestinibacter_bartlettii
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Roseburia.s__Roseburia_intestinalis
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Veillonella.s__Veillonella_atypica
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Veillonella.s__Veillonella_atypica
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Prevotella.s__Prevotella_buccae
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Roseburia.s__Roseburia_intestinalis
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Veillonella.s__Veillonella_atypica
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Blautia.s__Blautia_coccoides
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Prevotella.s__Prevotella_buccae
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Roseburia.s__Roseburia_intestinalis
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Veillonella.s__Veillonella_atypica
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Blautia.s__Blautia_coccoides
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Veillonella.s__Veillonella_atypica
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Blautia.s__Blautia_coccoides
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Prevotella.s__Prevotella_buccae
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Roseburia.s__Roseburia_intestinalis
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Veillonella.s__Veillonella_atypica
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Blautia.s__Blautia_coccoides
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Veillonella.s__Veillonella_atypica
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Veillonella.s__Veillonella_atypica
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Veillonella.s__Veillonella_atypica
+PWY-7237: myo-, chiro- and scillo-inositol degradation|g__Blautia.s__Blautia_coccoides
+PWY-7315: dTDP-N-acetylthomosamine biosynthesis|unclassified
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Prevotella.s__Prevotella_buccae
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|g__Veillonella.s__Veillonella_atypica
+PWY0-1277: 3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation|unclassified
+PWY0-1296: purine ribonucleosides degradation|g__Blautia.s__Blautia_coccoides
+PWY0-1296: purine ribonucleosides degradation|g__Enterococcus.s__Enterococcus_gallinarum
+PWY0-1296: purine ribonucleosides degradation|g__Roseburia.s__Roseburia_intestinalis
+PWY0-1296: purine ribonucleosides degradation|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Blautia.s__Blautia_coccoides
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Roseburia.s__Roseburia_intestinalis
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+PWY0-41: allantoin degradation IV (anaerobic)|unclassified
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)|g__Roseburia.s__Roseburia_intestinalis
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)|g__Roseburia.s__Roseburia_intestinalis
+PWY66-389: phytol degradation|g__Lachnospira.s__Lachnospira_pectinoschiza
+PWY66-400: glycolysis VI (metazoan)|g__Prevotella.s__Prevotella_buccae
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+RHAMCAT-PWY: L-rhamnose degradation I|g__Prevotella.s__Prevotella_buccae
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Prevotella.s__Prevotella_buccae
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Prevotella.s__Prevotella_buccae
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Roseburia.s__Roseburia_intestinalis
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Prevotella.s__Prevotella_buccae
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Veillonella.s__Veillonella_atypica
+URDEGR-PWY: superpathway of allantoin degradation in plants|unclassified
+VALSYN-PWY: L-valine biosynthesis|g__Blautia.s__Blautia_coccoides
+VALSYN-PWY: L-valine biosynthesis|g__Lachnospira.s__Lachnospira_pectinoschiza
+VALSYN-PWY: L-valine biosynthesis|g__Robinsoniella.s__Robinsoniella_sp_RHS
+VALSYN-PWY: L-valine biosynthesis|g__Roseburia.s__Roseburia_intestinalis
+VALSYN-PWY: L-valine biosynthesis|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+VALSYN-PWY: L-valine biosynthesis|g__Veillonella.s__Veillonella_atypica

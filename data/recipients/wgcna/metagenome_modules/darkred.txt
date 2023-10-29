@@ -1,0 +1,62 @@
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+ARO-PWY: chorismate biosynthesis I|g__Erysipelatoclostridium.s__Clostridium_innocuum
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+COA-PWY: coenzyme A biosynthesis I|g__Erysipelatoclostridium.s__Clostridium_innocuum
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+GLUTORN-PWY: L-ornithine biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+HISTSYN-PWY: L-histidine biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+P161-PWY: acetylene degradation|unclassified
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-1042: glycolysis IV (plant cytosol)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-2941: L-lysine biosynthesis II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-2942: L-lysine biosynthesis III|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-5097: L-lysine biosynthesis VI|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-5101: L-isoleucine biosynthesis II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-5103: L-isoleucine biosynthesis III|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-5265: peptidoglycan biosynthesis II (staphylococci)
+PWY-5676: acetyl-CoA fermentation to butanoate II
+PWY-5676: acetyl-CoA fermentation to butanoate II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-5686: UMP biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6609: adenine and adenosine salvage III|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6936: seleno-amino acid biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY0-1296: purine ribonucleosides degradation|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY66-400: glycolysis VI (metazoan)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Erysipelatoclostridium.s__Clostridium_innocuum
+VALSYN-PWY: L-valine biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum

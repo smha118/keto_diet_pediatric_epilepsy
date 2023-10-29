@@ -1,0 +1,317 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Enterococcus.s__Enterococcus_faecium
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Streptococcus.s__Streptococcus_thermophilus
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Streptococcus.s__Streptococcus_thermophilus
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Eggerthella.s__Eggerthella_lenta
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Streptococcus.s__Streptococcus_thermophilus
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+ARO-PWY: chorismate biosynthesis I|g__Enterococcus.s__Enterococcus_faecium
+ARO-PWY: chorismate biosynthesis I|g__Erysipelatoclostridium.s__Clostridium_innocuum
+ARO-PWY: chorismate biosynthesis I|g__Streptococcus.s__Streptococcus_thermophilus
+ARO-PWY: chorismate biosynthesis I|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Enterococcus.s__Enterococcus_faecium
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Eggerthella.s__Eggerthella_lenta
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Enterococcus.s__Enterococcus_faecium
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Streptococcus.s__Streptococcus_agalactiae
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Streptococcus.s__Streptococcus_thermophilus
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+COA-PWY: coenzyme A biosynthesis I|g__Eggerthella.s__Eggerthella_lenta
+COA-PWY: coenzyme A biosynthesis I|g__Enterococcus.s__Enterococcus_faecium
+COA-PWY: coenzyme A biosynthesis I|g__Erysipelatoclostridium.s__Clostridium_innocuum
+COA-PWY: coenzyme A biosynthesis I|g__Streptococcus.s__Streptococcus_agalactiae
+COA-PWY: coenzyme A biosynthesis I|g__Streptococcus.s__Streptococcus_thermophilus
+COA-PWY: coenzyme A biosynthesis I|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Eggerthella.s__Eggerthella_lenta
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Enterococcus.s__Enterococcus_faecium
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Streptococcus.s__Streptococcus_agalactiae
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Streptococcus.s__Streptococcus_thermophilus
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+GLUTORN-PWY: L-ornithine biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+GLUTORN-PWY: L-ornithine biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus
+GLUTORN-PWY: L-ornithine biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+HISTSYN-PWY: L-histidine biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+HISTSYN-PWY: L-histidine biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Streptococcus.s__Streptococcus_thermophilus
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Streptococcus.s__Streptococcus_thermophilus
+LACTOSECAT-PWY: lactose and galactose degradation I|g__Enterococcus.s__Enterococcus_faecium
+LACTOSECAT-PWY: lactose and galactose degradation I|g__Streptococcus.s__Streptococcus_agalactiae
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Enterococcus.s__Enterococcus_faecium
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Streptococcus.s__Streptococcus_agalactiae
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Streptococcus.s__Streptococcus_thermophilus
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|g__Enterococcus.s__Enterococcus_faecium
+P125-PWY: superpathway of (R,R)-butanediol biosynthesis
+P161-PWY: acetylene degradation|g__Enterococcus.s__Enterococcus_faecium
+P161-PWY: acetylene degradation|g__Streptococcus.s__Streptococcus_agalactiae
+P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)|g__Enterococcus.s__Enterococcus_faecium
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Enterococcus.s__Enterococcus_faecium
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Lactobacillus.s__Lactobacillus_plantarum
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Streptococcus.s__Streptococcus_agalactiae
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|unclassified
+PENTOSE-P-PWY: pentose phosphate pathway|g__Enterococcus.s__Enterococcus_faecium
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Eggerthella.s__Eggerthella_lenta
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Enterococcus.s__Enterococcus_faecium
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Streptococcus.s__Streptococcus_thermophilus
+PPGPPMET-PWY: ppGpp biosynthesis|g__Enterococcus.s__Enterococcus_faecium
+PPGPPMET-PWY: ppGpp biosynthesis|g__Streptococcus.s__Streptococcus_agalactiae
+PPGPPMET-PWY: ppGpp biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus
+PPGPPMET-PWY: ppGpp biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-1042: glycolysis IV (plant cytosol)|g__Eggerthella.s__Eggerthella_lenta
+PWY-1042: glycolysis IV (plant cytosol)|g__Enterococcus.s__Enterococcus_faecium
+PWY-1042: glycolysis IV (plant cytosol)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-1042: glycolysis IV (plant cytosol)|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-1861: formaldehyde assimilation II (RuMP Cycle)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-2941: L-lysine biosynthesis II
+PWY-2941: L-lysine biosynthesis II|g__Enterococcus.s__Enterococcus_faecium
+PWY-2941: L-lysine biosynthesis II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-2942: L-lysine biosynthesis III|g__Eggerthella.s__Eggerthella_lenta
+PWY-2942: L-lysine biosynthesis III|g__Enterococcus.s__Enterococcus_faecium
+PWY-2942: L-lysine biosynthesis III|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-3841: folate transformations II|g__Enterococcus.s__Enterococcus_faecium
+PWY-3841: folate transformations II|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-3841: folate transformations II|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-3841: folate transformations II|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Eggerthella.s__Eggerthella_lenta
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Enterococcus.s__Enterococcus_faecium
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Eggerthella.s__Eggerthella_lenta
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Enterococcus.s__Enterococcus_faecium
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-5097: L-lysine biosynthesis VI|g__Enterococcus.s__Enterococcus_faecium
+PWY-5097: L-lysine biosynthesis VI|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Eggerthella.s__Eggerthella_lenta
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Enterococcus.s__Enterococcus_faecium
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-5101: L-isoleucine biosynthesis II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-5103: L-isoleucine biosynthesis III|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-5103: L-isoleucine biosynthesis III|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-5173: superpathway of acetyl-CoA biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5173: superpathway of acetyl-CoA biosynthesis|g__Enterococcus.s__Enterococcus_faecium
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|g__Enterococcus.s__Enterococcus_faecalis
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|g__Enterococcus.s__Enterococcus_faecium
+PWY-5676: acetyl-CoA fermentation to butanoate II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-5686: UMP biosynthesis|g__Eggerthella.s__Eggerthella_lenta
+PWY-5686: UMP biosynthesis|g__Enterococcus.s__Enterococcus_faecium
+PWY-5686: UMP biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-5686: UMP biosynthesis|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-5686: UMP biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-5686: UMP biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Enterococcus.s__Enterococcus_faecium
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-5973: cis-vaccenate biosynthesis|g__Enterococcus.s__Enterococcus_faecium
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Eggerthella.s__Eggerthella_lenta
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Enterococcus.s__Enterococcus_faecium
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Eggerthella.s__Eggerthella_lenta
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Enterococcus.s__Enterococcus_faecium
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Eggerthella.s__Eggerthella_lenta
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Enterococcus.s__Enterococcus_faecium
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Eggerthella.s__Eggerthella_lenta
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Enterococcus.s__Enterococcus_faecium
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Eggerthella.s__Eggerthella_lenta
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Enterococcus.s__Enterococcus_faecium
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Eggerthella.s__Eggerthella_lenta
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Enterococcus.s__Enterococcus_faecium
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Enterococcus.s__Enterococcus_faecium
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-621: sucrose degradation III (sucrose invertase)|g__Enterococcus.s__Enterococcus_faecium
+PWY-621: sucrose degradation III (sucrose invertase)|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-621: sucrose degradation III (sucrose invertase)|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-621: sucrose degradation III (sucrose invertase)|unclassified
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Eggerthella.s__Eggerthella_lenta
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Enterococcus.s__Enterococcus_faecium
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-6317: galactose degradation I (Leloir pathway)|g__Enterococcus.s__Enterococcus_faecium
+PWY-6317: galactose degradation I (Leloir pathway)|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-6317: galactose degradation I (Leloir pathway)|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Eggerthella.s__Eggerthella_lenta
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Enterococcus.s__Enterococcus_faecium
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Eggerthella.s__Eggerthella_lenta
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Enterococcus.s__Enterococcus_faecium
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Eggerthella.s__Eggerthella_lenta
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Enterococcus.s__Enterococcus_faecium
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-6470: peptidoglycan biosynthesis V (&beta;-lactam resistance)|g__Enterococcus.s__Enterococcus_faecium
+PWY-6471: peptidoglycan biosynthesis IV (Enterococcus faecium)|g__Enterococcus.s__Enterococcus_faecium
+PWY-6471: peptidoglycan biosynthesis IV (Enterococcus faecium)|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-6527: stachyose degradation|g__Enterococcus.s__Enterococcus_faecium
+PWY-6545: pyrimidine deoxyribonucleotides de novo biosynthesis III|g__Eggerthella.s__Eggerthella_lenta
+PWY-6609: adenine and adenosine salvage III|g__Eggerthella.s__Eggerthella_lenta
+PWY-6609: adenine and adenosine salvage III|g__Enterococcus.s__Enterococcus_faecium
+PWY-6609: adenine and adenosine salvage III|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6609: adenine and adenosine salvage III|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-6609: adenine and adenosine salvage III|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-6609: adenine and adenosine salvage III|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-6700: queuosine biosynthesis|g__Enterococcus.s__Enterococcus_faecium
+PWY-6700: queuosine biosynthesis|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-6700: queuosine biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-6703: preQ0 biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-6703: preQ0 biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-6897: thiamin salvage II|g__Eggerthella.s__Eggerthella_lenta
+PWY-6936: seleno-amino acid biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-6936: seleno-amino acid biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-6936: seleno-amino acid biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Clostridium.s__Clostridium_paraputrificum
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I|g__Enterococcus.s__Enterococcus_faecium
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Eggerthella.s__Eggerthella_lenta
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Enterococcus.s__Enterococcus_faecium
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Enterococcus.s__Enterococcus_faecium
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Enterococcus.s__Enterococcus_faecium
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Eggerthella.s__Eggerthella_lenta
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Enterococcus.s__Enterococcus_faecium
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Eggerthella.s__Eggerthella_lenta
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Enterococcus.s__Enterococcus_faecium
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Eggerthella.s__Eggerthella_lenta
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Enterococcus.s__Enterococcus_faecium
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Eggerthella.s__Eggerthella_lenta
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Enterococcus.s__Enterococcus_faecium
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Eggerthella.s__Eggerthella_lenta
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Enterococcus.s__Enterococcus_faecium
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Eggerthella.s__Eggerthella_lenta
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Enterococcus.s__Enterococcus_faecium
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Streptococcus.s__Streptococcus_agalactiae
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Enterococcus.s__Enterococcus_faecium
+PWY-841: superpathway of purine nucleotides de novo biosynthesis I|unclassified
+PWY-922: mevalonate pathway I
+PWY-922: mevalonate pathway I|g__Enterococcus.s__Enterococcus_faecium
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Eggerthella.s__Eggerthella_lenta
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Enterococcus.s__Enterococcus_faecium
+PWY0-1296: purine ribonucleosides degradation|g__Enterococcus.s__Enterococcus_faecium
+PWY0-1296: purine ribonucleosides degradation|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY0-1296: purine ribonucleosides degradation|g__Streptococcus.s__Streptococcus_agalactiae
+PWY0-1296: purine ribonucleosides degradation|g__Streptococcus.s__Streptococcus_thermophilus
+PWY0-1296: purine ribonucleosides degradation|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Enterococcus.s__Enterococcus_faecium
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Streptococcus.s__Streptococcus_agalactiae
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Streptococcus.s__Streptococcus_thermophilus
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Enterococcus.s__Enterococcus_faecium
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Streptococcus.s__Streptococcus_agalactiae
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Streptococcus.s__Streptococcus_agalactiae
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)|g__Enterococcus.s__Enterococcus_faecium
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)|g__Streptococcus.s__Streptococcus_thermophilus
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY66-400: glycolysis VI (metazoan)|g__Enterococcus.s__Enterococcus_faecium
+PWY66-400: glycolysis VI (metazoan)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+PWY66-400: glycolysis VI (metazoan)|g__Streptococcus.s__Streptococcus_thermophilus
+PWY66-409: superpathway of purine nucleotide salvage
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Enterococcus.s__Enterococcus_faecium
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Streptococcus.s__Streptococcus_agalactiae
+RHAMCAT-PWY: L-rhamnose degradation I|g__Enterococcus.s__Enterococcus_faecium
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Streptococcus.s__Streptococcus_thermophilus
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Eggerthella.s__Eggerthella_lenta
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Enterococcus.s__Enterococcus_faecium
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Erysipelatoclostridium.s__Clostridium_innocuum
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Streptococcus.s__Streptococcus_agalactiae
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Streptococcus.s__Streptococcus_thermophilus
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+VALSYN-PWY: L-valine biosynthesis|g__Erysipelatoclostridium.s__Clostridium_innocuum
+VALSYN-PWY: L-valine biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus
+VALSYN-PWY: L-valine biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236

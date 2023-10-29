@@ -1,0 +1,40 @@
+
+Importing edges...
+     TAIL               HEAD               WEIGHT        
+ Length:24037       Length:24037       Min.   :0.000006  
+ Class :character   Class :character   1st Qu.:0.253712  
+ Mode  :character   Mode  :character   Median :0.548003  
+                                       Mean   :0.760931  
+                                       3rd Qu.:1.041422  
+                                       Max.   :9.288868  
+
+Importing modules...
+    MODULE              NODE          
+ Length:31          Length:31         
+ Class :character   Class :character  
+ Mode  :character   Mode  :character  
+Graph: 0.7479401 Mb
+
+Minimum degree set to 64 
+
+Maximum degree set to 520 
+
+Collecting hubs...
+162 hubs (25.55%)
+Graph: 1.380264 Mb
+
+Analyzing network...
+midnightblue_feces: PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta, n=21, p=1.64e-11
+darkturquoise_feces: PWY-5862: superpathway of demethylmenaquinol-9 biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta, n=8, p=2.35e-05
+
+Finishing results...
+Writing to file... Saved 4888 rows in 'O8pC9mnbnW.hubs.txt'.
+Writing to file... Saved 288 rows in 'O8pC9mnbnW.results.txt'.
+Writing to file... Saved 288 rows in 'O8pC9mnbnW.pvalues.txt'.
+Writing to file... Saved 2 rows in 'O8pC9mnbnW.tophits.txt'.
+
+Forwarding KDA results to Cytoscape...
+Writing to file... Saved 18 rows in 'O8pC9mnbnW.kda2cytoscape.top.kds.txt'.
+Writing to file... Saved 1254 rows in 'O8pC9mnbnW.kda2cytoscape.edges.txt'.
+Writing to file... Saved 81 rows in 'O8pC9mnbnW.kda2cytoscape.nodes.txt'.
+Information is stored into relevant files.

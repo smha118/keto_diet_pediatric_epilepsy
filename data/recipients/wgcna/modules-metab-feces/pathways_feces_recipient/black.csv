@@ -1,7 +1,0 @@
-"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
-"Arginine and proline metabolism",38,0.15139,3,0.00028169,3.5502,0.023662,0.023662,0.13879
-"Ascorbate and aldarate metabolism",10,0.039841,1,0.039249,1.4062,1,1,0
-"Pentose and glucuronate interconversions",18,0.071713,1,0.069717,1.1567,1,1,0.07812
-"Glycine, serine and threonine metabolism",34,0.13546,1,0.12824,0.89198,1,1,0.04655
-"Aminoacyl-tRNA biosynthesis",48,0.19124,1,0.1769,0.75227,1,1,0
-"Purine metabolism",66,0.26295,1,0.23612,0.62687,1,1,0.00012

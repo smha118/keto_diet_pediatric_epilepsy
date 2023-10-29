@@ -1,0 +1,8 @@
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis
+GALACTUROCAT-PWY: D-galacturonate degradation I
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)
+PWY-3001: superpathway of L-isoleucine biosynthesis I
+PWY-5022: 4-aminobutanoate degradation V
+PWY-5103: L-isoleucine biosynthesis III
+PWY-7111: pyruvate fermentation to isobutanol (engineered)
+VALSYN-PWY: L-valine biosynthesis

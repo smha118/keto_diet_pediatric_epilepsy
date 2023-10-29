@@ -1,0 +1,15 @@
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Lawsonibacter.s__Lawsonibacter_asaccharolyticus
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Lawsonibacter.s__Lawsonibacter_asaccharolyticus
+CITRULBIO-PWY: L-citrulline biosynthesis|unclassified
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Lawsonibacter.s__Lawsonibacter_asaccharolyticus
+COA-PWY: coenzyme A biosynthesis I|g__Lawsonibacter.s__Lawsonibacter_asaccharolyticus
+GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation|g__Eisenbergiella.s__Eisenbergiella_tayi
+GLUTORN-PWY: L-ornithine biosynthesis|g__Lawsonibacter.s__Lawsonibacter_asaccharolyticus
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Lawsonibacter.s__Lawsonibacter_asaccharolyticus
+PWY-5022: 4-aminobutanoate degradation V|g__Eisenbergiella.s__Eisenbergiella_tayi
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Blautia.s__Blautia_coccoides
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Eisenbergiella.s__Eisenbergiella_tayi
+PWY-6901: superpathway of glucose and xylose degradation|g__Hungatella.s__Hungatella_hathewayi
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Eisenbergiella.s__Eisenbergiella_tayi
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Lawsonibacter.s__Lawsonibacter_asaccharolyticus
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Eisenbergiella.s__Eisenbergiella_tayi

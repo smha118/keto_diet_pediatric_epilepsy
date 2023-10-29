@@ -1,0 +1,17 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Citrate cycle (TCA cycle)",20,0.15484,2,0.0096655,2.0148,0.8119,0.8119,0.07685
+"Purine metabolism",65,0.50323,2,0.087191,1.0595,1,1,0.00234
+"Butanoate metabolism",15,0.11613,1,0.11052,0.95658,1,1,0
+"Nicotinate and nicotinamide metabolism",15,0.11613,1,0.11052,0.95658,1,1,0
+"Glycerolipid metabolism",16,0.12387,1,0.11747,0.93008,1,1,0.04361
+"Starch and sucrose metabolism",18,0.13935,1,0.13123,0.88198,1,1,0.07306
+"Terpenoid backbone biosynthesis",18,0.13935,1,0.13123,0.88198,1,1,0.11429
+"Sphingolipid metabolism",21,0.16258,1,0.1515,0.8196,1,1,0.15416
+"Pentose phosphate pathway",22,0.17032,1,0.15815,0.80092,1,1,0
+"Pyruvate metabolism",22,0.17032,1,0.15815,0.80092,1,1,0.0311
+"Propanoate metabolism",23,0.17806,1,0.16477,0.78313,1,1,0
+"Glycolysis / Gluconeogenesis",26,0.20129,1,0.18432,0.73444,1,1,0.00021
+"Alanine, aspartate and glutamate metabolism",28,0.21677,1,0.19711,0.70528,1,1,0
+"Glyoxylate and dicarboxylate metabolism",32,0.24774,1,0.22216,0.65333,1,1,0
+"Glycerophospholipid metabolism",36,0.27871,1,0.24649,0.6082,1,1,0.08093
+"Tyrosine metabolism",42,0.32516,1,0.28168,0.55024,1,1,0.00635

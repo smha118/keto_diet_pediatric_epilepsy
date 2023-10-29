@@ -1,0 +1,228 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_fragilis
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+ANAEROFRUCAT-PWY: homolactic fermentation
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_fragilis
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+ARO-PWY: chorismate biosynthesis I
+ARO-PWY: chorismate biosynthesis I|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Lachnoclostridium.s__Clostridium_bolteae
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_caccae
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_fragilis
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_fragilis
+COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Bacteroides.s__Bacteroides_fragilis
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+GALACTARDEG-PWY: D-galactarate degradation I|g__Atlantibacter.s__Atlantibacter_hermannii
+GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation|g__Atlantibacter.s__Atlantibacter_hermannii
+GLUCARDEG-PWY: D-glucarate degradation I|g__Atlantibacter.s__Atlantibacter_hermannii
+GLUCARGALACTSUPER-PWY: superpathway of D-glucarate and D-galactarate degradation|g__Atlantibacter.s__Atlantibacter_hermannii
+GLUTORN-PWY: L-ornithine biosynthesis|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+HISDEG-PWY: L-histidine degradation I|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_caccae
+HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_fragilis
+HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+HISTSYN-PWY: L-histidine biosynthesis|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Bacteroides.s__Bacteroides_fragilis
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Bacteroides.s__Bacteroides_fragilis
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+NONMEVIPP-PWY: methylerythritol phosphate pathway I|g__Escherichia.s__Escherichia_coli
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Lachnoclostridium.s__Clostridium_bolteae
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Streptococcus.s__Streptococcus_lutetiensis
+P161-PWY: acetylene degradation|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+P221-PWY: octane oxidation|g__Escherichia.s__Escherichia_coli
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_caccae
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_fragilis
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Paraprevotella.s__Paraprevotella_xylaniphila
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_caccae
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_fragilis
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PENTOSE-P-PWY: pentose phosphate pathway|g__Bacteroides.s__Bacteroides_fragilis
+PENTOSE-P-PWY: pentose phosphate pathway|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PENTOSE-P-PWY: pentose phosphate pathway|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_caccae
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_fragilis
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_fragilis
+PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-1042: glycolysis IV (plant cytosol)|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY-1042: glycolysis IV (plant cytosol)|g__Paraprevotella.s__Paraprevotella_xylaniphila
+PWY-1042: glycolysis IV (plant cytosol)|g__Streptococcus.s__Streptococcus_lutetiensis
+PWY-1861: formaldehyde assimilation II (RuMP Cycle)|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY-2941: L-lysine biosynthesis II|g__Bacteroides.s__Bacteroides_fragilis
+PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_fragilis
+PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-3781: aerobic respiration I (cytochrome c)
+PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_fragilis
+PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-3841: folate transformations II|g__Veillonella.s__Veillonella_atypica
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_fragilis
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-5030: L-histidine degradation III|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_fragilis
+PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY-5103: L-isoleucine biosynthesis III|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY-5104: L-isoleucine biosynthesis IV|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY-5121: superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)|g__Escherichia.s__Escherichia_coli
+PWY-5173: superpathway of acetyl-CoA biosynthesis|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-5659: GDP-mannose biosynthesis
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY-5686: UMP biosynthesis|g__Bacteroides.s__Bacteroides_fragilis
+PWY-5686: UMP biosynthesis|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-5686: UMP biosynthesis|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_caccae
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-5705: allantoin degradation to glyoxylate III|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-5840: superpathway of menaquinol-7 biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-5845: superpathway of menaquinol-9 biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-5850: superpathway of menaquinol-6 biosynthesis I|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-5855: ubiquinol-7 biosynthesis (prokaryotic)|g__Escherichia.s__Escherichia_coli
+PWY-5856: ubiquinol-9 biosynthesis (prokaryotic)|g__Escherichia.s__Escherichia_coli
+PWY-5857: ubiquinol-10 biosynthesis (prokaryotic)|g__Escherichia.s__Escherichia_coli
+PWY-5860: superpathway of demethylmenaquinol-6 biosynthesis I|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-5862: superpathway of demethylmenaquinol-9 biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-5863: superpathway of phylloquinol biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-5896: superpathway of menaquinol-10 biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-6071: superpathway of phenylethylamine degradation|g__Escherichia.s__Escherichia_coli
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_caccae
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Streptococcus.s__Streptococcus_lutetiensis
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_caccae
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Paraprevotella.s__Paraprevotella_xylaniphila
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Streptococcus.s__Streptococcus_lutetiensis
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_fragilis
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_fragilis
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY-6270: isoprene biosynthesis I|g__Escherichia.s__Escherichia_coli
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_caccae
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Paraprevotella.s__Paraprevotella_xylaniphila
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Streptococcus.s__Streptococcus_lutetiensis
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_fragilis
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_fragilis
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_fragilis
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-6606: guanosine nucleotides degradation II|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-6608: guanosine nucleotides degradation III|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-6608: guanosine nucleotides degradation III|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_caccae
+PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_fragilis
+PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6609: adenine and adenosine salvage III|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-6700: queuosine biosynthesis|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_caccae
+PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_fragilis
+PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-6708: ubiquinol-8 biosynthesis (prokaryotic)|g__Escherichia.s__Escherichia_coli
+PWY-6737: starch degradation V|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY-6897: thiamin salvage II|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-6897: thiamin salvage II|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6936: seleno-amino acid biosynthesis|g__Bacteroides.s__Bacteroides_fragilis
+PWY-6936: seleno-amino acid biosynthesis|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-7013: L-1,2-propanediol degradation|g__Escherichia.s__Escherichia_coli
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_caccae
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_fragilis
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_fragilis
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_caccae
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Paraprevotella.s__Paraprevotella_xylaniphila
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_fragilis
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_fragilis
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_fragilis
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_fragilis
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-7242: D-fructuronate degradation|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Bacteroides.s__Bacteroides_caccae
+PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-7288: fatty acid &beta;-oxidation (peroxisome, yeast)|g__Escherichia.s__Escherichia_coli
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY-7446: sulfoglycolysis|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-7456: mannan degradation|g__Bacteroides.s__Bacteroides_fragilis
+PWY-7456: mannan degradation|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-7560: methylerythritol phosphate pathway II|g__Escherichia.s__Escherichia_coli
+PWY-7616: methanol oxidation to carbon dioxide|unclassified
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY0-1296: purine ribonucleosides degradation|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY0-1296: purine ribonucleosides degradation|g__Streptococcus.s__Streptococcus_lutetiensis
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+PWY0-321: phenylacetate degradation I (aerobic)|g__Escherichia.s__Escherichia_coli
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Bacteroides.s__Bacteroides_fragilis
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY0-881: superpathway of fatty acid biosynthesis I (E. coli)|g__Escherichia.s__Escherichia_coli
+PWY3O-355: stearate biosynthesis III (fungi)|g__Escherichia.s__Escherichia_coli
+PWY66-391: fatty acid &beta;-oxidation VI (peroxisome)|g__Escherichia.s__Escherichia_coli
+PWY66-400: glycolysis VI (metazoan)|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_fragilis
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Lachnoclostridium.s__Clostridium_bolteae
+SALVADEHYPOX-PWY: adenosine nucleotides degradation II|g__Atlantibacter.s__Atlantibacter_hermannii
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bacteroides.s__Bacteroides_fragilis
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Streptococcus.s__Streptococcus_lutetiensis
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Bacteroides.s__Bacteroides_fragilis
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_fragilis
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+UBISYN-PWY: superpathway of ubiquinol-8 biosynthesis (prokaryotic)|g__Escherichia.s__Escherichia_coli
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_caccae
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_fragilis
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+VALSYN-PWY: L-valine biosynthesis|g__Clostridiales_unclassified.s__Clostridiales_bacterium_1_7_47FAA

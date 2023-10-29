@@ -1,0 +1,686 @@
+Pathway	ID1	ID7	ID13	ID19	ID25	ID31	ID37	ID43	ID49	ID55	ID61	ID67	ID73	ID79	ID85	ID91	ID97	ID103	ID109	ID115
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|unclassified_meta	4.00876307154852	3.01022671970444	4.21027551345812	3.86184277556491	0	0	2.57971670455064	2.49270119325391	3.7228774178085	4.26908047619416	0	1.47887582135296	0	0	4.1841928834994	4.43929150118088	3.73181920460519	0	4.2586011477874	3.71350133249539
+ANAEROFRUCAT-PWY: homolactic fermentation|unclassified_meta	4.11229580355783	3.21412053638434	4.09234088954335	4.21432665965026	0	3.0132627135435	0	0	3.72418385467017	3.67624750593683	2.61511586341522	0	2.30876297055007	2.80386934227281	3.76873445186337	3.66060085705993	3.54771903432492	3.15634914528623	3.53856515595496	3.48258687432121
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|unclassified_meta	4.46109771662583	3.2676545604009	4.41541909845297	4.43707692520477	0	3.1124525224303	2.98714551261667	2.26501302008629	3.64313390041073	3.62723274764689	2.50562389137672	2.19644316099887	2.57413016153568	3.20979875261373	3.86589948260816	3.88900613799225	4.17658024817546	3.93975295186593	4.33233468902172	3.85117048264426
+ARO-PWY: chorismate biosynthesis I|unclassified_meta	3.95589825402064	2.97301620631026	2.94648950697554	3.37490816183919	0	2.87328211379743	3.03594288121538	2.15214933761561	4.3787048737297	4.32288021665069	0	0	2.18843382946232	2.60655627461863	4.3250673186597	3.81635096015841	4.13122760926438	3.86101809050787	4.35391518451281	3.72118932306782
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|unclassified_meta	4.2773964078458	3.93744315817503	3.98099294331879	4.19866703930425	3.4641627911081	0	2.63221252875103	2.91465778377632	4.52515789451864	5.09298917510383	2.89789891320523	2.26815616089844	2.30621748785277	3.04293069538299	4.58250935792491	4.09698108354323	3.93039716196521	3.5509842682641	4.66534294102223	3.97426514189156
+CALVIN-PWY: Calvin-Benson-Bassham cycle|unclassified_meta	4.4315843613347	3.60429059500243	4.48223841833018	4.23847376580828	0	2.28951201142619	3.27772569627579	2.38959546998318	4.84420283436609	4.51937697582279	1.68610631816407	2.83256018962082	2.31601549996557	2.88152159940916	3.98546118189024	4.2716996397832	2.97658003470938	2.92319383826339	5.0656284023903	4.33724890989223
+DENOVOPURINE2-PWY: superpathway of purine nucleotides de novo biosynthesis II|unclassified_meta	3.42910757650607	2.95649756030271	3.47473590599695	3.94579621553507	0	0	2.7643360121128	0	2.58252477030767	3.76258520252939	0	0	0	0	2.74537167594623	3.81921888283766	3.83663113250337	4.13968911454333	3.49090096474393	0
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|unclassified_meta	3.86500686674456	0	3.73445493290523	3.63330596009535	0	2.63807112919373	0	2.85090879318012	2.88059074604106	3.08601163818371	2.04706942327287	1.74966409485926	2.08508806999147	2.24351744596306	3.29304036685039	2.89763421121401	3.28946102792208	3.21668542769889	3.51940106957271	3.15795315864094
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|unclassified_meta	4.27170941036301	3.25389541796924	4.54771478687591	4.41016330966681	0	3.29806401369833	0	2.50905439851986	3.79057149915407	3.89746149942923	2.78778516912106	0	2.30497423671595	2.98973935181758	4.10907224222668	3.69294368393175	3.79024851450207	3.69775990591987	3.890940319206	3.83241253765881
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|unclassified_meta	4.84775551518644	4.22673739026122	5.18626226988261	4.67580570758632	3.90067485808455	0	2.6750930309441	3.00278732802767	4.88221841904795	5.38490323635566	3.17190580323389	2.34041060253403	2.55883067645336	3.33391732817888	4.71841851092343	4.76671914521677	4.22219966682915	3.49327506986306	4.7253680813002	4.20865490839951
+LACTOSECAT-PWY: lactose and galactose degradation I_meta	2.7553662634442	2.93389942212203	2.20751258494355	0	0	0	3.88417687572535	0	2.93009982095819	5.09945170769335	0	3.99752340813752	0	3.73211613094091	3.91140481438743	4.63551508694006	1.98051997365602	0	4.11185698730673	2.66015463665909
+LACTOSECAT-PWY: lactose and galactose degradation I|g__Enterococcus.s__Enterococcus_faecalis_meta	0	0	0	0	0	0	0	0	2.00610577130156	2.41848190640676	0	0	0	0	0	0	0	0	2.36896161147915	0
+P161-PWY: acetylene degradation|unclassified_meta	3.4956435519541	2.01246672184191	2.23868210319698	3.42528493319122	0	2.76565222023848	0	0	3.59216203461213	4.47695833377251	0	0	0	3.02793321334198	2.83350741845916	0	3.7758343711764	2.95369078575398	3.82572410184178	2.18153322050721
+PWY-1042: glycolysis IV (plant cytosol)|unclassified_meta	4.71511816313562	3.78805714544475	4.95029063308714	4.60606978123093	3.54419177519277	3.75594446847796	4.02381121910348	3.25705368674876	4.74619220369998	4.97252489764652	2.91497764585886	3.32168869803906	3.78513464180308	4.00324118805642	4.31316143360814	4.41270374341639	4.03188210679025	4.28851783141616	5.23421608314145	4.71106955643759
+PWY-5100: pyruvate fermentation to acetate and lactate II|unclassified_meta	3.75826558159894	3.01950250966643	3.53316087911452	3.7417564937147	2.36166122239705	2.45275356864644	3.3570539048997	0	3.96544054201481	4.85507250660299	3.01855484602584	1.96166678723916	1.84706644799711	2.49619272180497	3.10623106563044	3.60985248040795	2.69427576768037	2.90443353714135	4.05135703017266	3.64775272566701
+PWY-5103: L-isoleucine biosynthesis III|unclassified_meta	4.17309104554434	3.81337104809999	3.76874137621598	4.10891785407156	3.4641627911081	1.95498456599769	2.47170319994309	2.80641631284708	4.43275539474191	5.09298917510383	2.79907849944977	2.15501852359589	2.13317778713103	3.04293069538299	4.54259134342554	3.94822956519705	3.6581341232256	3.44316112414008	4.57552920036959	3.94587162236948
+PWY-5484: glycolysis II (from fructose 6-phosphate)|unclassified_meta	4.03713732366083	3.07366506461041	4.32956423609764	4.25191225454983	0	3.16651248450139	0	2.2358254403024	3.51649139634833	3.55117651553486	2.59392546569805	0	2.11180102998673	2.84066784305038	3.85501234537795	3.61499876382204	3.77159704264022	3.6664983554157	3.38287725491879	3.4306008320314
+PWY-5676: acetyl-CoA fermentation to butanoate II|unclassified_meta	0	2.45144465666472	0	3.03342297067562	0	0	0	0	0	4.02163945175147	0	0	0	0	0	3.27055704400322	0	0	3.43752288208785	0
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|unclassified_meta	4.44572652300724	3.43546031247697	4.842571609049	4.69607065730372	2.77303862102015	3.57563236547783	3.69272206183139	3.33570907628897	4.18886048729569	4.59350642805678	3.30846421184677	2.10350712846231	3.01710229929018	3.38130415026155	4.3254020489106	4.3109910532749	5.06756368148215	5.23568103509999	4.36405740068462	3.95733283453718
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|unclassified_meta	4.57466561664981	3.33637437561815	4.70371150367591	4.78099568903834	0	3.15958431406428	3.08945027742774	3.27553211266396	4.18041216065949	4.95089236680627	3.38351869720164	2.22994127920637	0	2.62553777952775	4.66837031187418	4.6644762918855	4.58529701620385	4.85937820158216	4.84664076663518	4.31241928872187
+PWY-6151: S-adenosyl-L-methionine cycle I|unclassified_meta	3.85903775417271	3.25858488030144	4.90928155539075	4.21101141962769	2.15596498708492	3.06675907520193	3.07778680231154	2.48252882500204	4.15638935159363	4.82796167533576	2.6340663238125	2.746982411104	2.69858555228642	2.76244999864181	4.58175825297743	4.32587550746802	3.35425251388561	1.94784399226033	4.53878890133763	3.8869677270825
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|unclassified_meta	4.16511984427114	2.75769079720267	2.6699813576256	3.88304929198876	0	2.64182492485942	3.01039425938464	1.97209711492672	4.37755665920243	4.57447693049773	0	2.46585973686777	2.06936721563958	2.71122515559585	4.2566533029651	3.7330613976782	4.0601584873149	3.97466911207842	4.4514034324517	3.9655182736908
+PWY-6317: galactose degradation I (Leloir pathway)|unclassified_meta	4.09221563098866	3.40543173744413	4.74371399543615	4.25653427086597	0	2.77406263549578	2.19366603099174	0	3.56751093579	3.92811286657709	2.31205610106961	2.55094404704931	1.71102833019558	0	4.03996053151375	3.91248289966058	3.07683288299054	2.91321442190397	4.32306851409756	4.04342488224252
+PWY-6471: peptidoglycan biosynthesis IV (Enterococcus faecium)_meta	5.65213473149419	0	4.27519559387932	5.67291768665305	4.77830803466523	3.60719477414139	0	0	5.40155062118969	5.71301637731881	0	4.99569084671043	0	0	5.44386687642369	5.73725915831047	5.140557682091	3.52730713526243	4.26312625627252	5.48376735801652
+PWY-6527: stachyose degradation|unclassified_meta	4.32553299981941	3.281707890839	4.73162660994065	4.21105591271792	2.93352702821009	2.95449352553739	2.5078416210705	2.05622664922306	3.45335013993812	2.47920710486268	2.3127947961479	3.14366509105013	1.73597892921324	2.14986505597583	3.96971627620662	3.56185825270461	3.45354628536476	3.29976617319287	4.35905351166362	4.30906473629588
+PWY-6609: adenine and adenosine salvage III|unclassified_meta	4.12997711485081	0	4.94628164475773	4.37555071107154	2.66661690866634	2.63634651582023	2.40957228489639	0	3.66821490547025	4.92711599451886	0	1.17771301435435	2.75938949443179	0	4.03658479113253	4.32517714370059	3.40871240632861	1.6015811285813	4.90486728801808	4.00206295831513
+PWY-6703: preQ0 biosynthesis|unclassified_meta	0	0	2.62600827409859	2.07862245632099	0	0	2.62895648743583	0	3.32412553438725	4.07004162369893	0	0.918396513159642	0	0	3.2443720169411	3.74711534282485	3.9695463526718	3.94987740097911	2.53337930323878	2.07797671935126
+PWY-6737: starch degradation V|unclassified_meta	4.35087259822256	3.76755892531042	4.97054913989021	4.20700486945233	0	0	2.85916771409776	3.19134017467368	4.15822192734419	4.88966468351659	3.14380739161935	2.6434121194531	2.09600362997881	0	4.46862396762577	3.83041807812472	2.8970218193634	3.09250501965025	4.754667197134	4.06619197080251
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|unclassified_meta	4.53121897077813	3.64888003785007	4.35593288469881	4.5605472269458	0	3.64471855832817	4.17080084636022	3.35939574077839	4.59428414749704	4.89161899828709	3.78668197998732	3.29337086495861	0	3.6676864607066	4.4627087532653	4.60018980445142	4.53691275828177	4.68590188702041	4.34842719253093	3.87039443571356
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|unclassified_meta	4.53121897077813	3.64888003785007	4.35593288469881	4.5605472269458	0	3.64471855832817	4.17080084636022	3.35939574077839	4.59428414749704	4.89161899828709	3.78668197998732	3.29337086495861	0	3.6676864607066	4.4627087532653	4.60018980445142	4.53691275828177	4.68590188702041	4.34842719253093	3.87039443571356
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|unclassified_meta	4.6642689383753	3.3034338615447	4.86497733767382	4.84154580607102	0	3.29079826763436	3.41659161343537	3.35825856492046	4.29557101231494	4.99854246974212	3.49390113738939	2.37392853306218	0	2.93601411577487	4.77175185138654	4.75151044372337	4.70508791652723	4.91556241946616	5.04265708011899	4.46701095857888
+PWY0-1296: purine ribonucleosides degradation|unclassified_meta	4.40767001465386	3.35556173676092	4.94289164200974	4.62706865468921	3.1815809361241	1.89081867325668	3.80034926993594	2.75604004510087	3.93313457960103	4.92264889647391	2.04413555597235	0	0	0	4.12265177248758	4.21098620599779	3.56698014571912	1.5190579590655	4.68462810732281	3.74337710905014
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|unclassified_meta	3.67687266018932	2.21269758389891	3.48356047208728	3.87727212765991	0	2.08317830128922	2.50236994166431	2.32648617289286	3.58020233348607	4.53337768490715	2.20891486772888	0	0	0	3.11758700858043	3.05937820895541	3.57314307263133	1.74092747193541	4.10872237104305	2.48419806546808
+PWY66-422: D-galactose degradation V (Leloir pathway)|unclassified_meta	4.09221563098866	3.65483909970215	4.74371399543615	4.25653427086597	2.70637546618289	2.77406263549578	2.24593219841652	2.65325604901507	3.99509128528477	4.06037404265095	2.53624119332479	2.81610907292033	1.80452267192841	0	4.13035982288463	3.91248289966058	3.11281284031464	3.03409685109698	4.32306851409756	4.04342488224252
+VALSYN-PWY: L-valine biosynthesis|unclassified_meta	4.84775551518644	4.22673739026122	5.18626226988261	4.67580570758632	3.90067485808455	2.05841706823357	2.6750930309441	3.00278732802767	4.88221841904795	5.38490323635566	3.17190580323389	2.34041060253403	2.55883067645336	3.33391732817888	4.71841851092343	4.76671914521677	4.22219966682915	3.49327506986306	4.7253680813002	4.20865490839951
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.72337177172924	3.20094400651717	0	0	0	0	0	0	0	0
+ANAEROFRUCAT-PWY: homolactic fermentation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.62686124085403	3.32666419091069	0	0	0	0	0	0	0	0
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	0.833952057150966	0	0	0	0	0	0	0	0
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Actinomyces.s__Actinomyces_radingae_meta	0	0	0	0	0	0	0	0	0	0	0	0.439970233152343	0	0	0	0	0	0	0	0
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.7509843486092	3.34898787820955	0	0	0	0	0	0	0	0
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Clostridioides.s__Clostridioides_difficile_meta	0	0	0	0	0	0	0	0	0	0	0	1.37654953414935	0	0	0	0	0	0	0	0
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.25887700261051	0	0	0	0	0	0	0	0
+ARG+POLYAMINE-SYN: superpathway of arginine and polyamine biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.48026955932358	3.18494668660512	0	0	0	0	0	0	0	0
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.43924253543799	3.22593882306852	0	0	0	0	0	0	0	0
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.57272197152997	0	0	0	0	0	0	0	0
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.41467531850498	0	0	0	0	0	0	0	0
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.66368471547938	0	0	0	0	0	0	0	0
+ARO-PWY: chorismate biosynthesis I|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.4895483133357	0	0	0	0	0	0	0	0
+ARO-PWY: chorismate biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.73790676198504	3.31627110207255	0	0	0	0	0	0	0	0
+ARO-PWY: chorismate biosynthesis I|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.16986623662707	0	0	0	0	0	0	0	0
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	0.518028024098195	0	0	0	0	0	0	0	0
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	1.25866551414798	0	0	0	0	0	0	0	0
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.33336063044116	3.64181405168746	0	0	0	0	0	0	0	0
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.488281810851085	0	0	0	0	0	0	0	0
+AST-PWY: L-arginine degradation II (AST pathway)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.66624726535938	3.1079800177117	0	0	0	0	0	0	0	0
+AST-PWY: L-arginine degradation II (AST pathway)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.286339171163338	0	0	0	0	0	0	0	0
+BIOTIN-BIOSYNTHESIS-PWY: biotin biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.92921585730356	3.46462904045355	0	0	0	0	0	0	0	0
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.62105337761563	0	0	0	0	0	0	0	0
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.17734948074754	3.55105026776196	0	0	0	0	0	0	0	0
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Coprobacillus.s__Coprobacillus_cateniformis_meta	0	0	0	0	0	0	0	0	0	0	1.32913918256883	1.41850982548225	0	0	0	0	0.920896110818143	0	0	0
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	1.66404540878214	0	1.7962327823606	3.29007213366984	0	0	0	0	2.35756747432495	4.38722435310118	0	0	1.31228715312006	1.00578036877264	1.91783396148299	0	0	0
+CALVIN-PWY: Calvin-Benson-Bassham cycle_meta	5.87526775270547	6.19677808424482	5.88604291847168	6.07232999316254	6.08735410449524	6.30479060871619	6.21269026054624	5.41636703332185	6.25162638802027	6.13662709730368	6.16720407311825	6.42102371472562	5.87060396816958	6.26942388155538	6.24692813349284	6.33864531363974	6.1551107160326	5.78739419045197	6.09604300703993	6.21368767496245
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.46165458459383	3.79942749128547	0	0	0	0	0	0	0	0
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.50638888303787	0	0	0	0	0	0	0	0
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	1.38068616454234	0.762691899750939	1.1559625359587	3.07311914993535	0	0	0	0	2.19672222895818	4.0302130693484	0	0	0	0	1.66703300869218	0	0	1.63781737875564
+CATECHOL-ORTHO-CLEAVAGE-PWY: catechol degradation to &beta;-ketoadipate|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.67169884182761	2.937811804718	0	0	0	0	0	0	0	0
+CENTFERM-PWY: pyruvate fermentation to butanoate|g__Clostridioides.s__Clostridioides_difficile_meta	0	0	0	0	0	0	0	0	0	0	1.58651313629963	1.65834045124165	0	0	0	0	0	0	0	0
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.65139515810192	0	0	0	0	0	0	0	0
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.61231377317956	3.32561139470556	0	0	0	0	0	0	0	0
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Coprobacillus.s__Coprobacillus_cateniformis_meta	0	0	0	0	0	0	0	0	0	0	0	0.808304549947394	0	0	0	0	0	0	0	0
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.23642100408395	0	0	0	0	0	0	0	0
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	0	0	0	3.46656992990241	0	0	0	0	2.6869287044801	4.27568091163638	0	0	0	0	0	0	0	0
+COA-PWY: coenzyme A biosynthesis I|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.60305795680182	0	0	0	0	0	0	0	0
+COA-PWY: coenzyme A biosynthesis I|g__Dysgonomonas.s__Dysgonomonas_mossii_meta	0	0	0	0	0	0	0	0	0	0	2.56714694100502	2.78321333066722	0	0	0	0	0	0	0	0
+COA-PWY: coenzyme A biosynthesis I|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.09071512706564	0	0	0	0	0	0	0	0
+COBALSYN-PWY: adenosylcobalamin salvage from cobinamide I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.0425776907855	0	0	0	0	0	0	0	0
+COLANSYN-PWY: colanic acid building blocks biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	2.91880803174076	0	0	0	0	0	0	0	0
+COLANSYN-PWY: colanic acid building blocks biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca_meta	0	0	0	0	0	0	0	0	0	0	0	0.873387406219506	0	0	0	0	0	0	0	0
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.51552880812153	0	0	0	0	0	0	0	0
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.20918905927866	0	0	0	0	0	0	0	0
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca_meta	0	0	0	0	0	0	0	0	0	0	0	1.19070821738851	0	0	0	0	0	0	0	0
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	0.656464005132838	0	0	0	0	0	0	0	0
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	0.696232416321753	0	0	0	0	0	0	0	0
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.52774400895344	3.17063051224021	0	0	0	0	0	0	0	0
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	1.14794198980098	0	0	0	0	0	0	0	0
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	0.908782616383833	0	0	0	0	0	0	0	0
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.81637879841675	0	0	0	0	0	0	0	0
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	1.61478558809403	3.78917491400657	0	0	0	0	0	0	0	0
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca_meta	0	0	0	0	0	0	0	0	0	0	0	2.8342363500189	0	0	0	0	0	0	0	0
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	0	1.50716595559762	2.0715189909901	3.17165842325909	0	0	0	0	2.20031202847228	4.12475898537067	0	0	1.48738100679256	1.37617331569582	1.82289146700528	0	0	0
+ECASYN-PWY: enterobacterial common antigen biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.53842943955819	3.4091490167831	0	0	0	0	0	0	0	0
+ENTBACSYN-PWY: enterobactin biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.23183854185227	3.77179495444124	0	0	0	0	0	0	0	0
+FAO-PWY: fatty acid &beta;-oxidation I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.1179588825248	3.88891608496324	0	0	0	0	0	0	0	0
+FAO-PWY: fatty acid &beta;-oxidation I|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.403044180025142	0	0	0	0	0	0	0	0
+FASYN-ELONG-PWY: fatty acid elongation -- saturated|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.25562974452032	3.7328221741011	0	0	0	0	0	0	0	0
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.64538403920757	3.1022790852843	0	0	0	0	0	0	0	0
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.642960641913304	0	0	0	0	0	0	0	0
+FERMENTATION-PWY: mixed acid fermentation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.8157933283026	3.51208260796268	0	0	0	0	0	0	0	0
+FERMENTATION-PWY: mixed acid fermentation|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.571779791276278	0	0	0	0	0	0	0	0
+FUC-RHAMCAT-PWY: superpathway of fucose and rhamnose degradation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.63281453754144	3.38822358473839	0	0	0	0	0	0	0	0
+FUCCAT-PWY: fucose degradation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.88294296415065	3.58396328416438	0	0	0	0	0	0	0	0
+FUCCAT-PWY: fucose degradation|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.294678788249568	0	0	0	0	0	0	0	0
+GALACT-GLUCUROCAT-PWY: superpathway of hexuronide and hexuronate degradation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.69372391228837	3.36085096847961	0	0	0	0	0	0	0	0
+GALACTARDEG-PWY: D-galactarate degradation I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.66880056182761	3.41263505471821	0	0	0	0	0	0	0	0
+GALACTARDEG-PWY: D-galactarate degradation I|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.513406091493487	0	0	0	0	0	0	0	0
+GALACTUROCAT-PWY: D-galacturonate degradation I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.63489706042942	3.31047731780546	0	0	0	0	0	0	0	0
+GALACTUROCAT-PWY: D-galacturonate degradation I|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.500889220815829	0	0	0	0	0	0	0	0
+GALLATE-DEGRADATION-I-PWY: gallate degradation II_meta	0	0	0	0	0	0	0	0	0	0	0	3.02606262273683	0	0	0	0	0	0	0	0
+GALLATE-DEGRADATION-II-PWY: gallate degradation I_meta	0	1.95479060086125	0	0	0	0	0	0	0	0	0	3.02606262273683	0	0	0	0	0	0	0	0
+GALLATE-DEGRADATION-II-PWY: gallate degradation I|g__Klebsiella.s__Klebsiella_oxytoca_meta	0	0	0	0	0	0	0	0	0	0	0	2.89874218349024	0	0	0	0	0	0	0	0
+GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.19632866217418	3.19755821055851	0	0	0	0	0	0	0	0
+GLUCARDEG-PWY: D-glucarate degradation I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.83585131196305	3.35850210586786	0	0	0	0	0	0	0	0
+GLUCARDEG-PWY: D-glucarate degradation I|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.527090825271978	0	0	0	0	0	0	0	0
+GLUCARGALACTSUPER-PWY: superpathway of D-glucarate and D-galactarate degradation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.66880056182761	3.41263505471821	0	0	0	0	0	0	0	0
+GLUCARGALACTSUPER-PWY: superpathway of D-glucarate and D-galactarate degradation|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.513406091493487	0	0	0	0	0	0	0	0
+GLUCONEO-PWY: gluconeogenesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.65436156364797	3.22799809019745	0	0	0	0	0	0	0	0
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.01045313446863	3.47377227448817	0	0	0	0	0	0	0	0
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.473475096723961	0	0	0	0	0	0	0	0
+GLUCUROCAT-PWY: superpathway of &beta;-D-glucuronide and D-glucuronate degradation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.83278784245076	3.49113253580224	0	0	0	0	0	0	0	0
+GLUTORN-PWY: L-ornithine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum_meta	0	0	0	0	0	0	0	0	0	0	0	2.91259519993113	0	0	0.840885919186133	1.19799296064591	0	0	1.74287205032954	0.896598098528419
+GLUTORN-PWY: L-ornithine biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0.990351274331678	3.31948105204217	0	0	0	0	0	0	0	0
+GLUTORN-PWY: L-ornithine biosynthesis|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.56283709142618	0	0	0	0	0	0	0	0
+GLYCOCAT-PWY: glycogen degradation I (bacterial)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.12319284159267	3.43013139329343	0	0	0	0	0	0	0	0
+GLYCOCAT-PWY: glycogen degradation I (bacterial)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.416614719536815	0	0	0	0	0	0	0	0
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.96747033458223	3.21073074357108	0	0	0	0	0	0	0	0
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.454698983347088	0	0	0	0	0	0	0	0
+GLYCOL-GLYOXDEG-PWY: superpathway of glycol metabolism and degradation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0.593612992179108	2.97225891736835	0	0	0	0	0	0	0	0
+GLYCOL-GLYOXDEG-PWY: superpathway of glycol metabolism and degradation|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.200893852378976	0	0	0	0	0	0	0	0
+GLYCOLYSIS-E-D: superpathway of glycolysis and Entner-Doudoroff|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.80086290691495	3.29262058821245	0	0	0	0	0	0	0	0
+GLYCOLYSIS-TCA-GLYOX-BYPASS: superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.25033573148647	0	0	0	0	0	0	0	0
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.75730431606748	3.33770009602848	0	0	0	0	0	0	0	0
+GLYOXYLATE-BYPASS: glyoxylate cycle|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.3861193458056	3.20009251788851	0	0	0	0	0	0	0	0
+GLYOXYLATE-BYPASS: glyoxylate cycle|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.260986392560911	0	0	0	0	0	0	0	0
+GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.372746304985437	0	0	0	0	0	0	0	0
+HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	1.18975622596665	0	0	0	0	0	0	0	0
+HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	0.958150267961959	0	0	0	0	0	0	0	0
+HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.29006840854668	0	0	0	0	0	0	0	0
+HEMESYN2-PWY: heme biosynthesis II (anaerobic)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.52717307098239	3.26039005973481	0	0	0	0	0	0	0	0
+HEXITOLDEGSUPER-PWY: superpathway of hexitol degradation (bacteria)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.61608973989445	3.29718410621669	0	0	0	0	0	0	0	0
+HISDEG-PWY: L-histidine degradation I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.50934792754003	3.202380522339	0	0	0	0	0	0	0	0
+HISTSYN-PWY: L-histidine biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.21473526456729	0	0	0	0	0	0	0	0
+HISTSYN-PWY: L-histidine biosynthesis|g__Coprobacillus.s__Coprobacillus_cateniformis_meta	0	0	0	0	0	0	0	0	0	0	0	1.1760176755125	0	0	0	0	0	0	0	0
+HISTSYN-PWY: L-histidine biosynthesis|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.41534023174358	0	0	0	0	0	0	0	0
+HISTSYN-PWY: L-histidine biosynthesis|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	0	0	0	3.32363576021377	0	0	0	0	0	3.99956490833068	0	0	0	0	0	0	0	0
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.87768178117936	3.16818024654965	0	0	0	0	0	0	0	0
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.365242239631608	0	0	0	0	0	0	0	0
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	0.928563117146268	0	0	0	0	0	0	0	0
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.79849762195858	0	0	0	0	0	0	0	0
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.37924979392946	3.69501807417333	0	0	0	0	0	0	0	0
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Coprobacillus.s__Coprobacillus_cateniformis_meta	0	0	0	0	0	0	0	0	0	0	1.49770155869402	1.68112395408044	0	0	0	0	1.42374427656673	0	0	0
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	1.74393733636509	0	2.16078763035244	3.58542822571773	0	0	0	0	2.96138924513144	4.59264406062268	0	0	1.84606297836963	1.1772940707023	2.49036671645736	0	0	0
+KETOGLUCONMET-PWY: ketogluconate metabolism|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	1.85290787541413	0	0	0	0	0	0	0	0
+KETOGLUCONMET-PWY: ketogluconate metabolism|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.546306467702887	0	0	0	0	0	0	0	0
+LACTOSECAT-PWY: lactose and galactose degradation I|g__Clostridioides.s__Clostridioides_difficile_meta	0	0	0	0	0	0	0	0	0	0	0	0.535457161320588	0	0	0	0	0	0	0	0
+LACTOSECAT-PWY: lactose and galactose degradation I|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	2.8228183261091	0	0	0	0	0	0	0	0
+LACTOSECAT-PWY: lactose and galactose degradation I|g__Streptococcus.s__Streptococcus_infantis_meta	0	0	0	0	0	0	0	0	0	0	0	0.344633839941843	0	0	0	0	0	0	0	0
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.08883231006653	3.29327061302914	0	0	0	0	0	0	0	0
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.339538957991998	0	0	0	0	0	0	0	0
+METHYLGALLATE-DEGRADATION-PWY: methylgallate degradation_meta	0	0	0	0	0	0	0	0	0	0	0	3.20644285481504	0	0	0	0	0	0	0	0
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.10208938222118	3.44209297347406	0	0	0	0	0	0	0	0
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.383886624912892	0	0	0	0	0	0	0	0
+NAD-BIOSYNTHESIS-II: NAD salvage pathway II|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.47811698542858	3.640101414871	0	0	0	0	0	0	0	0
+NAD-BIOSYNTHESIS-II: NAD salvage pathway II|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.317868105127649	0	0	0	0	0	0	0	0
+NAGLIPASYN-PWY: lipid IVA biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.85550236143686	3.36607784716714	0	0	0	0	0	0	0	0
+NAGLIPASYN-PWY: lipid IVA biosynthesis|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.305313226157723	0	0	0	0	0	0	0	0
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	0.547680270760309	0	0	0	0	0	0	0	0
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Actinomyces.s__Actinomyces_radingae_meta	0	0	0	0	0	0	0	0	0	0	0	0.605169700679531	0	0	0	0	0	0	0	0
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	1.03669787709703	0	0	0	0	0	0	0	0
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.75861969629078	3.88759710726632	0	0	0	0	0	0	0	0
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.732170758898821	0	0	0	0	0	0	0	0
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.87484229006371	0	0	0	0	0	0	0	0
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	1.73551181698941	0.875593729542051	1.47281603489114	3.08613954462946	0	0	0	0	2.15420340714158	4.27226757068114	0	0	0	0	1.78194311273326	0	0	1.91155085716458
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.40838482334213	0	0	0	0	0	0	0	0
+P108-PWY: pyruvate fermentation to propanoate I|g__Klebsiella.s__Klebsiella_oxytoca_meta	0	0	0	0	0	0	0	0	1.34615963037977	0	0	3.08061096131112	0	0	0	0	0	0	0	0
+P161-PWY: acetylene degradation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.93589733053555	2.95719412739885	0	0	0	0	0	0	0	0
+P161-PWY: acetylene degradation|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.40703920190556	0	0	0	0	0	0	0	0
+P161-PWY: acetylene degradation|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.43974799855621	0	0	0	0	0	0	0	0
+P161-PWY: acetylene degradation|g__Streptococcus.s__Streptococcus_parasanguinis_meta	0	0	0	0	0	0	0	0	0	0	0	0.353566016227273	0	0	0	0	0	0	0	0
+P4-PWY: superpathway of L-lysine, L-threonine and L-methionine biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.21881182282011	0	0	0	0	0	0	0	0
+P441-PWY: superpathway of N-acetylneuraminate degradation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.52326981614697	3.29494387481376	0	0	0	0	0	0	0	0
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	5.10550295175968	0	0	0	0	0	0	0	0
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.14569616759192	3.84350859089098	0	0	0	0	0	0	0	0
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.426991738652445	0	0	0	0	0	0	0	0
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.77660411832041	0	0	0	0	0	0	0	0
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	0.419256238457276	0	0	0	0	0	0	0	0
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.76616595606729	0	0	0	0	0	0	0	0
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.74304705203625	3.24182643324501	0	0	0	0	0	0	0	0
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Clostridioides.s__Clostridioides_difficile_meta	0	0	0	0	0	0	0	0	0	0	0	1.09292950553261	0	0	0	0	0	0	0	0
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Eggerthella.s__Eggerthella_lenta_meta	0	0	0	0	1.47958204250698	2.23891233031278	0	0	2.11928345607843	2.36010749613741	0	2.60735286995347	1.71533548385166	2.15691055562778	0	2.17647636978658	1.86394988976855	0	0	0
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.63418515105662	0	0	0	0	0	0	0	0
+PENTOSE-P-PWY: pentose phosphate pathway|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	0.643744203659142	0	0	0	0	0	0	0	0
+PENTOSE-P-PWY: pentose phosphate pathway|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	1.07097384136415	0	0	0	0	0	0	0	0
+PENTOSE-P-PWY: pentose phosphate pathway|g__Bifidobacterium.s__Bifidobacterium_longum_meta	0	0	2.19925806395571	0	0	0	0	0	0	0	0	3.07371131487058	0	0	0	0	0	0	2.27034905013995	0
+PENTOSE-P-PWY: pentose phosphate pathway|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.54088280225854	3.23526872407436	0	0	0	0	0	0	0	0
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.54016115417773	0	0	0	0	0	0	0	0
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.63977505246888	3.18260180594398	0	0	0	0	0	0	0	0
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.16334197306541	0	0	0	0	0	0	0	0
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	0	0	1.9575252885362	3.49235957652009	0	0	0	0	2.26476587728426	4.13456317474404	0	0	0	1.02576198685385	0	0	0	0
+PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.55470291269385	3.38313863292549	0	0	0	0	0	0	0	0
+PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.476337279271418	0	0	0	0	0	0	0	0
+POLYAMSYN-PWY: superpathway of polyamine biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.60419820913295	3.2113838298299	0	0	0	0	0	0	0	0
+POLYISOPRENSYN-PWY: polyisoprenoid biosynthesis (E. coli)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.72291123013848	3.2482287806821	0	0	0	0	0	0	0	0
+POLYISOPRENSYN-PWY: polyisoprenoid biosynthesis (E. coli)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.378156944611449	0	0	0	0	0	0	0	0
+PPGPPMET-PWY: ppGpp biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.13918577606896	3.29230470935122	0	0	0	0	0	0	0	0
+PPGPPMET-PWY: ppGpp biosynthesis|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.331573830423218	0	0	0	0	0	0	0	0
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY: protocatechuate degradation II (ortho-cleavage pathway)|g__Klebsiella.s__Klebsiella_oxytoca_meta	0	0	0	0	0	0	0	0	0	0	0	1.53680485206305	0	0	0	0	0	0	0	0
+PWY-1042: glycolysis IV (plant cytosol)|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	1.90335003774198	0	0	0	0	0	0	0	0
+PWY-1042: glycolysis IV (plant cytosol)|g__Actinomyces.s__Actinomyces_radingae_meta	0	0	0	0	0	0	0	0	0	0	0	0.619895072818998	0	0	0	0	0	0	0	0
+PWY-1042: glycolysis IV (plant cytosol)|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	1.18426691235074	0	0	0	0	0	0	0	0
+PWY-1042: glycolysis IV (plant cytosol)|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.99669862835738	0	0	0	0	0	0	0	0
+PWY-1042: glycolysis IV (plant cytosol)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.16637697828607	3.8182879844096	0	0	0	0	0	0	0	0
+PWY-1042: glycolysis IV (plant cytosol)|g__Coprobacillus.s__Coprobacillus_cateniformis_meta	0	0	0	0	0	0	0	0	0	0	0	1.42514721816087	0	0	0	0	0	0	0	0
+PWY-1042: glycolysis IV (plant cytosol)|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.2188718248602	0	0	0	0	0	0	0	0
+PWY-1042: glycolysis IV (plant cytosol)|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	1.3687539231429	0.993418425789604	2.11067127723153	3.30439275239096	0	0	0	0	2.38058910856172	4.20532525505571	0	0	1.33283820311243	1.1674135862504	1.58803857106821	0	0	1.96032574328962
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.67053301179391	3.47216519056463	0	0	0	0	0	0	0	0
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.510074942074981	0	0	0	0	0	0	0	0
+PWY-1861: formaldehyde assimilation II (RuMP Cycle)|g__Klebsiella.s__Klebsiella_oxytoca_meta	0	0	0	0	0	0	0	0	0	0	0	1.19598700252131	0	0	0	0	0	0	0	0
+PWY-2723: trehalose degradation V|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.65806234858569	3.13608534552544	0	0	0	0	0	0	0	0
+PWY-2941: L-lysine biosynthesis II|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.24050423538775	0	0	0	0	0	0	0	0
+PWY-2942: L-lysine biosynthesis III|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	0.684111985841941	0	0	0	0	0	0	0	0
+PWY-2942: L-lysine biosynthesis III|g__Actinomyces.s__Actinomyces_radingae_meta	0	0	0	0	0	0	0	0	0	0	0	0.503902514251195	0	0	0	0	0	0	0	0
+PWY-2942: L-lysine biosynthesis III|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	0.761870682436827	0	0	0	0	0	0	0	0
+PWY-2942: L-lysine biosynthesis III|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.59914205324975	0	0	0	0	0	0	0	0
+PWY-2942: L-lysine biosynthesis III|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.05546642163012	3.21339684261994	0	0	0	0	0	0	0	0
+PWY-2942: L-lysine biosynthesis III|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.2862017077013	0	0	0	0	0	0	0	0
+PWY-2942: L-lysine biosynthesis III|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	0	0	0	3.26922667529492	0	0	0	0	2.36932649849921	4.06087222876393	0	0	0	0	0	0	0	0
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.31086474675096	3.57614459245876	0	0	0	0	0	0	0	0
+PWY-3841: folate transformations II|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.59491376829513	0	0	0	0	0	0	0	0
+PWY-3841: folate transformations II|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.65279237754204	3.111170339695	0	0	0	0	0	0	0	0
+PWY-3841: folate transformations II|g__Clostridioides.s__Clostridioides_difficile_meta	0	0	0	0	0	0	0	0	0	0	0	1.76063509211346	0	0	0	0	0	0	0	0
+PWY-3841: folate transformations II|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.20282367572815	0	0	0	0	0	0	0	0
+PWY-4041: &gamma;-glutamyl cycle|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.36512035895515	3.82317430522984	0	0	0	0	0	0	0	0
+PWY-4041: &gamma;-glutamyl cycle|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.415855606099965	0	0	0	0	0	0	0	0
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.55312713692052	0	0	0	0	0	0	0	0
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Dysgonomonas.s__Dysgonomonas_mossii_meta	0	0	0	0	0	0	0	0	0	0	2.57080143139474	2.61439864502075	0	0	0	0	0	0	0	0
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	2.54898412716123	0	0	0	0	0	0	0	0
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.86940147604918	0	0	0	0	0	0	0	0
+PWY-5022: 4-aminobutanoate degradation V|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.40917313457625	3.11773306861136	0	0	0	0	0	0	0	0
+PWY-5097: L-lysine biosynthesis VI|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	0.744343970291071	0	0	0	0	0	0	0	0
+PWY-5097: L-lysine biosynthesis VI|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	0.597300706975815	0	0	0	0	0	0	0	0
+PWY-5097: L-lysine biosynthesis VI|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.70484356047209	0	0	0	0	0	0	0	0
+PWY-5097: L-lysine biosynthesis VI|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.03404922328866	3.2111782745983	0	0	0	0	0	0	0	0
+PWY-5097: L-lysine biosynthesis VI|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.29061957588088	0	0	0	0	0	0	0	0
+PWY-5097: L-lysine biosynthesis VI|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	0	0	0	3.39988652286205	0	0	0	0	2.5019931735115	4.29199798301304	0	0	0	0	0	0	0	0
+PWY-5100: pyruvate fermentation to acetate and lactate II_meta	5.51596986961296	5.40404581451047	5.26224967738616	5.35950653486046	5.60571015030715	5.33068774657849	5.43820104064402	4.45895295298496	6.08952775204046	6.3426318518083	5.94606176427889	6.01897270452458	4.89340460586794	5.60714675003873	5.80188571991609	5.80461374876751	5.35113275196709	5.00930107108312	5.43193000587196	5.27601551880053
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	0.43171747925223	0	0	0	0	0	0	0	0
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.59810428117555	0	0	0	0	0	0	0	0
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.56327040608908	2.76463215252332	0	0	0	0	0	0	0	0
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.390707413710932	0	0	0	0	0	0	0	0
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.23763869611909	0	0	0	0	0	0	0	0
+PWY-5101: L-isoleucine biosynthesis II|g__Coprobacillus.s__Coprobacillus_cateniformis_meta	0	0	0	0	0	0	0	0	0	0	0	1.43135854481827	0	0	0	0	0.941568539058424	0	0	0
+PWY-5103: L-isoleucine biosynthesis III|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.59168871800197	0	0	0	0	0	0	0	0
+PWY-5103: L-isoleucine biosynthesis III|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.44491764157164	3.76714982289159	0	0	0	0	0	0	0	0
+PWY-5103: L-isoleucine biosynthesis III|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	1.06490382179863	0	0	0	0	0	0	0	0
+PWY-5103: L-isoleucine biosynthesis III|g__Coprobacillus.s__Coprobacillus_cateniformis_meta	0	0	0	0	0	0	0	0	0	0	1.289541140633	1.38421971051984	0	0	0	0	0.899413102597358	0	0	0
+PWY-5103: L-isoleucine biosynthesis III|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	1.66404540878214	0	1.56328506747904	3.1444324118451	0	0	0	0	2.30564042072305	4.3396474387613	0	0	1.21072595041857	0.941580239457992	1.77897813486332	0	0	0
+PWY-5104: L-isoleucine biosynthesis IV|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.8959528039952	3.41967560290793	0	0	0	0	0	0	0	0
+PWY-5104: L-isoleucine biosynthesis IV|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.284155862675223	0	0	0	0	0	0	0	0
+PWY-5136: fatty acid &beta;-oxidation II (peroxisome)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.94735481930226	3.30280880177599	0	0	0	0	0	0	0	0
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.03129198477775	3.77391888810134	0	0	0	0	0	0	0	0
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.679453346534059	0	0	0	0	0	0	0	0
+PWY-5173: superpathway of acetyl-CoA biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.52304525309014	2.8144501763347	0	0	0	0	0	0	0	0
+PWY-5173: superpathway of acetyl-CoA biosynthesis|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.404954311006868	0	0	0	0	0	0	0	0
+PWY-5180: toluene degradation I (aerobic) (via o-cresol)_meta	0	0	0	0	0	0	0	0	0	2.51026570692153	0	3.55194800211871	0	0	0	0	0	0	0	0
+PWY-5182: toluene degradation II (aerobic) (via 4-methylcatechol)_meta	0	0	0	0	0	0	0	0	0	2.51026570692153	0	3.55194800211871	0	0	0	0	0	0	0	0
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	1.40220461904386	0	0	0	0	0	0	0	0
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	1.0456860828587	0	0	0	0	0	0	0	0
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.46954746520335	0	0	0	0	0	0	0	0
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.75132975886542	3.17599755098722	0	0	0	0	0	0	0	0
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.54171566193772	3.22373599508378	0	0	0	0	0	0	0	0
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.12248426854768	3.4825807287385	0	0	0	0	0	0	0	0
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.347963105836706	0	0	0	0	0	0	0	0
+PWY-5367: petroselinate biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.16410972489961	3.6146218553821	0	0	0	0	0	0	0	0
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.81007242542349	3.12569417812924	0	0	0	0	0	0	0	0
+PWY-5415: catechol degradation I (meta-cleavage pathway)_meta	0	0	0	0	0	0	0	0	0	2.22171120665387	0	3.45793681885476	0	0	0	0	0	0	0	0
+PWY-5417: catechol degradation III (ortho-cleavage pathway)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.06338157618974	0	0	0	0	0	0	0	0
+PWY-5431: aromatic compounds degradation via &beta;-ketoadipate|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.06338157618974	0	0	0	0	0	0	0	0
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.66496722222658	3.3039373020382	0	0	0	0	0	0	0	0
+PWY-5659: GDP-mannose biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.79999050115131	3.01156625185652	0	0	0	0	0	0	0	0
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.5270983681679	0	0	0	0	0	0	0	0
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.41665623886821	3.24038679603525	0	0	0	0	0	0	0	0
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.443291901488574	0	0	0	0	0	0	0	0
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	0	0	0	2.62390018106893	0	0	0	0	2.01221273830938	4.00426302255706	0	0	0	0	0	0	0	1.617219556752
+PWY-5676: acetyl-CoA fermentation to butanoate II_meta	4.62638358238729	3.55940553309284	4.55866855113665	5.17558460116574	5.23851959030057	4.8827337384437	5.27941992944357	4.23331343657875	5.76004622914854	5.920763073935	5.44505492265962	5.7342437821387	4.22666292775999	4.9904802046926	5.28186781141696	5.60737068830613	4.86787285472886	5.08495086374774	4.45568477352491	4.46876151510853
+PWY-5686: UMP biosynthesis|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	0.822836828122896	0	0	0	0	0	0	0	0
+PWY-5686: UMP biosynthesis|g__Actinomyces.s__Actinomyces_radingae_meta	0	0	0	0	0	0	0	0	0	0	0	0.74392109009053	0	0	0	0	0	0	0	0
+PWY-5686: UMP biosynthesis|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	0.893726053624731	0	0	0	0	0	0	0	0
+PWY-5686: UMP biosynthesis|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.58812269980262	0	0	0	0	0	0	0	0
+PWY-5686: UMP biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.59869238549631	3.08098752612605	0	0	0	0	0	0	0	0
+PWY-5686: UMP biosynthesis|g__Clostridioides.s__Clostridioides_difficile_meta	0	0	0	0	0	0	0	0	0	0	0	1.51699800944133	0	0	0	0	0	0	0	0
+PWY-5686: UMP biosynthesis|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	2.91750583213652	0	0	0	0	0	0	0	0
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.33432818686522	0	0	0	0	0	0	0	0
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.69626098052723	4.13757006599847	0	0	0	0	0	0	0	0
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.276891311035763	0	0	0	0	0	0	0	0
+PWY-5723: Rubisco shunt|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.75795963651676	3.47732783103885	0	0	0	0	0	0	0	0
+PWY-5747: 2-methylcitrate cycle II|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.23237073884645	2.89906166879113	0	0	0	0	0	0	0	0
+PWY-5747: 2-methylcitrate cycle II|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.223468298578108	0	0	0	0	0	0	0	0
+PWY-5791: 1,4-dihydroxy-2-naphthoate biosynthesis II (plants)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.13979365572979	0	0	0	0	0	0	0	0
+PWY-5837: 1,4-dihydroxy-2-naphthoate biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.13979365572979	0	0	0	0	0	0	0	0
+PWY-5838: superpathway of menaquinol-8 biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.30068435717073	0	0	0	0	0	0	0	0
+PWY-5840: superpathway of menaquinol-7 biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.28118561422718	0	0	0	0	0	0	0	0
+PWY-5845: superpathway of menaquinol-9 biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.28118561422718	0	0	0	0	0	0	0	0
+PWY-5850: superpathway of menaquinol-6 biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.28118561422718	0	0	0	0	0	0	0	0
+PWY-5855: ubiquinol-7 biosynthesis (prokaryotic)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.68581545003181	3.529080351942	0	0	0	0	0	0	0	0
+PWY-5855: ubiquinol-7 biosynthesis (prokaryotic)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.298696193714881	0	0	0	0	0	0	0	0
+PWY-5856: ubiquinol-9 biosynthesis (prokaryotic)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.68581545003181	3.529080351942	0	0	0	0	0	0	0	0
+PWY-5856: ubiquinol-9 biosynthesis (prokaryotic)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.298696193714881	0	0	0	0	0	0	0	0
+PWY-5857: ubiquinol-10 biosynthesis (prokaryotic)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.68581545003181	3.529080351942	0	0	0	0	0	0	0	0
+PWY-5857: ubiquinol-10 biosynthesis (prokaryotic)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.298696193714881	0	0	0	0	0	0	0	0
+PWY-5860: superpathway of demethylmenaquinol-6 biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.24068428227871	0	0	0	0	0	0	0	0
+PWY-5861: superpathway of demethylmenaquinol-8 biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.26881199878421	0	0	0	0	0	0	0	0
+PWY-5862: superpathway of demethylmenaquinol-9 biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.24068428227871	0	0	0	0	0	0	0	0
+PWY-5863: superpathway of phylloquinol biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.08183198510294	0	0	0	0	0	0	0	0
+PWY-5896: superpathway of menaquinol-10 biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.28118561422718	0	0	0	0	0	0	0	0
+PWY-5897: superpathway of menaquinol-11 biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.30473053317445	0	0	0	0	0	0	0	0
+PWY-5898: superpathway of menaquinol-12 biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.30473053317445	0	0	0	0	0	0	0	0
+PWY-5899: superpathway of menaquinol-13 biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.30473053317445	0	0	0	0	0	0	0	0
+PWY-5913: TCA cycle VI (obligate autotrophs)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.79940351227981	3.433390252151	0	0	0	0	0	0	0	0
+PWY-5913: TCA cycle VI (obligate autotrophs)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.464267835989168	0	0	0	0	0	0	0	0
+PWY-5913: TCA cycle VI (obligate autotrophs)|g__Dysgonomonas.s__Dysgonomonas_mossii_meta	0	0	0	0	0	0	0	0	0	0	3.0621144066941	3.03477508626854	0	0	0	0	0	0	0	0
+PWY-5918: superpathay of heme biosynthesis from glutamate|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.19608200842289	0	0	0	0	0	0	0	0
+PWY-5971: palmitate biosynthesis II (bacteria and plants)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.17232377640949	3.67089112997398	0	0	0	0	0	0	0	0
+PWY-5973: cis-vaccenate biosynthesis|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.51250101564611	0	0	0	0	0	0	0	0
+PWY-5973: cis-vaccenate biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.03880312405831	3.6495849382373	0	0	0	0	0	0	0	0
+PWY-5989: stearate biosynthesis II (bacteria and plants)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.96066363630465	3.45420404073511	0	0	0	0	0	0	0	0
+PWY-5994: palmitate biosynthesis I (animals and fungi)_meta	0	0	0	0	0	0	0	0	0	0	0	4.41436312895256	0	0	0	0	0	0	0	0
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	1.18849869546263	0	0	0	0	0	0	0	0
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	0.753927084437144	0	0	0	0	0	0	0	0
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.48133109941776	0	0	0	0	0	0	0	0
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.38915526482944	3.1124302763306	0	0	0	0	0	0	0	0
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Coprobacillus.s__Coprobacillus_cateniformis_meta	0	0	0	0	0	0	0	0	0	0	0	1.25476382259395	0	0	0	0	0	0	0	0
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.44381296673679	0	0	0	0	0	0	0	0
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Streptococcus.s__Streptococcus_parasanguinis_meta	0	0	0	0	0	0	0	0	0	0	0	0.294161783705695	0	0	0	0	0	0	0	0
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	1.36489706301181	0	0	0	0	0	0	0	0
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	1.24053710772954	0	0	0	0	0	0	0	0
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.46971122250623	0	0	0	0	0	0	0	0
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.30622519476299	3.18575741473298	0	0	0	0	0	0	0	0
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	1.43522737222907	3.50390437985442	0	0	0	0	0	0	0	0
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	1.39175194139913	1.3445396400788	1.33663394338965	3.49308960569284	0	0	0	0	2.16661873825397	3.98519539720586	0	0	0.804800355840792	1.00091860390465	1.95536106243391	0	0.553994877317082	2.02508962711049
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Streptococcus.s__Streptococcus_parasanguinis_meta	0	0	0	0	0	0	0	0	0	0	0	0.264015208601249	0	0	0	0	0	0	0	0
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	0.854917329791734	0	0	0	0	0	0	0	0
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	1.51570069487577	0	0	0	0	0	0	0	0
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.81760751161324	2.99673676887959	0	0	0	0	0	0	0	0
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Dysgonomonas.s__Dysgonomonas_mossii_meta	0	0	0	0	0	0	0	0	0	0	0	2.50320487806938	0	0	0	0	0	0	0	0
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.06839241238841	0	0	0	0	0	0	0	0
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	0.875897811954893	0	0	0	0	0	0	0	0
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	1.47327907108729	0	0	0	0	0	0	0	0
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.99303089330754	3.05530693258766	0	0	0	0	0	0	0	0
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.05207952515746	0	0	0	0	0	0	0	0
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	0.891395398737362	0	0	0	0	0	0	0	0
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.05429295014687	3.40718939364815	0	0	0	0	0	0	0	0
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.39467663152545	3.01313005073041	0	0	0	0	0	0	0	0
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	0.546916636820864	0	0	0	0	0	0	0	0
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	1.41954778614019	0	0	0	0	0	0	0	0
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.4048296582368	0	0	0	0	0	0	0	0
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.05737740910722	3.0507506213074	0	0	0	0	0	0	0	0
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.50259204370807	0	0	0	0	0	0	0	0
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	0	0	1.31383387726559	2.66125205155357	0	0	0	0	2.09704321925039	4.38220411892262	0	0	0	0	0	0	0	0
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Streptococcus.s__Streptococcus_mitis_meta	0	0	0	0	0	0	0	0	0	0	0	0.321682694219859	0	0	0	0	0	0	0	0
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.44144818014292	0	0	0	0	0	0	0	0
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.03926387078852	3.30823377982228	0	0	0	0	0	0	0	0
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.20801708153332	0	0	0	0	0	0	0	0
+PWY-6168: flavin biosynthesis III (fungi)|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.37305273945224	0	0	0	0	0	0	0	0
+PWY-6168: flavin biosynthesis III (fungi)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.00374508506385	0	0	0	0	0	0	0	0
+PWY-621: sucrose degradation III (sucrose invertase)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.10694605083948	3.34103327879059	0	0	0	0	0	0	0	0
+PWY-621: sucrose degradation III (sucrose invertase)|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	4.35301611959546	0	0	0	0	0	0	0	0
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	1.36489706301181	0	0	0	0	0	0	0	0
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	1.24053710772954	0	0	0	0	0	0	0	0
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.46971122250623	0	0	0	0	0	0	0	0
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.30622519476299	3.18575741473298	0	0	0	0	0	0	0	0
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	1.43522737222907	3.50390437985442	0	0	0	0	0	0	0	0
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	1.39175194139913	1.3445396400788	1.33663394338965	3.49308960569284	0	0	0	0	2.16661873825397	3.98519539720586	0	0	0.804800355840792	1.00091860390465	1.95536106243391	0	0.553994877317082	2.02508962711049
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Streptococcus.s__Streptococcus_parasanguinis_meta	0	0	0	0	0	0	0	0	0	0	0	0.264015208601249	0	0	0	0	0	0	0	0
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.09782404342784	3.63040517490276	0	0	0	0	0	0	0	0
+PWY-6284: superpathway of unsaturated fatty acids biosynthesis (E. coli)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.78430508756722	3.6036455873257	0	0	0	0	0	0	0	0
+PWY-6285: superpathway of fatty acids biosynthesis (E. coli)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.90744994664042	3.5641888661549	0	0	0	0	0	0	0	0
+PWY-6305: putrescine biosynthesis IV|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.42913831011178	3.72769864435999	0	0	0	0	0	0	0	0
+PWY-6305: putrescine biosynthesis IV|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.716648840345037	0	0	0	0	0	0	0	0
+PWY-6317: galactose degradation I (Leloir pathway)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.12308272847843	0	0	0	0	0	0	0	0
+PWY-6317: galactose degradation I (Leloir pathway)|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.46654495043241	0	0	0	0	0	0	0	0
+PWY-6339: syringate degradation_meta	0	0	0	0	0	0	0	0	0	0	0	3.53200047252052	0	0	0	0	0	0	0	0
+PWY-6353: purine nucleotides degradation II (aerobic)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.30364053581826	3.87966922085999	0	0	0	0	0	0	0	0
+PWY-6353: purine nucleotides degradation II (aerobic)|g__Klebsiella.s__Klebsiella_oxytoca_meta	0	0	0	0	0	0	0	0	0	0	0	0.528188807449365	0	0	0	0	0	0	0	0
+PWY-6383: mono-trans, poly-cis decaprenyl phosphate biosynthesis_meta	0	0	2.67011985506708	2.42988712336723	0	2.27893768398805	2.66333870783458	0	0	0	0	3.70471097168664	0	0	2.07087999601793	1.55700502158467	0	0	0	0
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.68910454940191	3.2469655874341	0	0	0	0	0	0	0	0
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.18905558845572	0	0	0	0	0	0	0	0
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	0	0	0	3.45945056639208	0	0	0	0	2.20101737557492	4.11611420791688	0	0	0	1.02576198685385	0	0	0	0
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.55022602476279	0	0	0	0	0	0	0	0
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.28974799603145	0	0	0	0	0	0	0	0
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	0	0	1.99383190906009	3.49532201049372	0	0	0	0	2.31018017718248	4.21926944149945	0	0	0	1.2384235051916	0	0	0	1.66724256186329
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.59177385448899	0	0	0	0	0	0	0	0
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.6025804537171	3.16920227062463	0	0	0	0	0	0	0	0
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.418128586728182	0	0	0	0	0	0	0	0
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.15788938760445	0	0	0	0	0	0	0	0
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	0	0	1.97947064257727	3.55700668521228	0	0	0	0	2.37737340509263	4.23019451490772	0	0	0.861948583926115	1.21566023940094	0	0	0	1.76663480498347
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.79765870115904	3.39810594141443	0	0	0	0	0	0	0	0
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.651139587662273	0	0	0	0	0	0	0	0
+PWY-6519: 8-amino-7-oxononanoate biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.9544252212802	3.57244113891559	0	0	0	0	0	0	0	0
+PWY-6527: stachyose degradation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.58314321719438	3.27428404133921	0	0	0	0	0	0	0	0
+PWY-6527: stachyose degradation|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	1.20257582901014	3.62188458528966	0	0	0	0	0	0	0	0
+PWY-6531: mannitol cycle|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.68000447834751	2.95986672553397	0	0	0	0	0	0	0	0
+PWY-6588: pyruvate fermentation to acetone|g__Clostridioides.s__Clostridioides_difficile_meta	0	0	0	0	0	0	0	0	0	0	1.95079107507502	1.94087750652724	0	0	0	0	0	0	0	0
+PWY-6590: superpathway of Clostridium acetobutylicum acidogenic fermentation|g__Clostridioides.s__Clostridioides_difficile_meta	0	0	0	0	0	0	0	0	0	0	1.68530390978413	1.65539931752972	0	0	0	0	0	0	0	0
+PWY-6595: superpathway of guanosine nucleotides degradation (plants)_meta	0	0	0	4.23330328355086	3.62130700192512	3.04883218502569	0	0	4.07792211567276	3.21030721899327	0	4.80581451746635	0	0	0	0	0	0	0	0
+PWY-6595: superpathway of guanosine nucleotides degradation (plants)|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.31365946025483	0	0	0	0	0	0	0	0
+PWY-6606: guanosine nucleotides degradation II|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.30624514759026	0	0	0	0	0	0	0	0
+PWY-6606: guanosine nucleotides degradation II|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.31009680927788	4.04406478913599	0	0	0	0	0	0	0	0
+PWY-6606: guanosine nucleotides degradation II|g__Klebsiella.s__Klebsiella_oxytoca_meta	0	0	0	0	0	0	0	0	0	0	0	0.237313876344624	0	0	0	0	0	0	0	0
+PWY-6608: guanosine nucleotides degradation III|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.33072676131732	0	0	0	0	0	0	0	0
+PWY-6608: guanosine nucleotides degradation III|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.69626098052723	4.13757006599847	0	0	0	0	0	0	0	0
+PWY-6609: adenine and adenosine salvage III|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	0.479786248016216	0	0	0	0	0	0	0	0
+PWY-6609: adenine and adenosine salvage III|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	1.32940120621333	0	0	0	0	0	0	0	0
+PWY-6609: adenine and adenosine salvage III|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.24296282354838	0	0	0	0	0	0	0	0
+PWY-6609: adenine and adenosine salvage III|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.99399394135389	3.29100297935444	0	0	0	0	0	0	0	0
+PWY-6609: adenine and adenosine salvage III|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.319262131547567	0	0	0	0	0	0	0	0
+PWY-6609: adenine and adenosine salvage III|g__Coprobacillus.s__Coprobacillus_cateniformis_meta	0	0	0	0	0	0	0	0	0	0	1.92162331127007	1.47021262603336	0	0	0	0	1.43132986632332	0	0	0
+PWY-6609: adenine and adenosine salvage III|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.87194864802427	0	0	0	0	0	0	0	0
+PWY-6609: adenine and adenosine salvage III|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	1.91112791412545	1.09356624544588	0	3.40553130994627	0	0	0	0	2.70526632972559	4.20213262899202	0	0	0	0	2.15961385633864	0	0	1.3485873018144
+PWY-6609: adenine and adenosine salvage III|g__Streptococcus.s__Streptococcus_infantis_meta	0	0	0	0	0	0	0	0	0	0	0	0.436531511212296	0	0	0	0	0	0	0	0
+PWY-6628: superpathway of L-phenylalanine biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.71414741622968	3.3361147125029	0	0	0	0	0	0	0	0
+PWY-6629: superpathway of L-tryptophan biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca_meta	0	0	0	0	0	0	0	0	0	0	0	1.00556088923091	0	0	0	0	0	0	0	0
+PWY-6630: superpathway of L-tyrosine biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.81788682444054	3.34083855785163	0	0	0	0	0	0	0	0
+PWY-6630: superpathway of L-tyrosine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca_meta	0	0	0	0	0	0	0	0	0	0	0	0.896708240346319	0	0	0	0	0	0	0	0
+PWY-6700: queuosine biosynthesis|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.42028053445986	0	0	0	0	0	0	0	0
+PWY-6700: queuosine biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.25093272318921	3.2185357670551	0	0	0	0	0	0	0	0
+PWY-6700: queuosine biosynthesis|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.339823044958695	0	0	0	0	0	0	0	0
+PWY-6700: queuosine biosynthesis|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.06760632378971	0	0	0	0	0	0	0	0
+PWY-6700: queuosine biosynthesis|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	1.50266528911027	0.741113195688024	0	2.98346230441896	0	0	0	0	2.45275356864644	3.97268527359477	0	0	0	0	0	0	0	0.834672784161233
+PWY-6703: preQ0 biosynthesis|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.58187085233369	0	0	0	0	0	0	0	0
+PWY-6703: preQ0 biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.40466704496544	3.0106504422612	0	0	0	0	0	0	0	0
+PWY-6703: preQ0 biosynthesis|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.611818354523969	0	0	0	0	0	0	0	0
+PWY-6708: ubiquinol-8 biosynthesis (prokaryotic)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.68581545003181	3.529080351942	0	0	0	0	0	0	0	0
+PWY-6708: ubiquinol-8 biosynthesis (prokaryotic)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.298696193714881	0	0	0	0	0	0	0	0
+PWY-6731: starch degradation III_meta	3.3425154549244	4.44433571933879	2.59174107870183	2.82980755092138	2.74496055512231	3.48522598125761	2.66304586164646	3.41565568812285	3.49823031909128	0	3.64982412728358	4.83500331211959	0	1.65271959942907	4.40723618679872	2.78323806615213	2.79979646192753	2.72026199931201	3.38997127068082	2.98473704698738
+PWY-6737: starch degradation V|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	0.487943002153227	0	0	0	0	0	0	0	0
+PWY-6737: starch degradation V|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.03452131712509	3.74023062182679	0	0	0	0	0	0	0	0
+PWY-6737: starch degradation V|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.432218684882977	0	0	0	0	0	0	0	0
+PWY-6737: starch degradation V|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	0	0	0	3.40982670836021	0	0	0	0	2.95059891511309	4.43822145941093	0	0	0	0	0	0	0	2.14768413177608
+PWY-6749: CMP-legionaminate biosynthesis I_meta	2.74167193585501	0	2.47148362945586	0	3.59659967799464	4.56171034039582	0	0	0	0	3.47422477019563	4.4914100476186	0	0	3.50242637432053	4.34624011791206	0	3.72813382054709	0	4.34465570960722
+PWY-6749: CMP-legionaminate biosynthesis I|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	0.762565961334658	0	1.88389491793265	3.14753877937962	0	0	0	0	1.91567771997815	3.93507915779638	0	0	0.612884073600271	0	0	0	0	0
+PWY-6803: phosphatidylcholine acyl editing|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.97234618872829	3.18910091927801	0	0	0	0	0	0	0	0
+PWY-6803: phosphatidylcholine acyl editing|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.415422699661046	0	0	0	0	0	0	0	0
+PWY-6823: molybdenum cofactor biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.10515748870411	2.57197080316271	0	0	0	0	0	0	0	0
+PWY-6837: fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.74191950421049	3.2289489204627	0	0	0	0	0	0	0	0
+PWY-6837: fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.283348696927509	0	0	0	0	0	0	0	0
+PWY-6859: all-trans-farnesol biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.1980412473725	3.2997219020617	0	0	0	0	0	0	0	0
+PWY-6859: all-trans-farnesol biosynthesis|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.36129376076276	0	0	0	0	0	0	0	0
+PWY-6892: thiazole biosynthesis I (E. coli)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.24164135195486	3.2895281187519	0	0	0	0	0	0	0	0
+PWY-6897: thiamin salvage II|g__Actinomyces.s__Actinomyces_radingae_meta	0	0	0	0	0	0	0	0	0	0	0	0.760263625993488	0	0	0	0	0	0	0	0
+PWY-6897: thiamin salvage II|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.52344155794914	0	0	0	0	0	0	0	0
+PWY-6897: thiamin salvage II|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.33967652501391	0	0	0	0	0	0	0	0
+PWY-6901: superpathway of glucose and xylose degradation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.56823042695509	3.21794339028616	0	0	0	0	0	0	0	0
+PWY-6936: seleno-amino acid biosynthesis|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	1.25201983529742	0	0	0	0	0	0	0	0
+PWY-6936: seleno-amino acid biosynthesis|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	0.732896600077228	0	0	0	0	0	0	0	0
+PWY-6936: seleno-amino acid biosynthesis|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.25121582362322	0	0	0	0	0	0	0	0
+PWY-6936: seleno-amino acid biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum_meta	0	0	0	0	0	0	0	0	0	0	0	3.12201243946432	0	0	0	0	0	0	0	0
+PWY-6936: seleno-amino acid biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.41471416543494	3.15923621776545	0	0	0	0	0	0	0	0
+PWY-6936: seleno-amino acid biosynthesis|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.679774665709138	0	0	0	0	0	0	0	0
+PWY-6936: seleno-amino acid biosynthesis|g__Clostridioides.s__Clostridioides_difficile_meta	0	0	0	0	0	0	0	0	0	0	1.96755002315374	2.02571106925886	0	0	0	0	0	0	0	0
+PWY-6936: seleno-amino acid biosynthesis|g__Streptococcus.s__Streptococcus_infantis_meta	0	0	0	0	0	0	0	0	0	0	0	0.592732746183877	0	0	0	0	0	0	0	0
+PWY-7013: L-1,2-propanediol degradation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.55465035044328	4.07006723838742	0	0	0	0	0	0	0	0
+PWY-7094: fatty acid salvage|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.88308748832029	3.29858863197668	0	0	0	0	0	0	0	0
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	1.66129574743861	0	0	0	0	0	0	0	0
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Actinomyces.s__Actinomyces_radingae_meta	0	0	0	0	0	0	0	0	0	0	0	0.874735135000149	0	0	0	0	0	0	0	0
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	1.29224738314009	0	0	0	0	0	0	0	0
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	5.0166041118755	0	0	0	0	0	0	0	0
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.57462546945587	4.17836396772567	0	0	0	0	0	0	0	0
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	1.09019025603871	0	0	0	0	0	0	0	0
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Coprobacillus.s__Coprobacillus_cateniformis_meta	0	0	0	0	0	0	0	0	0	0	1.71024929646523	2.02521896111971	0	0	0	0	1.70972839717873	0	0	0
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	1.23228033862126	3.95303442200691	0	0	0	0	0	0	0	0
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	1.74393733636509	0	2.07195609550093	3.76734861672223	0	0	0	0	2.96138924513144	4.38170408265957	0	0	1.14331474445046	0.87959355193085	2.2636280250833	0	0.476598087928763	2.5307639458728
+PWY-7115: C4 photosynthetic carbon assimilation cycle, NAD-ME type|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.52513196338084	3.36283070371696	0	0	0	0	0	0	0	0
+PWY-7115: C4 photosynthetic carbon assimilation cycle, NAD-ME type|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.362391274544841	0	0	0	0	0	0	0	0
+PWY-7117: C4 photosynthetic carbon assimilation cycle, PEPCK type|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.8995565141362	3.54634767929211	0	0	0	0	0	0	0	0
+PWY-7117: C4 photosynthetic carbon assimilation cycle, PEPCK type|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.346136812364564	0	0	0	0	0	0	0	0
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.48734485195041	3.48909225714092	0	0	0	0	0	0	0	0
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	0.827446403327442	0	0	0	0	0	0	0	0
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Actinomyces.s__Actinomyces_radingae_meta	0	0	0	0	0	0	0	0	0	0	0	1.07346882445942	0	0	0	0	0	0	0	0
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.12455939860039	3.16774672752589	0	0	0	0	0	0	0	0
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Actinomyces.s__Actinomyces_radingae_meta	0	0	0	0	0	0	0	0	0	0	0	0.641433271410617	0	0	0	0	0	0	0	0
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.59109266264723	2.97411019205441	0	0	0	0	0	0	0	0
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.63301255884589	0	0	0	0	0	0	0	0
+PWY-7204: pyridoxal 5'-phosphate salvage II (plants)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.78935658461174	3.69399136600011	0	0	0	0	0	0	0	0
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.31436417061821	0	0	0	0	0	0	0	0
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.54087590168894	0	0	0	0	0	0	0	0
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.97008276584412	2.90257477506774	0	0	0	0	0	0	0	0
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Dysgonomonas.s__Dysgonomonas_mossii_meta	0	0	0	0	0	0	0	0	0	0	2.24881610502558	2.35825629036451	0	0	0	0	0	0	0	0
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	1.03891182302112	3.75957088223647	0	0	0	0	0	0	0	0
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	0	1.41252725028965	1.97828744440423	3.11096985005407	0	0	0	0	1.61007970644026	4.16847289131148	0	0	0.867549966484583	0.836251357528396	1.74987788576388	0	0	1.30738913127309
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	1.4308278594807	0	0	0	0	0	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Actinomyces.s__Actinomyces_radingae_meta	0	0	0	0	0	0	0	0	0	0	0	1.13373809064348	0	0	0	0	0	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.76895431478359	0	0	0	0	0	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.63584503285297	3.59039800113419	0	0	0	0	0	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Coprobacillus.s__Coprobacillus_cateniformis_meta	0	0	0	0	0	0	0	0	0	0	1.53671236890084	1.347670469833	0	0	0	0	1.33916868591979	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Dysgonomonas.s__Dysgonomonas_mossii_meta	0	0	0	0	0	0	0	0	0	0	2.78152368629736	2.87354204045437	0	0	0	0	0	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	1.58169048865559	1.63066305688459	2.54172796978116	3.50275467422695	0	0	0	0	2.72238036541037	4.37209876606844	0	0	1.19903664149499	1.37221825595265	2.03977512921737	0	0.800197268087024	1.96978988779923
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Abiotrophia.s__Abiotrophia_sp_HMSC24B09_meta	0	0	0	0	0	0	0	0	0	0	0	0.222697051648068	0	0	0	0	0	0	0	0
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	0.974736982762539	0	0	0	0	0	0	0	0
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Actinomyces.s__Actinomyces_radingae_meta	0	0	0	0	0	0	0	0	0	0	0	0.877171453576185	0	0	0	0	0	0	0	0
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.56820636413862	0	0	0	0	0	0	0	0
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.19706345324532	3.36329473281368	0	0	0	0	0	0	0	0
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Coprobacillus.s__Coprobacillus_cateniformis_meta	0	0	0	0	0	0	0	0	0	0	0	1.01797690539708	0	0	0	0	0	0	0	0
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Dysgonomonas.s__Dysgonomonas_mossii_meta	0	0	0	0	0	0	0	0	0	0	2.7559320163397	2.80607789723322	0	0	0	0	0	0	0	0
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.51158424404824	0	0	0	0	0	0	0	0
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	0	0	0	3.09903767891853	0	0	0	0	2.12506001468363	4.11795040563092	0	0	0	0	1.98308206155243	0	0	0
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Streptococcus.s__Streptococcus_infantis_meta	0	0	0	0	0	0	0	0	0	0	0	0.278147512653848	0	0	0	0	0	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	1.4308278594807	0	0	0	0	0	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Actinomyces.s__Actinomyces_radingae_meta	0	0	0	0	0	0	0	0	0	0	0	1.13373809064348	0	0	0	0	0	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.76895431478359	0	0	0	0	0	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.63584503285297	3.59039800113419	0	0	0	0	0	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Coprobacillus.s__Coprobacillus_cateniformis_meta	0	0	0	0	0	0	0	0	0	0	1.53671236890084	1.347670469833	0	0	0	0	1.33916868591979	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Dysgonomonas.s__Dysgonomonas_mossii_meta	0	0	0	0	0	0	0	0	0	0	2.78152368629736	2.87354204045437	0	0	0	0	0	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	1.58169048865559	1.63066305688459	2.54172796978116	3.50275467422695	0	0	0	0	2.72238036541037	4.37209876606844	0	0	1.19903664149499	1.37221825595265	2.03977512921737	0	0.800197268087024	1.96978988779923
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	1.1002875512984	0	0	0	0	0	0	0	0
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Actinomyces.s__Actinomyces_radingae_meta	0	0	0	0	0	0	0	0	0	0	0	0.960127696799988	0	0	0	0	0	0	0	0
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.3285656563075	3.48617252025814	0	0	0	0	0	0	0	0
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Dysgonomonas.s__Dysgonomonas_mossii_meta	0	0	0	0	0	0	0	0	0	0	2.77491725909237	2.8293057192252	0	0	0	0	0	0	0	0
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	1.38860668563576	0	0	0	0	0	0	0	0
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	2.88188025133011	0	0	0	0	0	0	0	0
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.03781906787765	0	0	0	0	0	0	0	0
+PWY-7237: myo-, chiro- and scillo-inositol degradation_meta	3.85755414795729	4.84416346413234	4.81225752342728	0	4.87925016802159	0	5.61696380636978	0	5.51099837585134	4.65764877763322	0	6.0842374197602	0	5.23310661951726	5.67032909839698	5.58593693704661	4.58157192437719	3.96207903471881	4.76445338615547	4.12269875571863
+PWY-7237: myo-, chiro- and scillo-inositol degradation|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	5.27433200379753	0	0	0	0	0	0	0	0
+PWY-7242: D-fructuronate degradation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.10870782541386	3.56007401939457	0	0	0	0	0	0	0	0
+PWY-7242: D-fructuronate degradation|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	1.1080278230778	0	0	0	0	0	0	0	0
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.23264854404857	0	0	0	0	0	0	0	0
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.29012428393712	0	0	0	0	0	0	0	0
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	0	0	0	3.29619606074543	0	0	0	0	2.34985696227977	4.05666000191498	0	0	0	0	0	0	0	0
+PWY-7269: NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	2.89936453473121	0	0	0	0	0	0	0	0
+PWY-7279: aerobic respiration II (cytochrome c) (yeast)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.55571851955341	3.15001865845861	0	0	0	0	0	0	0	0
+PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.382695392595	3.41512658497318	0	0	0	0	0	0	0	0
+PWY-7288: fatty acid &beta;-oxidation (peroxisome, yeast)_meta	2.98852637330366	0	2.68535459317002	0	0	0	0	2.39435537839499	0	0	0	3.70190426183663	2.50995692198778	3.50706077085789	3.31238802564016	3.24884231098567	0	2.81800415077017	0	0
+PWY-7288: fatty acid &beta;-oxidation (peroxisome, yeast)|unclassified_meta	0	0	0	0	0	0	0	0	0	0	0	2.44118984434273	0	0	0	0	0	1.92869568386194	0	0
+PWY-7294: xylose degradation IV_meta	3.00524686592258	0	2.77257622216166	3.98702100995695	0	0	0	0	0	0	0	3.60277675506052	0	0	2.40468128654506	2.63095315071724	2.84165409109873	3.7211772204131	1.3586636239657	0
+PWY-7315: dTDP-N-acetylthomosamine biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.96950250501734	3.47638524671207	0	0	0	0	0	0	0	0
+PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca_meta	0	0	0	0	0	0	0	0	0	0	0	0.618023769946129	0	0	0	0	0	0	0	0
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Actinomyces.s__Actinomyces_radingae_meta	0	0	0	0	0	0	0	0	0	0	0	0.883713819717413	0	0	0	0	0	0	0	0
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.6845726887742	0	0	0	0	0	0	0	0
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.41546839789967	0	0	0	0	0	0	0	0
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Clostridioides.s__Clostridioides_difficile_meta	0	0	0	0	0	0	0	0	0	0	0	0.853206086679912	0	0	0	0	0	0	0	0
+PWY-7377: cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion)|g__Klebsiella.s__Klebsiella_oxytoca_meta	0	0	0	0	0	0	0	0	0	0	0	2.95631034015727	0	0	0	0	0	0	0	0
+PWY-7383: anaerobic energy metabolism (invertebrates, cytosol)|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	0.653215414668573	0	0	0	0	0	0	0	0
+PWY-7383: anaerobic energy metabolism (invertebrates, cytosol)|g__Actinomyces.s__Actinomyces_radingae_meta	0	0	0	0	0	0	0	0	0	0	0	0.71546135715645	0	0	0	0	0	0	0	0
+PWY-7383: anaerobic energy metabolism (invertebrates, cytosol)|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	1.41673869349397	0	0	0	0	0	0	0	0
+PWY-7388: octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.15918805164501	3.47557174690152	0	0	0	0	0	0	0	0
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.57145479173418	0	0	0	0	0	0	0	0
+PWY-7446: sulfoglycolysis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.63212461208661	3.20090735447738	0	0	0	0	0	0	0	0
+PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.71015526527574	3.21360596350866	0	0	0	0	0	0	0	0
+PWY-7562: 3,6-anhydro-&alpha;-L-galactopyranose degradation_meta	0	0	0	0	0	0	0	0	0	0	0	2.65691128076329	0	0	0	0	0	0	0	0
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.45303830035719	0	0	0	0	0	0	0	0
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.74674513503218	4.03564672878948	0	0	0	0	0	0	0	0
+PWY-7664: oleate biosynthesis IV (anaerobic)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.1632793465457	3.64744008155507	0	0	0	0	0	0	0	0
+PWY-841: superpathway of purine nucleotides de novo biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.77536074208492	3.15511353571795	0	0	0	0	0	0	0	0
+PWY-841: superpathway of purine nucleotides de novo biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca_meta	0	0	0	0	0	0	0	0	1.78914939929042	0	0	2.63738450264867	0	0	0	0	0	0	0	0
+PWY-922: mevalonate pathway I|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.05478389414655	0	0	0	0	0	0	0	0
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.90865173789893	3.49892887015549	0	0	0	0	0	0	0	0
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.76681765892385	3.38298928243015	0	0	0	0	0	0	0	0
+PWY0-1261: anhydromuropeptides recycling|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.88704843668619	3.9109824642529	0	0	0	0	0	0	0	0
+PWY0-1261: anhydromuropeptides recycling|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.524638584061661	0	0	0	0	0	0	0	0
+PWY0-1296: purine ribonucleosides degradation|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.45088899764497	0	0	0	0	0	0	0	0
+PWY0-1296: purine ribonucleosides degradation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.21059369991961	3.60086484678427	0	0	0	0	0	0	0	0
+PWY0-1296: purine ribonucleosides degradation|g__Coprobacillus.s__Coprobacillus_cateniformis_meta	0	0	0	0	0	0	0	0	0	0	1.55278290127752	1.51468537711718	0	0	0	0	1.67950673820791	0	0	0
+PWY0-1296: purine ribonucleosides degradation|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	1.56835338345469	4.00571369274396	0	0	0	0	0	0	0	0
+PWY0-1296: purine ribonucleosides degradation|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	1.37894240157426	1.2167211971481	1.07268232754435	3.64459051919505	0	0	0	0	2.75582397590705	4.17932276259713	0	0	0	0.980271597550819	1.81162745386552	0	0	1.51008376681114
+PWY0-1296: purine ribonucleosides degradation|g__Streptococcus.s__Streptococcus_mitis_meta	0	0	0	0	0	0	0	0	0	0	0	0.37068731057222	0	0	0	0	0	0	0	0
+PWY0-1296: purine ribonucleosides degradation|g__Streptococcus.s__Streptococcus_parasanguinis_meta	0	0	0	0	0	0	0	0	0	0	0	0.380823994191713	0	0	0	0	0	0	0	0
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.33378980713774	3.37965363950481	0	0	0	0	0	0	0	0
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.396875657503937	0	0	0	0	0	0	0	0
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Coprobacillus.s__Coprobacillus_cateniformis_meta	0	0	0	0	0	0	0	0	0	0	0	1.43855943317853	0	0	0	0	0	0	0	0
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.66677187245023	0	0	0	0	0	0	0	0
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	1.39173205005559	0	1.15477205587831	3.44941913034586	0	0	0	0	2.62819858628038	4.09812905863979	0	0	0	0	1.75598720333991	0	0	0
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.61260289857726	3.32861235180698	0	0	0	0	0	0	0	0
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.52091632002688	0	0	0	0	0	0	0	0
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	0	0	0	3.26762027370699	0	0	0	0	2.45014265735166	3.92264439819761	0	0	0	0	0	0	0	0
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.5270983681679	0	0	0	0	0	0	0	0
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.41665623886821	3.24038679603525	0	0	0	0	0	0	0	0
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.443291901488574	0	0	0	0	0	0	0	0
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	0	0	0	2.62390018106893	0	0	0	0	2.01221273830938	4.00426302255706	0	0	0	0	0	0	0	1.617219556752
+PWY0-1338: polymyxin resistance|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0.872154919385837	3.11767553235797	0	0	0	0	0	0	0	0
+PWY0-1338: polymyxin resistance|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.63027340629537	0	0	0	0	0	0	0	0
+PWY0-1415: superpathway of heme biosynthesis from uroporphyrinogen-III|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	2.79775683151978	0	0	0	0	0	0	0	0
+PWY0-1479: tRNA processing|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.19391487627895	0	0	0	0	0	0	0	0
+PWY0-1533: methylphosphonate degradation I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.4158847162617	3.62625909213227	0	0	0	0	0	0	0	0
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	3.40711649575818	5.1144245760126	0	0	0	0	0	0	0	0
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	1.32192649208709	0	0	0	0	0	0	0	0
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.079287267461	0	0	0	0	0	0	0	0
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.45218743318899	3.44093398736102	0	0	0	0	0	0	0	0
+PWY0-42: 2-methylcitrate cycle I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.17701673204229	2.90960232617294	0	0	0	0	0	0	0	0
+PWY0-42: 2-methylcitrate cycle I|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.251530404956265	0	0	0	0	0	0	0	0
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.57263283927178	3.30372787218265	0	0	0	0	0	0	0	0
+PWY0-862: (5Z)-dodec-5-enoate biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.09258478954598	3.58928008889118	0	0	0	0	0	0	0	0
+PWY3O-355: stearate biosynthesis III (fungi)_meta	0	0	2.65095766744506	0	0	0	2.598867575665	3.63998590960094	2.86077701056416	0	3.38934744770492	4.04261257513175	0	2.73781610163852	3.60641861678674	2.75166509185436	0	0	0	2.81816539533971
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.5695238389621	3.35697377487999	0	0	0	0	0	0	0	0
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.428796143766721	0	0	0	0	0	0	0	0
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.5695238389621	3.35697377487999	0	0	0	0	0	0	0	0
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.428796143766721	0	0	0	0	0	0	0	0
+PWY4LZ-257: superpathway of fermentation (Chlamydomonas reinhardtii)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.86424445839044	3.17430514613621	0	0	0	0	0	0	0	0
+PWY4LZ-257: superpathway of fermentation (Chlamydomonas reinhardtii)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.604162949682319	0	0	0	0	0	0	0	0
+PWY66-391: fatty acid &beta;-oxidation VI (peroxisome)_meta	3.56181283402958	0	3.19107288020611	0	0	0	0	2.96482966881417	0	0	0	4.16863846946977	2.90850087236081	3.35672637648194	3.71378911631807	3.63140922695939	0	3.36925941812621	0	0
+PWY66-391: fatty acid &beta;-oxidation VI (peroxisome)|unclassified_meta	0	0	0	0	0	0	0	0	0	0	0	2.26194329057155	0	0	0	0	0	0	0	0
+PWY66-400: glycolysis VI (metazoan)|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	0.900291422785246	0	0	0	0	0	0	0	0
+PWY66-400: glycolysis VI (metazoan)|g__Actinomyces.s__Actinomyces_radingae_meta	0	0	0	0	0	0	0	0	0	0	0	0.422902849762066	0	0	0	0	0	0	0	0
+PWY66-400: glycolysis VI (metazoan)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.68837847450671	3.48334863402287	0	0	0	0	0	0	0	0
+PWY66-400: glycolysis VI (metazoan)|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.05998794219257	0	0	0	0	0	0	0	0
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.98022875660824	3.25651451805678	0	0	0	0	0	0	0	0
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	2.54871052614016	0	0	0	0	0	0	0	0
+PYRIDNUCSAL-PWY: NAD salvage pathway I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.35785833312871	0	0	0	0	0	0	0	0
+PYRIDNUCSAL-PWY: NAD salvage pathway I|g__Klebsiella.s__Klebsiella_oxytoca_meta	0	0	0	0	0	0	0	0	0	0	0	2.58789936441616	0	0	0	0	0	0	0	0
+PYRIDNUCSYN-PWY: NAD biosynthesis I (from aspartate)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.22322236496182	0	0	0	0	0	0	0	0
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.31912571757405	3.01459818776161	0	0	0	0	0	0	0	0
+RHAMCAT-PWY: L-rhamnose degradation I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.48606050743391	3.32316016165322	0	0	0	0	0	0	0	0
+RHAMCAT-PWY: L-rhamnose degradation I|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.308843335208209	0	0	0	0	0	0	0	0
+RHAMCAT-PWY: L-rhamnose degradation I|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0.846194394649905	3.38382060959846	0	0	0	0	0	0	0	0
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.39924627205924	0	0	0	0	0	0	0	0
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.22427721108197	0	0	0	0	0	0	0	0
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Clostridioides.s__Clostridioides_difficile_meta	0	0	0	0	0	0	0	0	0	0	0	1.81331546044372	0	0	0	0	0	0	0	0
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	2.79648833756409	0	0	0	0	0	0	0	0
+SALVADEHYPOX-PWY: adenosine nucleotides degradation II|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.68715337538922	4.18573951174778	0	0	0	0	0	0	0	0
+SALVADEHYPOX-PWY: adenosine nucleotides degradation II|g__Klebsiella.s__Klebsiella_oxytoca_meta	0	0	0	0	0	0	0	0	0	0	0	0.277378674277681	0	0	0	0	0	0	0	0
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.48912392662376	3.24937011173762	0	0	0	0	0	0	0	0
+SO4ASSIM-PWY: sulfate reduction I (assimilatory)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.14323877250462	3.53164945471154	0	0	0	0	0	0	0	0
+SO4ASSIM-PWY: sulfate reduction I (assimilatory)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.227857224480966	0	0	0	0	0	0	0	0
+SULFATE-CYS-PWY: superpathway of sulfate assimilation and cysteine biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.64459654032496	3.37894495605902	0	0	0	0	0	0	0	0
+TCA-GLYOX-BYPASS: superpathway of glyoxylate bypass and TCA|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.183675499116	0	0	0	0	0	0	0	0
+TCA-GLYOX-BYPASS: superpathway of glyoxylate bypass and TCA|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.375424369754065	0	0	0	0	0	0	0	0
+TCA: TCA cycle I (prokaryotic)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.2192997350056	0	0	0	0	0	0	0	0
+TCA: TCA cycle I (prokaryotic)|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.576119984185071	0	0	0	0	0	0	0	0
+THISYN-PWY: superpathway of thiamin diphosphate biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	3.25400741973049	0	0	0	0	0	0	0	0
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.50485801706836	0	0	0	0	0	0	0	0
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	0	2.97748174113515	0	0	0	0	0	0	0	0
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	0.675171583227607	0	0	0	0	0	0	0	0
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	1.35231866876482	0	0	0	0	0	0	0	0
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.05711993061553	3.52674574452709	0	0	0	0	0	0	0	0
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.311825997955554	0	0	0	0	0	0	0	0
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.2722497532349	0	0	0	0	0	0	0	0
+TRNA-CHARGING-PWY: tRNA charging|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.62100673480318	3.19755412436433	0	0	0	0	0	0	0	0
+TRNA-CHARGING-PWY: tRNA charging|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	0.434792815688229	0	0	0	0	0	0	0	0
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.34999789715198	0	0	0	0	0	0	0	0
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum_meta	0	0	0	0	0	0	0	0	0	0	0	2.95317439826412	1.96885768587932	0	0	0	0	0	0	0
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.86809840331547	3.13527245221096	0	0	0	0	0	0	0	0
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.25402286726487	0	0	0	0	0	0	0	0
+UBISYN-PWY: superpathway of ubiquinol-8 biosynthesis (prokaryotic)|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.72915685079882	3.40845101037346	0	0	0	0	0	0	0	0
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Abiotrophia.s__Abiotrophia_sp_HMSC24B09_meta	0	0	0	0	0	0	0	0	0	0	0	0.210756750677709	0	0	0	0	0	0	0	0
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	1.92123828624966	3.34360004798157	0	0	0	0	0	0	0	0
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.47553151871486	0	0	0	0	0	0	0	0
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Streptococcus.s__Streptococcus_parasanguinis_meta	0	0	0	0	0	0	0	0	0	0	0	0.416193354128636	0	0	0	0	0	0	0	0
+URSIN-PWY: ureide biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca_meta	0	0	0	0	0	0	0	0	0	0	0	0.382104358194811	0	0	0	0	0	0	0	0
+VALSYN-PWY: L-valine biosynthesis|g__Actinomyces.s__Actinomyces_odontolyticus_meta	0	0	0	0	0	0	0	0	0	0	0	1.66129574743861	0	0	0	0	0	0	0	0
+VALSYN-PWY: L-valine biosynthesis|g__Actinomyces.s__Actinomyces_radingae_meta	0	0	0	0	0	0	0	0	0	0	0	0.874735135000149	0	0	0	0	0	0	0	0
+VALSYN-PWY: L-valine biosynthesis|g__Actinomyces.s__Actinomyces_sp_HMSC035G02_meta	0	0	0	0	0	0	0	0	0	0	0	1.29224738314009	0	0	0	0	0	0	0	0
+VALSYN-PWY: L-valine biosynthesis|g__Anaerostipes.s__Anaerostipes_caccae_meta	0	0	0	0	0	0	0	0	0	0	0	4.79849762195858	0	0	0	0	0	0	0	0
+VALSYN-PWY: L-valine biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	0	0	0	0	0	0	0	0	0	0	2.37924979392946	3.69501807417333	0	0	0	0	0	0	0	0
+VALSYN-PWY: L-valine biosynthesis|g__Citrobacter.s__Citrobacter_portucalensis_meta	0	0	0	0	0	0	0	0	0	0	0	1.09019025603871	0	0	0	0	0	0	0	0
+VALSYN-PWY: L-valine biosynthesis|g__Clostridioides.s__Clostridioides_difficile_meta	0	0	0	0	0	0	0	0	0	0	0	1.38331743446744	0	0	0	0	0	0	0	0
+VALSYN-PWY: L-valine biosynthesis|g__Coprobacillus.s__Coprobacillus_cateniformis_meta	0	0	0	0	0	0	0	0	0	0	1.49770155869402	1.68112395408044	0	0	0	0	1.42374427656673	0	0	0
+VALSYN-PWY: L-valine biosynthesis|g__Enterococcus.s__Enterococcus_casseliflavus_meta	0	0	0	0	0	0	0	0	0	0	0	3.48667758700655	0	0	0	0	0	0	0	0
+VALSYN-PWY: L-valine biosynthesis|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	0	0	1.74393733636509	1.38870146172731	2.16078763035244	3.58542822571773	0	0	0	0	2.96138924513144	4.59264406062268	0	0	1.84606297836963	1.1772940707023	2.49036671645736	0	0.476598087928763	2.5307639458728
+alpha-ketoglutarate_feces	0.562116231	0.469337023	1.311312985	0.518702621	0.368916081	0.20265041	2.512323263	1.157676353	1.844601452	0.842323647	4.418195603	10.52612334	1.411946486	6.566054842	0.763152632	2.100853012	0.287488686	0.181913176	0.399733542	1.185080302
+phenylpyruvate_feces	0.199336909	0.750723286	0.199336909	0.625123699	0.744439052	0.199336909	1.734861425	0.507273827	2.683232378	2.629299532	2.872503167	6.056053854	1.249276714	4.348094245	0.316228703	1.436467466	1.401759207	0.363032694	0.614493448	0.603415673
+thiamin (vitamin B1)_feces	0.412245747	0.34834585	5.551627876	0.34834585	0.34834585	4.327414446	0.34834585	0.425743875	6.54449018	0.360377028	0.34834585	2697.016728	4.408271846	0.928623038	0.507597486	0.852867121	0.34834585	1.071376962	1.128172005	0.34834585
+allantoin_feces	0.093296267	1.023087054	0.093296267	1	0.184373546	0.093296267	11.56320029	0.849228109	1.798903772	2.675533333	0.779675566	18.98991853	5.180389907	0.595603701	0.093296267	0.284263778	0.093296267	2.405123847	0.093296267	0.124732849
+pantothenate_feces	1.285666997	1.040427554	1.065155389	1.221000916	1.46503913	1.602414893	0.926858697	0.145621208	0.584742008	1.508929572	2.00783995	2.943684392	0.959572446	0.770119027	2.759611243	0.450762246	0.280262852	0.689738612	0.199138664	0.214035563
+4-hydroxyphenylpyruvate_feces	0.509277884	1.110965638	1.075861631	0.924138369	1.619358781	0.365683929	0.910458598	0.353226133	0.568365132	0.603441367	3.044483061	6.716192358	3.357272933	3.074441284	0.751566151	1.376622192	1.610983491	0.546008546	1.932827087	0.606900984
+3-methyl-2-oxovalerate_feces	0.411574625	0.23259344	0.156198353	0.349603537	0.561531974	0.343224189	2.272156647	0.231906244	1.296435083	3.095665334	7.944598322	18.75516665	2.180769317	11.6575561	0.451562562	4.706978915	0.81734138	0.540841113	1.18265862	1.9954605
+5-(2-hydroxyethyl)-4-methylthiazole_feces	0.778599147	0.231270589	2.234996839	0.31922534	0.303436146	0.231270589	0.231270589	0.231270589	0.846374712	0.331820947	0.776128883	551.504118	27.98691582	1.579100588	0.377853897	2.28581183	0.231270589	1.153625288	2.712686111	2.025440265
+itaconate_feces	0.280648652	1.036468376	0.421666557	1	0.158297807	0.158297807	0.301946831	2.939795807	0.158297807	0.311400057	2.120304541	39.29440764	0.158297807	0.315220481	1.420173367	35.26115411	0.158297807	0.158297807	0.158297807	0.158297807
+4-methyl-2-oxopentanoate_feces	0.292820036	0.81542406	0.21517568	1.18457594	0.654177272	0.321012607	1.970148186	0.175098304	1.444796594	2.272566501	5.031567105	12.64485701	2.253582414	8.898067361	0.696455046	4.871333278	0.792429607	0.410980011	0.73061076	2.056384192
+3-methyl-2-oxobutyrate_feces	0.41598464	0.41598464	0.41598464	0.41598464	0.517489591	0.601294081	1.927488989	0.428232586	1.686936158	2.539734081	4.08965655	8.329335773	0.908320359	4.947750025	0.41598464	1.476564804	0.446995329	0.41598464	0.72878846	1
+mannitol/sorbitol_feces	21.27857259	0.200712064	5.400929639	0.160975692	0.591320882	0.157954645	23.9412622	1	5.677317146	13.88911136	0.349956242	73.33177585	0.602270543	13.87232859	9.343565208	16.21367887	0.724258127	0.543351738	0.157954645	0.436210014
+2-methoxyacetaminophen sulfate*_feces	0.703292989	0.703292989	0.703292989	0.703292989	0.703292989	0.703292989	0.703292989	0.703292989	0.703292989	1	0.703292989	4.774445715	0.703292989	0.703292989	0.703292989	0.703292989	0.703292989	0.703292989	0.703292989	0.703292989
+vanillin_feces	0.945040873	0.900837291	0.985454445	0.705695324	0.705695324	0.705695324	0.705695324	2.200902308	0.844518359	1.979047898	3.234041119	6.739476376	0.705695324	0.705695324	0.705695324	1.51651985	0.818289579	0.705695324	3.517376171	1
+pregnenediol sulfate (C21H34O5S)*_feces	1.081830913	1.028108939	1.512498781	0.830060867	0.61622807	0.639821404	0.192069195	0.260386663	0.87868	2.546103333	1.72953088	5.19365569	0.192069195	0.192069195	1	0.227776879	0.192069195	2.802566117	0.192069195	0.192069195
+2-oxoarginine*_feces	0.520778669	0.247493717	0.399936661	1	0.76380292	0.671113222	2.984706247	0.247493717	0.883496062	0.48766635	4.85216196	22.87875707	0.917466831	8.300184627	1.068934754	3.43274576	3.413682643	0.825583025	1.17318927	3.116417015
+hydroxymethylpyrimidine_feces	3.197354485	0.539095951	0.85850229	0.470289685	0.324162358	1.273633734	1.217734381	0.183084433	1	0.117936491	8.602185547	77.79311152	2.440101041	1.215730587	0.514888088	0.551889102	0.085237781	0.085237781	3.57592599	1.990615695
+famotidine_feces	0.261325308	0.261325308	0.261325308	0.261325308	0.261325308	0.261325308	0.261325308	0.261325308	0.261325308	1	0.261325308	1.569984264	0.261325308	0.261325308	0.261325308	0.261325308	0.261325308	0.261325308	0.261325308	0.261325308
+2-methylcitrate/homocitrate_feces	1.01403956	1.57572084	2.735053973	1.935418025	0.660918993	0.177589444	0.758954187	0.276394983	1.311539053	3.980697436	0.612155329	7.291717636	0.382375347	2.875526483	0.98596044	3.235627764	0.253997612	0.265456335	0.853285379	1.546098589
+glutamyl-meso-diaminopimelate_feces	0.795975972	0.364996945	1.373602791	0.299354856	0.207004852	0.207004852	2.848343211	0.207004852	4.095748244	12.23209023	1.164251655	13.56460107	0.372823502	1.264584746	0.829194235	0.207004852	0.207004852	0.835748345	0.207004852	0.207004852
+GlcNAc sulfate conjugate of C21H34O2 steroid**_feces	0.219061694	0.219061694	0.219061694	0.219061694	0.219061694	0.219061694	0.596730047	0.219061694	0.219061694	1.403269953	2.301263401	23.9280354	0.219061694	0.219061694	0.219061694	0.219061694	0.219061694	0.359549072	0.219061694	0.219061694
+adipate (C6-DC)_feces	0.478198529	0.635134609	0.893324287	0.580650244	0.512784566	1174.904627	2.074717654	1.106675713	46.97758638	6.824321234	0.543304842	0.196874906	0.299761499	0.576709489	3.599310621	5.491584905	0.882932982	18.55733979	2.355301808	4.48031394
+tyramine O-sulfate_feces	23.49204201	0.163134248	0.153174846	0.035977089	0.034684062	146.7369822	1.638983099	3.881225864	16.50530265	13.23515524	1	0.313869047	2.200145759	0.031111843	0.277618504	0.031111843	0.523975446	7.454795399	0.031111843	0.031111843
+taurodeoxycholic acid 3-sulfate_feces	0.739131547	0.739131547	0.739131547	0.739131547	1	3.260240039	0.739131547	0.739131547	0.739131547	0.739131547	0.739131547	0.739131547	0.739131547	0.739131547	0.888460204	1.027924225	0.739131547	0.739131547	0.739131547	0.739131547
+4-acetamidobenzoate_feces	0.205134702	1.862217692	1.381734741	1.707843545	3.807733369	10.89780132	0.203184563	0.203184563	0.203184563	0.203184563	0.212818535	0.746863408	0.203184563	0.203184563	0.224234677	0.29952428	0.203184563	1.253136592	0.203184563	0.203184563
+oleoyl-oleoyl-glycerol (18:1/18:1) [2]*_feces	0.169839592	1.330594317	2.605075093	3.383709998	9.574565476	11.17585347	0.017954762	0.669405683	0.017954762	0.017954762	0.017954762	0.017954762	0.017954762	0.017954762	0.40243761	0.017954762	0.017954762	0.017954762	0.017954762	0.551231774
+diacylglycerol (14:0/18:1, 16:0/16:1) [1]*_feces	0.482625331	0.482625331	1.246218082	0.482625331	0.97654567	4.175658657	0.482625331	0.482625331	0.482625331	0.482625331	0.482625331	0.482625331	0.482625331	0.482625331	0.482625331	0.482625331	0.482625331	1	0.482625331	0.482625331
+hexadecenedioate (C16:1-DC)*_feces	0.410936891	1.050197562	1.410533419	0.749965218	0.342603929	3.200442429	0.342603929	0.342603929	1	2.085167511	0.342603929	0.342603929	0.617222717	1.428654906	0.881539039	0.634578997	0.342603929	1.314437364	0.342603929	0.342603929
+3-formylindole_feces	0.473239824	2.378292825	3.685738783	2.441017514	0.854133937	8.441720889	1.436928473	0.832379528	0.399112824	0.39850928	1.062321375	2.394813854	3.30665188	7.903433471	0.813456872	0.937678625	0.225379896	0.535573179	4.553960746	0.673991345

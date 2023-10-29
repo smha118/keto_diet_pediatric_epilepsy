@@ -1,5 +1,0 @@
-"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
-"Valine, leucine and isoleucine degradation",40,0.12903,2,0.0061841,2.2087,0.51947,0.51947,0.02264
-"Butanoate metabolism",15,0.048387,1,0.04752,1.3231,1,1,0
-"Sphingolipid metabolism",21,0.067742,1,0.066014,1.1804,1,1,0
-"Biosynthesis of unsaturated fatty acids",36,0.11613,1,0.111,0.9547,1,1,0

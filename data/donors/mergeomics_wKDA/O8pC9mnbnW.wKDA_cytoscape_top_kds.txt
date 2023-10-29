@@ -1,0 +1,19 @@
+MODULE	NODE	FDR	MODNAMES	NODNAMES	COLOR
+1	69	2.59132579285875e-09	midnightblue_feces	ECASYN-PWY: enterobacterial common antigen biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	#FF9F7F
+1	240	2.32163321556702e-07	midnightblue_feces	PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Anaerostipes.s__Anaerostipes_caccae_meta	#FF9F7F
+1	284	6.72543537735428e-08	midnightblue_feces	PWY-5862: superpathway of demethylmenaquinol-9 biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	#FF9F7F
+1	288	7.36531922132177e-09	midnightblue_feces	PWY-5898: superpathway of menaquinol-12 biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	#FF9F7F
+1	302	2.59132579285875e-09	midnightblue_feces	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	#FF9F7F
+1	310	4.36467745187207e-08	midnightblue_feces	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Enterococcus.s__Enterococcus_casseliflavus_meta	#FF9F7F
+1	415	7.36531922132177e-09	midnightblue_feces	PWY-6749: CMP-legionaminate biosynthesis I|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	#FF9F7F
+1	523	7.36531922132177e-09	midnightblue_feces	PWY0-1296: purine ribonucleosides degradation|g__Anaerostipes.s__Anaerostipes_caccae_meta	#FF9F7F
+1	597	1.1521331166659e-05	midnightblue_feces	TRNA-CHARGING-PWY: tRNA charging|g__Citrobacter.s__Citrobacter_farmeri_meta	#FF9F7F
+2	69	0.00245176455785474	darkturquoise_feces	ECASYN-PWY: enterobacterial common antigen biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	#ECFF7F
+2	240	8.00470468302537e-05	darkturquoise_feces	PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Anaerostipes.s__Anaerostipes_caccae_meta	#ECFF7F
+2	284	7.42234927264424e-05	darkturquoise_feces	PWY-5862: superpathway of demethylmenaquinol-9 biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	#ECFF7F
+2	288	0.00182350354522818	darkturquoise_feces	PWY-5898: superpathway of menaquinol-12 biosynthesis|g__Citrobacter.s__Citrobacter_farmeri_meta	#ECFF7F
+2	302	9.94542550661847e-05	darkturquoise_feces	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Citrobacter.s__Citrobacter_farmeri_meta	#ECFF7F
+2	310	7.98209999455774e-05	darkturquoise_feces	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Enterococcus.s__Enterococcus_casseliflavus_meta	#ECFF7F
+2	415	8.33950904802069e-05	darkturquoise_feces	PWY-6749: CMP-legionaminate biosynthesis I|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans_meta	#ECFF7F
+2	523	0.000104364266687006	darkturquoise_feces	PWY0-1296: purine ribonucleosides degradation|g__Anaerostipes.s__Anaerostipes_caccae_meta	#ECFF7F
+2	597	9.04355485994223e-05	darkturquoise_feces	TRNA-CHARGING-PWY: tRNA charging|g__Citrobacter.s__Citrobacter_farmeri_meta	#ECFF7F

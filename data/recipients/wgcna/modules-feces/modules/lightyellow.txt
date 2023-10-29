@@ -1,0 +1,16 @@
+mevalonate
+cholesterol
+sphingosine
+N-stearoyl-sphingosine (d18:1/18:0)*
+7-methylguanine
+N-(2-hydroxypalmitoyl)-sphingosine (d18:1/16:0(2OH))
+hexadecasphingosine (d16:1)*
+heptadecasphingosine (d17:1)
+ceramide (d18:1/14:0, d16:1/16:0)*
+ceramide (d18:1/17:0, d17:1/18:0)*
+ceramide (d18:1/20:0, d16:1/22:0, d20:1/18:0)*
+lignoceroyl ethanolamide (24:0)*
+eicosanoylsphingosine (d20:1)*
+N-palmitoyl-phytosphingosine (t18:0/16:0)
+tetradecadienoate (14:2)*
+butyrylputrescine/isobutyrylputrescine

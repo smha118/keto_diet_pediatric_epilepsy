@@ -1,9 +1,0 @@
-dihomo-linoleate (20:2n6)
-1-stearoyl-GPI (18:0)
-3-dehydrocholate
-docosapentaenoate (n3 DPA; 22:5n3)
-glycerophosphoinositol*
-dihomo-linolenate (20:3n3 or n6)
-2-stearoyl-GPE (18:0)*
-1-stearoyl-GPS (18:0)*
-1-dihomo-linolenylglycerol (20:3)

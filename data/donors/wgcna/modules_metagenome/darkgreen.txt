@@ -1,0 +1,35 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|unclassified
+ANAEROFRUCAT-PWY: homolactic fermentation|unclassified
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|unclassified
+ARO-PWY: chorismate biosynthesis I|unclassified
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|unclassified
+CALVIN-PWY: Calvin-Benson-Bassham cycle|unclassified
+DENOVOPURINE2-PWY: superpathway of purine nucleotides de novo biosynthesis II|unclassified
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|unclassified
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|unclassified
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|unclassified
+LACTOSECAT-PWY: lactose and galactose degradation I
+LACTOSECAT-PWY: lactose and galactose degradation I|g__Enterococcus.s__Enterococcus_faecalis
+P161-PWY: acetylene degradation|unclassified
+PWY-1042: glycolysis IV (plant cytosol)|unclassified
+PWY-5100: pyruvate fermentation to acetate and lactate II|unclassified
+PWY-5103: L-isoleucine biosynthesis III|unclassified
+PWY-5484: glycolysis II (from fructose 6-phosphate)|unclassified
+PWY-5676: acetyl-CoA fermentation to butanoate II|unclassified
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|unclassified
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|unclassified
+PWY-6151: S-adenosyl-L-methionine cycle I|unclassified
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|unclassified
+PWY-6317: galactose degradation I (Leloir pathway)|unclassified
+PWY-6471: peptidoglycan biosynthesis IV (Enterococcus faecium)
+PWY-6527: stachyose degradation|unclassified
+PWY-6609: adenine and adenosine salvage III|unclassified
+PWY-6703: preQ0 biosynthesis|unclassified
+PWY-6737: starch degradation V|unclassified
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|unclassified
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|unclassified
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|unclassified
+PWY0-1296: purine ribonucleosides degradation|unclassified
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|unclassified
+PWY66-422: D-galactose degradation V (Leloir pathway)|unclassified
+VALSYN-PWY: L-valine biosynthesis|unclassified

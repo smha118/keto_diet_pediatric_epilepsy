@@ -1,0 +1,920 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+3-HYDROXYPHENYLACETATE-DEGRADATION-PWY: 4-hydroxyphenylacetate degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+3-HYDROXYPHENYLACETATE-DEGRADATION-PWY: 4-hydroxyphenylacetate degradation|g__Leclercia.s__Leclercia_adecarboxylata
+AEROBACTINSYN-PWY: aerobactin biosynthesis
+AEROBACTINSYN-PWY: aerobactin biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+AEROBACTINSYN-PWY: aerobactin biosynthesis|g__Enterobacter.s__Enterobacter_mori
+ANAEROFRUCAT-PWY: homolactic fermentation|g__Enterobacter.s__Enterobacter_cloacae_complex
+ANAEROFRUCAT-PWY: homolactic fermentation|g__Leclercia.s__Leclercia_adecarboxylata
+ANAEROFRUCAT-PWY: homolactic fermentation|g__Raoultella.s__Raoultella_ornithinolytica
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Enterobacter.s__Enterobacter_cloacae_complex
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Leclercia.s__Leclercia_adecarboxylata
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Raoultella.s__Raoultella_ornithinolytica
+ARG+POLYAMINE-SYN: superpathway of arginine and polyamine biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+ARGDEG-PWY: superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Enterobacter.s__Enterobacter_cloacae_complex
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Raoultella.s__Raoultella_ornithinolytica
+ARO-PWY: chorismate biosynthesis I|g__Blautia.s__Ruminococcus_torques
+ARO-PWY: chorismate biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+ARO-PWY: chorismate biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Atlantibacter.s__Atlantibacter_hermannii
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Enterobacter.s__Enterobacter_mori
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+AST-PWY: L-arginine degradation II (AST pathway)|g__Atlantibacter.s__Atlantibacter_hermannii
+AST-PWY: L-arginine degradation II (AST pathway)|g__Enterobacter.s__Enterobacter_cloacae_complex
+AST-PWY: L-arginine degradation II (AST pathway)|g__Enterobacter.s__Enterobacter_mori
+AST-PWY: L-arginine degradation II (AST pathway)|g__Leclercia.s__Leclercia_adecarboxylata
+AST-PWY: L-arginine degradation II (AST pathway)|g__Raoultella.s__Raoultella_ornithinolytica
+BIOTIN-BIOSYNTHESIS-PWY: biotin biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+BIOTIN-BIOSYNTHESIS-PWY: biotin biosynthesis I|g__Enterobacter.s__Enterobacter_mori
+BIOTIN-BIOSYNTHESIS-PWY: biotin biosynthesis I|g__Leclercia.s__Leclercia_adecarboxylata
+BIOTIN-BIOSYNTHESIS-PWY: biotin biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Atlantibacter.s__Atlantibacter_hermannii
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Enterobacter.s__Enterobacter_mori
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Blautia.s__Ruminococcus_torques
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Enterobacter.s__Enterobacter_cloacae_complex
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Enterobacter.s__Enterobacter_mori
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Leclercia.s__Leclercia_adecarboxylata
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Raoultella.s__Raoultella_ornithinolytica
+CATECHOL-ORTHO-CLEAVAGE-PWY: catechol degradation to &beta;-ketoadipate
+CATECHOL-ORTHO-CLEAVAGE-PWY: catechol degradation to &beta;-ketoadipate|g__Leclercia.s__Leclercia_adecarboxylata
+CATECHOL-ORTHO-CLEAVAGE-PWY: catechol degradation to &beta;-ketoadipate|g__Raoultella.s__Raoultella_ornithinolytica
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Blautia.s__Ruminococcus_torques
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Enterobacter.s__Enterobacter_cloacae_complex
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Raoultella.s__Raoultella_ornithinolytica
+COA-PWY: coenzyme A biosynthesis I|g__Blautia.s__Ruminococcus_torques
+COBALSYN-PWY: adenosylcobalamin salvage from cobinamide I|g__Raoultella.s__Raoultella_ornithinolytica
+COLANSYN-PWY: colanic acid building blocks biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+COLANSYN-PWY: colanic acid building blocks biosynthesis|g__Enterobacter.s__Enterobacter_mori
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Blautia.s__Ruminococcus_torques
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+CRNFORCAT-PWY: creatinine degradation I
+CRNFORCAT-PWY: creatinine degradation I|g__Raoultella.s__Raoultella_ornithinolytica
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Blautia.s__Ruminococcus_torques
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Enterobacter.s__Enterobacter_mori
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Klebsiella.s__Klebsiella_pneumoniae
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Leclercia.s__Leclercia_adecarboxylata
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+ECASYN-PWY: enterobacterial common antigen biosynthesis
+ECASYN-PWY: enterobacterial common antigen biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+ECASYN-PWY: enterobacterial common antigen biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+ECASYN-PWY: enterobacterial common antigen biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+ENTBACSYN-PWY: enterobactin biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+ENTBACSYN-PWY: enterobactin biosynthesis|g__Enterobacter.s__Enterobacter_mori
+ENTBACSYN-PWY: enterobactin biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+FAO-PWY: fatty acid &beta;-oxidation I|g__Atlantibacter.s__Atlantibacter_hermannii
+FAO-PWY: fatty acid &beta;-oxidation I|g__Enterobacter.s__Enterobacter_cloacae_complex
+FAO-PWY: fatty acid &beta;-oxidation I|g__Enterobacter.s__Enterobacter_mori
+FAO-PWY: fatty acid &beta;-oxidation I|g__Leclercia.s__Leclercia_adecarboxylata
+FAO-PWY: fatty acid &beta;-oxidation I|g__Raoultella.s__Raoultella_ornithinolytica
+FASYN-ELONG-PWY: fatty acid elongation -- saturated|g__Enterobacter.s__Enterobacter_cloacae_complex
+FASYN-ELONG-PWY: fatty acid elongation -- saturated|g__Enterobacter.s__Enterobacter_mori
+FASYN-ELONG-PWY: fatty acid elongation -- saturated|g__Leclercia.s__Leclercia_adecarboxylata
+FASYN-ELONG-PWY: fatty acid elongation -- saturated|g__Raoultella.s__Raoultella_ornithinolytica
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Atlantibacter.s__Atlantibacter_hermannii
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Enterobacter.s__Enterobacter_cloacae_complex
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Enterobacter.s__Enterobacter_mori
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Leclercia.s__Leclercia_adecarboxylata
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Raoultella.s__Raoultella_ornithinolytica
+FERMENTATION-PWY: mixed acid fermentation|g__Atlantibacter.s__Atlantibacter_hermannii
+FERMENTATION-PWY: mixed acid fermentation|g__Enterobacter.s__Enterobacter_cloacae_complex
+FERMENTATION-PWY: mixed acid fermentation|g__Enterobacter.s__Enterobacter_mori
+FERMENTATION-PWY: mixed acid fermentation|g__Leclercia.s__Leclercia_adecarboxylata
+FERMENTATION-PWY: mixed acid fermentation|g__Raoultella.s__Raoultella_ornithinolytica
+FOLSYN-PWY: superpathway of tetrahydrofolate biosynthesis and salvage|g__Enterobacter.s__Enterobacter_cloacae_complex
+FOLSYN-PWY: superpathway of tetrahydrofolate biosynthesis and salvage|g__Raoultella.s__Raoultella_ornithinolytica
+FUC-RHAMCAT-PWY: superpathway of fucose and rhamnose degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+FUC-RHAMCAT-PWY: superpathway of fucose and rhamnose degradation|g__Raoultella.s__Raoultella_ornithinolytica
+FUCCAT-PWY: fucose degradation|g__Blautia.s__Ruminococcus_torques
+FUCCAT-PWY: fucose degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+FUCCAT-PWY: fucose degradation|g__Raoultella.s__Raoultella_ornithinolytica
+GALACT-GLUCUROCAT-PWY: superpathway of hexuronide and hexuronate degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+GALACT-GLUCUROCAT-PWY: superpathway of hexuronide and hexuronate degradation|g__Raoultella.s__Raoultella_ornithinolytica
+GALACTARDEG-PWY: D-galactarate degradation I|g__Enterobacter.s__Enterobacter_cloacae_complex
+GALACTARDEG-PWY: D-galactarate degradation I|g__Enterobacter.s__Enterobacter_mori
+GALACTARDEG-PWY: D-galactarate degradation I|g__Leclercia.s__Leclercia_adecarboxylata
+GALACTARDEG-PWY: D-galactarate degradation I|g__Raoultella.s__Raoultella_ornithinolytica
+GALACTUROCAT-PWY: D-galacturonate degradation I|g__Enterobacter.s__Enterobacter_cloacae_complex
+GALACTUROCAT-PWY: D-galacturonate degradation I|g__Enterobacter.s__Enterobacter_mori
+GALACTUROCAT-PWY: D-galacturonate degradation I|g__Leclercia.s__Leclercia_adecarboxylata
+GALACTUROCAT-PWY: D-galacturonate degradation I|g__Raoultella.s__Raoultella_ornithinolytica
+GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation|g__Leclercia.s__Leclercia_adecarboxylata
+GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation|g__Raoultella.s__Raoultella_ornithinolytica
+GLUCARDEG-PWY: D-glucarate degradation I|g__Enterobacter.s__Enterobacter_cloacae_complex
+GLUCARDEG-PWY: D-glucarate degradation I|g__Enterobacter.s__Enterobacter_mori
+GLUCARDEG-PWY: D-glucarate degradation I|g__Leclercia.s__Leclercia_adecarboxylata
+GLUCARDEG-PWY: D-glucarate degradation I|g__Raoultella.s__Raoultella_ornithinolytica
+GLUCARGALACTSUPER-PWY: superpathway of D-glucarate and D-galactarate degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+GLUCARGALACTSUPER-PWY: superpathway of D-glucarate and D-galactarate degradation|g__Enterobacter.s__Enterobacter_mori
+GLUCARGALACTSUPER-PWY: superpathway of D-glucarate and D-galactarate degradation|g__Leclercia.s__Leclercia_adecarboxylata
+GLUCARGALACTSUPER-PWY: superpathway of D-glucarate and D-galactarate degradation|g__Raoultella.s__Raoultella_ornithinolytica
+GLUCONEO-PWY: gluconeogenesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+GLUCONEO-PWY: gluconeogenesis I|g__Leclercia.s__Leclercia_adecarboxylata
+GLUCONEO-PWY: gluconeogenesis I|g__Raoultella.s__Raoultella_ornithinolytica
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|g__Enterobacter.s__Enterobacter_mori
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|g__Leclercia.s__Leclercia_adecarboxylata
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|g__Raoultella.s__Raoultella_ornithinolytica
+GLUCUROCAT-PWY: superpathway of &beta;-D-glucuronide and D-glucuronate degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+GLUCUROCAT-PWY: superpathway of &beta;-D-glucuronide and D-glucuronate degradation|g__Enterobacter.s__Enterobacter_mori
+GLUCUROCAT-PWY: superpathway of &beta;-D-glucuronide and D-glucuronate degradation|g__Raoultella.s__Raoultella_ornithinolytica
+GLUTORN-PWY: L-ornithine biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+GLUTORN-PWY: L-ornithine biosynthesis|g__Eubacterium.s__Eubacterium_hallii
+GLUTORN-PWY: L-ornithine biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+GLYCOCAT-PWY: glycogen degradation I (bacterial)|g__Enterobacter.s__Enterobacter_cloacae_complex
+GLYCOCAT-PWY: glycogen degradation I (bacterial)|g__Enterobacter.s__Enterobacter_mori
+GLYCOCAT-PWY: glycogen degradation I (bacterial)|g__Leclercia.s__Leclercia_adecarboxylata
+GLYCOCAT-PWY: glycogen degradation I (bacterial)|g__Raoultella.s__Raoultella_ornithinolytica
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Enterobacter.s__Enterobacter_cloacae_complex
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Enterobacter.s__Enterobacter_mori
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Leclercia.s__Leclercia_adecarboxylata
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Raoultella.s__Raoultella_ornithinolytica
+GLYCOL-GLYOXDEG-PWY: superpathway of glycol metabolism and degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+GLYCOL-GLYOXDEG-PWY: superpathway of glycol metabolism and degradation|g__Enterobacter.s__Enterobacter_mori
+GLYCOLYSIS-E-D: superpathway of glycolysis and Entner-Doudoroff|g__Enterobacter.s__Enterobacter_cloacae_complex
+GLYCOLYSIS-E-D: superpathway of glycolysis and Entner-Doudoroff|g__Raoultella.s__Raoultella_ornithinolytica
+GLYCOLYSIS-TCA-GLYOX-BYPASS: superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass|g__Enterobacter.s__Enterobacter_cloacae_complex
+GLYCOLYSIS-TCA-GLYOX-BYPASS: superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass|g__Raoultella.s__Raoultella_ornithinolytica
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Enterobacter.s__Enterobacter_cloacae_complex
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Leclercia.s__Leclercia_adecarboxylata
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Raoultella.s__Raoultella_ornithinolytica
+GLYOXYLATE-BYPASS: glyoxylate cycle|g__Enterobacter.s__Enterobacter_cloacae_complex
+GLYOXYLATE-BYPASS: glyoxylate cycle|g__Enterobacter.s__Enterobacter_mori
+GLYOXYLATE-BYPASS: glyoxylate cycle|g__Raoultella.s__Raoultella_ornithinolytica
+GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol
+GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol|g__Enterobacter.s__Enterobacter_cloacae_complex
+HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)|g__Atlantibacter.s__Atlantibacter_hermannii
+HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)|g__Enterobacter.s__Enterobacter_cloacae_complex
+HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)|g__Leclercia.s__Leclercia_adecarboxylata
+HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)|g__Raoultella.s__Raoultella_ornithinolytica
+HEMESYN2-PWY: heme biosynthesis II (anaerobic)|g__Enterobacter.s__Enterobacter_cloacae_complex
+HEMESYN2-PWY: heme biosynthesis II (anaerobic)|g__Leclercia.s__Leclercia_adecarboxylata
+HEMESYN2-PWY: heme biosynthesis II (anaerobic)|g__Raoultella.s__Raoultella_ornithinolytica
+HEXITOLDEGSUPER-PWY: superpathway of hexitol degradation (bacteria)|g__Enterobacter.s__Enterobacter_cloacae_complex
+HEXITOLDEGSUPER-PWY: superpathway of hexitol degradation (bacteria)|g__Raoultella.s__Raoultella_ornithinolytica
+HISDEG-PWY: L-histidine degradation I
+HISDEG-PWY: L-histidine degradation I|g__Enterobacter.s__Enterobacter_cloacae_complex
+HISDEG-PWY: L-histidine degradation I|g__Enterobacter.s__Enterobacter_mori
+HISDEG-PWY: L-histidine degradation I|g__Leclercia.s__Leclercia_adecarboxylata
+HISDEG-PWY: L-histidine degradation I|g__Raoultella.s__Raoultella_ornithinolytica
+HISDEG-PWY: L-histidine degradation I|g__Veillonella.s__Veillonella_seminalis
+HISTSYN-PWY: L-histidine biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+HISTSYN-PWY: L-histidine biosynthesis|g__Enterobacter.s__Enterobacter_mori
+HISTSYN-PWY: L-histidine biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Atlantibacter.s__Atlantibacter_hermannii
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Enterobacter.s__Enterobacter_mori
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Leclercia.s__Leclercia_adecarboxylata
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Atlantibacter.s__Atlantibacter_hermannii
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Blautia.s__Ruminococcus_torques
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Enterobacter.s__Enterobacter_cloacae_complex
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Enterobacter.s__Enterobacter_mori
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Raoultella.s__Raoultella_ornithinolytica
+KDO-NAGLIPASYN-PWY: superpathway of (Kdo)2-lipid A biosynthesis
+KDO-NAGLIPASYN-PWY: superpathway of (Kdo)2-lipid A biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+KDO-NAGLIPASYN-PWY: superpathway of (Kdo)2-lipid A biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+KETOGLUCONMET-PWY: ketogluconate metabolism|g__Enterobacter.s__Enterobacter_cloacae_complex
+KETOGLUCONMET-PWY: ketogluconate metabolism|g__Raoultella.s__Raoultella_ornithinolytica
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Atlantibacter.s__Atlantibacter_hermannii
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Enterobacter.s__Enterobacter_mori
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+METHGLYUT-PWY: superpathway of methylglyoxal degradation|g__Raoultella.s__Raoultella_ornithinolytica
+METHGLYUT-PWY: superpathway of methylglyoxal degradation|unclassified
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Atlantibacter.s__Atlantibacter_hermannii
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Enterobacter.s__Enterobacter_mori
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+NAD-BIOSYNTHESIS-II: NAD salvage pathway II
+NAD-BIOSYNTHESIS-II: NAD salvage pathway II|g__Atlantibacter.s__Atlantibacter_hermannii
+NAD-BIOSYNTHESIS-II: NAD salvage pathway II|g__Enterobacter.s__Enterobacter_cloacae_complex
+NAD-BIOSYNTHESIS-II: NAD salvage pathway II|g__Enterobacter.s__Enterobacter_mori
+NAD-BIOSYNTHESIS-II: NAD salvage pathway II|g__Leclercia.s__Leclercia_adecarboxylata
+NAD-BIOSYNTHESIS-II: NAD salvage pathway II|g__Raoultella.s__Raoultella_ornithinolytica
+NAGLIPASYN-PWY: lipid IVA biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+NAGLIPASYN-PWY: lipid IVA biosynthesis|g__Enterobacter.s__Enterobacter_mori
+NAGLIPASYN-PWY: lipid IVA biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+NAGLIPASYN-PWY: lipid IVA biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Atlantibacter.s__Atlantibacter_hermannii
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Blautia.s__Ruminococcus_torques
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Enterobacter.s__Enterobacter_cloacae_complex
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Enterobacter.s__Enterobacter_mori
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Leclercia.s__Leclercia_adecarboxylata
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Raoultella.s__Raoultella_ornithinolytica
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|g__Enterobacter.s__Enterobacter_cloacae_complex
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|g__Klebsiella.s__Klebsiella_pneumoniae
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|g__Leclercia.s__Leclercia_adecarboxylata
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|g__Raoultella.s__Raoultella_ornithinolytica
+ORNARGDEG-PWY: superpathway of L-arginine and L-ornithine degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+ORNDEG-PWY: superpathway of ornithine degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+P122-PWY: heterolactic fermentation|g__Raoultella.s__Raoultella_ornithinolytica
+P161-PWY: acetylene degradation|g__Atlantibacter.s__Atlantibacter_hermannii
+P161-PWY: acetylene degradation|g__Blautia.s__Ruminococcus_torques
+P161-PWY: acetylene degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+P161-PWY: acetylene degradation|g__Enterobacter.s__Enterobacter_mori
+P161-PWY: acetylene degradation|g__Leclercia.s__Leclercia_adecarboxylata
+P161-PWY: acetylene degradation|g__Raoultella.s__Raoultella_ornithinolytica
+P164-PWY: purine nucleobases degradation I (anaerobic)
+P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)|g__Enterobacter.s__Enterobacter_cloacae_complex
+P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)|g__Leclercia.s__Leclercia_adecarboxylata
+P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)|g__Raoultella.s__Raoultella_ornithinolytica
+P221-PWY: octane oxidation
+P221-PWY: octane oxidation|g__Blautia.s__Ruminococcus_torques
+P4-PWY: superpathway of L-lysine, L-threonine and L-methionine biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+P4-PWY: superpathway of L-lysine, L-threonine and L-methionine biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+P441-PWY: superpathway of N-acetylneuraminate degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+P441-PWY: superpathway of N-acetylneuraminate degradation|g__Leclercia.s__Leclercia_adecarboxylata
+P441-PWY: superpathway of N-acetylneuraminate degradation|g__Raoultella.s__Raoultella_ornithinolytica
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Enterobacter.s__Enterobacter_cloacae_complex
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Enterobacter.s__Enterobacter_mori
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Leclercia.s__Leclercia_adecarboxylata
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Raoultella.s__Raoultella_ornithinolytica
+P562-PWY: myo-inositol degradation I
+P562-PWY: myo-inositol degradation I|g__Enterobacter.s__Enterobacter_cloacae_complex
+P562-PWY: myo-inositol degradation I|g__Raoultella.s__Raoultella_ornithinolytica
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Enterobacter.s__Enterobacter_mori
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Leclercia.s__Leclercia_adecarboxylata
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Veillonella.s__Veillonella_seminalis
+PENTOSE-P-PWY: pentose phosphate pathway|g__Enterobacter.s__Enterobacter_cloacae_complex
+PENTOSE-P-PWY: pentose phosphate pathway|g__Enterobacter.s__Enterobacter_mori
+PENTOSE-P-PWY: pentose phosphate pathway|g__Leclercia.s__Leclercia_adecarboxylata
+PENTOSE-P-PWY: pentose phosphate pathway|g__Raoultella.s__Raoultella_ornithinolytica
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Blautia.s__Ruminococcus_torques
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Enterobacter.s__Enterobacter_mori
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Leclercia.s__Leclercia_adecarboxylata
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Raoultella.s__Raoultella_ornithinolytica
+PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)|g__Enterobacter.s__Enterobacter_mori
+PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)|g__Leclercia.s__Leclercia_adecarboxylata
+PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)|g__Raoultella.s__Raoultella_ornithinolytica
+POLYAMSYN-PWY: superpathway of polyamine biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+POLYAMSYN-PWY: superpathway of polyamine biosynthesis I|g__Enterobacter.s__Enterobacter_mori
+POLYAMSYN-PWY: superpathway of polyamine biosynthesis I|g__Leclercia.s__Leclercia_adecarboxylata
+POLYAMSYN-PWY: superpathway of polyamine biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+POLYISOPRENSYN-PWY: polyisoprenoid biosynthesis (E. coli)|g__Raoultella.s__Raoultella_ornithinolytica
+PPGPPMET-PWY: ppGpp biosynthesis|g__Atlantibacter.s__Atlantibacter_hermannii
+PPGPPMET-PWY: ppGpp biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PPGPPMET-PWY: ppGpp biosynthesis|g__Enterobacter.s__Enterobacter_mori
+PPGPPMET-PWY: ppGpp biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+PPGPPMET-PWY: ppGpp biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PROPFERM-PWY: L-alanine fermentation to propanoate and acetate
+PWY-1042: glycolysis IV (plant cytosol)|g__Blautia.s__Ruminococcus_torques
+PWY-1042: glycolysis IV (plant cytosol)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-1042: glycolysis IV (plant cytosol)|g__Enterobacter.s__Enterobacter_mori
+PWY-1042: glycolysis IV (plant cytosol)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-1042: glycolysis IV (plant cytosol)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Enterobacter.s__Enterobacter_mori
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-2723: trehalose degradation V|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-2723: trehalose degradation V|g__Enterobacter.s__Enterobacter_mori
+PWY-2723: trehalose degradation V|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-2723: trehalose degradation V|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-2942: L-lysine biosynthesis III|g__Blautia.s__Ruminococcus_torques
+PWY-2942: L-lysine biosynthesis III|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-2942: L-lysine biosynthesis III|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-2942: L-lysine biosynthesis III|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Enterobacter.s__Enterobacter_mori
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-3841: folate transformations II|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-3841: folate transformations II|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-3841: folate transformations II|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-4041: &gamma;-glutamyl cycle|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-4041: &gamma;-glutamyl cycle|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-4041: &gamma;-glutamyl cycle|g__Enterobacter.s__Enterobacter_mori
+PWY-4041: &gamma;-glutamyl cycle|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-4041: &gamma;-glutamyl cycle|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Enterobacter.s__Enterobacter_mori
+PWY-5005: biotin biosynthesis II
+PWY-5022: 4-aminobutanoate degradation V|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-5022: 4-aminobutanoate degradation V|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5022: 4-aminobutanoate degradation V|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5022: 4-aminobutanoate degradation V|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5097: L-lysine biosynthesis VI|g__Blautia.s__Ruminococcus_torques
+PWY-5097: L-lysine biosynthesis VI|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5097: L-lysine biosynthesis VI|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5097: L-lysine biosynthesis VI|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Blautia.s__Ruminococcus_torques
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Enterobacter.s__Enterobacter_mori
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5103: L-isoleucine biosynthesis III|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-5103: L-isoleucine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-5103: L-isoleucine biosynthesis III|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5103: L-isoleucine biosynthesis III|g__Enterobacter.s__Enterobacter_mori
+PWY-5103: L-isoleucine biosynthesis III|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5104: L-isoleucine biosynthesis IV|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5104: L-isoleucine biosynthesis IV|g__Enterobacter.s__Enterobacter_mori
+PWY-5104: L-isoleucine biosynthesis IV|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5104: L-isoleucine biosynthesis IV|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5136: fatty acid &beta;-oxidation II (peroxisome)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5136: fatty acid &beta;-oxidation II (peroxisome)|g__Enterobacter.s__Enterobacter_mori
+PWY-5136: fatty acid &beta;-oxidation II (peroxisome)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation|g__Enterobacter.s__Enterobacter_mori
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5173: superpathway of acetyl-CoA biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5173: superpathway of acetyl-CoA biosynthesis|g__Enterobacter.s__Enterobacter_mori
+PWY-5173: superpathway of acetyl-CoA biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5173: superpathway of acetyl-CoA biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5181: toluene degradation III (aerobic) (via p-cresol)
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Enterobacter.s__Enterobacter_mori
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Veillonella.s__Veillonella_seminalis
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Enterobacter.s__Enterobacter_mori
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|g__Enterobacter.s__Enterobacter_mori
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5367: petroselinate biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5367: petroselinate biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|g__Enterobacter.s__Enterobacter_mori
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5417: catechol degradation III (ortho-cleavage pathway)
+PWY-5417: catechol degradation III (ortho-cleavage pathway)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5417: catechol degradation III (ortho-cleavage pathway)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5431: aromatic compounds degradation via &beta;-ketoadipate
+PWY-5431: aromatic compounds degradation via &beta;-ketoadipate|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5431: aromatic compounds degradation via &beta;-ketoadipate|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5509: adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5659: GDP-mannose biosynthesis|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-5659: GDP-mannose biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5659: GDP-mannose biosynthesis|g__Enterobacter.s__Enterobacter_mori
+PWY-5659: GDP-mannose biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Blautia.s__Ruminococcus_torques
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Enterobacter.s__Enterobacter_mori
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5676: acetyl-CoA fermentation to butanoate II|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5686: UMP biosynthesis|g__Blautia.s__Ruminococcus_torques
+PWY-5686: UMP biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5686: UMP biosynthesis|g__Enterobacter.s__Enterobacter_mori
+PWY-5686: UMP biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Blautia.s__Ruminococcus_torques
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Enterobacter.s__Enterobacter_mori
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5723: Rubisco shunt|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5723: Rubisco shunt|g__Enterobacter.s__Enterobacter_mori
+PWY-5723: Rubisco shunt|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5723: Rubisco shunt|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5791: 1,4-dihydroxy-2-naphthoate biosynthesis II (plants)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5791: 1,4-dihydroxy-2-naphthoate biosynthesis II (plants)|g__Enterobacter.s__Enterobacter_mori
+PWY-5791: 1,4-dihydroxy-2-naphthoate biosynthesis II (plants)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5791: 1,4-dihydroxy-2-naphthoate biosynthesis II (plants)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5837: 1,4-dihydroxy-2-naphthoate biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5837: 1,4-dihydroxy-2-naphthoate biosynthesis I|g__Enterobacter.s__Enterobacter_mori
+PWY-5837: 1,4-dihydroxy-2-naphthoate biosynthesis I|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5837: 1,4-dihydroxy-2-naphthoate biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5838: superpathway of menaquinol-8 biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5838: superpathway of menaquinol-8 biosynthesis I|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5838: superpathway of menaquinol-8 biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5840: superpathway of menaquinol-7 biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5845: superpathway of menaquinol-9 biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5850: superpathway of menaquinol-6 biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5855: ubiquinol-7 biosynthesis (prokaryotic)
+PWY-5855: ubiquinol-7 biosynthesis (prokaryotic)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5855: ubiquinol-7 biosynthesis (prokaryotic)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5856: ubiquinol-9 biosynthesis (prokaryotic)
+PWY-5856: ubiquinol-9 biosynthesis (prokaryotic)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5856: ubiquinol-9 biosynthesis (prokaryotic)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5857: ubiquinol-10 biosynthesis (prokaryotic)
+PWY-5857: ubiquinol-10 biosynthesis (prokaryotic)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5857: ubiquinol-10 biosynthesis (prokaryotic)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5860: superpathway of demethylmenaquinol-6 biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5861: superpathway of demethylmenaquinol-8 biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5861: superpathway of demethylmenaquinol-8 biosynthesis|g__Enterobacter.s__Enterobacter_mori
+PWY-5861: superpathway of demethylmenaquinol-8 biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5861: superpathway of demethylmenaquinol-8 biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5862: superpathway of demethylmenaquinol-9 biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5863: superpathway of phylloquinol biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5863: superpathway of phylloquinol biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5896: superpathway of menaquinol-10 biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5897: superpathway of menaquinol-11 biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5897: superpathway of menaquinol-11 biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5897: superpathway of menaquinol-11 biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5898: superpathway of menaquinol-12 biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5898: superpathway of menaquinol-12 biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5898: superpathway of menaquinol-12 biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5899: superpathway of menaquinol-13 biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5899: superpathway of menaquinol-13 biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5899: superpathway of menaquinol-13 biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5913: TCA cycle VI (obligate autotrophs)|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-5913: TCA cycle VI (obligate autotrophs)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5913: TCA cycle VI (obligate autotrophs)|g__Enterobacter.s__Enterobacter_mori
+PWY-5913: TCA cycle VI (obligate autotrophs)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5913: TCA cycle VI (obligate autotrophs)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5918: superpathay of heme biosynthesis from glutamate|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5918: superpathay of heme biosynthesis from glutamate|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5918: superpathay of heme biosynthesis from glutamate|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5920: superpathway of heme biosynthesis from glycine|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5971: palmitate biosynthesis II (bacteria and plants)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5971: palmitate biosynthesis II (bacteria and plants)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5973: cis-vaccenate biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5973: cis-vaccenate biosynthesis|g__Enterobacter.s__Enterobacter_mori
+PWY-5973: cis-vaccenate biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-5973: cis-vaccenate biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-5989: stearate biosynthesis II (bacteria and plants)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-5989: stearate biosynthesis II (bacteria and plants)|g__Enterobacter.s__Enterobacter_mori
+PWY-5989: stearate biosynthesis II (bacteria and plants)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6071: superpathway of phenylethylamine degradation
+PWY-6071: superpathway of phenylethylamine degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6071: superpathway of phenylethylamine degradation|g__Enterobacter.s__Enterobacter_mori
+PWY-6071: superpathway of phenylethylamine degradation|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6071: superpathway of phenylethylamine degradation|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Enterobacter.s__Enterobacter_mori
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Veillonella.s__Veillonella_seminalis
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Enterobacter.s__Enterobacter_mori
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Veillonella.s__Veillonella_seminalis
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Enterobacter.s__Enterobacter_mori
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Veillonella.s__Veillonella_seminalis
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Enterobacter.s__Enterobacter_mori
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Veillonella.s__Veillonella_seminalis
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Blautia.s__Ruminococcus_torques
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Enterobacter.s__Enterobacter_mori
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Blautia.s__Ruminococcus_torques
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6168: flavin biosynthesis III (fungi)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6168: flavin biosynthesis III (fungi)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6182: superpathway of salicylate degradation
+PWY-6185: 4-methylcatechol degradation (ortho cleavage)
+PWY-621: sucrose degradation III (sucrose invertase)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-621: sucrose degradation III (sucrose invertase)|g__Enterobacter.s__Enterobacter_mori
+PWY-621: sucrose degradation III (sucrose invertase)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-622: starch biosynthesis
+PWY-6269: adenosylcobalamin salvage from cobinamide II|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Enterobacter.s__Enterobacter_mori
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Veillonella.s__Veillonella_seminalis
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|g__Enterobacter.s__Enterobacter_mori
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6284: superpathway of unsaturated fatty acids biosynthesis (E. coli)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6284: superpathway of unsaturated fatty acids biosynthesis (E. coli)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6285: superpathway of fatty acids biosynthesis (E. coli)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6285: superpathway of fatty acids biosynthesis (E. coli)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6305: putrescine biosynthesis IV|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-6305: putrescine biosynthesis IV|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6305: putrescine biosynthesis IV|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6305: putrescine biosynthesis IV|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6317: galactose degradation I (Leloir pathway)|g__Blautia.s__Ruminococcus_torques
+PWY-6317: galactose degradation I (Leloir pathway)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6317: galactose degradation I (Leloir pathway)|g__Enterobacter.s__Enterobacter_mori
+PWY-6317: galactose degradation I (Leloir pathway)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6317: galactose degradation I (Leloir pathway)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6317: galactose degradation I (Leloir pathway)|g__Roseburia.s__Roseburia_intestinalis
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Blautia.s__Ruminococcus_torques
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Enterobacter.s__Enterobacter_mori
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Blautia.s__Ruminococcus_torques
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Blautia.s__Ruminococcus_torques
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Enterobacter.s__Enterobacter_mori
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Enterobacter.s__Enterobacter_mori
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6519: 8-amino-7-oxononanoate biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6519: 8-amino-7-oxononanoate biosynthesis I|g__Enterobacter.s__Enterobacter_mori
+PWY-6519: 8-amino-7-oxononanoate biosynthesis I|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6519: 8-amino-7-oxononanoate biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6527: stachyose degradation|g__Blautia.s__Ruminococcus_torques
+PWY-6527: stachyose degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6527: stachyose degradation|g__Enterobacter.s__Enterobacter_mori
+PWY-6527: stachyose degradation|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6527: stachyose degradation|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6527: stachyose degradation|g__Roseburia.s__Roseburia_intestinalis
+PWY-6531: mannitol cycle|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6531: mannitol cycle|g__Enterobacter.s__Enterobacter_mori
+PWY-6531: mannitol cycle|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6545: pyrimidine deoxyribonucleotides de novo biosynthesis III|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6545: pyrimidine deoxyribonucleotides de novo biosynthesis III|g__Enterobacter.s__Enterobacter_mori
+PWY-6588: pyruvate fermentation to acetone|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6588: pyruvate fermentation to acetone|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6608: guanosine nucleotides degradation III|g__Blautia.s__Ruminococcus_torques
+PWY-6608: guanosine nucleotides degradation III|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6608: guanosine nucleotides degradation III|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6609: adenine and adenosine salvage III|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-6609: adenine and adenosine salvage III|g__Blautia.s__Ruminococcus_torques
+PWY-6609: adenine and adenosine salvage III|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6609: adenine and adenosine salvage III|g__Enterobacter.s__Enterobacter_mori
+PWY-6609: adenine and adenosine salvage III|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6609: adenine and adenosine salvage III|g__Veillonella.s__Veillonella_seminalis
+PWY-6612: superpathway of tetrahydrofolate biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6612: superpathway of tetrahydrofolate biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6700: queuosine biosynthesis|g__Blautia.s__Ruminococcus_torques
+PWY-6700: queuosine biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6700: queuosine biosynthesis|g__Enterobacter.s__Enterobacter_mori
+PWY-6700: queuosine biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6700: queuosine biosynthesis|g__Roseburia.s__Roseburia_intestinalis
+PWY-6700: queuosine biosynthesis|g__Veillonella.s__Veillonella_seminalis
+PWY-6703: preQ0 biosynthesis|g__Blautia.s__Ruminococcus_torques
+PWY-6703: preQ0 biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6703: preQ0 biosynthesis|g__Eubacterium.s__Eubacterium_hallii_CAG_12
+PWY-6703: preQ0 biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6703: preQ0 biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6708: ubiquinol-8 biosynthesis (prokaryotic)
+PWY-6708: ubiquinol-8 biosynthesis (prokaryotic)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6708: ubiquinol-8 biosynthesis (prokaryotic)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6737: starch degradation V|g__Blautia.s__Ruminococcus_torques
+PWY-6737: starch degradation V|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6737: starch degradation V|g__Enterobacter.s__Enterobacter_mori
+PWY-6737: starch degradation V|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6737: starch degradation V|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6803: phosphatidylcholine acyl editing|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6803: phosphatidylcholine acyl editing|g__Enterobacter.s__Enterobacter_mori
+PWY-6803: phosphatidylcholine acyl editing|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6803: phosphatidylcholine acyl editing|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6823: molybdenum cofactor biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6823: molybdenum cofactor biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6823: molybdenum cofactor biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6837: fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)
+PWY-6837: fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-6837: fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6837: fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)|g__Enterobacter.s__Enterobacter_mori
+PWY-6837: fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6837: fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6883: pyruvate fermentation to butanol II
+PWY-6891: thiazole biosynthesis II (Bacillus)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6892: thiazole biosynthesis I (E. coli)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6892: thiazole biosynthesis I (E. coli)|g__Enterobacter.s__Enterobacter_mori
+PWY-6892: thiazole biosynthesis I (E. coli)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6892: thiazole biosynthesis I (E. coli)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6895: superpathway of thiamin diphosphate biosynthesis II|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6897: thiamin salvage II|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6897: thiamin salvage II|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6897: thiamin salvage II|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6901: superpathway of glucose and xylose degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6901: superpathway of glucose and xylose degradation|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-6901: superpathway of glucose and xylose degradation|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-6936: seleno-amino acid biosynthesis|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-6936: seleno-amino acid biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-6936: seleno-amino acid biosynthesis|g__Enterobacter.s__Enterobacter_mori
+PWY-6936: seleno-amino acid biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7003: glycerol degradation to butanol
+PWY-7003: glycerol degradation to butanol|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7003: glycerol degradation to butanol|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7013: L-1,2-propanediol degradation|g__Veillonella.s__Veillonella_seminalis
+PWY-7094: fatty acid salvage
+PWY-7094: fatty acid salvage|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7094: fatty acid salvage|g__Enterobacter.s__Enterobacter_mori
+PWY-7094: fatty acid salvage|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Blautia.s__Ruminococcus_torques
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Enterobacter.s__Enterobacter_mori
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Veillonella.s__Veillonella_seminalis
+PWY-7115: C4 photosynthetic carbon assimilation cycle, NAD-ME type|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7115: C4 photosynthetic carbon assimilation cycle, NAD-ME type|g__Enterobacter.s__Enterobacter_mori
+PWY-7115: C4 photosynthetic carbon assimilation cycle, NAD-ME type|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7117: C4 photosynthetic carbon assimilation cycle, PEPCK type|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7117: C4 photosynthetic carbon assimilation cycle, PEPCK type|g__Enterobacter.s__Enterobacter_mori
+PWY-7117: C4 photosynthetic carbon assimilation cycle, PEPCK type|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-7117: C4 photosynthetic carbon assimilation cycle, PEPCK type|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7165: L-ascorbate biosynthesis VI (engineered pathway)
+PWY-7165: L-ascorbate biosynthesis VI (engineered pathway)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I|g__Enterobacter.s__Enterobacter_mori
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Enterobacter.s__Enterobacter_mori
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7198: pyrimidine deoxyribonucleotides de novo biosynthesis IV|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7198: pyrimidine deoxyribonucleotides de novo biosynthesis IV|g__Enterobacter.s__Enterobacter_mori
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7204: pyridoxal 5'-phosphate salvage II (plants)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7204: pyridoxal 5'-phosphate salvage II (plants)|g__Enterobacter.s__Enterobacter_mori
+PWY-7204: pyridoxal 5'-phosphate salvage II (plants)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-7204: pyridoxal 5'-phosphate salvage II (plants)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Enterobacter.s__Enterobacter_mori
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7210: pyrimidine deoxyribonucleotides biosynthesis from CTP|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7210: pyrimidine deoxyribonucleotides biosynthesis from CTP|g__Enterobacter.s__Enterobacter_mori
+PWY-7211: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Actinomyces.s__Actinomyces_sp_HPA0247
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Enterobacter.s__Enterobacter_mori
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Enterobacter.s__Enterobacter_mori
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Veillonella.s__Veillonella_seminalis
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Blautia.s__Ruminococcus_torques
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Enterobacter.s__Enterobacter_mori
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Veillonella.s__Veillonella_seminalis
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Enterobacter.s__Enterobacter_mori
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Veillonella.s__Veillonella_seminalis
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Enterobacter.s__Enterobacter_mori
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7237: myo-, chiro- and scillo-inositol degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7237: myo-, chiro- and scillo-inositol degradation|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7242: D-fructuronate degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7242: D-fructuronate degradation|g__Enterobacter.s__Enterobacter_mori
+PWY-7242: D-fructuronate degradation|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-7242: D-fructuronate degradation|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7269: NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)
+PWY-7269: NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7269: NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)|g__Enterobacter.s__Enterobacter_mori
+PWY-7269: NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-7269: NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Enterobacter.s__Enterobacter_mori
+PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7315: dTDP-N-acetylthomosamine biosynthesis
+PWY-7315: dTDP-N-acetylthomosamine biosynthesis|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-7315: dTDP-N-acetylthomosamine biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7315: dTDP-N-acetylthomosamine biosynthesis|g__Enterobacter.s__Enterobacter_mori
+PWY-7315: dTDP-N-acetylthomosamine biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-7315: dTDP-N-acetylthomosamine biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis|g__Enterobacter.s__Enterobacter_mori
+PWY-7328: superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7328: superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7328: superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis|unclassified
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7388: octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7388: octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)|g__Enterobacter.s__Enterobacter_mori
+PWY-7388: octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-7388: octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7446: sulfoglycolysis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7446: sulfoglycolysis|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Enterobacter.s__Enterobacter_mori
+PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Enterobacter.s__Enterobacter_mori
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-7664: oleate biosynthesis IV (anaerobic)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY-7664: oleate biosynthesis IV (anaerobic)|g__Enterobacter.s__Enterobacter_mori
+PWY-7664: oleate biosynthesis IV (anaerobic)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY-7664: oleate biosynthesis IV (anaerobic)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY-841: superpathway of purine nucleotides de novo biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Enterobacter.s__Enterobacter_mori
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|g__Enterobacter.s__Enterobacter_mori
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY0-1261: anhydromuropeptides recycling|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY0-1261: anhydromuropeptides recycling|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY0-1261: anhydromuropeptides recycling|g__Enterobacter.s__Enterobacter_mori
+PWY0-1261: anhydromuropeptides recycling|g__Leclercia.s__Leclercia_adecarboxylata
+PWY0-1261: anhydromuropeptides recycling|g__Raoultella.s__Raoultella_ornithinolytica
+PWY0-1296: purine ribonucleosides degradation|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY0-1296: purine ribonucleosides degradation|g__Blautia.s__Ruminococcus_torques
+PWY0-1296: purine ribonucleosides degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY0-1296: purine ribonucleosides degradation|g__Enterobacter.s__Enterobacter_mori
+PWY0-1296: purine ribonucleosides degradation|g__Raoultella.s__Raoultella_ornithinolytica
+PWY0-1296: purine ribonucleosides degradation|g__Veillonella.s__Veillonella_seminalis
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Blautia.s__Ruminococcus_torques
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Enterobacter.s__Enterobacter_mori
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Raoultella.s__Raoultella_ornithinolytica
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Enterobacter.s__Enterobacter_mori
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Leclercia.s__Leclercia_adecarboxylata
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Raoultella.s__Raoultella_ornithinolytica
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Blautia.s__Ruminococcus_torques
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Enterobacter.s__Enterobacter_mori
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Leclercia.s__Leclercia_adecarboxylata
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Raoultella.s__Raoultella_ornithinolytica
+PWY0-1338: polymyxin resistance
+PWY0-1338: polymyxin resistance|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY0-1338: polymyxin resistance|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY0-1338: polymyxin resistance|g__Enterobacter.s__Enterobacter_mori
+PWY0-1338: polymyxin resistance|g__Raoultella.s__Raoultella_ornithinolytica
+PWY0-1415: superpathway of heme biosynthesis from uroporphyrinogen-III|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY0-1415: superpathway of heme biosynthesis from uroporphyrinogen-III|g__Leclercia.s__Leclercia_adecarboxylata
+PWY0-1479: tRNA processing|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY0-1479: tRNA processing|g__Enterobacter.s__Enterobacter_mori
+PWY0-1479: tRNA processing|g__Leclercia.s__Leclercia_adecarboxylata
+PWY0-1479: tRNA processing|g__Raoultella.s__Raoultella_ornithinolytica
+PWY0-1533: methylphosphonate degradation I
+PWY0-1533: methylphosphonate degradation I|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY0-1533: methylphosphonate degradation I|g__Leclercia.s__Leclercia_adecarboxylata
+PWY0-1533: methylphosphonate degradation I|g__Raoultella.s__Raoultella_ornithinolytica
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Atlantibacter.s__Atlantibacter_hermannii
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Enterobacter.s__Enterobacter_mori
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)|g__Enterobacter.s__Enterobacter_mori
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY0-321: phenylacetate degradation I (aerobic)
+PWY0-321: phenylacetate degradation I (aerobic)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY0-321: phenylacetate degradation I (aerobic)|g__Enterobacter.s__Enterobacter_mori
+PWY0-321: phenylacetate degradation I (aerobic)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY0-321: phenylacetate degradation I (aerobic)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Enterobacter.s__Enterobacter_mori
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Leclercia.s__Leclercia_adecarboxylata
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Raoultella.s__Raoultella_ornithinolytica
+PWY0-862: (5Z)-dodec-5-enoate biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY0-862: (5Z)-dodec-5-enoate biosynthesis|g__Enterobacter.s__Enterobacter_mori
+PWY0-862: (5Z)-dodec-5-enoate biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+PWY0-862: (5Z)-dodec-5-enoate biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+PWY3DJ-35471: L-ascorbate biosynthesis IV
+PWY3DJ-35471: L-ascorbate biosynthesis IV|g__Raoultella.s__Raoultella_ornithinolytica
+PWY3DJ-35471: L-ascorbate biosynthesis IV|unclassified
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)|g__Enterobacter.s__Enterobacter_mori
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)|g__Enterobacter.s__Enterobacter_mori
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY4LZ-257: superpathway of fermentation (Chlamydomonas reinhardtii)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY4LZ-257: superpathway of fermentation (Chlamydomonas reinhardtii)|g__Enterobacter.s__Enterobacter_mori
+PWY4LZ-257: superpathway of fermentation (Chlamydomonas reinhardtii)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY4LZ-257: superpathway of fermentation (Chlamydomonas reinhardtii)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY66-389: phytol degradation
+PWY66-389: phytol degradation|g__Blautia.s__Ruminococcus_torques
+PWY66-389: phytol degradation|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY66-389: phytol degradation|g__Raoultella.s__Raoultella_ornithinolytica
+PWY66-400: glycolysis VI (metazoan)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY66-400: glycolysis VI (metazoan)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Blautia.s__Ruminococcus_torques
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Enterobacter.s__Enterobacter_mori
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Leclercia.s__Leclercia_adecarboxylata
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Raoultella.s__Raoultella_ornithinolytica
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Roseburia.s__Roseburia_intestinalis
+PYRIDNUCSAL-PWY: NAD salvage pathway I|g__Enterobacter.s__Enterobacter_cloacae_complex
+PYRIDNUCSAL-PWY: NAD salvage pathway I|g__Leclercia.s__Leclercia_adecarboxylata
+PYRIDNUCSAL-PWY: NAD salvage pathway I|g__Raoultella.s__Raoultella_ornithinolytica
+PYRIDNUCSYN-PWY: NAD biosynthesis I (from aspartate)|g__Enterobacter.s__Enterobacter_cloacae_complex
+PYRIDNUCSYN-PWY: NAD biosynthesis I (from aspartate)|g__Enterobacter.s__Enterobacter_mori
+PYRIDNUCSYN-PWY: NAD biosynthesis I (from aspartate)|g__Raoultella.s__Raoultella_ornithinolytica
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Enterobacter.s__Enterobacter_mori
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Leclercia.s__Leclercia_adecarboxylata
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+RHAMCAT-PWY: L-rhamnose degradation I|g__Enterobacter.s__Enterobacter_cloacae_complex
+RHAMCAT-PWY: L-rhamnose degradation I|g__Enterobacter.s__Enterobacter_mori
+RHAMCAT-PWY: L-rhamnose degradation I|g__Leclercia.s__Leclercia_adecarboxylata
+RHAMCAT-PWY: L-rhamnose degradation I|g__Raoultella.s__Raoultella_ornithinolytica
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Enterobacter.s__Enterobacter_cloacae_complex
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Enterobacter.s__Enterobacter_mori
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Leclercia.s__Leclercia_adecarboxylata
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Raoultella.s__Raoultella_ornithinolytica
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Atlantibacter.s__Atlantibacter_hermannii
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Blautia.s__Ruminococcus_torques
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Leclercia.s__Leclercia_adecarboxylata
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Roseburia.s__Roseburia_intestinalis_CAG_13
+SO4ASSIM-PWY: sulfate reduction I (assimilatory)|g__Atlantibacter.s__Atlantibacter_hermannii
+SO4ASSIM-PWY: sulfate reduction I (assimilatory)|g__Enterobacter.s__Enterobacter_cloacae_complex
+SO4ASSIM-PWY: sulfate reduction I (assimilatory)|g__Enterobacter.s__Enterobacter_mori
+SO4ASSIM-PWY: sulfate reduction I (assimilatory)|g__Leclercia.s__Leclercia_adecarboxylata
+SO4ASSIM-PWY: sulfate reduction I (assimilatory)|g__Raoultella.s__Raoultella_ornithinolytica
+SULFATE-CYS-PWY: superpathway of sulfate assimilation and cysteine biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+SULFATE-CYS-PWY: superpathway of sulfate assimilation and cysteine biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+TCA-GLYOX-BYPASS: superpathway of glyoxylate bypass and TCA|g__Enterobacter.s__Enterobacter_cloacae_complex
+TCA-GLYOX-BYPASS: superpathway of glyoxylate bypass and TCA|g__Enterobacter.s__Enterobacter_mori
+TCA-GLYOX-BYPASS: superpathway of glyoxylate bypass and TCA|g__Raoultella.s__Raoultella_ornithinolytica
+TCA: TCA cycle I (prokaryotic)|g__Enterobacter.s__Enterobacter_cloacae_complex
+TCA: TCA cycle I (prokaryotic)|g__Enterobacter.s__Enterobacter_mori
+TCA: TCA cycle I (prokaryotic)|g__Raoultella.s__Raoultella_ornithinolytica
+THISYN-PWY: superpathway of thiamin diphosphate biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+THISYN-PWY: superpathway of thiamin diphosphate biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Enterobacter.s__Enterobacter_cloacae_complex
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Raoultella.s__Raoultella_ornithinolytica
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Atlantibacter.s__Atlantibacter_hermannii
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Enterobacter.s__Enterobacter_mori
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+TRNA-CHARGING-PWY: tRNA charging|g__Enterobacter.s__Enterobacter_cloacae_complex
+TRNA-CHARGING-PWY: tRNA charging|g__Leclercia.s__Leclercia_adecarboxylata
+TRNA-CHARGING-PWY: tRNA charging|g__Raoultella.s__Raoultella_ornithinolytica
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Atlantibacter.s__Atlantibacter_hermannii
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Blautia.s__Ruminococcus_torques
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Enterobacter.s__Enterobacter_mori
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+UBISYN-PWY: superpathway of ubiquinol-8 biosynthesis (prokaryotic)
+UBISYN-PWY: superpathway of ubiquinol-8 biosynthesis (prokaryotic)|g__Enterobacter.s__Enterobacter_cloacae_complex
+UBISYN-PWY: superpathway of ubiquinol-8 biosynthesis (prokaryotic)|g__Raoultella.s__Raoultella_ornithinolytica
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Atlantibacter.s__Atlantibacter_hermannii
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Enterobacter.s__Enterobacter_cloacae_complex
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Enterobacter.s__Enterobacter_mori
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Leclercia.s__Leclercia_adecarboxylata
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Raoultella.s__Raoultella_ornithinolytica
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Veillonella.s__Veillonella_seminalis
+VALSYN-PWY: L-valine biosynthesis|g__Atlantibacter.s__Atlantibacter_hermannii
+VALSYN-PWY: L-valine biosynthesis|g__Blautia.s__Ruminococcus_torques
+VALSYN-PWY: L-valine biosynthesis|g__Enterobacter.s__Enterobacter_cloacae_complex
+VALSYN-PWY: L-valine biosynthesis|g__Enterobacter.s__Enterobacter_mori
+VALSYN-PWY: L-valine biosynthesis|g__Leclercia.s__Leclercia_adecarboxylata
+VALSYN-PWY: L-valine biosynthesis|g__Raoultella.s__Raoultella_ornithinolytica
+VALSYN-PWY: L-valine biosynthesis|g__Veillonella.s__Veillonella_seminalis

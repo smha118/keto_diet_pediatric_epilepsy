@@ -1,0 +1,46 @@
+NODE
+4-hydroxyhippurate
+campesterol
+thiamin (vitamin B1)
+beta-sitosterol
+3-phenylpropionate (hydrocinnamate)
+argininate*
+caproate (6:0)
+N2,N6-diacetyllysine
+glutaminylleucine
+glycerophosphoinositol*
+eicosapentaenoate (EPA; 20:5n3)
+2R,3R-dihydroxybutyrate
+betaine
+3-hydroxybutyrate (BHBA)
+oleoyl-linoleoyl-glycerol (18:1/18:2) [1]
+1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*
+erythronate*
+2,4-dihydroxybutyrate
+5-hydroxypicolinic acid
+gamma-glutamylphenylalanine
+N-acetyl-1-methylhistidine*
+leucylalanine
+myo-inositol
+alanylleucine
+imidazole lactate
+1-palmitoyl-2-oleoyl-GPE (16:0/18:1)
+hydroxymethylpyrimidine
+N-formylphenylalanine
+1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*
+4-cholesten-3-one
+vanillic acid glycine
+linolenoylcarnitine (C18:3)*
+isovalerylglycine
+2-isopropylmalate
+caprate (10:0)
+stearidonate (18:4n3)
+isocaproate (i6:0)
+N1-methyl-4-pyridone-3-carboxamide
+linoleate (18:2n6)
+N-methylproline
+N6-formyllysine
+mannose
+1-arachidonoyl-GPC (20:4n6)*
+2-methylbutyrylcarnitine (C5)
+1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*

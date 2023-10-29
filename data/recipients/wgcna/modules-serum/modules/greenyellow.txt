@@ -1,0 +1,24 @@
+laurate (12:0)
+palmitoleate (16:1n7)
+myristate (14:0)
+oleoyl ethanolamide
+palmitoyl ethanolamide
+3-hydroxyoctanoate
+3-hydroxymyristate
+3-hydroxypalmitate
+3-hydroxydecanoate
+3-hydroxylaurate
+decanoylcarnitine (C10)
+laurylcarnitine (C12)
+1-arachidonoyl-GPC (20:4n6)*
+2-hydroxypalmitate
+cholesterol sulfate
+1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)
+cis-4-decenoate (10:1n6)*
+N-oleoyltaurine
+N-linoleoyltaurine*
+myristoleoylcarnitine (C14:1)*
+linoleoyl ethanolamide
+sphingomyelin (d18:2/23:1)*
+tetradecadienoate (14:2)*
+tetradecadienedioate (C14:2-DC)*

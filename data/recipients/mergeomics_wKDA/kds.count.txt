@@ -1,0 +1,94 @@
+	NODE
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Lachnoclostridium.s__Clostridium_aldenense	3
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus	3
+Olfm1_hx	3
+ENSMUSG00000097579_fx	2
+ENSMUSG00000062510_hx	2
+Ten1_hx	2
+Cltc_hx	2
+Zfp385b_hx	2
+Stra6_fx	2
+ENSMUSG00000081932_hx	2
+PWY-5101: L-isoleucine biosynthesis II|g__Lachnoclostridium.s__Clostridium_hylemonae	2
+Gm4654_fx	2
+ENSMUSG00000104571_hx	2
+Pigp_hx	2
+Mrps2_hx	2
+Ctnnb1_hx	1
+PWY-6897: thiamin salvage II|g__Lachnoclostridium.s__Clostridium_saccharolyticum	1
+ENSMUSG00000079227_hx	1
+Parp11_fx	1
+ENSMUSG00000106135_hx	1
+Gm14539_fx	1
+Hmces_hx	1
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Alistipes.s__Alistipes_finegoldii	1
+Ccnd3_hx	1
+Ndufb3_fx	1
+Rps19bp1_hx	1
+ENSMUSG00000080979_hx	1
+Tmed1_hx	1
+ENSMUSG00000070305_hx	1
+Rhoa_hx	1
+Fjx1_hx	1
+Aasdhppt_hx	1
+Gm16712_fx	1
+ENSMUSG00000042737_hx	1
+Txnl4b_hx	1
+Abat_hx	1
+Tpd52l2_hx	1
+Rnf139_hx	1
+Cfap126_hx	1
+3-(4-hydroxyphenyl)propionate_serum	1
+ENSMUSG00000015126_hx	1
+ENSMUSG00000064317_fx	1
+Eif2b4_hx	1
+Anp32e_hx	1
+Snhg9_hx	1
+Gm37880_hx	1
+Lasp1_hx	1
+Acad10_hx	1
+PWY66-389: phytol degradation|g__Lachnoclostridium.s__Clostridium_clostridioforme	1
+Arid4a_hx	1
+PWY-5686: UMP biosynthesis|g__Alistipes.s__Alistipes_putredinis_CAG_67	1
+Skic2_hx	1
+Ksr1_hx	1
+Wdr97_hx	1
+PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_xylanisolvens	1
+ENSMUSG00000101596_fx	1
+Arhgap44_hx	1
+Gm47512_fx	1
+0610040B10Rik_hx	1
+Pomgnt2_hx	1
+Marchf9_hx	1
+Atg4c_hx	1
+Cxcl10_hx	1
+ENSMUSG00000074890_hx	1
+ENSMUSG00000029370_hx	1
+PWY-1861: formaldehyde assimilation II (RuMP Cycle)|g__Lachnoclostridium.s__Clostridium_aldenense	1
+Gm15206_fx	1
+Tor1b_hx	1
+PWY-7446: sulfoglycolysis|g__Citrobacter.s__Citrobacter_amalonaticus	1
+Loxl3_hx	1
+Gm37848_hx	1
+Atf4_hx	1
+PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_sartorii	1
+Ttll4_hx	1
+Zxdc_hx	1
+Map7d1_hx	1
+Trabd_hx	1
+Kat8_fx	1
+Rps4x_fx	1
+ENSMUSG00000032436_hx	1
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_sartorii	1
+PWY-6703: preQ0 biosynthesis|g__Alistipes.s__Alistipes_putredinis	1
+Gm37534_hx	1
+ENSMUSG00000097618_fx	1
+ENSMUSG00000078772_hx	1
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Hungatella.s__Hungatella_hathewayi	1
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii	1
+Aqp11_hx	1
+PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus	1
+Gm15500_hx	1
+Phax_hx	1
+ENSMUSG00000086728_hx	1
+Slc40a1_hx	1

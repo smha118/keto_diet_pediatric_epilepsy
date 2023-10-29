@@ -1,0 +1,46 @@
+NODE
+4-hydroxyhippurate_feces
+campesterol_feces
+thiamin (vitamin B1)_feces
+beta-sitosterol_feces
+3-phenylpropionate (hydrocinnamate)_feces
+argininate*_feces
+caproate (6:0)_feces
+N2,N6-diacetyllysine_feces
+glutaminylleucine_feces
+glycerophosphoinositol*_feces
+eicosapentaenoate (EPA; 20:5n3)_feces
+2R,3R-dihydroxybutyrate_feces
+betaine_feces
+3-hydroxybutyrate (BHBA)_feces
+oleoyl-linoleoyl-glycerol (18:1/18:2) [1]_feces
+1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*_feces
+erythronate*_feces
+2,4-dihydroxybutyrate_feces
+5-hydroxypicolinic acid_feces
+gamma-glutamylphenylalanine_feces
+N-acetyl-1-methylhistidine*_feces
+leucylalanine_feces
+myo-inositol_feces
+alanylleucine_feces
+imidazole lactate_feces
+1-palmitoyl-2-oleoyl-GPE (16:0/18:1)_feces
+hydroxymethylpyrimidine_feces
+N-formylphenylalanine_feces
+1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*_feces
+4-cholesten-3-one_feces
+vanillic acid glycine_feces
+linolenoylcarnitine (C18:3)*_feces
+isovalerylglycine_feces
+2-isopropylmalate_feces
+caprate (10:0)_feces
+stearidonate (18:4n3)_feces
+isocaproate (i6:0)_feces
+N1-methyl-4-pyridone-3-carboxamide_feces
+linoleate (18:2n6)_feces
+N-methylproline_feces
+N6-formyllysine_feces
+mannose_feces
+1-arachidonoyl-GPC (20:4n6)*_feces
+2-methylbutyrylcarnitine (C5)_feces
+1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*_feces

@@ -1,0 +1,121 @@
+3-HYDROXYPHENYLACETATE-DEGRADATION-PWY: 4-hydroxyphenylacetate degradation
+ANAEROFRUCAT-PWY: homolactic fermentation|g__Klebsiella.s__Klebsiella_oxytoca
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Klebsiella.s__Klebsiella_oxytoca
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Klebsiella.s__Klebsiella_oxytoca
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Klebsiella.s__Klebsiella_oxytoca
+COBALSYN-PWY: adenosylcobalamin salvage from cobinamide I|g__Klebsiella.s__Klebsiella_oxytoca
+FAO-PWY: fatty acid &beta;-oxidation I|g__Klebsiella.s__Klebsiella_oxytoca
+FUCCAT-PWY: fucose degradation|g__Klebsiella.s__Klebsiella_oxytoca
+GALACTARDEG-PWY: D-galactarate degradation I|g__Klebsiella.s__Klebsiella_oxytoca
+GALACTUROCAT-PWY: D-galacturonate degradation I|g__Klebsiella.s__Klebsiella_oxytoca
+GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation|g__Klebsiella.s__Klebsiella_oxytoca
+GLUCARDEG-PWY: D-glucarate degradation I|g__Klebsiella.s__Klebsiella_oxytoca
+GLUCARGALACTSUPER-PWY: superpathway of D-glucarate and D-galactarate degradation|g__Klebsiella.s__Klebsiella_oxytoca
+GLUCONEO-PWY: gluconeogenesis I|g__Klebsiella.s__Klebsiella_oxytoca
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|g__Klebsiella.s__Klebsiella_oxytoca
+GLUDEG-I-PWY: GABA shunt
+GLUTORN-PWY: L-ornithine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+GLYCOLYSIS-E-D: superpathway of glycolysis and Entner-Doudoroff|g__Klebsiella.s__Klebsiella_oxytoca
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Klebsiella.s__Klebsiella_oxytoca
+GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol|g__Klebsiella.s__Klebsiella_oxytoca
+HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)|g__Klebsiella.s__Klebsiella_oxytoca
+HEMESYN2-PWY: heme biosynthesis II (anaerobic)|g__Klebsiella.s__Klebsiella_oxytoca
+HEXITOLDEGSUPER-PWY: superpathway of hexitol degradation (bacteria)|g__Klebsiella.s__Klebsiella_oxytoca
+HISDEG-PWY: L-histidine degradation I|g__Klebsiella.s__Klebsiella_oxytoca
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Klebsiella.s__Klebsiella_oxytoca
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+NAD-BIOSYNTHESIS-II: NAD salvage pathway II|g__Klebsiella.s__Klebsiella_oxytoca
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Klebsiella.s__Klebsiella_oxytoca
+P161-PWY: acetylene degradation|g__Klebsiella.s__Klebsiella_oxytoca
+P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)|g__Klebsiella.s__Klebsiella_oxytoca
+P441-PWY: superpathway of N-acetylneuraminate degradation|g__Klebsiella.s__Klebsiella_oxytoca
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Klebsiella.s__Klebsiella_oxytoca
+P562-PWY: myo-inositol degradation I|g__Klebsiella.s__Klebsiella_oxytoca
+PENTOSE-P-PWY: pentose phosphate pathway|g__Klebsiella.s__Klebsiella_oxytoca
+PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)|g__Klebsiella.s__Klebsiella_oxytoca
+POLYAMSYN-PWY: superpathway of polyamine biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+POLYISOPRENSYN-PWY: polyisoprenoid biosynthesis (E. coli)|g__Klebsiella.s__Klebsiella_oxytoca
+PPGPPMET-PWY: ppGpp biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-1042: glycolysis IV (plant cytosol)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-2942: L-lysine biosynthesis III|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-3841: folate transformations II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-4041: &gamma;-glutamyl cycle|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5103: L-isoleucine biosynthesis III|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5104: L-isoleucine biosynthesis IV|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5136: fatty acid &beta;-oxidation II (peroxisome)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5173: superpathway of acetyl-CoA biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5367: petroselinate biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5509: adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I
+PWY-5659: GDP-mannose biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5723: Rubisco shunt|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5855: ubiquinol-7 biosynthesis (prokaryotic)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5856: ubiquinol-9 biosynthesis (prokaryotic)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5857: ubiquinol-10 biosynthesis (prokaryotic)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5913: TCA cycle VI (obligate autotrophs)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5918: superpathay of heme biosynthesis from glutamate|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5973: cis-vaccenate biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5989: stearate biosynthesis II (bacteria and plants)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6269: adenosylcobalamin salvage from cobinamide II
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6305: putrescine biosynthesis IV|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6317: galactose degradation I (Leloir pathway)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6527: stachyose degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6609: adenine and adenosine salvage III|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6700: queuosine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6703: preQ0 biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6708: ubiquinol-8 biosynthesis (prokaryotic)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6737: starch degradation V|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6897: thiamin salvage II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6901: superpathway of glucose and xylose degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7013: L-1,2-propanediol degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7094: fatty acid salvage|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7117: C4 photosynthetic carbon assimilation cycle, PEPCK type|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7242: D-fructuronate degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7315: dTDP-N-acetylthomosamine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-1479: tRNA processing|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-862: (5Z)-dodec-5-enoate biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY4LZ-257: superpathway of fermentation (Chlamydomonas reinhardtii)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY66-400: glycolysis VI (metazoan)|g__Klebsiella.s__Klebsiella_oxytoca
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+RHAMCAT-PWY: L-rhamnose degradation I|g__Klebsiella.s__Klebsiella_oxytoca
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+SO4ASSIM-PWY: sulfate reduction I (assimilatory)|g__Klebsiella.s__Klebsiella_oxytoca
+SULFATE-CYS-PWY: superpathway of sulfate assimilation and cysteine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Klebsiella.s__Klebsiella_oxytoca
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+VALSYN-PWY: L-valine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca

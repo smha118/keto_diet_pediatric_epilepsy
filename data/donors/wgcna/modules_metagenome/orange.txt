@@ -1,0 +1,15 @@
+FUC-RHAMCAT-PWY: superpathway of fucose and rhamnose degradation|unclassified
+GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation|unclassified
+GLUTORN-PWY: L-ornithine biosynthesis|unclassified
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|unclassified
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|unclassified
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|unclassified
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|unclassified
+PWY-6353: purine nucleotides degradation II (aerobic)|unclassified
+PWY-6545: pyrimidine deoxyribonucleotides de novo biosynthesis III|unclassified
+PWY-6549: L-glutamine biosynthesis III|unclassified
+PWY-6606: guanosine nucleotides degradation II|unclassified
+PWY-6608: guanosine nucleotides degradation III|unclassified
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|unclassified
+PWY66-400: glycolysis VI (metazoan)|unclassified
+SALVADEHYPOX-PWY: adenosine nucleotides degradation II|unclassified

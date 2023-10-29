@@ -1,4 +1,0 @@
-"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
-"Phenylalanine metabolism",10,0.019355,1,0.019243,1.7157,1,0.85873,0
-"Arginine biosynthesis",14,0.027097,1,0.02687,1.5707,1,0.85873,0
-"Histidine metabolism",16,0.030968,1,0.030669,1.5133,1,0.85873,0.18852

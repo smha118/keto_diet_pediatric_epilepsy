@@ -1,0 +1,28 @@
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_fragilis
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_fragilis
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_fragilis
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Bacteroides.s__Bacteroides_fragilis
+PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_fragilis
+PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-561: superpathway of glyoxylate cycle and fatty acid degradation|unclassified
+PWY-5686: UMP biosynthesis|g__Bacteroides.s__Bacteroides_fragilis
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_fragilis
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-6608: guanosine nucleotides degradation III|g__Bacteroides.s__Bacteroides_fragilis
+PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_fragilis
+PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_fragilis
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_fragilis
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_fragilis
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_fragilis
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_fragilis
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_fragilis
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_fragilis_CAG_47
+PWY-7456: mannan degradation
+PWY-7456: mannan degradation|g__Bacteroides.s__Bacteroides_fragilis
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_fragilis

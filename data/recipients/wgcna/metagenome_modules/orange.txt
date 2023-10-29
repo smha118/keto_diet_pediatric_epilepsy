@@ -1,0 +1,55 @@
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Lactococcus.s__Lactococcus_lactis
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Lactococcus.s__Lactococcus_lactis
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Lactococcus.s__Lactococcus_lactis
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Lactococcus.s__Lactococcus_lactis
+GLUTORN-PWY: L-ornithine biosynthesis|g__Lactococcus.s__Lactococcus_lactis
+HISTSYN-PWY: L-histidine biosynthesis|g__Lactococcus.s__Lactococcus_lactis
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Lactococcus.s__Lactococcus_lactis
+LACTOSECAT-PWY: lactose and galactose degradation I
+LACTOSECAT-PWY: lactose and galactose degradation I|g__Lactococcus.s__Lactococcus_lactis
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Lactococcus.s__Lactococcus_lactis
+P125-PWY: superpathway of (R,R)-butanediol biosynthesis
+P125-PWY: superpathway of (R,R)-butanediol biosynthesis|g__Lactococcus.s__Lactococcus_lactis
+P161-PWY: acetylene degradation|g__Lactococcus.s__Lactococcus_lactis
+PWY-1042: glycolysis IV (plant cytosol)|g__Lactococcus.s__Lactococcus_lactis
+PWY-4981: L-proline biosynthesis II (from arginine)
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Lactococcus.s__Lactococcus_lactis
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Lactococcus.s__Lactococcus_lactis
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Lactococcus.s__Lactococcus_lactis
+PWY-5791: 1,4-dihydroxy-2-naphthoate biosynthesis II (plants)
+PWY-5791: 1,4-dihydroxy-2-naphthoate biosynthesis II (plants)|g__Lactococcus.s__Lactococcus_lactis
+PWY-5837: 1,4-dihydroxy-2-naphthoate biosynthesis I
+PWY-5837: 1,4-dihydroxy-2-naphthoate biosynthesis I|g__Lactococcus.s__Lactococcus_lactis
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Lactococcus.s__Lactococcus_lactis
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lactococcus.s__Lactococcus_lactis
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Lactococcus.s__Lactococcus_lactis
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Lactococcus.s__Lactococcus_lactis
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Lactococcus.s__Lactococcus_lactis
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Lactococcus.s__Lactococcus_lactis
+PWY-6168: flavin biosynthesis III (fungi)
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lactococcus.s__Lactococcus_lactis
+PWY-6317: galactose degradation I (Leloir pathway)|g__Lactococcus.s__Lactococcus_lactis
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Lactococcus.s__Lactococcus_lactis
+PWY-6609: adenine and adenosine salvage III|g__Lactococcus.s__Lactococcus_lactis
+PWY-6700: queuosine biosynthesis|g__Lactococcus.s__Lactococcus_lactis
+PWY-6737: starch degradation V|g__Lactococcus.s__Lactococcus_lactis
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Lactococcus.s__Lactococcus_lactis
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Lactococcus.s__Lactococcus_lactis
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Lactococcus.s__Lactococcus_lactis
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Lactococcus.s__Lactococcus_lactis
+PWY-7234: inosine-5'-phosphate biosynthesis III
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Lactococcus.s__Lactococcus_lactis
+PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)
+PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Lactococcus.s__Lactococcus_lactis
+PWY0-1061: superpathway of L-alanine biosynthesis
+PWY0-1296: purine ribonucleosides degradation|g__Lactococcus.s__Lactococcus_lactis
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Lactococcus.s__Lactococcus_lactis
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Lactococcus.s__Lactococcus_lactis
+PWY66-400: glycolysis VI (metazoan)|g__Lactococcus.s__Lactococcus_lactis
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Lactococcus.s__Lactococcus_lactis
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Lactococcus.s__Lactococcus_lactis
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Lactococcus.s__Lactococcus_lactis
+TRNA-CHARGING-PWY: tRNA charging|g__Lactococcus.s__Lactococcus_lactis
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Lactococcus.s__Lactococcus_lactis
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Lactococcus.s__Lactococcus_lactis

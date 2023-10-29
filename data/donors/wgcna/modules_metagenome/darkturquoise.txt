@@ -1,0 +1,24 @@
+DENOVOPURINE2-PWY: superpathway of purine nucleotides de novo biosynthesis II
+GLUCONEO-PWY: gluconeogenesis I
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)
+P108-PWY: pyruvate fermentation to propanoate I
+PANTO-PWY: phosphopantothenate biosynthesis I
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I
+PWY-1042: glycolysis IV (plant cytosol)
+PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline)
+PWY-5484: glycolysis II (from fructose 6-phosphate)
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II
+PWY-6168: flavin biosynthesis III (fungi)
+PWY-6700: queuosine biosynthesis
+PWY-6703: preQ0 biosynthesis
+PWY-6897: thiamin salvage II
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I
+PWY-7187: pyrimidine deoxyribonucleotides de novo biosynthesis II
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)
+PWY-841: superpathway of purine nucleotides de novo biosynthesis I
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)
+PWY66-400: glycolysis VI (metazoan)
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)
+TRNA-CHARGING-PWY: tRNA charging

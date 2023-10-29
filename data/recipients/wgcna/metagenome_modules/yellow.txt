@@ -1,0 +1,394 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Lachnoclostridium.s__Clostridium_clostridioforme
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_finegoldii
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Lachnoclostridium.s__Clostridium_clostridioforme
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Parabacteroides.s__Parabacteroides_distasonis
+ARGININE-SYN4-PWY: L-ornithine de novo  biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Lachnoclostridium.s__Clostridium_clostridioforme
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Intestinibacter.s__Intestinibacter_bartlettii
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Lachnoclostridium.s__Clostridium_clostridioforme
+ARO-PWY: chorismate biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum
+ARO-PWY: chorismate biosynthesis I|g__Lachnoclostridium.s__Clostridium_clostridioforme
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Lachnoclostridium.s__Clostridium_clostridioforme
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Parasutterella.s__Parasutterella_excrementihominis
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Lachnoclostridium.s__Clostridium_clostridioforme
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Parasutterella.s__Parasutterella_excrementihominis
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Intestinibacter.s__Intestinibacter_bartlettii
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Lachnoclostridium.s__Clostridium_clostridioforme
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Parabacteroides.s__Parabacteroides_distasonis
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+CITRULBIO-PWY: L-citrulline biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Lachnoclostridium.s__Clostridium_clostridioforme
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Parabacteroides.s__Parabacteroides_distasonis
+COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+COA-PWY: coenzyme A biosynthesis I|g__Lachnoclostridium.s__Clostridium_clostridioforme
+COA-PWY: coenzyme A biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Lachnoclostridium.s__Clostridium_clostridioforme
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_finegoldii
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Lachnoclostridium.s__Clostridium_clostridioforme
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Bacteroides.s__Bacteroides_finegoldii
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Parabacteroides.s__Parabacteroides_distasonis
+FUCCAT-PWY: fucose degradation|g__Lachnoclostridium.s__Clostridium_clostridioforme
+GALACTARDEG-PWY: D-galactarate degradation I|g__Flavonifractor.s__Flavonifractor_plautii
+GALACTARDEG-PWY: D-galactarate degradation I|g__Lachnoclostridium.s__Clostridium_clostridioforme
+GLUCARDEG-PWY: D-glucarate degradation I|g__Flavonifractor.s__Flavonifractor_plautii
+GLUCARDEG-PWY: D-glucarate degradation I|g__Lachnoclostridium.s__Clostridium_clostridioforme
+GLUCARGALACTSUPER-PWY: superpathway of D-glucarate and D-galactarate degradation|g__Flavonifractor.s__Flavonifractor_plautii
+GLUCARGALACTSUPER-PWY: superpathway of D-glucarate and D-galactarate degradation|g__Lachnoclostridium.s__Clostridium_clostridioforme
+GLUTORN-PWY: L-ornithine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+GLUTORN-PWY: L-ornithine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+GLUTORN-PWY: L-ornithine biosynthesis|g__Lachnoclostridium.s__Clostridium_clostridioforme
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Parabacteroides.s__Parabacteroides_distasonis
+HISDEG-PWY: L-histidine degradation I|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+HISDEG-PWY: L-histidine degradation I|g__Parabacteroides.s__Parabacteroides_distasonis
+HISDEG-PWY: L-histidine degradation I|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+HISTSYN-PWY: L-histidine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+HISTSYN-PWY: L-histidine biosynthesis|g__Lachnoclostridium.s__Clostridium_clostridioforme
+HISTSYN-PWY: L-histidine biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_bifidum
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Lachnoclostridium.s__Clostridium_clostridioforme
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Parasutterella.s__Parasutterella_excrementihominis
+NAGLIPASYN-PWY: lipid IVA biosynthesis|g__Parasutterella.s__Parasutterella_excrementihominis
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Intestinibacter.s__Intestinibacter_bartlettii
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Lachnoclostridium.s__Clostridium_clostridioforme
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Parabacteroides.s__Parabacteroides_distasonis
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Parasutterella.s__Parasutterella_excrementihominis
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+P108-PWY: pyruvate fermentation to propanoate I
+P108-PWY: pyruvate fermentation to propanoate I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+P124-PWY: Bifidobacterium shunt|g__Bifidobacterium.s__Bifidobacterium_bifidum
+P161-PWY: acetylene degradation|g__Flavonifractor.s__Flavonifractor_plautii
+P161-PWY: acetylene degradation|g__Lachnoclostridium.s__Clostridium_clostridioforme
+P161-PWY: acetylene degradation|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+P164-PWY: purine nucleobases degradation I (anaerobic)|g__Lachnoclostridium.s__Clostridium_clostridioforme
+P164-PWY: purine nucleobases degradation I (anaerobic)|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+P42-PWY: incomplete reductive TCA cycle
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Hungatella.s__Hungatella_hathewayi
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_finegoldii
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Hungatella.s__Hungatella_hathewayi
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Parasutterella.s__Parasutterella_excrementihominis
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Hungatella.s__Hungatella_hathewayi
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis
+PENTOSE-P-PWY: pentose phosphate pathway|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PENTOSE-P-PWY: pentose phosphate pathway|g__Enterococcus.s__Enterococcus_faecalis
+PENTOSE-P-PWY: pentose phosphate pathway|g__Parabacteroides.s__Parabacteroides_distasonis
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Parabacteroides.s__Parabacteroides_distasonis
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Parasutterella.s__Parasutterella_excrementihominis
+PPGPPMET-PWY: ppGpp biosynthesis|g__Parasutterella.s__Parasutterella_excrementihominis
+PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-1042: glycolysis IV (plant cytosol)|g__Intestinibacter.s__Intestinibacter_bartlettii
+PWY-1042: glycolysis IV (plant cytosol)|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-1042: glycolysis IV (plant cytosol)|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-1042: glycolysis IV (plant cytosol)|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+PWY-1861: formaldehyde assimilation II (RuMP Cycle)|g__Hungatella.s__Hungatella_hathewayi
+PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-2942: L-lysine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-2942: L-lysine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-2942: L-lysine biosynthesis III|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-2942: L-lysine biosynthesis III|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Parasutterella.s__Parasutterella_excrementihominis
+PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-3841: folate transformations II|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-3841: folate transformations II|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-3841: folate transformations II|g__Parasutterella.s__Parasutterella_excrementihominis
+PWY-3841: folate transformations II|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-4984: urea cycle
+PWY-5005: biotin biosynthesis II
+PWY-5030: L-histidine degradation III|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-5030: L-histidine degradation III|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-5097: L-lysine biosynthesis VI|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-5097: L-lysine biosynthesis VI|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-5097: L-lysine biosynthesis VI|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-5097: L-lysine biosynthesis VI|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+PWY-5103: L-isoleucine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-5103: L-isoleucine biosynthesis III|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-5103: L-isoleucine biosynthesis III|g__Parasutterella.s__Parasutterella_excrementihominis
+PWY-5103: L-isoleucine biosynthesis III|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+PWY-5104: L-isoleucine biosynthesis IV|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline)|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Eggerthella.s__Eggerthella_lenta
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Hungatella.s__Hungatella_hathewayi
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Eggerthella.s__Eggerthella_lenta
+PWY-5392: reductive TCA cycle II
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-5505: L-glutamate and L-glutamine biosynthesis
+PWY-5659: GDP-mannose biosynthesis|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-5659: GDP-mannose biosynthesis|g__Enterococcus.s__Enterococcus_faecalis
+PWY-5659: GDP-mannose biosynthesis|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-5686: UMP biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-5686: UMP biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-5686: UMP biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-5686: UMP biosynthesis|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-5686: UMP biosynthesis|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+PWY-5973: cis-vaccenate biosynthesis|g__Hungatella.s__Hungatella_hathewayi
+PWY-5973: cis-vaccenate biosynthesis|g__Parasutterella.s__Parasutterella_excrementihominis
+PWY-5989: stearate biosynthesis II (bacteria and plants)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Parasutterella.s__Parasutterella_excrementihominis
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Parasutterella.s__Parasutterella_excrementihominis
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-6168: flavin biosynthesis III (fungi)|g__Hungatella.s__Hungatella_hathewayi
+PWY-6168: flavin biosynthesis III (fungi)|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-6168: flavin biosynthesis III (fungi)|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+PWY-621: sucrose degradation III (sucrose invertase)|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Parasutterella.s__Parasutterella_excrementihominis
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Parasutterella.s__Parasutterella_excrementihominis
+PWY-6527: stachyose degradation|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6572: chondroitin sulfate degradation I (bacterial)
+PWY-6608: guanosine nucleotides degradation III|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-6608: guanosine nucleotides degradation III|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6609: adenine and adenosine salvage III|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-6609: adenine and adenosine salvage III|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-6609: adenine and adenosine salvage III|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6700: queuosine biosynthesis|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-6700: queuosine biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-6700: queuosine biosynthesis|g__Parasutterella.s__Parasutterella_excrementihominis
+PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6703: preQ0 biosynthesis|g__Intestinibacter.s__Intestinibacter_bartlettii
+PWY-6703: preQ0 biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-6737: starch degradation V|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-6737: starch degradation V|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-6897: thiamin salvage II|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-6897: thiamin salvage II|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6936: seleno-amino acid biosynthesis|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Intestinibacter.s__Intestinibacter_bartlettii
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Parasutterella.s__Parasutterella_excrementihominis
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+PWY-7187: pyrimidine deoxyribonucleotides de novo biosynthesis II|g__Hungatella.s__Hungatella_hathewayi
+PWY-7196: superpathway of pyrimidine ribonucleosides salvage
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Parasutterella.s__Parasutterella_excrementihominis
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Intestinibacter.s__Intestinibacter_bartlettii
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Parasutterella.s__Parasutterella_excrementihominis
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Intestinibacter.s__Intestinibacter_bartlettii
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Parasutterella.s__Parasutterella_excrementihominis
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Intestinibacter.s__Intestinibacter_bartlettii
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Parasutterella.s__Parasutterella_excrementihominis
+PWY-7237: myo-, chiro- and scillo-inositol degradation|g__Hungatella.s__Hungatella_hathewayi
+PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-7288: fatty acid &beta;-oxidation (peroxisome, yeast)
+PWY-7288: fatty acid &beta;-oxidation (peroxisome, yeast)|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-7316: dTDP-N-acetylviosamine biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7316: dTDP-N-acetylviosamine biosynthesis|unclassified
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Intestinibacter.s__Intestinibacter_bartlettii
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-7456: mannan degradation|g__Bacteroides.s__Bacteroides_ovatus
+PWY-7456: mannan degradation|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Hungatella.s__Hungatella_hathewayi
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Parasutterella.s__Parasutterella_excrementihominis
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|g__Parasutterella.s__Parasutterella_excrementihominis
+PWY0-1296: purine ribonucleosides degradation|g__Intestinibacter.s__Intestinibacter_bartlettii
+PWY0-1296: purine ribonucleosides degradation|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY0-1296: purine ribonucleosides degradation|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Intestinibacter.s__Intestinibacter_bartlettii
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY0-1479: tRNA processing|g__Parasutterella.s__Parasutterella_excrementihominis
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Intestinibacter.s__Intestinibacter_bartlettii
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Parasutterella.s__Parasutterella_excrementihominis
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY66-400: glycolysis VI (metazoan)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY66-400: glycolysis VI (metazoan)|g__Parabacteroides.s__Parabacteroides_distasonis
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_finegoldii
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis
+RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+RHAMCAT-PWY: L-rhamnose degradation I|g__Lachnoclostridium.s__Clostridium_clostridioforme
+RHAMCAT-PWY: L-rhamnose degradation I|g__Parabacteroides.s__Parabacteroides_distasonis
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Lachnoclostridium.s__Clostridium_clostridioforme
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Parabacteroides.s__Parabacteroides_distasonis
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+SALVADEHYPOX-PWY: adenosine nucleotides degradation II|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+TEICHOICACID-PWY: teichoic acid (poly-glycerol) biosynthesis
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Bacteroides.s__Bacteroides_finegoldii
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Hungatella.s__Hungatella_hathewayi
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Parasutterella.s__Parasutterella_excrementihominis
+TRNA-CHARGING-PWY: tRNA charging|g__Hungatella.s__Hungatella_hathewayi
+TRNA-CHARGING-PWY: tRNA charging|g__Parabacteroides.s__Parabacteroides_distasonis
+TRNA-CHARGING-PWY: tRNA charging|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Parasutterella.s__Parasutterella_excrementihominis
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_finegoldii
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+VALSYN-PWY: L-valine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+VALSYN-PWY: L-valine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+VALSYN-PWY: L-valine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+VALSYN-PWY: L-valine biosynthesis|g__Intestinibacter.s__Intestinibacter_bartlettii
+VALSYN-PWY: L-valine biosynthesis|g__Lachnoclostridium.s__Clostridium_clostridioforme
+VALSYN-PWY: L-valine biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis
+VALSYN-PWY: L-valine biosynthesis|g__Parasutterella.s__Parasutterella_excrementihominis
+VALSYN-PWY: L-valine biosynthesis|g__Terrisporobacter.s__Terrisporobacter_othiniensis

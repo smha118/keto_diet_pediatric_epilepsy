@@ -1,8 +1,0 @@
-"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
-"Glycerophospholipid metabolism",36,0.069677,2,0.0015513,2.8093,0.13031,0.13031,0.11182
-"Linoleic acid metabolism",5,0.0096774,1,0.0096524,2.0154,0.80115,0.4054,0
-"alpha-Linolenic acid metabolism",13,0.025161,1,0.024967,1.6026,1,0.69907,0
-"Arachidonic acid metabolism",36,0.069677,1,0.068115,1.1668,1,1,0
-"Steroid biosynthesis",42,0.08129,1,0.079157,1.1015,1,1,0.0282
-"Primary bile acid biosynthesis",46,0.089032,1,0.08647,1.0631,1,1,0.05065
-"Steroid hormone biosynthesis",85,0.16452,1,0.15575,0.80756,1,1,0.00528

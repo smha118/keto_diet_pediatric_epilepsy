@@ -1,0 +1,491 @@
+
+Importing edges...
+     TAIL               HEAD               WEIGHT      
+ Length:314773      Length:314773      Min.   : 3.083  
+ Class :character   Class :character   1st Qu.: 3.399  
+ Mode  :character   Mode  :character   Median : 3.844  
+                                       Mean   : 4.175  
+                                       3rd Qu.: 4.601  
+                                       Max.   :16.643  
+
+Importing modules...
+    MODULE              NODE          
+ Length:2601        Length:2601       
+ Class :character   Class :character  
+ Mode  :character   Mode  :character  
+Graph: 7.903793 Mb
+
+Minimum degree set to 314.75 
+
+Maximum degree set to 1375 
+
+Collecting hubs...
+185 hubs (612 nodes)
+356 hubs (1187 nodes)
+536 hubs (1829 nodes)
+724 hubs (2895 nodes)
+217/747 co-hub sets
+538/747 co-hub sets
+747 hubs (25.02%)
+Graph: 14.14274 Mb
+
+Analyzing network...
+grey60_feces: ENSMUSG00000078154_hx, n=20, p=5.80e-02
+green_serum: ENSMUSG00000049892_hx, n=47, p=1.41e-01
+ivory_hx: ENSMUSG00000047126_hx, n=109, p=7.05e-01
+lightcyan1_hx: ENSMUSG00000007815_hx, n=112, p=2.97e-01
+grey60_hx: ENSMUSG00000032327_fx, n=268, p=1.11e-01
+salmon_hx: ENSMUSG00000042797_hx, n=351, p=1.93e-01
+red_hx: ENSMUSG00000040502_hx, n=486, p=1.08e-02
+GWAS_hx: ENSMUSG00000026848_hx, n=10, p=2.83e-05
+
+Finishing results...
+Writing to file... Saved 2272 rows in 'q6JZ4or4TB.hubs.txt'.
+Writing to file... Saved 70 rows in 'q6JZ4or4TB.results.txt'.
+Writing to file... Saved 70 rows in 'q6JZ4or4TB.pvalues.txt'.
+Writing to file... Saved 8 rows in 'q6JZ4or4TB.tophits.txt'.
+
+Forwarding KDA results to Cytoscape...
+Writing to file... Saved 1 rows in 'q6JZ4or4TB.kda2cytoscape.top.kds.txt'.
+Writing to file... Saved 638 rows in 'q6JZ4or4TB.kda2cytoscape.edges.txt'.
+Writing to file... Saved 639 rows in 'q6JZ4or4TB.kda2cytoscape.nodes.txt'.
+Information is stored into relevant files.
+
+Importing edges...
+     TAIL               HEAD               WEIGHT      
+ Length:314773      Length:314773      Min.   : 3.083  
+ Class :character   Class :character   1st Qu.: 3.399  
+ Mode  :character   Mode  :character   Median : 3.844  
+                                       Mean   : 4.175  
+                                       3rd Qu.: 4.601  
+                                       Max.   :16.643  
+
+Importing modules...
+    MODULE              NODE          
+ Length:2601        Length:2601       
+ Class :character   Class :character  
+ Mode  :character   Mode  :character  
+Graph: 7.903793 Mb
+
+Minimum degree set to 314.75 
+
+Maximum degree set to 1375 
+
+Collecting hubs...
+11 hubs (40 nodes)
+23 hubs (102 nodes)
+35 hubs (133 nodes)
+47 hubs (165 nodes)
+59 hubs (194 nodes)
+71 hubs (238 nodes)
+83 hubs (270 nodes)
+95 hubs (309 nodes)
+107 hubs (357 nodes)
+119 hubs (404 nodes)
+131 hubs (434 nodes)
+143 hubs (474 nodes)
+155 hubs (516 nodes)
+166 hubs (546 nodes)
+178 hubs (583 nodes)
+190 hubs (622 nodes)
+201 hubs (658 nodes)
+212 hubs (702 nodes)
+223 hubs (729 nodes)
+235 hubs (777 nodes)
+246 hubs (812 nodes)
+258 hubs (848 nodes)
+269 hubs (900 nodes)
+280 hubs (944 nodes)
+291 hubs (980 nodes)
+302 hubs (1018 nodes)
+313 hubs (1054 nodes)
+324 hubs (1103 nodes)
+335 hubs (1132 nodes)
+346 hubs (1164 nodes)
+357 hubs (1188 nodes)
+368 hubs (1238 nodes)
+379 hubs (1279 nodes)
+391 hubs (1322 nodes)
+402 hubs (1361 nodes)
+413 hubs (1389 nodes)
+425 hubs (1421 nodes)
+436 hubs (1460 nodes)
+447 hubs (1492 nodes)
+458 hubs (1524 nodes)
+469 hubs (1560 nodes)
+480 hubs (1586 nodes)
+491 hubs (1634 nodes)
+502 hubs (1694 nodes)
+513 hubs (1749 nodes)
+524 hubs (1783 nodes)
+535 hubs (1825 nodes)
+546 hubs (1869 nodes)
+557 hubs (1916 nodes)
+568 hubs (1948 nodes)
+579 hubs (1984 nodes)
+590 hubs (2036 nodes)
+600 hubs (2070 nodes)
+611 hubs (2127 nodes)
+622 hubs (2195 nodes)
+633 hubs (2275 nodes)
+644 hubs (2304 nodes)
+655 hubs (2364 nodes)
+667 hubs (2442 nodes)
+678 hubs (2498 nodes)
+689 hubs (2557 nodes)
+700 hubs (2658 nodes)
+711 hubs (2779 nodes)
+722 hubs (2880 nodes)
+733 hubs (2953 nodes)
+743 hubs (2976 nodes)
+26/747 co-hub sets
+50/747 co-hub sets
+74/747 co-hub sets
+99/747 co-hub sets
+123/747 co-hub sets
+148/747 co-hub sets
+173/747 co-hub sets
+197/747 co-hub sets
+222/747 co-hub sets
+246/747 co-hub sets
+270/747 co-hub sets
+295/747 co-hub sets
+319/747 co-hub sets
+344/747 co-hub sets
+369/747 co-hub sets
+393/747 co-hub sets
+418/747 co-hub sets
+441/747 co-hub sets
+465/747 co-hub sets
+490/747 co-hub sets
+514/747 co-hub sets
+539/747 co-hub sets
+564/747 co-hub sets
+588/747 co-hub sets
+613/747 co-hub sets
+636/747 co-hub sets
+660/747 co-hub sets
+685/747 co-hub sets
+709/747 co-hub sets
+734/747 co-hub sets
+747 hubs (25.02%)
+Graph: 42.78653 Mb
+
+Analyzing network...
+red_hx: ENSMUSG00000024659_hx, n=486, p=5.60e-02
+
+Finishing results...
+Writing to file... Saved 524119 rows in 'q6JZ4or4TB.hubs.txt'.
+Writing to file... Saved 703 rows in 'q6JZ4or4TB.results.txt'.
+Writing to file... Saved 703 rows in 'q6JZ4or4TB.pvalues.txt'.
+Writing to file... Saved 1 rows in 'q6JZ4or4TB.tophits.txt'.
+
+Forwarding KDA results to Cytoscape...
+Error in kda2cytoscape.drivers(job$results, modules, ndrivers) : 
+  No key drivers for target modules.
+Calls: kda2cytoscape -> kda2cytoscape.drivers
+Execution halted
+
+Importing edges...
+     TAIL               HEAD               WEIGHT      
+ Length:314773      Length:314773      Min.   : 3.083  
+ Class :character   Class :character   1st Qu.: 3.399  
+ Mode  :character   Mode  :character   Median : 3.844  
+                                       Mean   : 4.175  
+                                       3rd Qu.: 4.601  
+                                       Max.   :16.643  
+
+Importing modules...
+    MODULE              NODE          
+ Length:2601        Length:2601       
+ Class :character   Class :character  
+ Mode  :character   Mode  :character  
+Graph: 7.903793 Mb
+
+Minimum degree set to 314.75 
+
+Maximum degree set to 1375 
+
+Collecting hubs...
+9 hubs (28 nodes)
+19 hubs (88 nodes)
+30 hubs (117 nodes)
+41 hubs (142 nodes)
+52 hubs (177 nodes)
+62 hubs (210 nodes)
+72 hubs (243 nodes)
+82 hubs (269 nodes)
+92 hubs (291 nodes)
+102 hubs (336 nodes)
+112 hubs (378 nodes)
+122 hubs (409 nodes)
+133 hubs (438 nodes)
+143 hubs (474 nodes)
+153 hubs (507 nodes)
+164 hubs (540 nodes)
+175 hubs (579 nodes)
+186 hubs (613 nodes)
+197 hubs (645 nodes)
+207 hubs (681 nodes)
+217 hubs (716 nodes)
+228 hubs (743 nodes)
+239 hubs (786 nodes)
+250 hubs (828 nodes)
+260 hubs (856 nodes)
+270 hubs (903 nodes)
+280 hubs (944 nodes)
+290 hubs (979 nodes)
+300 hubs (1013 nodes)
+310 hubs (1051 nodes)
+320 hubs (1078 nodes)
+330 hubs (1118 nodes)
+340 hubs (1141 nodes)
+350 hubs (1175 nodes)
+360 hubs (1202 nodes)
+370 hubs (1246 nodes)
+380 hubs (1282 nodes)
+390 hubs (1321 nodes)
+400 hubs (1355 nodes)
+410 hubs (1385 nodes)
+420 hubs (1409 nodes)
+430 hubs (1437 nodes)
+440 hubs (1472 nodes)
+450 hubs (1498 nodes)
+460 hubs (1536 nodes)
+470 hubs (1562 nodes)
+480 hubs (1586 nodes)
+490 hubs (1633 nodes)
+500 hubs (1679 nodes)
+510 hubs (1729 nodes)
+520 hubs (1766 nodes)
+530 hubs (1808 nodes)
+540 hubs (1835 nodes)
+550 hubs (1890 nodes)
+560 hubs (1924 nodes)
+570 hubs (1950 nodes)
+580 hubs (1987 nodes)
+590 hubs (2036 nodes)
+600 hubs (2070 nodes)
+610 hubs (2126 nodes)
+620 hubs (2181 nodes)
+630 hubs (2256 nodes)
+640 hubs (2299 nodes)
+650 hubs (2323 nodes)
+660 hubs (2379 nodes)
+670 hubs (2466 nodes)
+680 hubs (2505 nodes)
+690 hubs (2559 nodes)
+699 hubs (2645 nodes)
+709 hubs (2768 nodes)
+718 hubs (2826 nodes)
+727 hubs (2931 nodes)
+736 hubs (2960 nodes)
+745 hubs (2980 nodes)
+24/747 co-hub sets
+48/747 co-hub sets
+71/747 co-hub sets
+95/747 co-hub sets
+118/747 co-hub sets
+142/747 co-hub sets
+164/747 co-hub sets
+187/747 co-hub sets
+210/747 co-hub sets
+234/747 co-hub sets
+260/747 co-hub sets
+286/747 co-hub sets
+311/747 co-hub sets
+337/747 co-hub sets
+362/747 co-hub sets
+387/747 co-hub sets
+412/747 co-hub sets
+439/747 co-hub sets
+465/747 co-hub sets
+492/747 co-hub sets
+519/747 co-hub sets
+546/747 co-hub sets
+573/747 co-hub sets
+598/747 co-hub sets
+624/747 co-hub sets
+650/747 co-hub sets
+676/747 co-hub sets
+703/747 co-hub sets
+729/747 co-hub sets
+747 hubs (25.02%)
+Graph: 44.69399 Mb
+
+Analyzing network...
+red_hx: ENSMUSG00000038047_fx, n=486, p=1.42e-01
+
+Finishing results...
+Writing to file... Saved 519165 rows in 'q6JZ4or4TB.hubs.txt'.
+Writing to file... Saved 695 rows in 'q6JZ4or4TB.results.txt'.
+Writing to file... Saved 695 rows in 'q6JZ4or4TB.pvalues.txt'.
+Writing to file... Saved 1 rows in 'q6JZ4or4TB.tophits.txt'.
+
+Forwarding KDA results to Cytoscape...
+Error in kda2cytoscape.drivers(job$results, modules, ndrivers) : 
+  No key drivers for target modules.
+Calls: kda2cytoscape -> kda2cytoscape.drivers
+Execution halted
+
+Importing edges...
+     TAIL               HEAD               WEIGHT      
+ Length:314773      Length:314773      Min.   : 3.083  
+ Class :character   Class :character   1st Qu.: 3.399  
+ Mode  :character   Mode  :character   Median : 3.844  
+                                       Mean   : 4.175  
+                                       3rd Qu.: 4.601  
+                                       Max.   :16.643  
+
+Importing modules...
+    MODULE              NODE          
+ Length:2601        Length:2601       
+ Class :character   Class :character  
+ Mode  :character   Mode  :character  
+Graph: 7.903793 Mb
+
+Minimum degree set to 314.75 
+
+Maximum degree set to 1375 
+
+Collecting hubs...
+180 hubs (591 nodes)
+348 hubs (1169 nodes)
+519 hubs (1763 nodes)
+698 hubs (2627 nodes)
+209/747 co-hub sets
+518/747 co-hub sets
+747 hubs (25.02%)
+Graph: 14.09383 Mb
+
+Analyzing network...
+grey60_feces: DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus, n=20, p=2.58e-02
+green_serum: ENSMUSG00000079227_hx, n=47, p=5.48e-01
+ivory_hx: ENSMUSG00000047126_hx, n=109, p=7.32e-01
+lightcyan1_hx: ENSMUSG00000007815_hx, n=112, p=4.00e-01
+grey60_hx: ENSMUSG00000032327_fx, n=268, p=1.24e-04
+brown4_hx: PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Lachnoclostridium.s__Clostridium_aldenense, n=102, p=1.07e-01
+salmon_hx: ENSMUSG00000042797_hx, n=351, p=2.16e-01
+red_hx: ENSMUSG00000027016_hx, n=486, p=3.36e-04
+lightpink4_hx: ENSMUSG00000026833_hx, n=85, p=3.13e-02
+DEG_hx: ENSMUSG00000031320_fx, n=12, p=2.78e-01
+GWAS_hx: ENSMUSG00000026848_hx, n=10, p=1.57e-02
+
+Finishing results...
+Writing to file... Saved 2037 rows in 'q6JZ4or4TB.hubs.txt'.
+Writing to file... Saved 111 rows in 'q6JZ4or4TB.results.txt'.
+Writing to file... Saved 111 rows in 'q6JZ4or4TB.pvalues.txt'.
+Writing to file... Saved 11 rows in 'q6JZ4or4TB.tophits.txt'.
+
+Forwarding KDA results to Cytoscape...
+Writing to file... Saved 5 rows in 'q6JZ4or4TB.kda2cytoscape.top.kds.txt'.
+Writing to file... Saved 4988 rows in 'q6JZ4or4TB.kda2cytoscape.edges.txt'.
+Writing to file... Saved 1717 rows in 'q6JZ4or4TB.kda2cytoscape.nodes.txt'.
+Information is stored into relevant files.
+
+Importing edges...
+     TAIL               HEAD               WEIGHT      
+ Length:314773      Length:314773      Min.   : 3.083  
+ Class :character   Class :character   1st Qu.: 3.399  
+ Mode  :character   Mode  :character   Median : 3.844  
+                                       Mean   : 4.175  
+                                       3rd Qu.: 4.601  
+                                       Max.   :16.643  
+
+Importing modules...
+    MODULE              NODE          
+ Length:2601        Length:2601       
+ Class :character   Class :character  
+ Mode  :character   Mode  :character  
+Graph: 7.903793 Mb
+
+Minimum degree set to 314.75 
+
+Maximum degree set to 1375 
+
+Collecting hubs...
+183 hubs (609 nodes)
+351 hubs (1177 nodes)
+526 hubs (1793 nodes)
+707 hubs (2726 nodes)
+212/747 co-hub sets
+527/747 co-hub sets
+747 hubs (25.02%)
+Graph: 14.14274 Mb
+
+Analyzing network...
+grey60_feces: ENSMUSG00000078154_hx, n=20, p=5.80e-02
+green_serum: ENSMUSG00000049892_hx, n=47, p=1.41e-01
+ivory_hx: ENSMUSG00000047126_hx, n=109, p=7.05e-01
+lightcyan1_hx: ENSMUSG00000007815_hx, n=112, p=2.97e-01
+grey60_hx: ENSMUSG00000032327_fx, n=268, p=1.11e-01
+salmon_hx: ENSMUSG00000042797_hx, n=351, p=1.93e-01
+red_hx: ENSMUSG00000040502_hx, n=486, p=1.08e-02
+GWAS_hx: ENSMUSG00000026848_hx, n=10, p=2.83e-05
+
+Finishing results...
+Writing to file... Saved 2272 rows in 'q6JZ4or4TB.hubs.txt'.
+Writing to file... Saved 70 rows in 'q6JZ4or4TB.results.txt'.
+Writing to file... Saved 70 rows in 'q6JZ4or4TB.pvalues.txt'.
+Writing to file... Saved 8 rows in 'q6JZ4or4TB.tophits.txt'.
+
+Forwarding KDA results to Cytoscape...
+Writing to file... Saved 1 rows in 'q6JZ4or4TB.kda2cytoscape.top.kds.txt'.
+Writing to file... Saved 638 rows in 'q6JZ4or4TB.kda2cytoscape.edges.txt'.
+Writing to file... Saved 639 rows in 'q6JZ4or4TB.kda2cytoscape.nodes.txt'.
+Information is stored into relevant files.
+
+Importing edges...
+     TAIL               HEAD               WEIGHT      
+ Length:314773      Length:314773      Min.   : 3.083  
+ Class :character   Class :character   1st Qu.: 3.399  
+ Mode  :character   Mode  :character   Median : 3.844  
+                                       Mean   : 4.175  
+                                       3rd Qu.: 4.601  
+                                       Max.   :16.643  
+
+Importing modules...
+    MODULE              NODE          
+ Length:2601        Length:2601       
+ Class :character   Class :character  
+ Mode  :character   Mode  :character  
+Graph: 7.903793 Mb
+
+Minimum degree set to 314.75 
+
+Maximum degree set to 1375 
+
+Collecting hubs...
+176 hubs (580 nodes)
+344 hubs (1157 nodes)
+517 hubs (1755 nodes)
+696 hubs (2607 nodes)
+214/747 co-hub sets
+530/747 co-hub sets
+747 hubs (25.02%)
+Graph: 14.09383 Mb
+
+Analyzing network...
+grey60_feces: DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus, n=20, p=2.58e-02
+green_serum: ENSMUSG00000079227_hx, n=47, p=5.48e-01
+ivory_hx: ENSMUSG00000047126_hx, n=109, p=7.32e-01
+lightcyan1_hx: ENSMUSG00000007815_hx, n=112, p=4.00e-01
+grey60_hx: ENSMUSG00000032327_fx, n=268, p=1.24e-04
+brown4_hx: PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Lachnoclostridium.s__Clostridium_aldenense, n=102, p=1.07e-01
+salmon_hx: ENSMUSG00000042797_hx, n=351, p=2.16e-01
+red_hx: ENSMUSG00000027016_hx, n=486, p=3.36e-04
+lightpink4_hx: ENSMUSG00000026833_hx, n=85, p=3.13e-02
+DEG_hx: ENSMUSG00000031320_fx, n=12, p=2.78e-01
+GWAS_hx: ENSMUSG00000026848_hx, n=10, p=1.57e-02
+
+Finishing results...
+Writing to file... Saved 2037 rows in 'q6JZ4or4TB.hubs.txt'.
+Writing to file... Saved 111 rows in 'q6JZ4or4TB.results.txt'.
+Writing to file... Saved 111 rows in 'q6JZ4or4TB.pvalues.txt'.
+Writing to file... Saved 11 rows in 'q6JZ4or4TB.tophits.txt'.
+
+Forwarding KDA results to Cytoscape...
+Writing to file... Saved 5 rows in 'q6JZ4or4TB.kda2cytoscape.top.kds.txt'.
+Writing to file... Saved 4988 rows in 'q6JZ4or4TB.kda2cytoscape.edges.txt'.
+Writing to file... Saved 1717 rows in 'q6JZ4or4TB.kda2cytoscape.nodes.txt'.
+Information is stored into relevant files.

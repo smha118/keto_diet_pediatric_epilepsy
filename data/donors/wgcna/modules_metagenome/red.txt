@@ -1,0 +1,549 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Alistipes.s__Alistipes_putredinis
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Blautia.s__Blautia_obeum
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Dorea.s__Dorea_longicatena
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Dorea.s__Dorea_longicatena_CAG_42
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Alistipes.s__Alistipes_finegoldii
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_caccae
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bifidobacterium.s__Bifidobacterium_longum
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+ARGININE-SYN4-PWY: L-ornithine de novo  biosynthesis|g__Parabacteroides.s__Parabacteroides_merdae
+ARGORNPROST-PWY: arginine, ornithine and proline interconversion|unclassified
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Bifidobacterium.s__Bifidobacterium_longum
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Blautia.s__Blautia_obeum
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Dorea.s__Dorea_longicatena_CAG_42
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|unclassified
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Bifidobacterium.s__Bifidobacterium_longum
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Blautia.s__Blautia_obeum
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Dorea.s__Dorea_longicatena_CAG_42
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|unclassified
+ARO-PWY: chorismate biosynthesis I|g__Blautia.s__Blautia_obeum
+ARO-PWY: chorismate biosynthesis I|g__Dorea.s__Dorea_longicatena
+ARO-PWY: chorismate biosynthesis I|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Blautia.s__Blautia_obeum
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Dorea.s__Dorea_longicatena
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Dorea.s__Dorea_longicatena_CAG_42
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Eubacterium.s__Eubacterium_sp_CAG_251
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Gemmiger.s__Gemmiger_formicilis
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Dorea.s__Dorea_longicatena
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Dorea.s__Dorea_longicatena_CAG_42
+CENTFERM-PWY: pyruvate fermentation to butanoate|unclassified
+CITRULBIO-PWY: L-citrulline biosynthesis|g__Parabacteroides.s__Parabacteroides_merdae
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Alistipes.s__Alistipes_finegoldii
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bifidobacterium.s__Bifidobacterium_longum
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Blautia.s__Blautia_obeum
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Dorea.s__Dorea_longicatena
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Dorea.s__Dorea_longicatena_CAG_42
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Eubacterium.s__Eubacterium_sp_CAG_251
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Parabacteroides.s__Parabacteroides_merdae
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|unclassified
+COA-PWY: coenzyme A biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+COA-PWY: coenzyme A biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+COA-PWY: coenzyme A biosynthesis I|g__Barnesiella.s__Barnesiella_intestinihominis
+COA-PWY: coenzyme A biosynthesis I|g__Blautia.s__Blautia_obeum
+COA-PWY: coenzyme A biosynthesis I|g__Dorea.s__Dorea_longicatena
+COA-PWY: coenzyme A biosynthesis I|g__Dorea.s__Dorea_longicatena_CAG_42
+COA-PWY: coenzyme A biosynthesis I|g__Faecalibacterium.s__Faecalibacterium_prausnitzii
+COA-PWY: coenzyme A biosynthesis I|g__Parabacteroides.s__Parabacteroides_merdae
+COA-PWY: coenzyme A biosynthesis I|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+COA-PWY: coenzyme A biosynthesis I|unclassified
+COBALSYN-PWY: adenosylcobalamin salvage from cobinamide I|g__Blautia.s__Blautia_obeum
+COBALSYN-PWY: adenosylcobalamin salvage from cobinamide I|unclassified
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Blautia.s__Blautia_obeum
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Dorea.s__Dorea_longicatena
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_caccae
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Barnesiella.s__Barnesiella_intestinihominis
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_longum
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Blautia.s__Blautia_obeum
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Coprococcus.s__Coprococcus_comes
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Coprococcus.s__Coprococcus_eutactus
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Dorea.s__Dorea_longicatena
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Gemmiger.s__Gemmiger_formicilis
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Oscillibacter.s__Oscillibacter_sp_CAG_241
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Parabacteroides.s__Parabacteroides_merdae
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Bacteroides.s__Bacteroides_caccae
+GALACT-GLUCUROCAT-PWY: superpathway of hexuronide and hexuronate degradation|unclassified
+GLUCONEO-PWY: gluconeogenesis I|g__Alistipes.s__Alistipes_finegoldii
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|g__Bifidobacterium.s__Bifidobacterium_longum
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+GLUCUROCAT-PWY: superpathway of &beta;-D-glucuronide and D-glucuronate degradation|unclassified
+GLUDEG-II-PWY: L-glutamate degradation VII (to butanoate)
+GLUDEG-II-PWY: L-glutamate degradation VII (to butanoate)|unclassified
+GLUTORN-PWY: L-ornithine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+GLUTORN-PWY: L-ornithine biosynthesis|g__Blautia.s__Blautia_obeum
+GLUTORN-PWY: L-ornithine biosynthesis|g__Coprococcus.s__Coprococcus_comes_CAG_19
+GLUTORN-PWY: L-ornithine biosynthesis|g__Dorea.s__Dorea_longicatena_CAG_42
+GLUTORN-PWY: L-ornithine biosynthesis|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+GLUTORN-PWY: L-ornithine biosynthesis|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+GLYCOCAT-PWY: glycogen degradation I (bacterial)|g__Bifidobacterium.s__Bifidobacterium_longum
+GLYCOCAT-PWY: glycogen degradation I (bacterial)|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Bifidobacterium.s__Bifidobacterium_longum
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Bacteroides.s__Bacteroides_caccae
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+HISDEG-PWY: L-histidine degradation I|g__Alistipes.s__Alistipes_finegoldii
+HISDEG-PWY: L-histidine degradation I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+HISDEG-PWY: L-histidine degradation I|g__Parabacteroides.s__Parabacteroides_merdae
+HISTSYN-PWY: L-histidine biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_sp_CAG_144
+HISTSYN-PWY: L-histidine biosynthesis|g__Barnesiella.s__Barnesiella_intestinihominis
+HISTSYN-PWY: L-histidine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum
+HISTSYN-PWY: L-histidine biosynthesis|g__Dorea.s__Dorea_longicatena_CAG_42
+HISTSYN-PWY: L-histidine biosynthesis|g__Parabacteroides.s__Parabacteroides_merdae
+HISTSYN-PWY: L-histidine biosynthesis|unclassified
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Dorea.s__Dorea_longicatena
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Dorea.s__Dorea_longicatena_CAG_42
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_longum
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Dorea.s__Dorea_longicatena
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Dorea.s__Dorea_longicatena_CAG_42
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Bifidobacterium.s__Bifidobacterium_longum
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Blautia.s__Blautia_obeum
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Dorea.s__Dorea_longicatena
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Dorea.s__Dorea_longicatena_CAG_42
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Eubacterium.s__Eubacterium_sp_CAG_251
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Gemmiger.s__Gemmiger_formicilis
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+LACTOSECAT-PWY: lactose and galactose degradation I|unclassified
+LYSINE-AMINOAD-PWY: L-lysine biosynthesis IV
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Dorea.s__Dorea_longicatena_CAG_42
+METHANOGENESIS-PWY: methanogenesis from H2 and CO2
+METHANOGENESIS-PWY: methanogenesis from H2 and CO2|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+METHANOGENESIS-PWY: methanogenesis from H2 and CO2|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Dorea.s__Dorea_longicatena_CAG_42
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Alistipes.s__Alistipes_finegoldii
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Alistipes.s__Alistipes_putredinis
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bacteroides.s__Bacteroides_caccae
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Blautia.s__Blautia_obeum
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Coprococcus.s__Coprococcus_comes
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Dorea.s__Dorea_longicatena
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Dorea.s__Dorea_longicatena_CAG_42
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Parabacteroides.s__Parabacteroides_merdae
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|unclassified
+P124-PWY: Bifidobacterium shunt|g__Bifidobacterium.s__Bifidobacterium_longum
+P124-PWY: Bifidobacterium shunt|unclassified
+P161-PWY: acetylene degradation|g__Blautia.s__Blautia_obeum
+P161-PWY: acetylene degradation|g__Dorea.s__Dorea_longicatena
+P161-PWY: acetylene degradation|g__Dorea.s__Dorea_longicatena_CAG_42
+P161-PWY: acetylene degradation|g__Firmicutes_unclassified.s__Firmicutes_bacterium_CAG_110
+P162-PWY: L-glutamate degradation V (via hydroxyglutarate)|unclassified
+P163-PWY: L-lysine fermentation to acetate and butanoate|unclassified
+P164-PWY: purine nucleobases degradation I (anaerobic)|unclassified
+P241-PWY: coenzyme B biosynthesis
+P241-PWY: coenzyme B biosynthesis|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+P241-PWY: coenzyme B biosynthesis|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+P261-PWY: coenzyme M biosynthesis I
+P261-PWY: coenzyme M biosynthesis I|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+P261-PWY: coenzyme M biosynthesis I|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+P42-PWY: incomplete reductive TCA cycle|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+P42-PWY: incomplete reductive TCA cycle|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Blautia.s__Blautia_obeum
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Blautia.s__Ruminococcus_torques
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Dorea.s__Dorea_longicatena
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Dorea.s__Dorea_longicatena_CAG_42
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Parabacteroides.s__Parabacteroides_merdae
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Blautia.s__Blautia_obeum
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Dorea.s__Dorea_longicatena_CAG_42
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Parabacteroides.s__Parabacteroides_merdae
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PENTOSE-P-PWY: pentose phosphate pathway|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Alistipes.s__Alistipes_finegoldii
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_longum
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Blautia.s__Blautia_obeum
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Dorea.s__Dorea_longicatena_CAG_42
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Parabacteroides.s__Parabacteroides_merdae
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|unclassified
+PWY-1042: glycolysis IV (plant cytosol)|g__Alistipes.s__Alistipes_finegoldii
+PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_caccae
+PWY-1042: glycolysis IV (plant cytosol)|g__Barnesiella.s__Barnesiella_intestinihominis
+PWY-1042: glycolysis IV (plant cytosol)|g__Dorea.s__Dorea_longicatena
+PWY-1042: glycolysis IV (plant cytosol)|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-1042: glycolysis IV (plant cytosol)|g__Gemmiger.s__Gemmiger_formicilis
+PWY-1042: glycolysis IV (plant cytosol)|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Alistipes.s__Alistipes_putredinis
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_caccae
+PWY-2942: L-lysine biosynthesis III|g__Barnesiella.s__Barnesiella_intestinihominis
+PWY-2942: L-lysine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-2942: L-lysine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY-2942: L-lysine biosynthesis III|g__Blautia.s__Blautia_obeum
+PWY-2942: L-lysine biosynthesis III|g__Dorea.s__Dorea_longicatena
+PWY-2942: L-lysine biosynthesis III|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-2942: L-lysine biosynthesis III|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+PWY-2942: L-lysine biosynthesis III|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+PWY-2942: L-lysine biosynthesis III|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-3001: superpathway of L-isoleucine biosynthesis I|unclassified
+PWY-3841: folate transformations II|g__Alistipes.s__Alistipes_finegoldii
+PWY-3841: folate transformations II|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY-3841: folate transformations II|g__Blautia.s__Blautia_obeum
+PWY-3841: folate transformations II|g__Dorea.s__Dorea_longicatena
+PWY-3841: folate transformations II|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-3841: folate transformations II|unclassified
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Alistipes.s__Alistipes_finegoldii
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Blautia.s__Blautia_obeum
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-4242: pantothenate and coenzyme A biosynthesis III|unclassified
+PWY-4981: L-proline biosynthesis II (from arginine)|unclassified
+PWY-5005: biotin biosynthesis II|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-5030: L-histidine degradation III|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-5030: L-histidine degradation III|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-5030: L-histidine degradation III|unclassified
+PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_caccae
+PWY-5097: L-lysine biosynthesis VI|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-5097: L-lysine biosynthesis VI|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY-5097: L-lysine biosynthesis VI|g__Blautia.s__Blautia_obeum
+PWY-5097: L-lysine biosynthesis VI|g__Coprococcus.s__Coprococcus_comes_CAG_19
+PWY-5097: L-lysine biosynthesis VI|g__Dorea.s__Dorea_longicatena
+PWY-5097: L-lysine biosynthesis VI|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-5097: L-lysine biosynthesis VI|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+PWY-5097: L-lysine biosynthesis VI|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+PWY-5097: L-lysine biosynthesis VI|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-5097: L-lysine biosynthesis VI|unclassified
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Blautia.s__Blautia_obeum
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Dorea.s__Dorea_longicatena
+PWY-5101: L-isoleucine biosynthesis II|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-5101: L-isoleucine biosynthesis II|g__Gemmiger.s__Gemmiger_formicilis
+PWY-5101: L-isoleucine biosynthesis II|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+PWY-5103: L-isoleucine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-5103: L-isoleucine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY-5103: L-isoleucine biosynthesis III|g__Blautia.s__Blautia_obeum
+PWY-5103: L-isoleucine biosynthesis III|g__Dorea.s__Dorea_longicatena
+PWY-5103: L-isoleucine biosynthesis III|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-5103: L-isoleucine biosynthesis III|g__Eubacterium.s__Eubacterium_sp_CAG_251
+PWY-5103: L-isoleucine biosynthesis III|g__Gemmiger.s__Gemmiger_formicilis
+PWY-5103: L-isoleucine biosynthesis III|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+PWY-5103: L-isoleucine biosynthesis III|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+PWY-5104: L-isoleucine biosynthesis IV|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+PWY-5104: L-isoleucine biosynthesis IV|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline)|unclassified
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Blautia.s__Blautia_obeum
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Blautia.s__Ruminococcus_torques
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-5198: factor 420 biosynthesis
+PWY-5198: factor 420 biosynthesis|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+PWY-5198: factor 420 biosynthesis|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-5392: reductive TCA cycle II|unclassified
+PWY-5464: superpathway of cytosolic glycolysis (plants), pyruvate dehydrogenase and TCA cycle|unclassified
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Bacteroides.s__Bacteroides_caccae
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Blautia.s__Blautia_obeum
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-5667: CDP-diacylglycerol biosynthesis I|unclassified
+PWY-5686: UMP biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+PWY-5686: UMP biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-5686: UMP biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY-5686: UMP biosynthesis|g__Blautia.s__Blautia_obeum
+PWY-5686: UMP biosynthesis|g__Dorea.s__Dorea_longicatena
+PWY-5686: UMP biosynthesis|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-5686: UMP biosynthesis|g__Gemmiger.s__Gemmiger_formicilis
+PWY-5686: UMP biosynthesis|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-5686: UMP biosynthesis|unclassified
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Alistipes.s__Alistipes_putredinis
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-6060: malonate degradation II (biotin-dependent)|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Blautia.s__Blautia_obeum
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Dorea.s__Dorea_longicatena
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Eubacterium.s__Eubacterium_sp_CAG_251
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Gemmiger.s__Gemmiger_formicilis
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Alistipes.s__Alistipes_finegoldii
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Blautia.s__Blautia_obeum
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Coprococcus.s__Coprococcus_comes
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Dorea.s__Dorea_longicatena
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Eubacterium.s__Eubacterium_sp_CAG_251
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Gemmiger.s__Gemmiger_formicilis
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|unclassified
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_caccae
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Alistipes.s__Alistipes_finegoldii
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_caccae
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-6124: inosine-5'-phosphate biosynthesis II|unclassified
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_caccae
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Blautia.s__Ruminococcus_torques
+PWY-6148: tetrahydromethanopterin biosynthesis
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Blautia.s__Blautia_obeum
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Dorea.s__Dorea_longicatena
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_caccae
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Blautia.s__Blautia_obeum
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Dorea.s__Dorea_longicatena
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-6165: chorismate biosynthesis II (archaea)
+PWY-6167: flavin biosynthesis II (archaea)
+PWY-6167: flavin biosynthesis II (archaea)|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+PWY-6167: flavin biosynthesis II (archaea)|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+PWY-6168: flavin biosynthesis III (fungi)|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-6168: flavin biosynthesis III (fungi)|unclassified
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Blautia.s__Blautia_obeum
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Coprococcus.s__Coprococcus_comes
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Dorea.s__Dorea_longicatena
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Eubacterium.s__Eubacterium_sp_CAG_251
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Gemmiger.s__Gemmiger_formicilis
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|unclassified
+PWY-6305: putrescine biosynthesis IV|g__Blautia.s__Blautia_obeum
+PWY-6305: putrescine biosynthesis IV|g__Blautia.s__Ruminococcus_torques
+PWY-6309: L-tryptophan degradation XI (mammalian, via kynurenine)
+PWY-6309: L-tryptophan degradation XI (mammalian, via kynurenine)|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-6317: galactose degradation I (Leloir pathway)|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-6344: L-ornithine degradation II (Stickland reaction)
+PWY-6344: L-ornithine degradation II (Stickland reaction)|unclassified
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Alistipes.s__Alistipes_putredinis
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_caccae
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Blautia.s__Blautia_obeum
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|unclassified
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Alistipes.s__Alistipes_putredinis
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Blautia.s__Blautia_obeum
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|unclassified
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Alistipes.s__Alistipes_finegoldii
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_caccae
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Blautia.s__Blautia_obeum
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|unclassified
+PWY-6527: stachyose degradation|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-6527: stachyose degradation|g__Dorea.s__Dorea_longicatena
+PWY-6527: stachyose degradation|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-6588: pyruvate fermentation to acetone|unclassified
+PWY-6590: superpathway of Clostridium acetobutylicum acidogenic fermentation|unclassified
+PWY-6608: guanosine nucleotides degradation III|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-6609: adenine and adenosine salvage III|g__Barnesiella.s__Barnesiella_intestinihominis
+PWY-6609: adenine and adenosine salvage III|g__Blautia.s__Blautia_obeum
+PWY-6609: adenine and adenosine salvage III|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-6609: adenine and adenosine salvage III|g__Eubacterium.s__Eubacterium_sp_CAG_251
+PWY-6609: adenine and adenosine salvage III|g__Gemmiger.s__Gemmiger_formicilis
+PWY-6609: adenine and adenosine salvage III|g__Oscillibacter.s__Oscillibacter_sp_CAG_241
+PWY-6654: phosphopantothenate biosynthesis III
+PWY-6700: queuosine biosynthesis|g__Blautia.s__Blautia_obeum
+PWY-6700: queuosine biosynthesis|g__Dorea.s__Dorea_longicatena
+PWY-6700: queuosine biosynthesis|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-6700: queuosine biosynthesis|g__Eubacterium.s__Eubacterium_sp_CAG_251
+PWY-6700: queuosine biosynthesis|g__Gemmiger.s__Gemmiger_formicilis
+PWY-6700: queuosine biosynthesis|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-6703: preQ0 biosynthesis|g__Alistipes.s__Alistipes_putredinis
+PWY-6703: preQ0 biosynthesis|g__Blautia.s__Blautia_obeum
+PWY-6703: preQ0 biosynthesis|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+PWY-6703: preQ0 biosynthesis|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+PWY-6703: preQ0 biosynthesis|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-6737: starch degradation V|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-6737: starch degradation V|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY-6737: starch degradation V|g__Blautia.s__Blautia_obeum
+PWY-6737: starch degradation V|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-6737: starch degradation V|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-6803: phosphatidylcholine acyl editing|unclassified
+PWY-6897: thiamin salvage II|g__Bacteroides.s__Bacteroides_caccae
+PWY-6936: seleno-amino acid biosynthesis|g__Dorea.s__Dorea_longicatena
+PWY-6936: seleno-amino acid biosynthesis|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-7003: glycerol degradation to butanol|unclassified
+PWY-7007: methyl ketone biosynthesis|unclassified
+PWY-7013: L-1,2-propanediol degradation|g__Blautia.s__Blautia_obeum
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Alistipes.s__Alistipes_finegoldii
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Blautia.s__Blautia_obeum
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Dorea.s__Dorea_longicatena
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Eubacterium.s__Eubacterium_sp_CAG_251
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Gemmiger.s__Gemmiger_formicilis
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Blautia.s__Ruminococcus_torques
+PWY-7199: pyrimidine deoxyribonucleosides salvage|unclassified
+PWY-7200: superpathway of pyrimidine deoxyribonucleoside salvage
+PWY-7200: superpathway of pyrimidine deoxyribonucleoside salvage|unclassified
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_caccae
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Blautia.s__Blautia_obeum
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Blautia.s__Ruminococcus_torques
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Dorea.s__Dorea_longicatena
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Eubacterium.s__Eubacterium_sp_CAG_251
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|unclassified
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_caccae
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Blautia.s__Ruminococcus_torques
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_caccae
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Blautia.s__Blautia_obeum
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Dorea.s__Dorea_longicatena
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|unclassified
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_caccae
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Blautia.s__Ruminococcus_torques
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_caccae
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Blautia.s__Ruminococcus_torques
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Alistipes.s__Alistipes_finegoldii
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+PWY-7237: myo-, chiro- and scillo-inositol degradation|g__Blautia.s__Blautia_obeum
+PWY-7237: myo-, chiro- and scillo-inositol degradation|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+PWY-7237: myo-, chiro- and scillo-inositol degradation|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+PWY-7286: 7-(3-amino-3-carboxypropyl)-wyosine biosynthesis
+PWY-7294: xylose degradation IV|unclassified
+PWY-7328: superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Bacteroides.s__Bacteroides_caccae
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Dorea.s__Dorea_formicigenerans
+PWY-7383: anaerobic energy metabolism (invertebrates, cytosol)|unclassified
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Blautia.s__Blautia_obeum
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|unclassified
+PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Alistipes.s__Alistipes_finegoldii
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Blautia.s__Blautia_obeum
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+PWY0-1296: purine ribonucleosides degradation|g__Blautia.s__Blautia_obeum
+PWY0-1296: purine ribonucleosides degradation|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY0-1296: purine ribonucleosides degradation|g__Firmicutes_unclassified.s__Firmicutes_bacterium_CAG_110
+PWY0-1296: purine ribonucleosides degradation|g__Gemmiger.s__Gemmiger_formicilis
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Blautia.s__Blautia_obeum
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Blautia.s__Blautia_obeum
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Dorea.s__Dorea_longicatena_CAG_42
+PWY0-1319: CDP-diacylglycerol biosynthesis II|unclassified
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Blautia.s__Ruminococcus_torques
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Bacteroides.s__Bacteroides_caccae
+PWY4LZ-257: superpathway of fermentation (Chlamydomonas reinhardtii)|unclassified
+PWY66-399: gluconeogenesis III|unclassified
+PWY66-400: glycolysis VI (metazoan)|g__Alistipes.s__Alistipes_finegoldii
+PWY66-400: glycolysis VI (metazoan)|g__Bacteroides.s__Bacteroides_caccae
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Bifidobacterium.s__Bifidobacterium_longum
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Dorea.s__Dorea_longicatena_CAG_42
+PYRIDNUCSAL-PWY: NAD salvage pathway I|unclassified
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_caccae
+RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Barnesiella.s__Barnesiella_intestinihominis
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Blautia.s__Blautia_obeum
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Parabacteroides.s__Parabacteroides_merdae
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Blautia.s__Blautia_obeum
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Dorea.s__Dorea_longicatena_CAG_42
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|unclassified
+TEICHOICACID-PWY: teichoic acid (poly-glycerol) biosynthesis|unclassified
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Parabacteroides.s__Parabacteroides_merdae
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum
+THRESYN-PWY: superpathway of L-threonine biosynthesis|unclassified
+TRNA-CHARGING-PWY: tRNA charging|g__Parabacteroides.s__Parabacteroides_merdae
+TRNA-CHARGING-PWY: tRNA charging|unclassified
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_uniformis_CAG_3
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Blautia.s__Blautia_obeum
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Parabacteroides.s__Parabacteroides_merdae
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Leuconostoc.s__Leuconostoc_garlicum
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Streptococcus.s__Streptococcus_lutetiensis
+VALSYN-PWY: L-valine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum
+VALSYN-PWY: L-valine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+VALSYN-PWY: L-valine biosynthesis|g__Blautia.s__Blautia_obeum
+VALSYN-PWY: L-valine biosynthesis|g__Coprococcus.s__Coprococcus_comes
+VALSYN-PWY: L-valine biosynthesis|g__Dorea.s__Dorea_longicatena
+VALSYN-PWY: L-valine biosynthesis|g__Dorea.s__Dorea_longicatena_CAG_42
+VALSYN-PWY: L-valine biosynthesis|g__Eubacterium.s__Eubacterium_sp_CAG_251
+VALSYN-PWY: L-valine biosynthesis|g__Gemmiger.s__Gemmiger_formicilis
+VALSYN-PWY: L-valine biosynthesis|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+VALSYN-PWY: L-valine biosynthesis|g__Methanobrevibacter.s__Methanobrevibacter_smithii_CAG_186
+VALSYN-PWY: L-valine biosynthesis|g__Phascolarctobacterium.s__Phascolarctobacterium_faecium

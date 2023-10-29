@@ -1,0 +1,40 @@
+COLANSYN-PWY: colanic acid building blocks biosynthesis
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)
+GLUTORN-PWY: L-ornithine biosynthesis|g__Blautia.s__Blautia_wexlerae
+GLYCOL-GLYOXDEG-PWY: superpathway of glycol metabolism and degradation|unclassified
+P42-PWY: incomplete reductive TCA cycle|unclassified
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Blautia.s__Blautia_wexlerae
+PWY-5083: NAD/NADH phosphorylation and dephosphorylation
+PWY-5173: superpathway of acetyl-CoA biosynthesis|unclassified
+PWY-5177: glutaryl-CoA degradation|unclassified
+PWY-5345: superpathway of L-methionine biosynthesis (by sulfhydrylation)|unclassified
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|unclassified
+PWY-5675: nitrate reduction V (assimilatory)|unclassified
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation
+PWY-6123: inosine-5'-phosphate biosynthesis I|unclassified
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|unclassified
+PWY-6317: galactose degradation I (Leloir pathway)
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Blautia.s__Blautia_wexlerae
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Blautia.s__Blautia_wexlerae
+PWY-6471: peptidoglycan biosynthesis IV (Enterococcus faecium)|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-6545: pyrimidine deoxyribonucleotides de novo biosynthesis III
+PWY-6628: superpathway of L-phenylalanine biosynthesis
+PWY-6700: queuosine biosynthesis|unclassified
+PWY-6737: starch degradation V|g__Lachnoclostridium.s__Clostridium_bolteae
+PWY-6969: TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)|unclassified
+PWY-7208: superpathway of pyrimidine nucleobases salvage|unclassified
+PWY-7234: inosine-5'-phosphate biosynthesis III|unclassified
+PWY-7388: octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)|unclassified
+PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|unclassified
+PWY-7663: gondoate biosynthesis (anaerobic)|unclassified
+PWY-821: superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)|unclassified
+PWY0-1061: superpathway of L-alanine biosynthesis
+PWY0-1296: purine ribonucleosides degradation|g__Blautia.s__Blautia_wexlerae
+PWY0-881: superpathway of fatty acid biosynthesis I (E. coli)
+PWY66-398: TCA cycle III (animals)
+PWY66-409: superpathway of purine nucleotide salvage|unclassified
+PYRIDNUCSYN-PWY: NAD biosynthesis I (from aspartate)
+REDCITCYC: TCA cycle VIII (helicobacter)|unclassified
+SO4ASSIM-PWY: sulfate reduction I (assimilatory)|unclassified
+TRPSYN-PWY: L-tryptophan biosynthesis|unclassified

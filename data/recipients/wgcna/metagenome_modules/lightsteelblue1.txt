@@ -1,0 +1,7 @@
+FASYN-ELONG-PWY: fatty acid elongation -- saturated|unclassified
+PWY-5973: cis-vaccenate biosynthesis
+PWY-5973: cis-vaccenate biosynthesis|unclassified
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|unclassified
+PWY-7663: gondoate biosynthesis (anaerobic)|unclassified
+PWY-7664: oleate biosynthesis IV (anaerobic)|unclassified
+PWY0-862: (5Z)-dodec-5-enoate biosynthesis|unclassified

@@ -1,7 +1,0 @@
-"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
-"Biosynthesis of unsaturated fatty acids",36,0.11952,3,0.00012157,3.9152,0.010212,0.010212,0
-"Pantothenate and CoA biosynthesis",19,0.063081,1,0.061589,1.2105,1,1,0.02857
-"beta-Alanine metabolism",21,0.069721,1,0.067891,1.1682,1,1,0.10448
-"Arachidonic acid metabolism",36,0.11952,1,0.11409,0.94276,1,1,0.33292
-"Pyrimidine metabolism",39,0.12948,1,0.1231,0.90973,1,1,0.01318
-"Steroid biosynthesis",42,0.13944,1,0.13204,0.87928,1,1,0.06121

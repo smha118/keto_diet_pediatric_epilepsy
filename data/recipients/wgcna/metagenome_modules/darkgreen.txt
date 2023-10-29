@@ -1,0 +1,61 @@
+ARGORNPROST-PWY: arginine, ornithine and proline interconversion
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Flavonifractor.s__Flavonifractor_plautii
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Flavonifractor.s__Flavonifractor_plautii
+ARO-PWY: chorismate biosynthesis I|g__Flavonifractor.s__Flavonifractor_plautii
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Flavonifractor.s__Flavonifractor_plautii
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Flavonifractor.s__Flavonifractor_plautii
+CENTFERM-PWY: pyruvate fermentation to butanoate
+CENTFERM-PWY: pyruvate fermentation to butanoate|g__Flavonifractor.s__Flavonifractor_plautii
+CITRULBIO-PWY: L-citrulline biosynthesis|g__Flavonifractor.s__Flavonifractor_plautii
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Flavonifractor.s__Flavonifractor_plautii
+COA-PWY: coenzyme A biosynthesis I|g__Flavonifractor.s__Flavonifractor_plautii
+GLUTORN-PWY: L-ornithine biosynthesis|g__Flavonifractor.s__Flavonifractor_plautii
+HISTSYN-PWY: L-histidine biosynthesis|g__Flavonifractor.s__Flavonifractor_plautii
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Flavonifractor.s__Flavonifractor_plautii
+P163-PWY: L-lysine fermentation to acetate and butanoate
+P163-PWY: L-lysine fermentation to acetate and butanoate|g__Flavonifractor.s__Flavonifractor_plautii
+P164-PWY: purine nucleobases degradation I (anaerobic)
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-2942: L-lysine biosynthesis III|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-3841: folate transformations II|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-4984: urea cycle|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-5097: L-lysine biosynthesis VI|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-5103: L-isoleucine biosynthesis III|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-5104: L-isoleucine biosynthesis IV|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-5177: glutaryl-CoA degradation|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-5676: acetyl-CoA fermentation to butanoate II|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-5677: succinate fermentation to butanoate
+PWY-5677: succinate fermentation to butanoate|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-5686: UMP biosynthesis|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-6588: pyruvate fermentation to acetone|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-6590: superpathway of Clostridium acetobutylicum acidogenic fermentation
+PWY-6590: superpathway of Clostridium acetobutylicum acidogenic fermentation|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-6609: adenine and adenosine salvage III|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-6749: CMP-legionaminate biosynthesis I
+PWY-6876: isopropanol biosynthesis|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-6936: seleno-amino acid biosynthesis|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-7013: L-1,2-propanediol degradation|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-7237: myo-, chiro- and scillo-inositol degradation
+PWY-7389: superpathway of anaerobic energy metabolism (invertebrates)
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Flavonifractor.s__Flavonifractor_plautii
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Flavonifractor.s__Flavonifractor_plautii
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Flavonifractor.s__Flavonifractor_plautii
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Flavonifractor.s__Flavonifractor_plautii
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Flavonifractor.s__Flavonifractor_plautii
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Flavonifractor.s__Flavonifractor_plautii
+VALSYN-PWY: L-valine biosynthesis|g__Flavonifractor.s__Flavonifractor_plautii

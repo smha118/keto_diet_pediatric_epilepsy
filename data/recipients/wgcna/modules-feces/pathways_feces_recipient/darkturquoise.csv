@@ -1,0 +1,8 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Biosynthesis of unsaturated fatty acids",36,0.095618,2,0.0032358,2.49,0.27181,0.27181,0
+"Alanine, aspartate and glutamate metabolism",28,0.074369,1,0.072391,1.1403,1,1,0
+"Fatty acid elongation",39,0.10359,1,0.099726,1.0012,1,1,0
+"Fatty acid degradation",39,0.10359,1,0.099726,1.0012,1,1,0
+"Fatty acid biosynthesis",47,0.12483,1,0.11922,0.92364,1,1,0.01473
+"Aminoacyl-tRNA biosynthesis",48,0.12749,1,0.12164,0.91493,1,1,0
+"Purine metabolism",66,0.1753,1,0.16426,0.78447,1,1,0.01413

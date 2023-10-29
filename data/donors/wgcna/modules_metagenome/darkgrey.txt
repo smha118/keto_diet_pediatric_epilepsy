@@ -1,0 +1,16 @@
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|unclassified
+GLUCONEO-PWY: gluconeogenesis I|unclassified
+GLYCOLYSIS-TCA-GLYOX-BYPASS: superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass|unclassified
+GLYOXYLATE-BYPASS: glyoxylate cycle|unclassified
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|unclassified
+NAGLIPASYN-PWY: lipid IVA biosynthesis|unclassified
+PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)|unclassified
+PWY-5022: 4-aminobutanoate degradation V|unclassified
+PWY-5989: stearate biosynthesis II (bacteria and plants)|unclassified
+PWY-6901: superpathway of glucose and xylose degradation|unclassified
+PWY-7115: C4 photosynthetic carbon assimilation cycle, NAD-ME type|unclassified
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|unclassified
+PWY0-1061: superpathway of L-alanine biosynthesis|unclassified
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)|unclassified
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)|unclassified
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|unclassified

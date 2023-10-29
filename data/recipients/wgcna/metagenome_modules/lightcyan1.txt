@@ -1,0 +1,5 @@
+PWY-5791: 1,4-dihydroxy-2-naphthoate biosynthesis II (plants)|unclassified
+PWY-5837: 1,4-dihydroxy-2-naphthoate biosynthesis I|unclassified
+PWY-5897: superpathway of menaquinol-11 biosynthesis|unclassified
+PWY-5898: superpathway of menaquinol-12 biosynthesis|unclassified
+PWY-5899: superpathway of menaquinol-13 biosynthesis|unclassified

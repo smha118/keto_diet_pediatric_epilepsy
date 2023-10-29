@@ -1,0 +1,29 @@
+3-hydroxybutyrate (BHBA)
+histamine
+pyruvate
+creatine
+3-methyl-2-oxovalerate
+anserine
+creatine phosphate
+4-methyl-2-oxopentanoate
+sphingosine 1-phosphate
+N-acetylaspartate (NAA)
+3-methyl-2-oxobutyrate
+1-stearoyl-GPC (18:0)
+1-stearoyl-GPE (18:0)
+phenol sulfate
+N-acetyl-aspartyl-glutamate (NAAG)
+dimethylarginine (SDMA + ADMA)
+sphinganine-1-phosphate
+N-acetyl-beta-alanine
+2-stearoyl-GPE (18:0)*
+2,8-quinolinediol sulfate
+phenol glucuronide
+1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*
+docosahexaenoylcarnitine (C22:6)*
+heptadecanedioate (C17-DC)
+N,N,N-trimethyl-alanylproline betaine (TMAP)
+1-methyl-5-imidazolelactate
+neopentyl glycol azelate**
+neopentyl glycol suberate**
+neopentyl glycol adipate**

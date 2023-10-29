@@ -1,0 +1,46 @@
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Eggerthella.s__Eggerthella_lenta
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Eggerthella.s__Eggerthella_lenta
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Eggerthella.s__Eggerthella_lenta
+COA-PWY: coenzyme A biosynthesis I|g__Eggerthella.s__Eggerthella_lenta
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Eggerthella.s__Eggerthella_lenta
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Eggerthella.s__Eggerthella_lenta
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Blautia.s__Ruminococcus_gnavus
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Eggerthella.s__Eggerthella_lenta
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Eggerthella.s__Eggerthella_lenta
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Eggerthella.s__Eggerthella_lenta
+PWY-1042: glycolysis IV (plant cytosol)|g__Eggerthella.s__Eggerthella_lenta
+PWY-2942: L-lysine biosynthesis III|g__Eggerthella.s__Eggerthella_lenta
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Eggerthella.s__Eggerthella_lenta
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Eggerthella.s__Eggerthella_lenta
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Eggerthella.s__Eggerthella_lenta
+PWY-5101: L-isoleucine biosynthesis II|g__Eggerthella.s__Eggerthella_lenta
+PWY-5103: L-isoleucine biosynthesis III|g__Eggerthella.s__Eggerthella_lenta
+PWY-5104: L-isoleucine biosynthesis IV|g__Eggerthella.s__Eggerthella_lenta
+PWY-5686: UMP biosynthesis|g__Eggerthella.s__Eggerthella_lenta
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Eggerthella.s__Eggerthella_lenta
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Eggerthella.s__Eggerthella_lenta
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Eggerthella.s__Eggerthella_lenta
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Eggerthella.s__Eggerthella_lenta
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Eggerthella.s__Eggerthella_lenta
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Eggerthella.s__Eggerthella_lenta
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Eggerthella.s__Eggerthella_lenta
+PWY-6344: L-ornithine degradation II (Stickland reaction)
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Eggerthella.s__Eggerthella_lenta
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Eggerthella.s__Eggerthella_lenta
+PWY-6545: pyrimidine deoxyribonucleotides de novo biosynthesis III|g__Eggerthella.s__Eggerthella_lenta
+PWY-6609: adenine and adenosine salvage III|g__Eggerthella.s__Eggerthella_lenta
+PWY-6897: thiamin salvage II|g__Eggerthella.s__Eggerthella_lenta
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Eggerthella.s__Eggerthella_lenta
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Eggerthella.s__Eggerthella_lenta
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Eggerthella.s__Eggerthella_lenta
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Eggerthella.s__Eggerthella_lenta
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Eggerthella.s__Eggerthella_lenta
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Eggerthella.s__Eggerthella_lenta
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Eggerthella.s__Eggerthella_lenta
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Eggerthella.s__Eggerthella_lenta
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Eggerthella.s__Eggerthella_lenta
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Eggerthella.s__Eggerthella_lenta
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Eggerthella.s__Eggerthella_lenta
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Eggerthella.s__Eggerthella_lenta
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Eggerthella.s__Eggerthella_lenta
+VALSYN-PWY: L-valine biosynthesis|g__Eggerthella.s__Eggerthella_lenta

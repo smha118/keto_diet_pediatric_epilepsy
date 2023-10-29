@@ -1,0 +1,19 @@
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Blautia.s__Blautia_coccoides
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Blautia.s__Blautia_coccoides
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Blautia.s__Blautia_coccoides
+PWY-1042: glycolysis IV (plant cytosol)|g__Blautia.s__Blautia_coccoides
+PWY-2942: L-lysine biosynthesis III|g__Blautia.s__Blautia_coccoides
+PWY-3841: folate transformations II|g__Blautia.s__Blautia_coccoides
+PWY-5097: L-lysine biosynthesis VI|g__Blautia.s__Blautia_coccoides
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Blautia.s__Blautia_coccoides
+PWY-5103: L-isoleucine biosynthesis III|g__Blautia.s__Blautia_coccoides
+PWY-5104: L-isoleucine biosynthesis IV|g__Blautia.s__Blautia_coccoides
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Blautia.s__Blautia_coccoides
+PWY-6703: preQ0 biosynthesis|g__Hungatella.s__Hungatella_hathewayi
+PWY-6737: starch degradation V|g__Blautia.s__Blautia_coccoides
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Blautia.s__Blautia_coccoides
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Blautia.s__Blautia_coccoides
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Blautia.s__Blautia_coccoides
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Blautia.s__Blautia_coccoides
+PWY0-1296: purine ribonucleosides degradation|g__Blautia.s__Blautia_coccoides
+VALSYN-PWY: L-valine biosynthesis|g__Blautia.s__Blautia_coccoides

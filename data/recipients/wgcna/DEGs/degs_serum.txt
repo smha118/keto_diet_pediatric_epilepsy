@@ -1,0 +1,21 @@
+NODE
+flavin adenine dinucleotide (FAD)_serum
+indoleacetate_serum
+bilirubin (E,E)*_serum
+docosapentaenoate (n3 DPA; 22:5n3)_serum
+heneicosapentaenoate (21:5n3)_serum
+indoleacetylglycine_serum
+linoleoyl-docosahexaenoyl-glycerol (18:2/22:6) [1]*_serum
+succinylcarnitine (C4-DC)_serum
+1-stearoyl-GPG (18:0)_serum
+12-HHTrE_serum
+ophthalmate_serum
+pantothenate_serum
+docosahexaenoate (DHA; 22:6n3)_serum
+sucrose_serum
+perfluorohexanesulfonate (PFHxS)_serum
+glucuronate_serum
+eicosapentaenoate (EPA; 20:5n3)_serum
+1-stearoyl-2-oleoyl-GPE (18:0/18:1)_serum
+phosphoenolpyruvate (PEP)_serum
+2,3-dihydroxy-2-methylbutyrate_serum

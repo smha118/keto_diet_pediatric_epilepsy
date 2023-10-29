@@ -1,0 +1,4 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Nicotinate and nicotinamide metabolism",15,0.02988,1,0.029603,1.5287,1,1,0.13816
+"Fatty acid degradation",39,0.077689,1,0.075744,1.1207,1,1,0
+"Valine, leucine and isoleucine degradation",40,0.079681,1,0.077634,1.1099,1,1,0

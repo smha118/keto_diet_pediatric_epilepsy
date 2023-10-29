@@ -1,0 +1,38 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis
+ANAEROFRUCAT-PWY: homolactic fermentation
+ARO-PWY: chorismate biosynthesis I
+CALVIN-PWY: Calvin-Benson-Bassham cycle
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)
+COA-PWY: coenzyme A biosynthesis I
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)
+HISTSYN-PWY: L-histidine biosynthesis
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)
+PENTOSE-P-PWY: pentose phosphate pathway
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)
+PWY-1042: glycolysis IV (plant cytosol)
+PWY-2942: L-lysine biosynthesis III
+PWY-3841: folate transformations II
+PWY-4242: pantothenate and coenzyme A biosynthesis III
+PWY-5097: L-lysine biosynthesis VI
+PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline)
+PWY-5484: glycolysis II (from fructose 6-phosphate)
+PWY-5686: UMP biosynthesis
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)
+PWY-6628: superpathway of L-phenylalanine biosynthesis
+PWY-6630: superpathway of L-tyrosine biosynthesis
+PWY-6700: queuosine biosynthesis
+PWY-6901: superpathway of glucose and xylose degradation
+PWY-7219: adenosine ribonucleotides de novo biosynthesis
+PWY-7221: guanosine ribonucleotides de novo biosynthesis
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II
+TRNA-CHARGING-PWY: tRNA charging

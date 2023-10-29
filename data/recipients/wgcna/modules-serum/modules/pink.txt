@@ -1,0 +1,33 @@
+N-formylmethionine
+pseudouridine
+cytidine
+1-palmitoyl-2-linoleoyl-GPI (16:0/18:2)
+1-palmitoyl-2-linoleoyl-GPC (16:0/18:2)
+1-palmitoyl-2-oleoyl-GPC (16:0/18:1)
+1-palmitoyl-GPC (16:0)
+1-oleoyl-GPC (18:1)
+1-linoleoyl-GPC (18:2)
+1-palmitoyl-GPA (16:0)
+1-stearoyl-GPG (18:0)
+1-palmitoleoyl-GPC (16:1)*
+2-palmitoyl-GPC (16:0)*
+1-linoleoyl-GPE (18:2)*
+7alpha-hydroxy-3-oxo-4-cholestenoate (7-Hoca)
+1-linoleoyl-GPI (18:2)*
+2R,3R-dihydroxybutyrate
+1-lignoceroyl-GPC (24:0)
+1-palmitoyl-GPG (16:0)*
+1,2-dilinoleoyl-GPC (18:2/18:2)
+1-stearoyl-2-oleoyl-GPC (18:0/18:1)
+1-stearoyl-2-linoleoyl-GPC (18:0/18:2)*
+1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*
+1-palmitoyl-2-dihomo-linolenoyl-GPC (16:0/20:3n3 or 6)*
+1-palmitoyl-2-arachidonoyl-GPI (16:0/20:4)*
+1-stearoyl-2-linoleoyl-GPI (18:0/18:2)
+1-palmitoyl-2-gamma-linolenoyl-GPC (16:0/18:3n6)*
+1-linoleoyl-GPG (18:2)*
+1-linoleoyl-2-linolenoyl-GPC (18:2/18:3)*
+2,3-dihydroxy-2-methylbutyrate
+glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*
+undecenoylcarnitine (C11:1)
+2-hydroxy-4-(methylthio)butanoic acid

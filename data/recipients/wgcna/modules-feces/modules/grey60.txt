@@ -1,0 +1,20 @@
+5,6-dihydrothymine
+3-hydroxybutyrate (BHBA)
+myo-inositol
+spermine
+glycerophosphorylcholine (GPC)
+1-stearoyl-GPC (18:0)
+1-stearoyl-GPE (18:0)
+N1-methyl-2-pyridone-5-carboxamide
+1-(1-enyl-palmitoyl)-GPC (P-16:0)*
+1-(1-enyl-palmitoyl)-GPE (P-16:0)*
+1-(1-enyl-stearoyl)-GPE (P-18:0)*
+1-(1-enyl-oleoyl)-GPE (P-18:1)*
+1-(1-enyl-stearoyl)-2-oleoyl-GPE (P-18:0/18:1)
+1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)*
+1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE (P-16:0/20:4)*
+1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)*
+1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*
+1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*
+1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*
+1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*

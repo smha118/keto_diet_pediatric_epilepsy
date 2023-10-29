@@ -1,5 +1,0 @@
-"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
-"Histidine metabolism",16,0.04129,2,0.00059255,3.2273,0.049774,0.049774,0.09016
-"beta-Alanine metabolism",21,0.054194,1,0.053153,1.2745,1,1,0.05597
-"Porphyrin and chlorophyll metabolism",30,0.077419,1,0.075271,1.1234,1,1,0.0902
-"Cysteine and methionine metabolism",33,0.085161,1,0.082557,1.0832,1,1,0.02089

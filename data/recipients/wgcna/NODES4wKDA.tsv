@@ -1,0 +1,4555 @@
+MODULE	NODE
+red_meta	1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+red_meta	1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Dielma.s__Dielma_fastidiosa
+red_meta	ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Dielma.s__Dielma_fastidiosa
+red_meta	ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	BIOTIN-BIOSYNTHESIS-PWY: biotin biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	CATECHOL-ORTHO-CLEAVAGE-PWY: catechol degradation to &beta;-ketoadipate|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Dielma.s__Dielma_fastidiosa
+red_meta	COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	COA-PWY: coenzyme A biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	COA-PWY: coenzyme A biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	COA-PWY: coenzyme A biosynthesis I|g__Dielma.s__Dielma_fastidiosa
+red_meta	COA-PWY: coenzyme A biosynthesis I|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	COA-PWY: coenzyme A biosynthesis I|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	FASYN-ELONG-PWY: fatty acid elongation -- saturated|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	GLUCONEO-PWY: gluconeogenesis I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Dielma.s__Dielma_fastidiosa
+red_meta	GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol|g__Hungatella.s__Hungatella_hathewayi
+red_meta	HISDEG-PWY: L-histidine degradation I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	HISDEG-PWY: L-histidine degradation I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	HISDEG-PWY: L-histidine degradation I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	HISDEG-PWY: L-histidine degradation I|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	HISTSYN-PWY: L-histidine biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+red_meta	HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	HSERMETANA-PWY: L-methionine biosynthesis III|g__Alistipes.s__Alistipes_finegoldii
+red_meta	HSERMETANA-PWY: L-methionine biosynthesis III|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	NAD-BIOSYNTHESIS-II: NAD salvage pathway II|unclassified
+red_meta	NAGLIPASYN-PWY: lipid IVA biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	NONMEVIPP-PWY: methylerythritol phosphate pathway I|unclassified
+red_meta	NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Dielma.s__Dielma_fastidiosa
+red_meta	P161-PWY: acetylene degradation|g__Dielma.s__Dielma_fastidiosa
+red_meta	PANTO-PWY: phosphopantothenate biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PENTOSE-P-PWY: pentose phosphate pathway|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PENTOSE-P-PWY: pentose phosphate pathway|g__Dielma.s__Dielma_fastidiosa
+red_meta	PENTOSE-P-PWY: pentose phosphate pathway|g__Lachnoclostridium.s__Clostridium_clostridioforme
+red_meta	PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	POLYAMSYN-PWY: superpathway of polyamine biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PPGPPMET-PWY: ppGpp biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-1042: glycolysis IV (plant cytosol)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-1042: glycolysis IV (plant cytosol)|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-1042: glycolysis IV (plant cytosol)|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-1042: glycolysis IV (plant cytosol)|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-2942: L-lysine biosynthesis III|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-2942: L-lysine biosynthesis III|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-2942: L-lysine biosynthesis III|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-3841: folate transformations II|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-3841: folate transformations II|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-3841: folate transformations II|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-3841: folate transformations II|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Alistipes.s__Alistipes_putredinis
+red_meta	PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-4702: phytate degradation I|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-5030: L-histidine degradation III|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-5030: L-histidine degradation III|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-5030: L-histidine degradation III|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-5030: L-histidine degradation III|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-5030: L-histidine degradation III|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-5088: L-glutamate degradation VIII (to propanoate)
+red_meta	PWY-5097: L-lysine biosynthesis VI|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-5097: L-lysine biosynthesis VI|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-5097: L-lysine biosynthesis VI|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-5100: pyruvate fermentation to acetate and lactate II|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-5100: pyruvate fermentation to acetate and lactate II|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-5101: L-isoleucine biosynthesis II|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-5101: L-isoleucine biosynthesis II|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-5103: L-isoleucine biosynthesis III|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-5177: glutaryl-CoA degradation|g__Lachnoclostridium.s__Clostridium_clostridioforme
+red_meta	PWY-5417: catechol degradation III (ortho-cleavage pathway)|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-5431: aromatic compounds degradation via &beta;-ketoadipate|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-5659: GDP-mannose biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-5659: GDP-mannose biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-5667: CDP-diacylglycerol biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-5667: CDP-diacylglycerol biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-5667: CDP-diacylglycerol biosynthesis I|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-5667: CDP-diacylglycerol biosynthesis I|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-5686: UMP biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-5686: UMP biosynthesis|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-5686: UMP biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-5686: UMP biosynthesis|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-5686: UMP biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-5686: UMP biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-5973: cis-vaccenate biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-5989: stearate biosynthesis II (bacteria and plants)|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-6123: inosine-5'-phosphate biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6123: inosine-5'-phosphate biosynthesis I|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-6124: inosine-5'-phosphate biosynthesis II|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_uniformis_CAG_3
+red_meta	PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6124: inosine-5'-phosphate biosynthesis II|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-6151: S-adenosyl-L-methionine cycle I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6151: S-adenosyl-L-methionine cycle I|g__Clostridium.s__Clostridium_sp_chh4_2
+red_meta	PWY-6151: S-adenosyl-L-methionine cycle I|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-6151: S-adenosyl-L-methionine cycle I|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-6478: GDP-D-glycero-&alpha;-D-manno-heptose biosynthesis
+red_meta	PWY-6478: GDP-D-glycero-&alpha;-D-manno-heptose biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+red_meta	PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Lachnoclostridium.s__Clostridium_lavalense
+red_meta	PWY-6519: 8-amino-7-oxononanoate biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-6527: stachyose degradation|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-6608: guanosine nucleotides degradation III|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6609: adenine and adenosine salvage III|g__Butyricimonas.s__Butyricimonas_virosa
+red_meta	PWY-6609: adenine and adenosine salvage III|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-6609: adenine and adenosine salvage III|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6700: queuosine biosynthesis|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-6700: queuosine biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-6700: queuosine biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-6703: preQ0 biosynthesis|g__Alistipes.s__Alistipes_putredinis
+red_meta	PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6737: starch degradation V|g__Clostridium.s__Clostridium_sp_chh4_2
+red_meta	PWY-6737: starch degradation V|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-6737: starch degradation V|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-6859: all-trans-farnesol biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-6897: thiamin salvage II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-6897: thiamin salvage II|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-6897: thiamin salvage II|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-6897: thiamin salvage II|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-6936: seleno-amino acid biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7039: phosphatidate metabolism, as a signaling molecule|unclassified
+red_meta	PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Clostridium.s__Clostridium_sp_chh4_2
+red_meta	PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-7187: pyrimidine deoxyribonucleotides de novo biosynthesis II|g__Cutibacterium.s__Cutibacterium_acnes
+red_meta	PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Cutibacterium.s__Cutibacterium_acnes
+red_meta	PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Clostridium.s__Clostridium_sp_chh4_2
+red_meta	PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Clostridium.s__Clostridium_sp_chh4_2
+red_meta	PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY-7234: inosine-5'-phosphate biosynthesis III|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-7234: inosine-5'-phosphate biosynthesis III|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY-7446: sulfoglycolysis|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY-7456: mannan degradation|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Alistipes.s__Alistipes_putredinis
+red_meta	PWY-7664: oleate biosynthesis IV (anaerobic)|g__Citrobacter.s__Citrobacter_amalonaticus
+red_meta	PWY0-1296: purine ribonucleosides degradation|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY0-1296: purine ribonucleosides degradation|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Alistipes.s__Alistipes_putredinis_CAG_67
+red_meta	PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+red_meta	PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY66-389: phytol degradation|g__Lachnoclostridium.s__Clostridium_clostridioforme
+red_meta	PWY66-400: glycolysis VI (metazoan)|g__Alistipes.s__Alistipes_finegoldii
+red_meta	PWY66-400: glycolysis VI (metazoan)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	PWY66-400: glycolysis VI (metazoan)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	PWY66-400: glycolysis VI (metazoan)|g__Dielma.s__Dielma_fastidiosa
+red_meta	PWY66-422: D-galactose degradation V (Leloir pathway)|g__Dielma.s__Dielma_fastidiosa
+red_meta	PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_fragilis
+red_meta	RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	RHAMCAT-PWY: L-rhamnose degradation I|g__Hungatella.s__Hungatella_hathewayi
+red_meta	RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_fragilis
+red_meta	RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+red_meta	TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_uniformis_CAG_3
+red_meta	TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+red_meta	VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+red_meta	VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+red_meta	VALSYN-PWY: L-valine biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+red_meta	VALSYN-PWY: L-valine biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+lightcyan_meta	1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Lachnoclostridium.s__Clostridium_bolteae
+lightcyan_meta	ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	ARO-PWY: chorismate biosynthesis I|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	COA-PWY: coenzyme A biosynthesis I|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Lachnoclostridium.s__Clostridium_symbiosum
+lightcyan_meta	DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Enterococcus.s__Enterococcus_raffinosus
+lightcyan_meta	DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	GALACTUROCAT-PWY: D-galacturonate degradation I|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	GLUTORN-PWY: L-ornithine biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	HISDEG-PWY: L-histidine degradation I|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	HISTSYN-PWY: L-histidine biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	LACTOSECAT-PWY: lactose and galactose degradation I|g__Enterococcus.s__Enterococcus_raffinosus
+lightcyan_meta	METHGLYUT-PWY: superpathway of methylglyoxal degradation|unclassified
+lightcyan_meta	NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Enterococcus.s__Enterococcus_raffinosus
+lightcyan_meta	NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	P161-PWY: acetylene degradation|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PENTOSE-P-PWY: pentose phosphate pathway|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PENTOSE-P-PWY: pentose phosphate pathway|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-1042: glycolysis IV (plant cytosol)|g__Enterococcus.s__Enterococcus_raffinosus
+lightcyan_meta	PWY-1042: glycolysis IV (plant cytosol)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-1861: formaldehyde assimilation II (RuMP Cycle)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-2942: L-lysine biosynthesis III|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-4981: L-proline biosynthesis II (from arginine)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-5030: L-histidine degradation III|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-5097: L-lysine biosynthesis VI|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-5100: pyruvate fermentation to acetate and lactate II|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-5103: L-isoleucine biosynthesis III|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-5104: L-isoleucine biosynthesis IV|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-5659: GDP-mannose biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-5667: CDP-diacylglycerol biosynthesis I|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-5686: UMP biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-5686: UMP biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-5692: allantoin degradation to glyoxylate II|unclassified
+lightcyan_meta	PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-5918: superpathay of heme biosynthesis from glutamate|unclassified
+lightcyan_meta	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6123: inosine-5'-phosphate biosynthesis I|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+lightcyan_meta	PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6124: inosine-5'-phosphate biosynthesis II|g__Terrisporobacter.s__Terrisporobacter_othiniensis
+lightcyan_meta	PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6151: S-adenosyl-L-methionine cycle I|g__Enterococcus.s__Enterococcus_raffinosus
+lightcyan_meta	PWY-6151: S-adenosyl-L-methionine cycle I|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-621: sucrose degradation III (sucrose invertase)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6608: guanosine nucleotides degradation III|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6609: adenine and adenosine salvage III|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6700: queuosine biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6737: starch degradation V|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6749: CMP-legionaminate biosynthesis I|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-6897: thiamin salvage II|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-6936: seleno-amino acid biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Enterococcus.s__Enterococcus_raffinosus
+lightcyan_meta	PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Enterococcus.s__Enterococcus_raffinosus
+lightcyan_meta	PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-7242: D-fructuronate degradation|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY-821: superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)|unclassified
+lightcyan_meta	PWY0-1296: purine ribonucleosides degradation|g__Anaerotruncus.s__Anaerotruncus_colihominis
+lightcyan_meta	PWY0-1296: purine ribonucleosides degradation|g__Enterococcus.s__Enterococcus_raffinosus
+lightcyan_meta	PWY0-1296: purine ribonucleosides degradation|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	PWY0-41: allantoin degradation IV (anaerobic)|unclassified
+lightcyan_meta	PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PWY66-400: glycolysis VI (metazoan)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Lachnoclostridium.s__Clostridium_aldenense
+lightcyan_meta	SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Hungatella.s__Hungatella_hathewayi
+lightcyan_meta	TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Enterococcus.s__Enterococcus_raffinosus
+lightcyan_meta	URDEGR-PWY: superpathway of allantoin degradation in plants|unclassified
+lightcyan_meta	VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_ovatus
+lightcyan_meta	VALSYN-PWY: L-valine biosynthesis|g__Lachnoclostridium.s__Clostridium_aldenense
+grey60_feces	5,6-dihydrothymine_feces
+grey60_feces	3-hydroxybutyrate (BHBA)_feces
+grey60_feces	myo-inositol_feces
+grey60_feces	spermine_feces
+grey60_feces	glycerophosphorylcholine (GPC)_feces
+grey60_feces	1-stearoyl-GPC (18:0)_feces
+grey60_feces	1-stearoyl-GPE (18:0)_feces
+grey60_feces	N1-methyl-2-pyridone-5-carboxamide_feces
+grey60_feces	1-(1-enyl-palmitoyl)-GPC (P-16:0)*_feces
+grey60_feces	1-(1-enyl-palmitoyl)-GPE (P-16:0)*_feces
+grey60_feces	1-(1-enyl-stearoyl)-GPE (P-18:0)*_feces
+grey60_feces	1-(1-enyl-oleoyl)-GPE (P-18:1)*_feces
+grey60_feces	1-(1-enyl-stearoyl)-2-oleoyl-GPE (P-18:0/18:1)_feces
+grey60_feces	1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)*_feces
+grey60_feces	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE (P-16:0/20:4)*_feces
+grey60_feces	1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)*_feces
+grey60_feces	1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*_feces
+grey60_feces	1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*_feces
+grey60_feces	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*_feces
+grey60_feces	1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*_feces
+darkgrey_feces	dihomo-linoleate (20:2n6)_feces
+darkgrey_feces	1-stearoyl-GPI (18:0)_feces
+darkgrey_feces	3-dehydrocholate_feces
+darkgrey_feces	docosapentaenoate (n3 DPA; 22:5n3)_feces
+darkgrey_feces	glycerophosphoinositol*_feces
+darkgrey_feces	dihomo-linolenate (20:3n3 or n6)_feces
+darkgrey_feces	2-stearoyl-GPE (18:0)*_feces
+darkgrey_feces	1-stearoyl-GPS (18:0)*_feces
+darkgrey_feces	1-dihomo-linolenylglycerol (20:3)_feces
+darkgrey_serum	stearate (18:0)_serum
+darkgrey_serum	hippurate_serum
+darkgrey_serum	dimethyl sulfone_serum
+darkgrey_serum	4-ethylphenol glucuronide_serum
+darkgrey_serum	4-ethylcatechol sulfate_serum
+green_serum	mevalonate_serum
+green_serum	cholate_serum
+green_serum	deoxycholate_serum
+green_serum	malonate_serum
+green_serum	xylose_serum
+green_serum	pipecolate_serum
+green_serum	ursodeoxycholate_serum
+green_serum	methylsuccinate_serum
+green_serum	2'-deoxycytidine_serum
+green_serum	tartarate_serum
+green_serum	2-isopropylmalate_serum
+green_serum	gentisate_serum
+green_serum	1-methylguanidine_serum
+green_serum	isobutyrylcarnitine (C4)_serum
+green_serum	7-ketodeoxycholate_serum
+green_serum	beta-muricholate_serum
+green_serum	N-(2-furoyl)glycine_serum
+green_serum	2-hydroxyadipate_serum
+green_serum	N1-methylinosine_serum
+green_serum	isobutyrylglycine_serum
+green_serum	phenylpropionylglycine_serum
+green_serum	catechol sulfate_serum
+green_serum	4-ethylphenylsulfate_serum
+green_serum	thymol sulfate_serum
+green_serum	N-methylproline_serum
+green_serum	homovanillate sulfate_serum
+green_serum	ursocholate_serum
+green_serum	3-(4-hydroxyphenyl)propionate_serum
+green_serum	2-oxindole-3-acetate_serum
+green_serum	imidazole propionate_serum
+green_serum	2-hydroxydecanoate_serum
+green_serum	4-methylcatechol sulfate_serum
+green_serum	3-methyl catechol sulfate (1)_serum
+green_serum	2-piperidinone_serum
+green_serum	2-aminophenol sulfate_serum
+green_serum	3-(3-hydroxyphenyl)propionate sulfate_serum
+green_serum	3-hydroxypyridine sulfate_serum
+green_serum	maltol sulfate_serum
+green_serum	4-vinylguaiacol sulfate_serum
+green_serum	1,2,3-benzenetriol sulfate (2)_serum
+green_serum	adipoylcarnitine (C6-DC)_serum
+green_serum	2-methylcitrate/homocitrate_serum
+green_serum	indoxyl glucuronide_serum
+green_serum	N,N,N-trimethyl-5-aminovalerate_serum
+green_serum	ethyl alpha-glucopyranoside_serum
+green_serum	glucuronide of C14H22O4 (1)*_serum
+green_serum	daidzein 7-O-glucuronide_serum
+green_serum	genistein glucuronide*_serum
+green_serum	N,N-dimethylalanine_serum
+green_serum	dihydrocaffeate sulfate (2)_serum
+green_serum	3-hydroxy-2-methylpyridine sulfate_serum
+green_serum	4-vinylcatechol sulfate_serum
+cyan_serum	N-acetylputrescine_serum
+cyan_serum	allantoic acid_serum
+cyan_serum	urate_serum
+cyan_serum	cysteine s-sulfate_serum
+cyan_serum	10-undecenoate (11:1n1)_serum
+cyan_serum	gamma-glutamyl-epsilon-lysine_serum
+cyan_serum	N6-carbamoylthreonyladenosine_serum
+cyan_serum	N1-methyl-2-pyridone-5-carboxamide_serum
+cyan_serum	N1-methyl-4-pyridone-3-carboxamide_serum
+cyan_serum	glycerophosphoglycerol_serum
+cyan_serum	1-methyl-5-imidazoleacetate_serum
+cyan_serum	1-oleoyl-GPG (18:1)*_serum
+cyan_serum	linoleoyl-docosahexaenoyl-glycerol (18:2/22:6) [1]*_serum
+cyan_serum	linoleoyl-docosahexaenoyl-glycerol (18:2/22:6) [2]*_serum
+cyan_serum	N-palmitoyl-sphingadienine (d18:2/16:0)*_serum
+cyan_serum	2-butenoylglycine_serum
+cyan_serum	heptenedioate (C7:1-DC)*_serum
+cyan_serum	dihydroferulic acid sulfate_serum
+cyan_serum	4-chlorobenzoic acid_serum
+cyan_serum	2-methoxyhydroquinone sulfate (1)_serum
+cyan_serum	2-methoxyhydroquinone sulfate (2)_serum
+mediumpurple2_fx	ENSMUSG00000001054_fx_fx
+mediumpurple2_fx	ENSMUSG00000003665_fx_fx
+mediumpurple2_fx	ENSMUSG00000010054_fx_fx
+mediumpurple2_fx	ENSMUSG00000014361_fx_fx
+mediumpurple2_fx	ENSMUSG00000016995_fx_fx
+mediumpurple2_fx	ENSMUSG00000018822_fx_fx
+mediumpurple2_fx	ENSMUSG00000019849_fx_fx
+mediumpurple2_fx	ENSMUSG00000020701_fx_fx
+mediumpurple2_fx	ENSMUSG00000020787_fx_fx
+mediumpurple2_fx	ENSMUSG00000021678_fx_fx
+mediumpurple2_fx	ENSMUSG00000022178_fx_fx
+mediumpurple2_fx	ENSMUSG00000022533_fx_fx
+mediumpurple2_fx	ENSMUSG00000024590_fx_fx
+mediumpurple2_fx	ENSMUSG00000024727_fx_fx
+mediumpurple2_fx	ENSMUSG00000025176_fx_fx
+mediumpurple2_fx	ENSMUSG00000025745_fx_fx
+mediumpurple2_fx	ENSMUSG00000025871_fx_fx
+mediumpurple2_fx	ENSMUSG00000026032_fx_fx
+mediumpurple2_fx	ENSMUSG00000027366_fx_fx
+mediumpurple2_fx	ENSMUSG00000027583_fx_fx
+mediumpurple2_fx	ENSMUSG00000027971_fx_fx
+mediumpurple2_fx	ENSMUSG00000029093_fx_fx
+mediumpurple2_fx	ENSMUSG00000029290_fx_fx
+mediumpurple2_fx	ENSMUSG00000030316_fx_fx
+mediumpurple2_fx	ENSMUSG00000030685_fx_fx
+mediumpurple2_fx	ENSMUSG00000030858_fx_fx
+mediumpurple2_fx	ENSMUSG00000031374_fx_fx
+mediumpurple2_fx	ENSMUSG00000031891_fx_fx
+mediumpurple2_fx	ENSMUSG00000031951_fx_fx
+mediumpurple2_fx	ENSMUSG00000034457_fx_fx
+mediumpurple2_fx	ENSMUSG00000037708_fx_fx
+mediumpurple2_fx	ENSMUSG00000038782_fx_fx
+mediumpurple2_fx	ENSMUSG00000040138_fx_fx
+mediumpurple2_fx	ENSMUSG00000042694_fx_fx
+mediumpurple2_fx	ENSMUSG00000044726_fx_fx
+mediumpurple2_fx	ENSMUSG00000046032_fx_fx
+mediumpurple2_fx	ENSMUSG00000046637_fx_fx
+mediumpurple2_fx	ENSMUSG00000049176_fx_fx
+mediumpurple2_fx	ENSMUSG00000052957_fx_fx
+mediumpurple2_fx	ENSMUSG00000053399_fx_fx
+mediumpurple2_fx	ENSMUSG00000053545_fx_fx
+mediumpurple2_fx	ENSMUSG00000054662_fx_fx
+mediumpurple2_fx	ENSMUSG00000057359_fx_fx
+mediumpurple2_fx	ENSMUSG00000060512_fx_fx
+mediumpurple2_fx	ENSMUSG00000061863_fx_fx
+mediumpurple2_fx	ENSMUSG00000064317_fx_fx
+mediumpurple2_fx	ENSMUSG00000069540_fx_fx
+mediumpurple2_fx	ENSMUSG00000082106_fx_fx
+mediumpurple2_fx	ENSMUSG00000085897_fx_fx
+mediumpurple2_fx	ENSMUSG00000086662_fx_fx
+mediumpurple2_fx	ENSMUSG00000090667_fx_fx
+mediumpurple2_fx	ENSMUSG00000092090_fx_fx
+mediumpurple2_fx	ENSMUSG00000093606_fx_fx
+mediumpurple2_fx	ENSMUSG00000094634_fx_fx
+mediumpurple2_fx	ENSMUSG00000097217_fx_fx
+mediumpurple2_fx	ENSMUSG00000097520_fx_fx
+mediumpurple2_fx	ENSMUSG00000097579_fx_fx
+mediumpurple2_fx	ENSMUSG00000099784_fx_fx
+mediumpurple2_fx	ENSMUSG00000099907_fx_fx
+mediumpurple2_fx	ENSMUSG00000102014_fx_fx
+mediumpurple2_fx	ENSMUSG00000103509_fx_fx
+mediumpurple2_fx	ENSMUSG00000103703_fx_fx
+mediumpurple2_fx	ENSMUSG00000103891_fx_fx
+mediumpurple2_fx	ENSMUSG00000103986_fx_fx
+mediumpurple2_fx	ENSMUSG00000105686_fx_fx
+mediumpurple2_fx	ENSMUSG00000106706_fx_fx
+mediumpurple2_fx	ENSMUSG00000109046_fx_fx
+darkseagreen4_fx	ENSMUSG00000002881_fx_fx
+darkseagreen4_fx	ENSMUSG00000004609_fx_fx
+darkseagreen4_fx	ENSMUSG00000013997_fx_fx
+darkseagreen4_fx	ENSMUSG00000019261_fx_fx
+darkseagreen4_fx	ENSMUSG00000020175_fx_fx
+darkseagreen4_fx	ENSMUSG00000021377_fx_fx
+darkseagreen4_fx	ENSMUSG00000021904_fx_fx
+darkseagreen4_fx	ENSMUSG00000022438_fx_fx
+darkseagreen4_fx	ENSMUSG00000023088_fx_fx
+darkseagreen4_fx	ENSMUSG00000024422_fx_fx
+darkseagreen4_fx	ENSMUSG00000024561_fx_fx
+darkseagreen4_fx	ENSMUSG00000024565_fx_fx
+darkseagreen4_fx	ENSMUSG00000024926_fx_fx
+darkseagreen4_fx	ENSMUSG00000025200_fx_fx
+darkseagreen4_fx	ENSMUSG00000026039_fx_fx
+darkseagreen4_fx	ENSMUSG00000026219_fx_fx
+darkseagreen4_fx	ENSMUSG00000026934_fx_fx
+darkseagreen4_fx	ENSMUSG00000027306_fx_fx
+darkseagreen4_fx	ENSMUSG00000027313_fx_fx
+darkseagreen4_fx	ENSMUSG00000027854_fx_fx
+darkseagreen4_fx	ENSMUSG00000028466_fx_fx
+darkseagreen4_fx	ENSMUSG00000028681_fx_fx
+darkseagreen4_fx	ENSMUSG00000029507_fx_fx
+darkseagreen4_fx	ENSMUSG00000029815_fx_fx
+darkseagreen4_fx	ENSMUSG00000031325_fx_fx
+darkseagreen4_fx	ENSMUSG00000031925_fx_fx
+darkseagreen4_fx	ENSMUSG00000032262_fx_fx
+darkseagreen4_fx	ENSMUSG00000032327_fx_fx
+darkseagreen4_fx	ENSMUSG00000032744_fx_fx
+darkseagreen4_fx	ENSMUSG00000032911_fx_fx
+darkseagreen4_fx	ENSMUSG00000035901_fx_fx
+darkseagreen4_fx	ENSMUSG00000038055_fx_fx
+darkseagreen4_fx	ENSMUSG00000038301_fx_fx
+darkseagreen4_fx	ENSMUSG00000038347_fx_fx
+darkseagreen4_fx	ENSMUSG00000038517_fx_fx
+darkseagreen4_fx	ENSMUSG00000038806_fx_fx
+darkseagreen4_fx	ENSMUSG00000039018_fx_fx
+darkseagreen4_fx	ENSMUSG00000039713_fx_fx
+darkseagreen4_fx	ENSMUSG00000040302_fx_fx
+darkseagreen4_fx	ENSMUSG00000042812_fx_fx
+darkseagreen4_fx	ENSMUSG00000043298_fx_fx
+darkseagreen4_fx	ENSMUSG00000043415_fx_fx
+darkseagreen4_fx	ENSMUSG00000045374_fx_fx
+darkseagreen4_fx	ENSMUSG00000046408_fx_fx
+darkseagreen4_fx	ENSMUSG00000049670_fx_fx
+darkseagreen4_fx	ENSMUSG00000049672_fx_fx
+darkseagreen4_fx	ENSMUSG00000050891_fx_fx
+darkseagreen4_fx	ENSMUSG00000051029_fx_fx
+darkseagreen4_fx	ENSMUSG00000053279_fx_fx
+darkseagreen4_fx	ENSMUSG00000056553_fx_fx
+darkseagreen4_fx	ENSMUSG00000064065_fx_fx
+darkseagreen4_fx	ENSMUSG00000064451_fx_fx
+darkseagreen4_fx	ENSMUSG00000064719_fx_fx
+darkseagreen4_fx	ENSMUSG00000073889_fx_fx
+darkseagreen4_fx	ENSMUSG00000074281_fx_fx
+darkseagreen4_fx	ENSMUSG00000074916_fx_fx
+darkseagreen4_fx	ENSMUSG00000075596_fx_fx
+darkseagreen4_fx	ENSMUSG00000078554_fx_fx
+darkseagreen4_fx	ENSMUSG00000078640_fx_fx
+darkseagreen4_fx	ENSMUSG00000079499_fx_fx
+darkseagreen4_fx	ENSMUSG00000082007_fx_fx
+darkseagreen4_fx	ENSMUSG00000082935_fx_fx
+darkseagreen4_fx	ENSMUSG00000085165_fx_fx
+darkseagreen4_fx	ENSMUSG00000086978_fx_fx
+darkseagreen4_fx	ENSMUSG00000087885_fx_fx
+darkseagreen4_fx	ENSMUSG00000088359_fx_fx
+darkseagreen4_fx	ENSMUSG00000097077_fx_fx
+darkseagreen4_fx	ENSMUSG00000097274_fx_fx
+darkseagreen4_fx	ENSMUSG00000097434_fx_fx
+darkseagreen4_fx	ENSMUSG00000099470_fx_fx
+darkseagreen4_fx	ENSMUSG00000100274_fx_fx
+darkseagreen4_fx	ENSMUSG00000104528_fx_fx
+darkseagreen4_fx	ENSMUSG00000106895_fx_fx
+darkseagreen4_fx	ENSMUSG00000108264_fx_fx
+darkseagreen4_fx	ENSMUSG00000109314_fx_fx
+lavenderblush3_fx	ENSMUSG00000001157_fx_fx
+lavenderblush3_fx	ENSMUSG00000002871_fx_fx
+lavenderblush3_fx	ENSMUSG00000008999_fx_fx
+lavenderblush3_fx	ENSMUSG00000011154_fx_fx
+lavenderblush3_fx	ENSMUSG00000012350_fx_fx
+lavenderblush3_fx	ENSMUSG00000017478_fx_fx
+lavenderblush3_fx	ENSMUSG00000019802_fx_fx
+lavenderblush3_fx	ENSMUSG00000021115_fx_fx
+lavenderblush3_fx	ENSMUSG00000021468_fx_fx
+lavenderblush3_fx	ENSMUSG00000021597_fx_fx
+lavenderblush3_fx	ENSMUSG00000021983_fx_fx
+lavenderblush3_fx	ENSMUSG00000022021_fx_fx
+lavenderblush3_fx	ENSMUSG00000022382_fx_fx
+lavenderblush3_fx	ENSMUSG00000022983_fx_fx
+lavenderblush3_fx	ENSMUSG00000023030_fx_fx
+lavenderblush3_fx	ENSMUSG00000023959_fx_fx
+lavenderblush3_fx	ENSMUSG00000023972_fx_fx
+lavenderblush3_fx	ENSMUSG00000024317_fx_fx
+lavenderblush3_fx	ENSMUSG00000025610_fx_fx
+lavenderblush3_fx	ENSMUSG00000025940_fx_fx
+lavenderblush3_fx	ENSMUSG00000026317_fx_fx
+lavenderblush3_fx	ENSMUSG00000026814_fx_fx
+lavenderblush3_fx	ENSMUSG00000027301_fx_fx
+lavenderblush3_fx	ENSMUSG00000027420_fx_fx
+lavenderblush3_fx	ENSMUSG00000027580_fx_fx
+lavenderblush3_fx	ENSMUSG00000028124_fx_fx
+lavenderblush3_fx	ENSMUSG00000028158_fx_fx
+lavenderblush3_fx	ENSMUSG00000028221_fx_fx
+lavenderblush3_fx	ENSMUSG00000028223_fx_fx
+lavenderblush3_fx	ENSMUSG00000028402_fx_fx
+lavenderblush3_fx	ENSMUSG00000028957_fx_fx
+lavenderblush3_fx	ENSMUSG00000029598_fx_fx
+lavenderblush3_fx	ENSMUSG00000030108_fx_fx
+lavenderblush3_fx	ENSMUSG00000030782_fx_fx
+lavenderblush3_fx	ENSMUSG00000030986_fx_fx
+lavenderblush3_fx	ENSMUSG00000031320_fx_fx
+lavenderblush3_fx	ENSMUSG00000031447_fx_fx
+lavenderblush3_fx	ENSMUSG00000031453_fx_fx
+lavenderblush3_fx	ENSMUSG00000031627_fx_fx
+lavenderblush3_fx	ENSMUSG00000031662_fx_fx
+lavenderblush3_fx	ENSMUSG00000032114_fx_fx
+lavenderblush3_fx	ENSMUSG00000033214_fx_fx
+lavenderblush3_fx	ENSMUSG00000034171_fx_fx
+lavenderblush3_fx	ENSMUSG00000034602_fx_fx
+lavenderblush3_fx	ENSMUSG00000035274_fx_fx
+lavenderblush3_fx	ENSMUSG00000036167_fx_fx
+lavenderblush3_fx	ENSMUSG00000036832_fx_fx
+lavenderblush3_fx	ENSMUSG00000038047_fx_fx
+lavenderblush3_fx	ENSMUSG00000038605_fx_fx
+lavenderblush3_fx	ENSMUSG00000039206_fx_fx
+lavenderblush3_fx	ENSMUSG00000039886_fx_fx
+lavenderblush3_fx	ENSMUSG00000045409_fx_fx
+lavenderblush3_fx	ENSMUSG00000045689_fx_fx
+lavenderblush3_fx	ENSMUSG00000049796_fx_fx
+lavenderblush3_fx	ENSMUSG00000050050_fx_fx
+lavenderblush3_fx	ENSMUSG00000053134_fx_fx
+lavenderblush3_fx	ENSMUSG00000053436_fx_fx
+lavenderblush3_fx	ENSMUSG00000057858_fx_fx
+lavenderblush3_fx	ENSMUSG00000058099_fx_fx
+lavenderblush3_fx	ENSMUSG00000058715_fx_fx
+lavenderblush3_fx	ENSMUSG00000058740_fx_fx
+lavenderblush3_fx	ENSMUSG00000062997_fx_fx
+lavenderblush3_fx	ENSMUSG00000066647_fx_fx
+lavenderblush3_fx	ENSMUSG00000070476_fx_fx
+lavenderblush3_fx	ENSMUSG00000074872_fx_fx
+lavenderblush3_fx	ENSMUSG00000075324_fx_fx
+lavenderblush3_fx	ENSMUSG00000078439_fx_fx
+lavenderblush3_fx	ENSMUSG00000079018_fx_fx
+lavenderblush3_fx	ENSMUSG00000084830_fx_fx
+lavenderblush3_fx	ENSMUSG00000090086_fx_fx
+lavenderblush3_fx	ENSMUSG00000097855_fx_fx
+lavenderblush3_fx	ENSMUSG00000104195_fx_fx
+lavenderblush3_fx	ENSMUSG00000104724_fx_fx
+lavenderblush3_fx	ENSMUSG00000104737_fx_fx
+lavenderblush3_fx	ENSMUSG00000105957_fx_fx
+lavenderblush3_fx	ENSMUSG00000108741_fx_fx
+mediumpurple3_fx	ENSMUSG00000000142_fx_fx
+mediumpurple3_fx	ENSMUSG00000002602_fx_fx
+mediumpurple3_fx	ENSMUSG00000003033_fx_fx
+mediumpurple3_fx	ENSMUSG00000003680_fx_fx
+mediumpurple3_fx	ENSMUSG00000005553_fx_fx
+mediumpurple3_fx	ENSMUSG00000014959_fx_fx
+mediumpurple3_fx	ENSMUSG00000016239_fx_fx
+mediumpurple3_fx	ENSMUSG00000020056_fx_fx
+mediumpurple3_fx	ENSMUSG00000020099_fx_fx
+mediumpurple3_fx	ENSMUSG00000020184_fx_fx
+mediumpurple3_fx	ENSMUSG00000020225_fx_fx
+mediumpurple3_fx	ENSMUSG00000020723_fx_fx
+mediumpurple3_fx	ENSMUSG00000020928_fx_fx
+mediumpurple3_fx	ENSMUSG00000020973_fx_fx
+mediumpurple3_fx	ENSMUSG00000021038_fx_fx
+mediumpurple3_fx	ENSMUSG00000021427_fx_fx
+mediumpurple3_fx	ENSMUSG00000021428_fx_fx
+mediumpurple3_fx	ENSMUSG00000021540_fx_fx
+mediumpurple3_fx	ENSMUSG00000022309_fx_fx
+mediumpurple3_fx	ENSMUSG00000022391_fx_fx
+mediumpurple3_fx	ENSMUSG00000023886_fx_fx
+mediumpurple3_fx	ENSMUSG00000024085_fx_fx
+mediumpurple3_fx	ENSMUSG00000024521_fx_fx
+mediumpurple3_fx	ENSMUSG00000025993_fx_fx
+mediumpurple3_fx	ENSMUSG00000026017_fx_fx
+mediumpurple3_fx	ENSMUSG00000026857_fx_fx
+mediumpurple3_fx	ENSMUSG00000026986_fx_fx
+mediumpurple3_fx	ENSMUSG00000026989_fx_fx
+mediumpurple3_fx	ENSMUSG00000028599_fx_fx
+mediumpurple3_fx	ENSMUSG00000028914_fx_fx
+mediumpurple3_fx	ENSMUSG00000029314_fx_fx
+mediumpurple3_fx	ENSMUSG00000031093_fx_fx
+mediumpurple3_fx	ENSMUSG00000031109_fx_fx
+mediumpurple3_fx	ENSMUSG00000031200_fx_fx
+mediumpurple3_fx	ENSMUSG00000031309_fx_fx
+mediumpurple3_fx	ENSMUSG00000031584_fx_fx
+mediumpurple3_fx	ENSMUSG00000033106_fx_fx
+mediumpurple3_fx	ENSMUSG00000033430_fx_fx
+mediumpurple3_fx	ENSMUSG00000034880_fx_fx
+mediumpurple3_fx	ENSMUSG00000035212_fx_fx
+mediumpurple3_fx	ENSMUSG00000035441_fx_fx
+mediumpurple3_fx	ENSMUSG00000035517_fx_fx
+mediumpurple3_fx	ENSMUSG00000036278_fx_fx
+mediumpurple3_fx	ENSMUSG00000036561_fx_fx
+mediumpurple3_fx	ENSMUSG00000036800_fx_fx
+mediumpurple3_fx	ENSMUSG00000036893_fx_fx
+mediumpurple3_fx	ENSMUSG00000037262_fx_fx
+mediumpurple3_fx	ENSMUSG00000038257_fx_fx
+mediumpurple3_fx	ENSMUSG00000038422_fx_fx
+mediumpurple3_fx	ENSMUSG00000038644_fx_fx
+mediumpurple3_fx	ENSMUSG00000040367_fx_fx
+mediumpurple3_fx	ENSMUSG00000041544_fx_fx
+mediumpurple3_fx	ENSMUSG00000042817_fx_fx
+mediumpurple3_fx	ENSMUSG00000044037_fx_fx
+mediumpurple3_fx	ENSMUSG00000044712_fx_fx
+mediumpurple3_fx	ENSMUSG00000045672_fx_fx
+mediumpurple3_fx	ENSMUSG00000050840_fx_fx
+mediumpurple3_fx	ENSMUSG00000053007_fx_fx
+mediumpurple3_fx	ENSMUSG00000053626_fx_fx
+mediumpurple3_fx	ENSMUSG00000056493_fx_fx
+mediumpurple3_fx	ENSMUSG00000056999_fx_fx
+mediumpurple3_fx	ENSMUSG00000059796_fx_fx
+mediumpurple3_fx	ENSMUSG00000060716_fx_fx
+mediumpurple3_fx	ENSMUSG00000062939_fx_fx
+mediumpurple3_fx	ENSMUSG00000063200_fx_fx
+mediumpurple3_fx	ENSMUSG00000063754_fx_fx
+mediumpurple3_fx	ENSMUSG00000066735_fx_fx
+mediumpurple3_fx	ENSMUSG00000070461_fx_fx
+mediumpurple3_fx	ENSMUSG00000071317_fx_fx
+mediumpurple3_fx	ENSMUSG00000072582_fx_fx
+mediumpurple3_fx	ENSMUSG00000078994_fx_fx
+mediumpurple3_fx	ENSMUSG00000080021_fx_fx
+mediumpurple3_fx	ENSMUSG00000080848_fx_fx
+mediumpurple3_fx	ENSMUSG00000081769_fx_fx
+mediumpurple3_fx	ENSMUSG00000081929_fx_fx
+mediumpurple3_fx	ENSMUSG00000082588_fx_fx
+mediumpurple3_fx	ENSMUSG00000084411_fx_fx
+mediumpurple3_fx	ENSMUSG00000085317_fx_fx
+mediumpurple3_fx	ENSMUSG00000085566_fx_fx
+mediumpurple3_fx	ENSMUSG00000087370_fx_fx
+mediumpurple3_fx	ENSMUSG00000087687_fx_fx
+mediumpurple3_fx	ENSMUSG00000087694_fx_fx
+mediumpurple3_fx	ENSMUSG00000090206_fx_fx
+mediumpurple3_fx	ENSMUSG00000091514_fx_fx
+mediumpurple3_fx	ENSMUSG00000092241_fx_fx
+mediumpurple3_fx	ENSMUSG00000096699_fx_fx
+mediumpurple3_fx	ENSMUSG00000097145_fx_fx
+mediumpurple3_fx	ENSMUSG00000097618_fx_fx
+mediumpurple3_fx	ENSMUSG00000101006_fx_fx
+mediumpurple3_fx	ENSMUSG00000101596_fx_fx
+mediumpurple3_fx	ENSMUSG00000102287_fx_fx
+mediumpurple3_fx	ENSMUSG00000102440_fx_fx
+mediumpurple3_fx	ENSMUSG00000102509_fx_fx
+mediumpurple3_fx	ENSMUSG00000103214_fx_fx
+mediumpurple3_fx	ENSMUSG00000103663_fx_fx
+mediumpurple3_fx	ENSMUSG00000104010_fx_fx
+mediumpurple3_fx	ENSMUSG00000104052_fx_fx
+mediumpurple3_fx	ENSMUSG00000104107_fx_fx
+mediumpurple3_fx	ENSMUSG00000105586_fx_fx
+mediumpurple3_fx	ENSMUSG00000107306_fx_fx
+mediumpurple3_fx	ENSMUSG00000108173_fx_fx
+antiquewhite4_fx	ENSMUSG00000001909_fx_fx
+antiquewhite4_fx	ENSMUSG00000002797_fx_fx
+antiquewhite4_fx	ENSMUSG00000002844_fx_fx
+antiquewhite4_fx	ENSMUSG00000004451_fx_fx
+antiquewhite4_fx	ENSMUSG00000006412_fx_fx
+antiquewhite4_fx	ENSMUSG00000008028_fx_fx
+antiquewhite4_fx	ENSMUSG00000012017_fx_fx
+antiquewhite4_fx	ENSMUSG00000018425_fx_fx
+antiquewhite4_fx	ENSMUSG00000018931_fx_fx
+antiquewhite4_fx	ENSMUSG00000019945_fx_fx
+antiquewhite4_fx	ENSMUSG00000019947_fx_fx
+antiquewhite4_fx	ENSMUSG00000020074_fx_fx
+antiquewhite4_fx	ENSMUSG00000020265_fx_fx
+antiquewhite4_fx	ENSMUSG00000020411_fx_fx
+antiquewhite4_fx	ENSMUSG00000021222_fx_fx
+antiquewhite4_fx	ENSMUSG00000021549_fx_fx
+antiquewhite4_fx	ENSMUSG00000021891_fx_fx
+antiquewhite4_fx	ENSMUSG00000021947_fx_fx
+antiquewhite4_fx	ENSMUSG00000022076_fx_fx
+antiquewhite4_fx	ENSMUSG00000023942_fx_fx
+antiquewhite4_fx	ENSMUSG00000024260_fx_fx
+antiquewhite4_fx	ENSMUSG00000026000_fx_fx
+antiquewhite4_fx	ENSMUSG00000026109_fx_fx
+antiquewhite4_fx	ENSMUSG00000026135_fx_fx
+antiquewhite4_fx	ENSMUSG00000026159_fx_fx
+antiquewhite4_fx	ENSMUSG00000026596_fx_fx
+antiquewhite4_fx	ENSMUSG00000026632_fx_fx
+antiquewhite4_fx	ENSMUSG00000026664_fx_fx
+antiquewhite4_fx	ENSMUSG00000027433_fx_fx
+antiquewhite4_fx	ENSMUSG00000028256_fx_fx
+antiquewhite4_fx	ENSMUSG00000028423_fx_fx
+antiquewhite4_fx	ENSMUSG00000029009_fx_fx
+antiquewhite4_fx	ENSMUSG00000029213_fx_fx
+antiquewhite4_fx	ENSMUSG00000029716_fx_fx
+antiquewhite4_fx	ENSMUSG00000029833_fx_fx
+antiquewhite4_fx	ENSMUSG00000029910_fx_fx
+antiquewhite4_fx	ENSMUSG00000030204_fx_fx
+antiquewhite4_fx	ENSMUSG00000030350_fx_fx
+antiquewhite4_fx	ENSMUSG00000030801_fx_fx
+antiquewhite4_fx	ENSMUSG00000031139_fx_fx
+antiquewhite4_fx	ENSMUSG00000031776_fx_fx
+antiquewhite4_fx	ENSMUSG00000031901_fx_fx
+antiquewhite4_fx	ENSMUSG00000032280_fx_fx
+antiquewhite4_fx	ENSMUSG00000032387_fx_fx
+antiquewhite4_fx	ENSMUSG00000033628_fx_fx
+antiquewhite4_fx	ENSMUSG00000033685_fx_fx
+antiquewhite4_fx	ENSMUSG00000034800_fx_fx
+antiquewhite4_fx	ENSMUSG00000035878_fx_fx
+antiquewhite4_fx	ENSMUSG00000036334_fx_fx
+antiquewhite4_fx	ENSMUSG00000039795_fx_fx
+antiquewhite4_fx	ENSMUSG00000047866_fx_fx
+antiquewhite4_fx	ENSMUSG00000048755_fx_fx
+antiquewhite4_fx	ENSMUSG00000056076_fx_fx
+antiquewhite4_fx	ENSMUSG00000056458_fx_fx
+antiquewhite4_fx	ENSMUSG00000057193_fx_fx
+antiquewhite4_fx	ENSMUSG00000059277_fx_fx
+antiquewhite4_fx	ENSMUSG00000059878_fx_fx
+antiquewhite4_fx	ENSMUSG00000067653_fx_fx
+antiquewhite4_fx	ENSMUSG00000068284_fx_fx
+antiquewhite4_fx	ENSMUSG00000070283_fx_fx
+antiquewhite4_fx	ENSMUSG00000071649_fx_fx
+antiquewhite4_fx	ENSMUSG00000074579_fx_fx
+antiquewhite4_fx	ENSMUSG00000078117_fx_fx
+antiquewhite4_fx	ENSMUSG00000086191_fx_fx
+antiquewhite4_fx	ENSMUSG00000086349_fx_fx
+antiquewhite4_fx	ENSMUSG00000087336_fx_fx
+antiquewhite4_fx	ENSMUSG00000088252_fx_fx
+antiquewhite4_fx	ENSMUSG00000090213_fx_fx
+antiquewhite4_fx	ENSMUSG00000097743_fx_fx
+antiquewhite4_fx	ENSMUSG00000106383_fx_fx
+antiquewhite4_fx	ENSMUSG00000106499_fx_fx
+antiquewhite4_fx	ENSMUSG00000107750_fx_fx
+antiquewhite4_fx	ENSMUSG00000108348_fx_fx
+plum_fx	ENSMUSG00000004931_fx_fx
+plum_fx	ENSMUSG00000005718_fx_fx
+plum_fx	ENSMUSG00000005936_fx_fx
+plum_fx	ENSMUSG00000007570_fx_fx
+plum_fx	ENSMUSG00000007888_fx_fx
+plum_fx	ENSMUSG00000020638_fx_fx
+plum_fx	ENSMUSG00000021182_fx_fx
+plum_fx	ENSMUSG00000022790_fx_fx
+plum_fx	ENSMUSG00000023764_fx_fx
+plum_fx	ENSMUSG00000025159_fx_fx
+plum_fx	ENSMUSG00000025429_fx_fx
+plum_fx	ENSMUSG00000026082_fx_fx
+plum_fx	ENSMUSG00000026843_fx_fx
+plum_fx	ENSMUSG00000026889_fx_fx
+plum_fx	ENSMUSG00000026930_fx_fx
+plum_fx	ENSMUSG00000027243_fx_fx
+plum_fx	ENSMUSG00000029661_fx_fx
+plum_fx	ENSMUSG00000034488_fx_fx
+plum_fx	ENSMUSG00000034636_fx_fx
+plum_fx	ENSMUSG00000037640_fx_fx
+plum_fx	ENSMUSG00000037997_fx_fx
+plum_fx	ENSMUSG00000038175_fx_fx
+plum_fx	ENSMUSG00000038608_fx_fx
+plum_fx	ENSMUSG00000038622_fx_fx
+plum_fx	ENSMUSG00000038932_fx_fx
+plum_fx	ENSMUSG00000038975_fx_fx
+plum_fx	ENSMUSG00000039087_fx_fx
+plum_fx	ENSMUSG00000040964_fx_fx
+plum_fx	ENSMUSG00000041530_fx_fx
+plum_fx	ENSMUSG00000041633_fx_fx
+plum_fx	ENSMUSG00000041741_fx_fx
+plum_fx	ENSMUSG00000042529_fx_fx
+plum_fx	ENSMUSG00000042734_fx_fx
+plum_fx	ENSMUSG00000044471_fx_fx
+plum_fx	ENSMUSG00000047434_fx_fx
+plum_fx	ENSMUSG00000047789_fx_fx
+plum_fx	ENSMUSG00000052295_fx_fx
+plum_fx	ENSMUSG00000054469_fx_fx
+plum_fx	ENSMUSG00000054792_fx_fx
+plum_fx	ENSMUSG00000058152_fx_fx
+plum_fx	ENSMUSG00000061273_fx_fx
+plum_fx	ENSMUSG00000066687_fx_fx
+plum_fx	ENSMUSG00000067158_fx_fx
+plum_fx	ENSMUSG00000070044_fx_fx
+plum_fx	ENSMUSG00000071052_fx_fx
+plum_fx	ENSMUSG00000073755_fx_fx
+plum_fx	ENSMUSG00000074405_fx_fx
+plum_fx	ENSMUSG00000078480_fx_fx
+plum_fx	ENSMUSG00000082292_fx_fx
+plum_fx	ENSMUSG00000084345_fx_fx
+plum_fx	ENSMUSG00000084880_fx_fx
+plum_fx	ENSMUSG00000085715_fx_fx
+plum_fx	ENSMUSG00000087516_fx_fx
+plum_fx	ENSMUSG00000087532_fx_fx
+plum_fx	ENSMUSG00000088208_fx_fx
+plum_fx	ENSMUSG00000090266_fx_fx
+plum_fx	ENSMUSG00000096145_fx_fx
+plum_fx	ENSMUSG00000097333_fx_fx
+plum_fx	ENSMUSG00000097775_fx_fx
+plum_fx	ENSMUSG00000098111_fx_fx
+plum_fx	ENSMUSG00000098128_fx_fx
+plum_fx	ENSMUSG00000099034_fx_fx
+plum_fx	ENSMUSG00000101262_fx_fx
+plum_fx	ENSMUSG00000102820_fx_fx
+plum_fx	ENSMUSG00000103354_fx_fx
+plum_fx	ENSMUSG00000103992_fx_fx
+plum_fx	ENSMUSG00000106543_fx_fx
+plum_fx	ENSMUSG00000106617_fx_fx
+plum_fx	ENSMUSG00000107476_fx_fx
+brown_hx	ENSMUSG00000000037_hx
+brown_hx	ENSMUSG00000000392_hx
+brown_hx	ENSMUSG00000000486_hx
+brown_hx	ENSMUSG00000000530_hx
+brown_hx	ENSMUSG00000001062_hx
+brown_hx	ENSMUSG00000001576_hx
+brown_hx	ENSMUSG00000001773_hx
+brown_hx	ENSMUSG00000002222_hx
+brown_hx	ENSMUSG00000002546_hx
+brown_hx	ENSMUSG00000002668_hx
+brown_hx	ENSMUSG00000002825_hx
+brown_hx	ENSMUSG00000003119_hx
+brown_hx	ENSMUSG00000003662_hx
+brown_hx	ENSMUSG00000003872_hx
+brown_hx	ENSMUSG00000004791_hx
+brown_hx	ENSMUSG00000004902_hx
+brown_hx	ENSMUSG00000005625_hx
+brown_hx	ENSMUSG00000005813_hx
+brown_hx	ENSMUSG00000006019_hx
+brown_hx	ENSMUSG00000006127_hx
+brown_hx	ENSMUSG00000006442_hx
+brown_hx	ENSMUSG00000006457_hx
+brown_hx	ENSMUSG00000008090_hx
+brown_hx	ENSMUSG00000009035_hx
+brown_hx	ENSMUSG00000009145_hx
+brown_hx	ENSMUSG00000009731_hx
+brown_hx	ENSMUSG00000010476_hx
+brown_hx	ENSMUSG00000014444_hx
+brown_hx	ENSMUSG00000014503_hx
+brown_hx	ENSMUSG00000014769_hx
+brown_hx	ENSMUSG00000015087_hx
+brown_hx	ENSMUSG00000015126_hx
+brown_hx	ENSMUSG00000015542_hx
+brown_hx	ENSMUSG00000015711_hx
+brown_hx	ENSMUSG00000015733_hx
+brown_hx	ENSMUSG00000015804_hx
+brown_hx	ENSMUSG00000016239_hx
+brown_hx	ENSMUSG00000016308_hx
+brown_hx	ENSMUSG00000017210_hx
+brown_hx	ENSMUSG00000017453_hx
+brown_hx	ENSMUSG00000017652_hx
+brown_hx	ENSMUSG00000017707_hx
+brown_hx	ENSMUSG00000017721_hx
+brown_hx	ENSMUSG00000017830_hx
+brown_hx	ENSMUSG00000018143_hx
+brown_hx	ENSMUSG00000018339_hx
+brown_hx	ENSMUSG00000018820_hx
+brown_hx	ENSMUSG00000018858_hx
+brown_hx	ENSMUSG00000019102_hx
+brown_hx	ENSMUSG00000019710_hx
+brown_hx	ENSMUSG00000019809_hx
+brown_hx	ENSMUSG00000019845_hx
+brown_hx	ENSMUSG00000019854_hx
+brown_hx	ENSMUSG00000019856_hx
+brown_hx	ENSMUSG00000019988_hx
+brown_hx	ENSMUSG00000020061_hx
+brown_hx	ENSMUSG00000020078_hx
+brown_hx	ENSMUSG00000020121_hx
+brown_hx	ENSMUSG00000020143_hx
+brown_hx	ENSMUSG00000020212_hx
+brown_hx	ENSMUSG00000020219_hx
+brown_hx	ENSMUSG00000020265_hx
+brown_hx	ENSMUSG00000020477_hx
+brown_hx	ENSMUSG00000020542_hx
+brown_hx	ENSMUSG00000020623_hx
+brown_hx	ENSMUSG00000020638_hx
+brown_hx	ENSMUSG00000020723_hx
+brown_hx	ENSMUSG00000020740_hx
+brown_hx	ENSMUSG00000020743_hx
+brown_hx	ENSMUSG00000020745_hx
+brown_hx	ENSMUSG00000020778_hx
+brown_hx	ENSMUSG00000020799_hx
+brown_hx	ENSMUSG00000020836_hx
+brown_hx	ENSMUSG00000020839_hx
+brown_hx	ENSMUSG00000020843_hx
+brown_hx	ENSMUSG00000020847_hx
+brown_hx	ENSMUSG00000020902_hx
+brown_hx	ENSMUSG00000021094_hx
+brown_hx	ENSMUSG00000021120_hx
+brown_hx	ENSMUSG00000021130_hx
+brown_hx	ENSMUSG00000021175_hx
+brown_hx	ENSMUSG00000021179_hx
+brown_hx	ENSMUSG00000021253_hx
+brown_hx	ENSMUSG00000021279_hx
+brown_hx	ENSMUSG00000021336_hx
+brown_hx	ENSMUSG00000021340_hx
+brown_hx	ENSMUSG00000021367_hx
+brown_hx	ENSMUSG00000021392_hx
+brown_hx	ENSMUSG00000021411_hx
+brown_hx	ENSMUSG00000021417_hx
+brown_hx	ENSMUSG00000021461_hx
+brown_hx	ENSMUSG00000021806_hx
+brown_hx	ENSMUSG00000022033_hx
+brown_hx	ENSMUSG00000022105_hx
+brown_hx	ENSMUSG00000022124_hx
+brown_hx	ENSMUSG00000022231_hx
+brown_hx	ENSMUSG00000022362_hx
+brown_hx	ENSMUSG00000022376_hx
+brown_hx	ENSMUSG00000022537_hx
+brown_hx	ENSMUSG00000022622_hx
+brown_hx	ENSMUSG00000022753_hx
+brown_hx	ENSMUSG00000022805_hx
+brown_hx	ENSMUSG00000023055_hx
+brown_hx	ENSMUSG00000023110_hx
+brown_hx	ENSMUSG00000023572_hx
+brown_hx	ENSMUSG00000023791_hx
+brown_hx	ENSMUSG00000023885_hx
+brown_hx	ENSMUSG00000023967_hx
+brown_hx	ENSMUSG00000024347_hx
+brown_hx	ENSMUSG00000024350_hx
+brown_hx	ENSMUSG00000024384_hx
+brown_hx	ENSMUSG00000024619_hx
+brown_hx	ENSMUSG00000024622_hx
+brown_hx	ENSMUSG00000024658_hx
+brown_hx	ENSMUSG00000024667_hx
+brown_hx	ENSMUSG00000024677_hx
+brown_hx	ENSMUSG00000024830_hx
+brown_hx	ENSMUSG00000024844_hx
+brown_hx	ENSMUSG00000024845_hx
+brown_hx	ENSMUSG00000024883_hx
+brown_hx	ENSMUSG00000024960_hx
+brown_hx	ENSMUSG00000025020_hx
+brown_hx	ENSMUSG00000025316_hx
+brown_hx	ENSMUSG00000025579_hx
+brown_hx	ENSMUSG00000025728_hx
+brown_hx	ENSMUSG00000025940_hx
+brown_hx	ENSMUSG00000025993_hx
+brown_hx	ENSMUSG00000026080_hx
+brown_hx	ENSMUSG00000026142_hx
+brown_hx	ENSMUSG00000026156_hx
+brown_hx	ENSMUSG00000026158_hx
+brown_hx	ENSMUSG00000026301_hx
+brown_hx	ENSMUSG00000026309_hx
+brown_hx	ENSMUSG00000026312_hx
+brown_hx	ENSMUSG00000026321_hx
+brown_hx	ENSMUSG00000026342_hx
+brown_hx	ENSMUSG00000026355_hx
+brown_hx	ENSMUSG00000026556_hx
+brown_hx	ENSMUSG00000026596_hx
+brown_hx	ENSMUSG00000026618_hx
+brown_hx	ENSMUSG00000026649_hx
+brown_hx	ENSMUSG00000026692_hx
+brown_hx	ENSMUSG00000026753_hx
+brown_hx	ENSMUSG00000026961_hx
+brown_hx	ENSMUSG00000027001_hx
+brown_hx	ENSMUSG00000027165_hx
+brown_hx	ENSMUSG00000027201_hx
+brown_hx	ENSMUSG00000027245_hx
+brown_hx	ENSMUSG00000027315_hx
+brown_hx	ENSMUSG00000027420_hx
+brown_hx	ENSMUSG00000027435_hx
+brown_hx	ENSMUSG00000027463_hx
+brown_hx	ENSMUSG00000027469_hx
+brown_hx	ENSMUSG00000027593_hx
+brown_hx	ENSMUSG00000027692_hx
+brown_hx	ENSMUSG00000027712_hx
+brown_hx	ENSMUSG00000027739_hx
+brown_hx	ENSMUSG00000027782_hx
+brown_hx	ENSMUSG00000027787_hx
+brown_hx	ENSMUSG00000027793_hx
+brown_hx	ENSMUSG00000027861_hx
+brown_hx	ENSMUSG00000027894_hx
+brown_hx	ENSMUSG00000027905_hx
+brown_hx	ENSMUSG00000027956_hx
+brown_hx	ENSMUSG00000027996_hx
+brown_hx	ENSMUSG00000028013_hx
+brown_hx	ENSMUSG00000028036_hx
+brown_hx	ENSMUSG00000028073_hx
+brown_hx	ENSMUSG00000028078_hx
+brown_hx	ENSMUSG00000028184_hx
+brown_hx	ENSMUSG00000028223_hx
+brown_hx	ENSMUSG00000028310_hx
+brown_hx	ENSMUSG00000028378_hx
+brown_hx	ENSMUSG00000028539_hx
+brown_hx	ENSMUSG00000028540_hx
+brown_hx	ENSMUSG00000028575_hx
+brown_hx	ENSMUSG00000028669_hx
+brown_hx	ENSMUSG00000028670_hx
+brown_hx	ENSMUSG00000028703_hx
+brown_hx	ENSMUSG00000028729_hx
+brown_hx	ENSMUSG00000028868_hx
+brown_hx	ENSMUSG00000028980_hx
+brown_hx	ENSMUSG00000029020_hx
+brown_hx	ENSMUSG00000029027_hx
+brown_hx	ENSMUSG00000029119_hx
+brown_hx	ENSMUSG00000029161_hx
+brown_hx	ENSMUSG00000029304_hx
+brown_hx	ENSMUSG00000029306_hx
+brown_hx	ENSMUSG00000029442_hx
+brown_hx	ENSMUSG00000029518_hx
+brown_hx	ENSMUSG00000029561_hx
+brown_hx	ENSMUSG00000029576_hx
+brown_hx	ENSMUSG00000029599_hx
+brown_hx	ENSMUSG00000029638_hx
+brown_hx	ENSMUSG00000029650_hx
+brown_hx	ENSMUSG00000029710_hx
+brown_hx	ENSMUSG00000029771_hx
+brown_hx	ENSMUSG00000029920_hx
+brown_hx	ENSMUSG00000030061_hx
+brown_hx	ENSMUSG00000030111_hx
+brown_hx	ENSMUSG00000030148_hx
+brown_hx	ENSMUSG00000030450_hx
+brown_hx	ENSMUSG00000030771_hx
+brown_hx	ENSMUSG00000030824_hx
+brown_hx	ENSMUSG00000030965_hx
+brown_hx	ENSMUSG00000031066_hx
+brown_hx	ENSMUSG00000031073_hx
+brown_hx	ENSMUSG00000031493_hx
+brown_hx	ENSMUSG00000031562_hx
+brown_hx	ENSMUSG00000031578_hx
+brown_hx	ENSMUSG00000031701_hx
+brown_hx	ENSMUSG00000031837_hx
+brown_hx	ENSMUSG00000031901_hx
+brown_hx	ENSMUSG00000031902_hx
+brown_hx	ENSMUSG00000031925_hx
+brown_hx	ENSMUSG00000031954_hx
+brown_hx	ENSMUSG00000032042_hx
+brown_hx	ENSMUSG00000032086_hx
+brown_hx	ENSMUSG00000032092_hx
+brown_hx	ENSMUSG00000032194_hx
+brown_hx	ENSMUSG00000032204_hx
+brown_hx	ENSMUSG00000032340_hx
+brown_hx	ENSMUSG00000032374_hx
+brown_hx	ENSMUSG00000032392_hx
+brown_hx	ENSMUSG00000032419_hx
+brown_hx	ENSMUSG00000032436_hx
+brown_hx	ENSMUSG00000032478_hx
+brown_hx	ENSMUSG00000032491_hx
+brown_hx	ENSMUSG00000032498_hx
+brown_hx	ENSMUSG00000032563_hx
+brown_hx	ENSMUSG00000032625_hx
+brown_hx	ENSMUSG00000032846_hx
+brown_hx	ENSMUSG00000032850_hx
+brown_hx	ENSMUSG00000032925_hx
+brown_hx	ENSMUSG00000032942_hx
+brown_hx	ENSMUSG00000032988_hx
+brown_hx	ENSMUSG00000033083_hx
+brown_hx	ENSMUSG00000033166_hx
+brown_hx	ENSMUSG00000033257_hx
+brown_hx	ENSMUSG00000033578_hx
+brown_hx	ENSMUSG00000033623_hx
+brown_hx	ENSMUSG00000033653_hx
+brown_hx	ENSMUSG00000033777_hx
+brown_hx	ENSMUSG00000033805_hx
+brown_hx	ENSMUSG00000033813_hx
+brown_hx	ENSMUSG00000033967_hx
+brown_hx	ENSMUSG00000034109_hx
+brown_hx	ENSMUSG00000034112_hx
+brown_hx	ENSMUSG00000034177_hx
+brown_hx	ENSMUSG00000034467_hx
+brown_hx	ENSMUSG00000034574_hx
+brown_hx	ENSMUSG00000034587_hx
+brown_hx	ENSMUSG00000034673_hx
+brown_hx	ENSMUSG00000034762_hx
+brown_hx	ENSMUSG00000034855_hx
+brown_hx	ENSMUSG00000034881_hx
+brown_hx	ENSMUSG00000034997_hx
+brown_hx	ENSMUSG00000035109_hx
+brown_hx	ENSMUSG00000035355_hx
+brown_hx	ENSMUSG00000035367_hx
+brown_hx	ENSMUSG00000035509_hx
+brown_hx	ENSMUSG00000035578_hx
+brown_hx	ENSMUSG00000035585_hx
+brown_hx	ENSMUSG00000035704_hx
+brown_hx	ENSMUSG00000035722_hx
+brown_hx	ENSMUSG00000035860_hx
+brown_hx	ENSMUSG00000035958_hx
+brown_hx	ENSMUSG00000036027_hx
+brown_hx	ENSMUSG00000036087_hx
+brown_hx	ENSMUSG00000036188_hx
+brown_hx	ENSMUSG00000036352_hx
+brown_hx	ENSMUSG00000036402_hx
+brown_hx	ENSMUSG00000036422_hx
+brown_hx	ENSMUSG00000037075_hx
+brown_hx	ENSMUSG00000037221_hx
+brown_hx	ENSMUSG00000037531_hx
+brown_hx	ENSMUSG00000037573_hx
+brown_hx	ENSMUSG00000037622_hx
+brown_hx	ENSMUSG00000037712_hx
+brown_hx	ENSMUSG00000037747_hx
+brown_hx	ENSMUSG00000037894_hx
+brown_hx	ENSMUSG00000038065_hx
+brown_hx	ENSMUSG00000038068_hx
+brown_hx	ENSMUSG00000038085_hx
+brown_hx	ENSMUSG00000038299_hx
+brown_hx	ENSMUSG00000038324_hx
+brown_hx	ENSMUSG00000038388_hx
+brown_hx	ENSMUSG00000038496_hx
+brown_hx	ENSMUSG00000038507_hx
+brown_hx	ENSMUSG00000038517_hx
+brown_hx	ENSMUSG00000038593_hx
+brown_hx	ENSMUSG00000039086_hx
+brown_hx	ENSMUSG00000039096_hx
+brown_hx	ENSMUSG00000039452_hx
+brown_hx	ENSMUSG00000039545_hx
+brown_hx	ENSMUSG00000039717_hx
+brown_hx	ENSMUSG00000039745_hx
+brown_hx	ENSMUSG00000039804_hx
+brown_hx	ENSMUSG00000039954_hx
+brown_hx	ENSMUSG00000040006_hx
+brown_hx	ENSMUSG00000040102_hx
+brown_hx	ENSMUSG00000040133_hx
+brown_hx	ENSMUSG00000040164_hx
+brown_hx	ENSMUSG00000040263_hx
+brown_hx	ENSMUSG00000040297_hx
+brown_hx	ENSMUSG00000040356_hx
+brown_hx	ENSMUSG00000040563_hx
+brown_hx	ENSMUSG00000040666_hx
+brown_hx	ENSMUSG00000040687_hx
+brown_hx	ENSMUSG00000040713_hx
+brown_hx	ENSMUSG00000040795_hx
+brown_hx	ENSMUSG00000040797_hx
+brown_hx	ENSMUSG00000040812_hx
+brown_hx	ENSMUSG00000040836_hx
+brown_hx	ENSMUSG00000040964_hx
+brown_hx	ENSMUSG00000041117_hx
+brown_hx	ENSMUSG00000041132_hx
+brown_hx	ENSMUSG00000041594_hx
+brown_hx	ENSMUSG00000041736_hx
+brown_hx	ENSMUSG00000041859_hx
+brown_hx	ENSMUSG00000042606_hx
+brown_hx	ENSMUSG00000042622_hx
+brown_hx	ENSMUSG00000042680_hx
+brown_hx	ENSMUSG00000042846_hx
+brown_hx	ENSMUSG00000042918_hx
+brown_hx	ENSMUSG00000043456_hx
+brown_hx	ENSMUSG00000043789_hx
+brown_hx	ENSMUSG00000044030_hx
+brown_hx	ENSMUSG00000044080_hx
+brown_hx	ENSMUSG00000044456_hx
+brown_hx	ENSMUSG00000044505_hx
+brown_hx	ENSMUSG00000044795_hx
+brown_hx	ENSMUSG00000045008_hx
+brown_hx	ENSMUSG00000045031_hx
+brown_hx	ENSMUSG00000045273_hx
+brown_hx	ENSMUSG00000045302_hx
+brown_hx	ENSMUSG00000045744_hx
+brown_hx	ENSMUSG00000045752_hx
+brown_hx	ENSMUSG00000045934_hx
+brown_hx	ENSMUSG00000046032_hx
+brown_hx	ENSMUSG00000046093_hx
+brown_hx	ENSMUSG00000046139_hx
+brown_hx	ENSMUSG00000046157_hx
+brown_hx	ENSMUSG00000046160_hx
+brown_hx	ENSMUSG00000046191_hx
+brown_hx	ENSMUSG00000046287_hx
+brown_hx	ENSMUSG00000046718_hx
+brown_hx	ENSMUSG00000046721_hx
+brown_hx	ENSMUSG00000046949_hx
+brown_hx	ENSMUSG00000047036_hx
+brown_hx	ENSMUSG00000047123_hx
+brown_hx	ENSMUSG00000047126_hx
+brown_hx	ENSMUSG00000047180_hx
+brown_hx	ENSMUSG00000047213_hx
+brown_hx	ENSMUSG00000047220_hx
+brown_hx	ENSMUSG00000047777_hx
+brown_hx	ENSMUSG00000048029_hx
+brown_hx	ENSMUSG00000048170_hx
+brown_hx	ENSMUSG00000048215_hx
+brown_hx	ENSMUSG00000048373_hx
+brown_hx	ENSMUSG00000048921_hx
+brown_hx	ENSMUSG00000049287_hx
+brown_hx	ENSMUSG00000049303_hx
+brown_hx	ENSMUSG00000049387_hx
+brown_hx	ENSMUSG00000049436_hx
+brown_hx	ENSMUSG00000049649_hx
+brown_hx	ENSMUSG00000049717_hx
+brown_hx	ENSMUSG00000049892_hx
+brown_hx	ENSMUSG00000049985_hx
+brown_hx	ENSMUSG00000050288_hx
+brown_hx	ENSMUSG00000050556_hx
+brown_hx	ENSMUSG00000050697_hx
+brown_hx	ENSMUSG00000050930_hx
+brown_hx	ENSMUSG00000051242_hx
+brown_hx	ENSMUSG00000051256_hx
+brown_hx	ENSMUSG00000051335_hx
+brown_hx	ENSMUSG00000051456_hx
+brown_hx	ENSMUSG00000051499_hx
+brown_hx	ENSMUSG00000051855_hx
+brown_hx	ENSMUSG00000052117_hx
+brown_hx	ENSMUSG00000052676_hx
+brown_hx	ENSMUSG00000053040_hx
+brown_hx	ENSMUSG00000053318_hx
+brown_hx	ENSMUSG00000053442_hx
+brown_hx	ENSMUSG00000053684_hx
+brown_hx	ENSMUSG00000053846_hx
+brown_hx	ENSMUSG00000053898_hx
+brown_hx	ENSMUSG00000054169_hx
+brown_hx	ENSMUSG00000054302_hx
+brown_hx	ENSMUSG00000054309_hx
+brown_hx	ENSMUSG00000054450_hx
+brown_hx	ENSMUSG00000055069_hx
+brown_hx	ENSMUSG00000055134_hx
+brown_hx	ENSMUSG00000055184_hx
+brown_hx	ENSMUSG00000056076_hx
+brown_hx	ENSMUSG00000056089_hx
+brown_hx	ENSMUSG00000057092_hx
+brown_hx	ENSMUSG00000057230_hx
+brown_hx	ENSMUSG00000057329_hx
+brown_hx	ENSMUSG00000057691_hx
+brown_hx	ENSMUSG00000057933_hx
+brown_hx	ENSMUSG00000058567_hx
+brown_hx	ENSMUSG00000058700_hx
+brown_hx	ENSMUSG00000058925_hx
+brown_hx	ENSMUSG00000059412_hx
+brown_hx	ENSMUSG00000059734_hx
+brown_hx	ENSMUSG00000059824_hx
+brown_hx	ENSMUSG00000059852_hx
+brown_hx	ENSMUSG00000059854_hx
+brown_hx	ENSMUSG00000061665_hx
+brown_hx	ENSMUSG00000062115_hx
+brown_hx	ENSMUSG00000062248_hx
+brown_hx	ENSMUSG00000062825_hx
+brown_hx	ENSMUSG00000064427_hx
+brown_hx	ENSMUSG00000065331_hx
+brown_hx	ENSMUSG00000065968_hx
+brown_hx	ENSMUSG00000066191_hx
+brown_hx	ENSMUSG00000066721_hx
+brown_hx	ENSMUSG00000067215_hx
+brown_hx	ENSMUSG00000067336_hx
+brown_hx	ENSMUSG00000067787_hx
+brown_hx	ENSMUSG00000067870_hx
+brown_hx	ENSMUSG00000067872_hx
+brown_hx	ENSMUSG00000067995_hx
+brown_hx	ENSMUSG00000068036_hx
+brown_hx	ENSMUSG00000068246_hx
+brown_hx	ENSMUSG00000068686_hx
+brown_hx	ENSMUSG00000069072_hx
+brown_hx	ENSMUSG00000069495_hx
+brown_hx	ENSMUSG00000069805_hx
+brown_hx	ENSMUSG00000070498_hx
+brown_hx	ENSMUSG00000070692_hx
+brown_hx	ENSMUSG00000070697_hx
+brown_hx	ENSMUSG00000071359_hx
+brown_hx	ENSMUSG00000071657_hx
+brown_hx	ENSMUSG00000071671_hx
+brown_hx	ENSMUSG00000071691_hx
+brown_hx	ENSMUSG00000072423_hx
+brown_hx	ENSMUSG00000072591_hx
+brown_hx	ENSMUSG00000073176_hx
+brown_hx	ENSMUSG00000073678_hx
+brown_hx	ENSMUSG00000073894_hx
+brown_hx	ENSMUSG00000074170_hx
+brown_hx	ENSMUSG00000074178_hx
+brown_hx	ENSMUSG00000074219_hx
+brown_hx	ENSMUSG00000074457_hx
+brown_hx	ENSMUSG00000074476_hx
+brown_hx	ENSMUSG00000074480_hx
+brown_hx	ENSMUSG00000074482_hx
+brown_hx	ENSMUSG00000074622_hx
+brown_hx	ENSMUSG00000074802_hx
+brown_hx	ENSMUSG00000074818_hx
+brown_hx	ENSMUSG00000075012_hx
+brown_hx	ENSMUSG00000075415_hx
+brown_hx	ENSMUSG00000075555_hx
+brown_hx	ENSMUSG00000075705_hx
+brown_hx	ENSMUSG00000077505_hx
+brown_hx	ENSMUSG00000078154_hx
+brown_hx	ENSMUSG00000078484_hx
+brown_hx	ENSMUSG00000078923_hx
+brown_hx	ENSMUSG00000078963_hx
+brown_hx	ENSMUSG00000079042_hx
+brown_hx	ENSMUSG00000079227_hx
+brown_hx	ENSMUSG00000079259_hx
+brown_hx	ENSMUSG00000079469_hx
+brown_hx	ENSMUSG00000079562_hx
+brown_hx	ENSMUSG00000080717_hx
+brown_hx	ENSMUSG00000080772_hx
+brown_hx	ENSMUSG00000080811_hx
+brown_hx	ENSMUSG00000080860_hx
+brown_hx	ENSMUSG00000080996_hx
+brown_hx	ENSMUSG00000081078_hx
+brown_hx	ENSMUSG00000081248_hx
+brown_hx	ENSMUSG00000081270_hx
+brown_hx	ENSMUSG00000081568_hx
+brown_hx	ENSMUSG00000081603_hx
+brown_hx	ENSMUSG00000081745_hx
+brown_hx	ENSMUSG00000082321_hx
+brown_hx	ENSMUSG00000082711_hx
+brown_hx	ENSMUSG00000082935_hx
+brown_hx	ENSMUSG00000083240_hx
+brown_hx	ENSMUSG00000083563_hx
+brown_hx	ENSMUSG00000083910_hx
+brown_hx	ENSMUSG00000083912_hx
+brown_hx	ENSMUSG00000083974_hx
+brown_hx	ENSMUSG00000084106_hx
+brown_hx	ENSMUSG00000084202_hx
+brown_hx	ENSMUSG00000085042_hx
+brown_hx	ENSMUSG00000085125_hx
+brown_hx	ENSMUSG00000085194_hx
+brown_hx	ENSMUSG00000085609_hx
+brown_hx	ENSMUSG00000085787_hx
+brown_hx	ENSMUSG00000085795_hx
+brown_hx	ENSMUSG00000085862_hx
+brown_hx	ENSMUSG00000086266_hx
+brown_hx	ENSMUSG00000086392_hx
+brown_hx	ENSMUSG00000086496_hx
+brown_hx	ENSMUSG00000086714_hx
+brown_hx	ENSMUSG00000087035_hx
+brown_hx	ENSMUSG00000087055_hx
+brown_hx	ENSMUSG00000087396_hx
+brown_hx	ENSMUSG00000087412_hx
+brown_hx	ENSMUSG00000087413_hx
+brown_hx	ENSMUSG00000087532_hx
+brown_hx	ENSMUSG00000088359_hx
+brown_hx	ENSMUSG00000089828_hx
+brown_hx	ENSMUSG00000090291_hx
+brown_hx	ENSMUSG00000090625_hx
+brown_hx	ENSMUSG00000091898_hx
+brown_hx	ENSMUSG00000092009_hx
+brown_hx	ENSMUSG00000092368_hx
+brown_hx	ENSMUSG00000092417_hx
+brown_hx	ENSMUSG00000092448_hx
+brown_hx	ENSMUSG00000093483_hx
+brown_hx	ENSMUSG00000093545_hx
+brown_hx	ENSMUSG00000094497_hx
+brown_hx	ENSMUSG00000094605_hx
+brown_hx	ENSMUSG00000094786_hx
+brown_hx	ENSMUSG00000094886_hx
+brown_hx	ENSMUSG00000096141_hx
+brown_hx	ENSMUSG00000096699_hx
+brown_hx	ENSMUSG00000096914_hx
+brown_hx	ENSMUSG00000096948_hx
+brown_hx	ENSMUSG00000097102_hx
+brown_hx	ENSMUSG00000097123_hx
+brown_hx	ENSMUSG00000097177_hx
+brown_hx	ENSMUSG00000097182_hx
+brown_hx	ENSMUSG00000097246_hx
+brown_hx	ENSMUSG00000097503_hx
+brown_hx	ENSMUSG00000097595_hx
+brown_hx	ENSMUSG00000097785_hx
+brown_hx	ENSMUSG00000097885_hx
+brown_hx	ENSMUSG00000097891_hx
+brown_hx	ENSMUSG00000097906_hx
+brown_hx	ENSMUSG00000098051_hx
+brown_hx	ENSMUSG00000100235_hx
+brown_hx	ENSMUSG00000100764_hx
+brown_hx	ENSMUSG00000101122_hx
+brown_hx	ENSMUSG00000102160_hx
+brown_hx	ENSMUSG00000102246_hx
+brown_hx	ENSMUSG00000102386_hx
+brown_hx	ENSMUSG00000102415_hx
+brown_hx	ENSMUSG00000102427_hx
+brown_hx	ENSMUSG00000102618_hx
+brown_hx	ENSMUSG00000102632_hx
+brown_hx	ENSMUSG00000102820_hx
+brown_hx	ENSMUSG00000102841_hx
+brown_hx	ENSMUSG00000102919_hx
+brown_hx	ENSMUSG00000102930_hx
+brown_hx	ENSMUSG00000102953_hx
+brown_hx	ENSMUSG00000102973_hx
+brown_hx	ENSMUSG00000103037_hx
+brown_hx	ENSMUSG00000103092_hx
+brown_hx	ENSMUSG00000103181_hx
+brown_hx	ENSMUSG00000103307_hx
+brown_hx	ENSMUSG00000103427_hx
+brown_hx	ENSMUSG00000103493_hx
+brown_hx	ENSMUSG00000103509_hx
+brown_hx	ENSMUSG00000103572_hx
+brown_hx	ENSMUSG00000103719_hx
+brown_hx	ENSMUSG00000103775_hx
+brown_hx	ENSMUSG00000103803_hx
+brown_hx	ENSMUSG00000103825_hx
+brown_hx	ENSMUSG00000103952_hx
+brown_hx	ENSMUSG00000104342_hx
+brown_hx	ENSMUSG00000104369_hx
+brown_hx	ENSMUSG00000104416_hx
+brown_hx	ENSMUSG00000104583_hx
+brown_hx	ENSMUSG00000104586_hx
+brown_hx	ENSMUSG00000104923_hx
+brown_hx	ENSMUSG00000105004_hx
+brown_hx	ENSMUSG00000105033_hx
+brown_hx	ENSMUSG00000105079_hx
+brown_hx	ENSMUSG00000105083_hx
+brown_hx	ENSMUSG00000105636_hx
+brown_hx	ENSMUSG00000105720_hx
+brown_hx	ENSMUSG00000105881_hx
+brown_hx	ENSMUSG00000105936_hx
+brown_hx	ENSMUSG00000106133_hx
+brown_hx	ENSMUSG00000106184_hx
+brown_hx	ENSMUSG00000106354_hx
+brown_hx	ENSMUSG00000106371_hx
+brown_hx	ENSMUSG00000106678_hx
+brown_hx	ENSMUSG00000106940_hx
+brown_hx	ENSMUSG00000107171_hx
+brown_hx	ENSMUSG00000107312_hx
+brown_hx	ENSMUSG00000107362_hx
+brown_hx	ENSMUSG00000107512_hx
+brown_hx	ENSMUSG00000107726_hx
+brown_hx	ENSMUSG00000107881_hx
+brown_hx	ENSMUSG00000108063_hx
+brown_hx	ENSMUSG00000108194_hx
+brown_hx	ENSMUSG00000108368_hx
+brown_hx	ENSMUSG00000108402_hx
+brown_hx	ENSMUSG00000108507_hx
+brown_hx	ENSMUSG00000108532_hx
+brown_hx	ENSMUSG00000108621_hx
+brown_hx	ENSMUSG00000108701_hx
+brown_hx	ENSMUSG00000108949_hx
+brown_hx	ENSMUSG00000109005_hx
+brown_hx	ENSMUSG00000109109_hx
+brown_hx	ENSMUSG00000109177_hx
+brown_hx	ENSMUSG00000109179_hx
+brown_hx	ENSMUSG00000109307_hx
+brown_hx	ENSMUSG00000109384_hx
+brown_hx	ENSMUSG00000109394_hx
+brown_hx	ENSMUSG00000109440_hx
+ivory_hx	ENSMUSG00000002409_hx
+ivory_hx	ENSMUSG00000002661_hx
+ivory_hx	ENSMUSG00000003849_hx
+ivory_hx	ENSMUSG00000004934_hx
+ivory_hx	ENSMUSG00000008136_hx
+ivory_hx	ENSMUSG00000008301_hx
+ivory_hx	ENSMUSG00000010538_hx
+ivory_hx	ENSMUSG00000011658_hx
+ivory_hx	ENSMUSG00000013076_hx
+ivory_hx	ENSMUSG00000014329_hx
+ivory_hx	ENSMUSG00000015478_hx
+ivory_hx	ENSMUSG00000019897_hx
+ivory_hx	ENSMUSG00000019948_hx
+ivory_hx	ENSMUSG00000020282_hx
+ivory_hx	ENSMUSG00000020333_hx
+ivory_hx	ENSMUSG00000020691_hx
+ivory_hx	ENSMUSG00000021265_hx
+ivory_hx	ENSMUSG00000021497_hx
+ivory_hx	ENSMUSG00000021671_hx
+ivory_hx	ENSMUSG00000021884_hx
+ivory_hx	ENSMUSG00000021972_hx
+ivory_hx	ENSMUSG00000022193_hx
+ivory_hx	ENSMUSG00000022234_hx
+ivory_hx	ENSMUSG00000022668_hx
+ivory_hx	ENSMUSG00000023262_hx
+ivory_hx	ENSMUSG00000024112_hx
+ivory_hx	ENSMUSG00000024251_hx
+ivory_hx	ENSMUSG00000024539_hx
+ivory_hx	ENSMUSG00000024725_hx
+ivory_hx	ENSMUSG00000024889_hx
+ivory_hx	ENSMUSG00000024999_hx
+ivory_hx	ENSMUSG00000026271_hx
+ivory_hx	ENSMUSG00000026377_hx
+ivory_hx	ENSMUSG00000026709_hx
+ivory_hx	ENSMUSG00000027714_hx
+ivory_hx	ENSMUSG00000027884_hx
+ivory_hx	ENSMUSG00000028232_hx
+ivory_hx	ENSMUSG00000028245_hx
+ivory_hx	ENSMUSG00000028339_hx
+ivory_hx	ENSMUSG00000028430_hx
+ivory_hx	ENSMUSG00000028431_hx
+ivory_hx	ENSMUSG00000028683_hx
+ivory_hx	ENSMUSG00000029059_hx
+ivory_hx	ENSMUSG00000029397_hx
+ivory_hx	ENSMUSG00000029464_hx
+ivory_hx	ENSMUSG00000029592_hx
+ivory_hx	ENSMUSG00000029600_hx
+ivory_hx	ENSMUSG00000029603_hx
+ivory_hx	ENSMUSG00000030016_hx
+ivory_hx	ENSMUSG00000030101_hx
+ivory_hx	ENSMUSG00000030303_hx
+ivory_hx	ENSMUSG00000030929_hx
+ivory_hx	ENSMUSG00000031021_hx
+ivory_hx	ENSMUSG00000031511_hx
+ivory_hx	ENSMUSG00000031644_hx
+ivory_hx	ENSMUSG00000032231_hx
+ivory_hx	ENSMUSG00000032295_hx
+ivory_hx	ENSMUSG00000032890_hx
+ivory_hx	ENSMUSG00000033111_hx
+ivory_hx	ENSMUSG00000033458_hx
+ivory_hx	ENSMUSG00000034120_hx
+ivory_hx	ENSMUSG00000034259_hx
+ivory_hx	ENSMUSG00000034330_hx
+ivory_hx	ENSMUSG00000035772_hx
+ivory_hx	ENSMUSG00000036931_hx
+ivory_hx	ENSMUSG00000037103_hx
+ivory_hx	ENSMUSG00000037364_hx
+ivory_hx	ENSMUSG00000037703_hx
+ivory_hx	ENSMUSG00000037788_hx
+ivory_hx	ENSMUSG00000038526_hx
+ivory_hx	ENSMUSG00000039233_hx
+ivory_hx	ENSMUSG00000039477_hx
+ivory_hx	ENSMUSG00000040111_hx
+ivory_hx	ENSMUSG00000041921_hx
+ivory_hx	ENSMUSG00000041935_hx
+ivory_hx	ENSMUSG00000042354_hx
+ivory_hx	ENSMUSG00000042590_hx
+ivory_hx	ENSMUSG00000044072_hx
+ivory_hx	ENSMUSG00000044700_hx
+ivory_hx	ENSMUSG00000044934_hx
+ivory_hx	ENSMUSG00000046791_hx
+ivory_hx	ENSMUSG00000047242_hx
+ivory_hx	ENSMUSG00000049148_hx
+ivory_hx	ENSMUSG00000049940_hx
+ivory_hx	ENSMUSG00000052632_hx
+ivory_hx	ENSMUSG00000054034_hx
+ivory_hx	ENSMUSG00000055128_hx
+ivory_hx	ENSMUSG00000056553_hx
+ivory_hx	ENSMUSG00000056952_hx
+ivory_hx	ENSMUSG00000060260_hx
+ivory_hx	ENSMUSG00000064349_hx
+ivory_hx	ENSMUSG00000066306_hx
+ivory_hx	ENSMUSG00000067367_hx
+ivory_hx	ENSMUSG00000067942_hx
+ivory_hx	ENSMUSG00000073399_hx
+ivory_hx	ENSMUSG00000074158_hx
+ivory_hx	ENSMUSG00000074903_hx
+ivory_hx	ENSMUSG00000075254_hx
+ivory_hx	ENSMUSG00000075470_hx
+ivory_hx	ENSMUSG00000078137_hx
+ivory_hx	ENSMUSG00000084012_hx
+ivory_hx	ENSMUSG00000089824_hx
+ivory_hx	ENSMUSG00000089839_hx
+ivory_hx	ENSMUSG00000092540_hx
+ivory_hx	ENSMUSG00000097618_hx
+ivory_hx	ENSMUSG00000102783_hx
+ivory_hx	ENSMUSG00000103114_hx
+ivory_hx	ENSMUSG00000105021_hx
+ivory_hx	ENSMUSG00000105974_hx
+ivory_hx	ENSMUSG00000106121_hx
+ivory_hx	ENSMUSG00000106746_hx
+lightcyan1_hx	ENSMUSG00000000126_hx
+lightcyan1_hx	ENSMUSG00000000957_hx
+lightcyan1_hx	ENSMUSG00000001482_hx
+lightcyan1_hx	ENSMUSG00000002325_hx
+lightcyan1_hx	ENSMUSG00000003234_hx
+lightcyan1_hx	ENSMUSG00000003752_hx
+lightcyan1_hx	ENSMUSG00000003974_hx
+lightcyan1_hx	ENSMUSG00000004846_hx
+lightcyan1_hx	ENSMUSG00000006519_hx
+lightcyan1_hx	ENSMUSG00000007646_hx
+lightcyan1_hx	ENSMUSG00000013584_hx
+lightcyan1_hx	ENSMUSG00000018209_hx
+lightcyan1_hx	ENSMUSG00000020289_hx
+lightcyan1_hx	ENSMUSG00000020308_hx
+lightcyan1_hx	ENSMUSG00000020435_hx
+lightcyan1_hx	ENSMUSG00000020925_hx
+lightcyan1_hx	ENSMUSG00000021311_hx
+lightcyan1_hx	ENSMUSG00000021314_hx
+lightcyan1_hx	ENSMUSG00000022489_hx
+lightcyan1_hx	ENSMUSG00000022629_hx
+lightcyan1_hx	ENSMUSG00000022836_hx
+lightcyan1_hx	ENSMUSG00000024077_hx
+lightcyan1_hx	ENSMUSG00000024277_hx
+lightcyan1_hx	ENSMUSG00000024579_hx
+lightcyan1_hx	ENSMUSG00000024958_hx
+lightcyan1_hx	ENSMUSG00000025027_hx
+lightcyan1_hx	ENSMUSG00000025086_hx
+lightcyan1_hx	ENSMUSG00000025407_hx
+lightcyan1_hx	ENSMUSG00000026047_hx
+lightcyan1_hx	ENSMUSG00000026307_hx
+lightcyan1_hx	ENSMUSG00000026341_hx
+lightcyan1_hx	ENSMUSG00000026565_hx
+lightcyan1_hx	ENSMUSG00000028106_hx
+lightcyan1_hx	ENSMUSG00000029456_hx
+lightcyan1_hx	ENSMUSG00000029499_hx
+lightcyan1_hx	ENSMUSG00000029635_hx
+lightcyan1_hx	ENSMUSG00000029916_hx
+lightcyan1_hx	ENSMUSG00000030257_hx
+lightcyan1_hx	ENSMUSG00000030486_hx
+lightcyan1_hx	ENSMUSG00000031176_hx
+lightcyan1_hx	ENSMUSG00000031385_hx
+lightcyan1_hx	ENSMUSG00000031715_hx
+lightcyan1_hx	ENSMUSG00000032458_hx
+lightcyan1_hx	ENSMUSG00000032743_hx
+lightcyan1_hx	ENSMUSG00000032867_hx
+lightcyan1_hx	ENSMUSG00000033105_hx
+lightcyan1_hx	ENSMUSG00000033282_hx
+lightcyan1_hx	ENSMUSG00000033319_hx
+lightcyan1_hx	ENSMUSG00000033379_hx
+lightcyan1_hx	ENSMUSG00000033629_hx
+lightcyan1_hx	ENSMUSG00000034037_hx
+lightcyan1_hx	ENSMUSG00000034055_hx
+lightcyan1_hx	ENSMUSG00000034480_hx
+lightcyan1_hx	ENSMUSG00000034640_hx
+lightcyan1_hx	ENSMUSG00000036099_hx
+lightcyan1_hx	ENSMUSG00000036256_hx
+lightcyan1_hx	ENSMUSG00000036646_hx
+lightcyan1_hx	ENSMUSG00000037493_hx
+lightcyan1_hx	ENSMUSG00000037958_hx
+lightcyan1_hx	ENSMUSG00000038717_hx
+lightcyan1_hx	ENSMUSG00000039328_hx
+lightcyan1_hx	ENSMUSG00000039824_hx
+lightcyan1_hx	ENSMUSG00000040123_hx
+lightcyan1_hx	ENSMUSG00000040212_hx
+lightcyan1_hx	ENSMUSG00000040269_hx
+lightcyan1_hx	ENSMUSG00000040990_hx
+lightcyan1_hx	ENSMUSG00000041180_hx
+lightcyan1_hx	ENSMUSG00000041263_hx
+lightcyan1_hx	ENSMUSG00000041278_hx
+lightcyan1_hx	ENSMUSG00000041440_hx
+lightcyan1_hx	ENSMUSG00000042406_hx
+lightcyan1_hx	ENSMUSG00000042699_hx
+lightcyan1_hx	ENSMUSG00000042812_hx
+lightcyan1_hx	ENSMUSG00000042814_hx
+lightcyan1_hx	ENSMUSG00000043866_hx
+lightcyan1_hx	ENSMUSG00000044628_hx
+lightcyan1_hx	ENSMUSG00000045763_hx
+lightcyan1_hx	ENSMUSG00000047446_hx
+lightcyan1_hx	ENSMUSG00000051154_hx
+lightcyan1_hx	ENSMUSG00000052428_hx
+lightcyan1_hx	ENSMUSG00000052911_hx
+lightcyan1_hx	ENSMUSG00000055884_hx
+lightcyan1_hx	ENSMUSG00000055932_hx
+lightcyan1_hx	ENSMUSG00000057315_hx
+lightcyan1_hx	ENSMUSG00000059401_hx
+lightcyan1_hx	ENSMUSG00000059482_hx
+lightcyan1_hx	ENSMUSG00000060671_hx
+lightcyan1_hx	ENSMUSG00000061718_hx
+lightcyan1_hx	ENSMUSG00000062098_hx
+lightcyan1_hx	ENSMUSG00000064036_hx
+lightcyan1_hx	ENSMUSG00000066554_hx
+lightcyan1_hx	ENSMUSG00000070305_hx
+lightcyan1_hx	ENSMUSG00000070866_hx
+lightcyan1_hx	ENSMUSG00000071669_hx
+lightcyan1_hx	ENSMUSG00000072974_hx
+lightcyan1_hx	ENSMUSG00000074604_hx
+lightcyan1_hx	ENSMUSG00000078201_hx
+lightcyan1_hx	ENSMUSG00000078619_hx
+lightcyan1_hx	ENSMUSG00000079491_hx
+lightcyan1_hx	ENSMUSG00000080979_hx
+lightcyan1_hx	ENSMUSG00000083421_hx
+lightcyan1_hx	ENSMUSG00000086311_hx
+lightcyan1_hx	ENSMUSG00000086555_hx
+lightcyan1_hx	ENSMUSG00000086922_hx
+lightcyan1_hx	ENSMUSG00000096299_hx
+lightcyan1_hx	ENSMUSG00000097840_hx
+lightcyan1_hx	ENSMUSG00000098240_hx
+lightcyan1_hx	ENSMUSG00000102215_hx
+lightcyan1_hx	ENSMUSG00000102317_hx
+lightcyan1_hx	ENSMUSG00000103780_hx
+lightcyan1_hx	ENSMUSG00000104571_hx
+lightcyan1_hx	ENSMUSG00000105771_hx
+lightcyan1_hx	ENSMUSG00000105791_hx
+lightcyan1_hx	ENSMUSG00000108372_hx
+lightcyan1_hx	ENSMUSG00000109006_hx
+grey60_hx	ENSMUSG00000000305_hx
+grey60_hx	ENSMUSG00000000693_hx
+grey60_hx	ENSMUSG00000001157_hx
+grey60_hx	ENSMUSG00000002059_hx
+grey60_hx	ENSMUSG00000002748_hx
+grey60_hx	ENSMUSG00000002845_hx
+grey60_hx	ENSMUSG00000003166_hx
+grey60_hx	ENSMUSG00000003346_hx
+grey60_hx	ENSMUSG00000003348_hx
+grey60_hx	ENSMUSG00000003813_hx
+grey60_hx	ENSMUSG00000004071_hx
+grey60_hx	ENSMUSG00000004677_hx
+grey60_hx	ENSMUSG00000005836_hx
+grey60_hx	ENSMUSG00000006005_hx
+grey60_hx	ENSMUSG00000006301_hx
+grey60_hx	ENSMUSG00000006586_hx
+grey60_hx	ENSMUSG00000007682_hx
+grey60_hx	ENSMUSG00000007989_hx
+grey60_hx	ENSMUSG00000008167_hx
+grey60_hx	ENSMUSG00000014075_hx
+grey60_hx	ENSMUSG00000014498_hx
+grey60_hx	ENSMUSG00000014905_hx
+grey60_hx	ENSMUSG00000015337_hx
+grey60_hx	ENSMUSG00000015750_hx
+grey60_hx	ENSMUSG00000016477_hx
+grey60_hx	ENSMUSG00000016984_hx
+grey60_hx	ENSMUSG00000017404_hx
+grey60_hx	ENSMUSG00000017679_hx
+grey60_hx	ENSMUSG00000017781_hx
+grey60_hx	ENSMUSG00000019055_hx
+grey60_hx	ENSMUSG00000019210_hx
+grey60_hx	ENSMUSG00000019428_hx
+grey60_hx	ENSMUSG00000019738_hx
+grey60_hx	ENSMUSG00000019823_hx
+grey60_hx	ENSMUSG00000019849_hx
+grey60_hx	ENSMUSG00000019952_hx
+grey60_hx	ENSMUSG00000019970_hx
+grey60_hx	ENSMUSG00000020101_hx
+grey60_hx	ENSMUSG00000020287_hx
+grey60_hx	ENSMUSG00000020288_hx
+grey60_hx	ENSMUSG00000020400_hx
+grey60_hx	ENSMUSG00000020412_hx
+grey60_hx	ENSMUSG00000020474_hx
+grey60_hx	ENSMUSG00000020650_hx
+grey60_hx	ENSMUSG00000020668_hx
+grey60_hx	ENSMUSG00000020773_hx
+grey60_hx	ENSMUSG00000020883_hx
+grey60_hx	ENSMUSG00000020900_hx
+grey60_hx	ENSMUSG00000020954_hx
+grey60_hx	ENSMUSG00000021098_hx
+grey60_hx	ENSMUSG00000021458_hx
+grey60_hx	ENSMUSG00000021686_hx
+grey60_hx	ENSMUSG00000021713_hx
+grey60_hx	ENSMUSG00000021750_hx
+grey60_hx	ENSMUSG00000021892_hx
+grey60_hx	ENSMUSG00000021911_hx
+grey60_hx	ENSMUSG00000022020_hx
+grey60_hx	ENSMUSG00000022040_hx
+grey60_hx	ENSMUSG00000022263_hx
+grey60_hx	ENSMUSG00000022340_hx
+grey60_hx	ENSMUSG00000022437_hx
+grey60_hx	ENSMUSG00000022540_hx
+grey60_hx	ENSMUSG00000022747_hx
+grey60_hx	ENSMUSG00000022820_hx
+grey60_hx	ENSMUSG00000023022_hx
+grey60_hx	ENSMUSG00000023307_hx
+grey60_hx	ENSMUSG00000023973_hx
+grey60_hx	ENSMUSG00000024109_hx
+grey60_hx	ENSMUSG00000024234_hx
+grey60_hx	ENSMUSG00000024810_hx
+grey60_hx	ENSMUSG00000024982_hx
+grey60_hx	ENSMUSG00000025204_hx
+grey60_hx	ENSMUSG00000025209_hx
+grey60_hx	ENSMUSG00000025217_hx
+grey60_hx	ENSMUSG00000025221_hx
+grey60_hx	ENSMUSG00000025337_hx
+grey60_hx	ENSMUSG00000025402_hx
+grey60_hx	ENSMUSG00000025474_hx
+grey60_hx	ENSMUSG00000025894_hx
+grey60_hx	ENSMUSG00000026036_hx
+grey60_hx	ENSMUSG00000026167_hx
+grey60_hx	ENSMUSG00000026247_hx
+grey60_hx	ENSMUSG00000026259_hx
+grey60_hx	ENSMUSG00000026305_hx
+grey60_hx	ENSMUSG00000026353_hx
+grey60_hx	ENSMUSG00000026504_hx
+grey60_hx	ENSMUSG00000026571_hx
+grey60_hx	ENSMUSG00000026634_hx
+grey60_hx	ENSMUSG00000026674_hx
+grey60_hx	ENSMUSG00000026796_hx
+grey60_hx	ENSMUSG00000026858_hx
+grey60_hx	ENSMUSG00000026960_hx
+grey60_hx	ENSMUSG00000026980_hx
+grey60_hx	ENSMUSG00000027122_hx
+grey60_hx	ENSMUSG00000027217_hx
+grey60_hx	ENSMUSG00000027239_hx
+grey60_hx	ENSMUSG00000027347_hx
+grey60_hx	ENSMUSG00000027367_hx
+grey60_hx	ENSMUSG00000027901_hx
+grey60_hx	ENSMUSG00000027965_hx
+grey60_hx	ENSMUSG00000028096_hx
+grey60_hx	ENSMUSG00000028111_hx
+grey60_hx	ENSMUSG00000028524_hx
+grey60_hx	ENSMUSG00000028550_hx
+grey60_hx	ENSMUSG00000028633_hx
+grey60_hx	ENSMUSG00000028655_hx
+grey60_hx	ENSMUSG00000028998_hx
+grey60_hx	ENSMUSG00000029022_hx
+grey60_hx	ENSMUSG00000029191_hx
+grey60_hx	ENSMUSG00000029376_hx
+grey60_hx	ENSMUSG00000029390_hx
+grey60_hx	ENSMUSG00000029427_hx
+grey60_hx	ENSMUSG00000029428_hx
+grey60_hx	ENSMUSG00000029502_hx
+grey60_hx	ENSMUSG00000029554_hx
+grey60_hx	ENSMUSG00000029673_hx
+grey60_hx	ENSMUSG00000030034_hx
+grey60_hx	ENSMUSG00000030177_hx
+grey60_hx	ENSMUSG00000030201_hx
+grey60_hx	ENSMUSG00000030232_hx
+grey60_hx	ENSMUSG00000030376_hx
+grey60_hx	ENSMUSG00000030435_hx
+grey60_hx	ENSMUSG00000030657_hx
+grey60_hx	ENSMUSG00000030689_hx
+grey60_hx	ENSMUSG00000030879_hx
+grey60_hx	ENSMUSG00000030880_hx
+grey60_hx	ENSMUSG00000031347_hx
+grey60_hx	ENSMUSG00000031447_hx
+grey60_hx	ENSMUSG00000031723_hx
+grey60_hx	ENSMUSG00000031754_hx
+grey60_hx	ENSMUSG00000031891_hx
+grey60_hx	ENSMUSG00000032030_hx
+grey60_hx	ENSMUSG00000032221_hx
+grey60_hx	ENSMUSG00000032253_hx
+grey60_hx	ENSMUSG00000032463_hx
+grey60_hx	ENSMUSG00000032582_hx
+grey60_hx	ENSMUSG00000032777_hx
+grey60_hx	ENSMUSG00000033031_hx
+grey60_hx	ENSMUSG00000033308_hx
+grey60_hx	ENSMUSG00000033799_hx
+grey60_hx	ENSMUSG00000034009_hx
+grey60_hx	ENSMUSG00000034088_hx
+grey60_hx	ENSMUSG00000034108_hx
+grey60_hx	ENSMUSG00000034165_hx
+grey60_hx	ENSMUSG00000034168_hx
+grey60_hx	ENSMUSG00000034210_hx
+grey60_hx	ENSMUSG00000034566_hx
+grey60_hx	ENSMUSG00000034636_hx
+grey60_hx	ENSMUSG00000034714_hx
+grey60_hx	ENSMUSG00000034949_hx
+grey60_hx	ENSMUSG00000035062_hx
+grey60_hx	ENSMUSG00000035133_hx
+grey60_hx	ENSMUSG00000035726_hx
+grey60_hx	ENSMUSG00000035781_hx
+grey60_hx	ENSMUSG00000036112_hx
+grey60_hx	ENSMUSG00000036169_hx
+grey60_hx	ENSMUSG00000036199_hx
+grey60_hx	ENSMUSG00000036242_hx
+grey60_hx	ENSMUSG00000036550_hx
+grey60_hx	ENSMUSG00000036591_hx
+grey60_hx	ENSMUSG00000036880_hx
+grey60_hx	ENSMUSG00000036896_hx
+grey60_hx	ENSMUSG00000037134_hx
+grey60_hx	ENSMUSG00000037243_hx
+grey60_hx	ENSMUSG00000037761_hx
+grey60_hx	ENSMUSG00000038069_hx
+grey60_hx	ENSMUSG00000038206_hx
+grey60_hx	ENSMUSG00000038365_hx
+grey60_hx	ENSMUSG00000038664_hx
+grey60_hx	ENSMUSG00000038733_hx
+grey60_hx	ENSMUSG00000039156_hx
+grey60_hx	ENSMUSG00000039210_hx
+grey60_hx	ENSMUSG00000039239_hx
+grey60_hx	ENSMUSG00000039252_hx
+grey60_hx	ENSMUSG00000040009_hx
+grey60_hx	ENSMUSG00000040253_hx
+grey60_hx	ENSMUSG00000040370_hx
+grey60_hx	ENSMUSG00000040699_hx
+grey60_hx	ENSMUSG00000040722_hx
+grey60_hx	ENSMUSG00000040724_hx
+grey60_hx	ENSMUSG00000041119_hx
+grey60_hx	ENSMUSG00000041439_hx
+grey60_hx	ENSMUSG00000041986_hx
+grey60_hx	ENSMUSG00000042594_hx
+grey60_hx	ENSMUSG00000042608_hx
+grey60_hx	ENSMUSG00000042671_hx
+grey60_hx	ENSMUSG00000042719_hx
+grey60_hx	ENSMUSG00000042797_hx
+grey60_hx	ENSMUSG00000042873_hx
+grey60_hx	ENSMUSG00000043079_hx
+grey60_hx	ENSMUSG00000043448_hx
+grey60_hx	ENSMUSG00000043531_hx
+grey60_hx	ENSMUSG00000044216_hx
+grey60_hx	ENSMUSG00000044337_hx
+grey60_hx	ENSMUSG00000045136_hx
+grey60_hx	ENSMUSG00000045282_hx
+grey60_hx	ENSMUSG00000045877_hx
+grey60_hx	ENSMUSG00000046404_hx
+grey60_hx	ENSMUSG00000046607_hx
+grey60_hx	ENSMUSG00000047090_hx
+grey60_hx	ENSMUSG00000047259_hx
+grey60_hx	ENSMUSG00000048118_hx
+grey60_hx	ENSMUSG00000048148_hx
+grey60_hx	ENSMUSG00000048277_hx
+grey60_hx	ENSMUSG00000048965_hx
+grey60_hx	ENSMUSG00000049285_hx
+grey60_hx	ENSMUSG00000049489_hx
+grey60_hx	ENSMUSG00000049755_hx
+grey60_hx	ENSMUSG00000049807_hx
+grey60_hx	ENSMUSG00000050471_hx
+grey60_hx	ENSMUSG00000050908_hx
+grey60_hx	ENSMUSG00000051159_hx
+grey60_hx	ENSMUSG00000051243_hx
+grey60_hx	ENSMUSG00000051379_hx
+grey60_hx	ENSMUSG00000051504_hx
+grey60_hx	ENSMUSG00000051518_hx
+grey60_hx	ENSMUSG00000052397_hx
+grey60_hx	ENSMUSG00000053390_hx
+grey60_hx	ENSMUSG00000053477_hx
+grey60_hx	ENSMUSG00000054263_hx
+grey60_hx	ENSMUSG00000054662_hx
+grey60_hx	ENSMUSG00000054932_hx
+grey60_hx	ENSMUSG00000056214_hx
+grey60_hx	ENSMUSG00000056260_hx
+grey60_hx	ENSMUSG00000056383_hx
+grey60_hx	ENSMUSG00000056394_hx
+grey60_hx	ENSMUSG00000056753_hx
+grey60_hx	ENSMUSG00000057406_hx
+grey60_hx	ENSMUSG00000057594_hx
+grey60_hx	ENSMUSG00000057880_hx
+grey60_hx	ENSMUSG00000058975_hx
+grey60_hx	ENSMUSG00000059005_hx
+grey60_hx	ENSMUSG00000059278_hx
+grey60_hx	ENSMUSG00000059323_hx
+grey60_hx	ENSMUSG00000059456_hx
+grey60_hx	ENSMUSG00000059775_hx
+grey60_hx	ENSMUSG00000060743_hx
+grey60_hx	ENSMUSG00000061983_hx
+grey60_hx	ENSMUSG00000067058_hx
+grey60_hx	ENSMUSG00000068329_hx
+grey60_hx	ENSMUSG00000069188_hx
+grey60_hx	ENSMUSG00000069892_hx
+grey60_hx	ENSMUSG00000070883_hx
+grey60_hx	ENSMUSG00000071266_hx
+grey60_hx	ENSMUSG00000074673_hx
+grey60_hx	ENSMUSG00000079109_hx
+grey60_hx	ENSMUSG00000081418_hx
+grey60_hx	ENSMUSG00000082769_hx
+grey60_hx	ENSMUSG00000082872_hx
+grey60_hx	ENSMUSG00000083626_hx
+grey60_hx	ENSMUSG00000084845_hx
+grey60_hx	ENSMUSG00000085133_hx
+grey60_hx	ENSMUSG00000086040_hx
+grey60_hx	ENSMUSG00000086629_hx
+grey60_hx	ENSMUSG00000087336_hx
+grey60_hx	ENSMUSG00000089774_hx
+grey60_hx	ENSMUSG00000089889_hx
+grey60_hx	ENSMUSG00000089911_hx
+grey60_hx	ENSMUSG00000090101_hx
+grey60_hx	ENSMUSG00000098183_hx
+grey60_hx	ENSMUSG00000098702_hx
+grey60_hx	ENSMUSG00000100441_hx
+grey60_hx	ENSMUSG00000100863_hx
+grey60_hx	ENSMUSG00000101778_hx
+grey60_hx	ENSMUSG00000102543_hx
+grey60_hx	ENSMUSG00000103373_hx
+grey60_hx	ENSMUSG00000103614_hx
+grey60_hx	ENSMUSG00000103851_hx
+grey60_hx	ENSMUSG00000103924_hx
+grey60_hx	ENSMUSG00000104625_hx
+grey60_hx	ENSMUSG00000104891_hx
+grey60_hx	ENSMUSG00000105700_hx
+grey60_hx	ENSMUSG00000106710_hx
+grey60_hx	ENSMUSG00000106840_hx
+grey60_hx	ENSMUSG00000106926_hx
+grey60_hx	ENSMUSG00000108123_hx
+grey60_hx	ENSMUSG00000109359_hx
+grey60_hx	ENSMUSG00000109362_hx
+brown4_hx	ENSMUSG00000000001_hx
+brown4_hx	ENSMUSG00000000826_hx
+brown4_hx	ENSMUSG00000001100_hx
+brown4_hx	ENSMUSG00000003929_hx
+brown4_hx	ENSMUSG00000006333_hx
+brown4_hx	ENSMUSG00000006589_hx
+brown4_hx	ENSMUSG00000007038_hx
+brown4_hx	ENSMUSG00000007812_hx
+brown4_hx	ENSMUSG00000009647_hx
+brown4_hx	ENSMUSG00000015476_hx
+brown4_hx	ENSMUSG00000015647_hx
+brown4_hx	ENSMUSG00000016200_hx
+brown4_hx	ENSMUSG00000018199_hx
+brown4_hx	ENSMUSG00000018548_hx
+brown4_hx	ENSMUSG00000019831_hx
+brown4_hx	ENSMUSG00000020042_hx
+brown4_hx	ENSMUSG00000020109_hx
+brown4_hx	ENSMUSG00000020430_hx
+brown4_hx	ENSMUSG00000020866_hx
+brown4_hx	ENSMUSG00000020955_hx
+brown4_hx	ENSMUSG00000021636_hx
+brown4_hx	ENSMUSG00000021895_hx
+brown4_hx	ENSMUSG00000021993_hx
+brown4_hx	ENSMUSG00000022538_hx
+brown4_hx	ENSMUSG00000023025_hx
+brown4_hx	ENSMUSG00000023913_hx
+brown4_hx	ENSMUSG00000024369_hx
+brown4_hx	ENSMUSG00000024805_hx
+brown4_hx	ENSMUSG00000024892_hx
+brown4_hx	ENSMUSG00000024970_hx
+brown4_hx	ENSMUSG00000025133_hx
+brown4_hx	ENSMUSG00000025732_hx
+brown4_hx	ENSMUSG00000026102_hx
+brown4_hx	ENSMUSG00000026270_hx
+brown4_hx	ENSMUSG00000026452_hx
+brown4_hx	ENSMUSG00000026939_hx
+brown4_hx	ENSMUSG00000027978_hx
+brown4_hx	ENSMUSG00000028878_hx
+brown4_hx	ENSMUSG00000028914_hx
+brown4_hx	ENSMUSG00000028988_hx
+brown4_hx	ENSMUSG00000029528_hx
+brown4_hx	ENSMUSG00000029761_hx
+brown4_hx	ENSMUSG00000029836_hx
+brown4_hx	ENSMUSG00000030638_hx
+brown4_hx	ENSMUSG00000031239_hx
+brown4_hx	ENSMUSG00000031740_hx
+brown4_hx	ENSMUSG00000031780_hx
+brown4_hx	ENSMUSG00000032359_hx
+brown4_hx	ENSMUSG00000032586_hx
+brown4_hx	ENSMUSG00000032649_hx
+brown4_hx	ENSMUSG00000033020_hx
+brown4_hx	ENSMUSG00000033768_hx
+brown4_hx	ENSMUSG00000033885_hx
+brown4_hx	ENSMUSG00000036529_hx
+brown4_hx	ENSMUSG00000037126_hx
+brown4_hx	ENSMUSG00000037172_hx
+brown4_hx	ENSMUSG00000038463_hx
+brown4_hx	ENSMUSG00000038503_hx
+brown4_hx	ENSMUSG00000038545_hx
+brown4_hx	ENSMUSG00000038623_hx
+brown4_hx	ENSMUSG00000038708_hx
+brown4_hx	ENSMUSG00000038916_hx
+brown4_hx	ENSMUSG00000039050_hx
+brown4_hx	ENSMUSG00000040649_hx
+brown4_hx	ENSMUSG00000040938_hx
+brown4_hx	ENSMUSG00000041559_hx
+brown4_hx	ENSMUSG00000042323_hx
+brown4_hx	ENSMUSG00000042340_hx
+brown4_hx	ENSMUSG00000042499_hx
+brown4_hx	ENSMUSG00000042737_hx
+brown4_hx	ENSMUSG00000042901_hx
+brown4_hx	ENSMUSG00000044600_hx
+brown4_hx	ENSMUSG00000045435_hx
+brown4_hx	ENSMUSG00000045691_hx
+brown4_hx	ENSMUSG00000046719_hx
+brown4_hx	ENSMUSG00000046798_hx
+brown4_hx	ENSMUSG00000049076_hx
+brown4_hx	ENSMUSG00000049504_hx
+brown4_hx	ENSMUSG00000051777_hx
+brown4_hx	ENSMUSG00000052033_hx
+brown4_hx	ENSMUSG00000052557_hx
+brown4_hx	ENSMUSG00000059409_hx
+brown4_hx	ENSMUSG00000061286_hx
+brown4_hx	ENSMUSG00000061411_hx
+brown4_hx	ENSMUSG00000061479_hx
+brown4_hx	ENSMUSG00000068732_hx
+brown4_hx	ENSMUSG00000071324_hx
+brown4_hx	ENSMUSG00000073650_hx
+brown4_hx	ENSMUSG00000073792_hx
+brown4_hx	ENSMUSG00000074862_hx
+brown4_hx	ENSMUSG00000075702_hx
+brown4_hx	ENSMUSG00000078486_hx
+brown4_hx	ENSMUSG00000079965_hx
+brown4_hx	ENSMUSG00000081046_hx
+brown4_hx	ENSMUSG00000081895_hx
+brown4_hx	ENSMUSG00000083072_hx
+brown4_hx	ENSMUSG00000086477_hx
+brown4_hx	ENSMUSG00000087687_hx
+brown4_hx	ENSMUSG00000088793_hx
+brown4_hx	ENSMUSG00000091264_hx
+brown4_hx	ENSMUSG00000097715_hx
+brown4_hx	ENSMUSG00000100164_hx
+brown4_hx	ENSMUSG00000102252_hx
+brown4_hx	ENSMUSG00000107826_hx
+brown4_hx	ENSMUSG00000109385_hx
+salmon_hx	ENSMUSG00000000168_hx
+salmon_hx	ENSMUSG00000000301_hx
+salmon_hx	ENSMUSG00000000827_hx
+salmon_hx	ENSMUSG00000000838_hx
+salmon_hx	ENSMUSG00000001333_hx
+salmon_hx	ENSMUSG00000001755_hx
+salmon_hx	ENSMUSG00000002396_hx
+salmon_hx	ENSMUSG00000002844_hx
+salmon_hx	ENSMUSG00000004044_hx
+salmon_hx	ENSMUSG00000004268_hx
+salmon_hx	ENSMUSG00000004508_hx
+salmon_hx	ENSMUSG00000004931_hx
+salmon_hx	ENSMUSG00000005078_hx
+salmon_hx	ENSMUSG00000005371_hx
+salmon_hx	ENSMUSG00000005481_hx
+salmon_hx	ENSMUSG00000006585_hx
+salmon_hx	ENSMUSG00000006932_hx
+salmon_hx	ENSMUSG00000008690_hx
+salmon_hx	ENSMUSG00000009535_hx
+salmon_hx	ENSMUSG00000009621_hx
+salmon_hx	ENSMUSG00000012422_hx
+salmon_hx	ENSMUSG00000015095_hx
+salmon_hx	ENSMUSG00000015522_hx
+salmon_hx	ENSMUSG00000015749_hx
+salmon_hx	ENSMUSG00000015766_hx
+salmon_hx	ENSMUSG00000017740_hx
+salmon_hx	ENSMUSG00000018334_hx
+salmon_hx	ENSMUSG00000018476_hx
+salmon_hx	ENSMUSG00000018501_hx
+salmon_hx	ENSMUSG00000019214_hx
+salmon_hx	ENSMUSG00000020088_hx
+salmon_hx	ENSMUSG00000020096_hx
+salmon_hx	ENSMUSG00000020263_hx
+salmon_hx	ENSMUSG00000020267_hx
+salmon_hx	ENSMUSG00000020321_hx
+salmon_hx	ENSMUSG00000020392_hx
+salmon_hx	ENSMUSG00000020444_hx
+salmon_hx	ENSMUSG00000020657_hx
+salmon_hx	ENSMUSG00000020671_hx
+salmon_hx	ENSMUSG00000020677_hx
+salmon_hx	ENSMUSG00000020806_hx
+salmon_hx	ENSMUSG00000020914_hx
+salmon_hx	ENSMUSG00000021037_hx
+salmon_hx	ENSMUSG00000021071_hx
+salmon_hx	ENSMUSG00000021103_hx
+salmon_hx	ENSMUSG00000021147_hx
+salmon_hx	ENSMUSG00000021245_hx
+salmon_hx	ENSMUSG00000021257_hx
+salmon_hx	ENSMUSG00000021276_hx
+salmon_hx	ENSMUSG00000021327_hx
+salmon_hx	ENSMUSG00000021395_hx
+salmon_hx	ENSMUSG00000021559_hx
+salmon_hx	ENSMUSG00000021763_hx
+salmon_hx	ENSMUSG00000021902_hx
+salmon_hx	ENSMUSG00000021950_hx
+salmon_hx	ENSMUSG00000022098_hx
+salmon_hx	ENSMUSG00000022272_hx
+salmon_hx	ENSMUSG00000022325_hx
+salmon_hx	ENSMUSG00000022742_hx
+salmon_hx	ENSMUSG00000022768_hx
+salmon_hx	ENSMUSG00000022771_hx
+salmon_hx	ENSMUSG00000022833_hx
+salmon_hx	ENSMUSG00000022858_hx
+salmon_hx	ENSMUSG00000022867_hx
+salmon_hx	ENSMUSG00000023990_hx
+salmon_hx	ENSMUSG00000024026_hx
+salmon_hx	ENSMUSG00000024030_hx
+salmon_hx	ENSMUSG00000024048_hx
+salmon_hx	ENSMUSG00000024370_hx
+salmon_hx	ENSMUSG00000024413_hx
+salmon_hx	ENSMUSG00000024472_hx
+salmon_hx	ENSMUSG00000024525_hx
+salmon_hx	ENSMUSG00000024613_hx
+salmon_hx	ENSMUSG00000024614_hx
+salmon_hx	ENSMUSG00000025255_hx
+salmon_hx	ENSMUSG00000025326_hx
+salmon_hx	ENSMUSG00000025384_hx
+salmon_hx	ENSMUSG00000025423_hx
+salmon_hx	ENSMUSG00000025428_hx
+salmon_hx	ENSMUSG00000025484_hx
+salmon_hx	ENSMUSG00000025491_hx
+salmon_hx	ENSMUSG00000025521_hx
+salmon_hx	ENSMUSG00000025557_hx
+salmon_hx	ENSMUSG00000025757_hx
+salmon_hx	ENSMUSG00000025869_hx
+salmon_hx	ENSMUSG00000025934_hx
+salmon_hx	ENSMUSG00000026439_hx
+salmon_hx	ENSMUSG00000026531_hx
+salmon_hx	ENSMUSG00000026650_hx
+salmon_hx	ENSMUSG00000026678_hx
+salmon_hx	ENSMUSG00000027107_hx
+salmon_hx	ENSMUSG00000027133_hx
+salmon_hx	ENSMUSG00000027189_hx
+salmon_hx	ENSMUSG00000027243_hx
+salmon_hx	ENSMUSG00000027375_hx
+salmon_hx	ENSMUSG00000027384_hx
+salmon_hx	ENSMUSG00000027889_hx
+salmon_hx	ENSMUSG00000028031_hx
+salmon_hx	ENSMUSG00000028132_hx
+salmon_hx	ENSMUSG00000028152_hx
+salmon_hx	ENSMUSG00000028312_hx
+salmon_hx	ENSMUSG00000028403_hx
+salmon_hx	ENSMUSG00000028475_hx
+salmon_hx	ENSMUSG00000028629_hx
+salmon_hx	ENSMUSG00000028907_hx
+salmon_hx	ENSMUSG00000028919_hx
+salmon_hx	ENSMUSG00000028933_hx
+salmon_hx	ENSMUSG00000028936_hx
+salmon_hx	ENSMUSG00000028986_hx
+salmon_hx	ENSMUSG00000029071_hx
+salmon_hx	ENSMUSG00000029104_hx
+salmon_hx	ENSMUSG00000029154_hx
+salmon_hx	ENSMUSG00000029167_hx
+salmon_hx	ENSMUSG00000029196_hx
+salmon_hx	ENSMUSG00000029199_hx
+salmon_hx	ENSMUSG00000029311_hx
+salmon_hx	ENSMUSG00000029388_hx
+salmon_hx	ENSMUSG00000029447_hx
+salmon_hx	ENSMUSG00000029512_hx
+salmon_hx	ENSMUSG00000029534_hx
+salmon_hx	ENSMUSG00000029617_hx
+salmon_hx	ENSMUSG00000029648_hx
+salmon_hx	ENSMUSG00000029823_hx
+salmon_hx	ENSMUSG00000030058_hx
+salmon_hx	ENSMUSG00000030060_hx
+salmon_hx	ENSMUSG00000030161_hx
+salmon_hx	ENSMUSG00000030428_hx
+salmon_hx	ENSMUSG00000030647_hx
+salmon_hx	ENSMUSG00000030762_hx
+salmon_hx	ENSMUSG00000030942_hx
+salmon_hx	ENSMUSG00000031059_hx
+salmon_hx	ENSMUSG00000031505_hx
+salmon_hx	ENSMUSG00000031532_hx
+salmon_hx	ENSMUSG00000031851_hx
+salmon_hx	ENSMUSG00000031879_hx
+salmon_hx	ENSMUSG00000032033_hx
+salmon_hx	ENSMUSG00000032085_hx
+salmon_hx	ENSMUSG00000032299_hx
+salmon_hx	ENSMUSG00000032363_hx
+salmon_hx	ENSMUSG00000032411_hx
+salmon_hx	ENSMUSG00000032420_hx
+salmon_hx	ENSMUSG00000032423_hx
+salmon_hx	ENSMUSG00000032435_hx
+salmon_hx	ENSMUSG00000032480_hx
+salmon_hx	ENSMUSG00000032504_hx
+salmon_hx	ENSMUSG00000032511_hx
+salmon_hx	ENSMUSG00000032601_hx
+salmon_hx	ENSMUSG00000032773_hx
+salmon_hx	ENSMUSG00000032870_hx
+salmon_hx	ENSMUSG00000032898_hx
+salmon_hx	ENSMUSG00000033170_hx
+salmon_hx	ENSMUSG00000033307_hx
+salmon_hx	ENSMUSG00000033389_hx
+salmon_hx	ENSMUSG00000033671_hx
+salmon_hx	ENSMUSG00000034024_hx
+salmon_hx	ENSMUSG00000034066_hx
+salmon_hx	ENSMUSG00000034126_hx
+salmon_hx	ENSMUSG00000034151_hx
+salmon_hx	ENSMUSG00000035228_hx
+salmon_hx	ENSMUSG00000035247_hx
+salmon_hx	ENSMUSG00000035352_hx
+salmon_hx	ENSMUSG00000035780_hx
+salmon_hx	ENSMUSG00000035934_hx
+salmon_hx	ENSMUSG00000036104_hx
+salmon_hx	ENSMUSG00000036323_hx
+salmon_hx	ENSMUSG00000036452_hx
+salmon_hx	ENSMUSG00000036617_hx
+salmon_hx	ENSMUSG00000036693_hx
+salmon_hx	ENSMUSG00000037111_hx
+salmon_hx	ENSMUSG00000037119_hx
+salmon_hx	ENSMUSG00000037335_hx
+salmon_hx	ENSMUSG00000037470_hx
+salmon_hx	ENSMUSG00000037606_hx
+salmon_hx	ENSMUSG00000037709_hx
+salmon_hx	ENSMUSG00000037759_hx
+salmon_hx	ENSMUSG00000037773_hx
+salmon_hx	ENSMUSG00000037805_hx
+salmon_hx	ENSMUSG00000038056_hx
+salmon_hx	ENSMUSG00000038060_hx
+salmon_hx	ENSMUSG00000038079_hx
+salmon_hx	ENSMUSG00000038271_hx
+salmon_hx	ENSMUSG00000038384_hx
+salmon_hx	ENSMUSG00000038695_hx
+salmon_hx	ENSMUSG00000038696_hx
+salmon_hx	ENSMUSG00000038797_hx
+salmon_hx	ENSMUSG00000039110_hx
+salmon_hx	ENSMUSG00000039159_hx
+salmon_hx	ENSMUSG00000039219_hx
+salmon_hx	ENSMUSG00000039262_hx
+salmon_hx	ENSMUSG00000039367_hx
+salmon_hx	ENSMUSG00000039529_hx
+salmon_hx	ENSMUSG00000039686_hx
+salmon_hx	ENSMUSG00000039908_hx
+salmon_hx	ENSMUSG00000039910_hx
+salmon_hx	ENSMUSG00000039913_hx
+salmon_hx	ENSMUSG00000039989_hx
+salmon_hx	ENSMUSG00000040721_hx
+salmon_hx	ENSMUSG00000040749_hx
+salmon_hx	ENSMUSG00000041058_hx
+salmon_hx	ENSMUSG00000041341_hx
+salmon_hx	ENSMUSG00000041351_hx
+salmon_hx	ENSMUSG00000041360_hx
+salmon_hx	ENSMUSG00000041420_hx
+salmon_hx	ENSMUSG00000041431_hx
+salmon_hx	ENSMUSG00000041556_hx
+salmon_hx	ENSMUSG00000041605_hx
+salmon_hx	ENSMUSG00000042066_hx
+salmon_hx	ENSMUSG00000042155_hx
+salmon_hx	ENSMUSG00000042474_hx
+salmon_hx	ENSMUSG00000042548_hx
+salmon_hx	ENSMUSG00000042650_hx
+salmon_hx	ENSMUSG00000042655_hx
+salmon_hx	ENSMUSG00000042804_hx
+salmon_hx	ENSMUSG00000043015_hx
+salmon_hx	ENSMUSG00000043243_hx
+salmon_hx	ENSMUSG00000043831_hx
+salmon_hx	ENSMUSG00000044060_hx
+salmon_hx	ENSMUSG00000044177_hx
+salmon_hx	ENSMUSG00000044502_hx
+salmon_hx	ENSMUSG00000044647_hx
+salmon_hx	ENSMUSG00000044937_hx
+salmon_hx	ENSMUSG00000044968_hx
+salmon_hx	ENSMUSG00000045038_hx
+salmon_hx	ENSMUSG00000045349_hx
+salmon_hx	ENSMUSG00000045994_hx
+salmon_hx	ENSMUSG00000046167_hx
+salmon_hx	ENSMUSG00000046731_hx
+salmon_hx	ENSMUSG00000046782_hx
+salmon_hx	ENSMUSG00000046836_hx
+salmon_hx	ENSMUSG00000047248_hx
+salmon_hx	ENSMUSG00000047459_hx
+salmon_hx	ENSMUSG00000047613_hx
+salmon_hx	ENSMUSG00000047728_hx
+salmon_hx	ENSMUSG00000047866_hx
+salmon_hx	ENSMUSG00000048232_hx
+salmon_hx	ENSMUSG00000048240_hx
+salmon_hx	ENSMUSG00000049421_hx
+salmon_hx	ENSMUSG00000049604_hx
+salmon_hx	ENSMUSG00000049904_hx
+salmon_hx	ENSMUSG00000050335_hx
+salmon_hx	ENSMUSG00000050395_hx
+salmon_hx	ENSMUSG00000050668_hx
+salmon_hx	ENSMUSG00000050705_hx
+salmon_hx	ENSMUSG00000050708_hx
+salmon_hx	ENSMUSG00000050957_hx
+salmon_hx	ENSMUSG00000051367_hx
+salmon_hx	ENSMUSG00000051390_hx
+salmon_hx	ENSMUSG00000051627_hx
+salmon_hx	ENSMUSG00000051906_hx
+salmon_hx	ENSMUSG00000052395_hx
+salmon_hx	ENSMUSG00000053070_hx
+salmon_hx	ENSMUSG00000053553_hx
+salmon_hx	ENSMUSG00000053774_hx
+salmon_hx	ENSMUSG00000053886_hx
+salmon_hx	ENSMUSG00000053930_hx
+salmon_hx	ENSMUSG00000054161_hx
+salmon_hx	ENSMUSG00000054408_hx
+salmon_hx	ENSMUSG00000054519_hx
+salmon_hx	ENSMUSG00000054720_hx
+salmon_hx	ENSMUSG00000054737_hx
+salmon_hx	ENSMUSG00000055228_hx
+salmon_hx	ENSMUSG00000055409_hx
+salmon_hx	ENSMUSG00000055612_hx
+salmon_hx	ENSMUSG00000056316_hx
+salmon_hx	ENSMUSG00000057069_hx
+salmon_hx	ENSMUSG00000057751_hx
+salmon_hx	ENSMUSG00000058486_hx
+salmon_hx	ENSMUSG00000059003_hx
+salmon_hx	ENSMUSG00000059659_hx
+salmon_hx	ENSMUSG00000059897_hx
+salmon_hx	ENSMUSG00000061887_hx
+salmon_hx	ENSMUSG00000061947_hx
+salmon_hx	ENSMUSG00000062083_hx
+salmon_hx	ENSMUSG00000062661_hx
+salmon_hx	ENSMUSG00000063273_hx
+salmon_hx	ENSMUSG00000063383_hx
+salmon_hx	ENSMUSG00000063632_hx
+salmon_hx	ENSMUSG00000064899_hx
+salmon_hx	ENSMUSG00000065037_hx
+salmon_hx	ENSMUSG00000065176_hx
+salmon_hx	ENSMUSG00000066196_hx
+salmon_hx	ENSMUSG00000066839_hx
+salmon_hx	ENSMUSG00000067224_hx
+salmon_hx	ENSMUSG00000068115_hx
+salmon_hx	ENSMUSG00000068735_hx
+salmon_hx	ENSMUSG00000069744_hx
+salmon_hx	ENSMUSG00000069755_hx
+salmon_hx	ENSMUSG00000069806_hx
+salmon_hx	ENSMUSG00000070337_hx
+salmon_hx	ENSMUSG00000071001_hx
+salmon_hx	ENSMUSG00000071180_hx
+salmon_hx	ENSMUSG00000071341_hx
+salmon_hx	ENSMUSG00000072723_hx
+salmon_hx	ENSMUSG00000072884_hx
+salmon_hx	ENSMUSG00000073155_hx
+salmon_hx	ENSMUSG00000073877_hx
+salmon_hx	ENSMUSG00000074884_hx
+salmon_hx	ENSMUSG00000074890_hx
+salmon_hx	ENSMUSG00000075528_hx
+salmon_hx	ENSMUSG00000078289_hx
+salmon_hx	ENSMUSG00000078503_hx
+salmon_hx	ENSMUSG00000080316_hx
+salmon_hx	ENSMUSG00000080727_hx
+salmon_hx	ENSMUSG00000081264_hx
+salmon_hx	ENSMUSG00000081855_hx
+salmon_hx	ENSMUSG00000081932_hx
+salmon_hx	ENSMUSG00000082008_hx
+salmon_hx	ENSMUSG00000082260_hx
+salmon_hx	ENSMUSG00000082503_hx
+salmon_hx	ENSMUSG00000082505_hx
+salmon_hx	ENSMUSG00000082543_hx
+salmon_hx	ENSMUSG00000082962_hx
+salmon_hx	ENSMUSG00000083700_hx
+salmon_hx	ENSMUSG00000084048_hx
+salmon_hx	ENSMUSG00000084828_hx
+salmon_hx	ENSMUSG00000085255_hx
+salmon_hx	ENSMUSG00000085408_hx
+salmon_hx	ENSMUSG00000085655_hx
+salmon_hx	ENSMUSG00000086119_hx
+salmon_hx	ENSMUSG00000086583_hx
+salmon_hx	ENSMUSG00000086728_hx
+salmon_hx	ENSMUSG00000087084_hx
+salmon_hx	ENSMUSG00000087174_hx
+salmon_hx	ENSMUSG00000087221_hx
+salmon_hx	ENSMUSG00000087381_hx
+salmon_hx	ENSMUSG00000087466_hx
+salmon_hx	ENSMUSG00000087633_hx
+salmon_hx	ENSMUSG00000087785_hx
+salmon_hx	ENSMUSG00000090108_hx
+salmon_hx	ENSMUSG00000090222_hx
+salmon_hx	ENSMUSG00000090965_hx
+salmon_hx	ENSMUSG00000091243_hx
+salmon_hx	ENSMUSG00000092241_hx
+salmon_hx	ENSMUSG00000093436_hx
+salmon_hx	ENSMUSG00000094338_hx
+salmon_hx	ENSMUSG00000096054_hx
+salmon_hx	ENSMUSG00000097039_hx
+salmon_hx	ENSMUSG00000097479_hx
+salmon_hx	ENSMUSG00000097494_hx
+salmon_hx	ENSMUSG00000097573_hx
+salmon_hx	ENSMUSG00000097604_hx
+salmon_hx	ENSMUSG00000097613_hx
+salmon_hx	ENSMUSG00000097620_hx
+salmon_hx	ENSMUSG00000097622_hx
+salmon_hx	ENSMUSG00000097649_hx
+salmon_hx	ENSMUSG00000100546_hx
+salmon_hx	ENSMUSG00000101028_hx
+salmon_hx	ENSMUSG00000101501_hx
+salmon_hx	ENSMUSG00000102410_hx
+salmon_hx	ENSMUSG00000102440_hx
+salmon_hx	ENSMUSG00000103009_hx
+salmon_hx	ENSMUSG00000103441_hx
+salmon_hx	ENSMUSG00000103495_hx
+salmon_hx	ENSMUSG00000103539_hx
+salmon_hx	ENSMUSG00000103822_hx
+salmon_hx	ENSMUSG00000103920_hx
+salmon_hx	ENSMUSG00000103964_hx
+salmon_hx	ENSMUSG00000103983_hx
+salmon_hx	ENSMUSG00000104100_hx
+salmon_hx	ENSMUSG00000104107_hx
+salmon_hx	ENSMUSG00000104485_hx
+salmon_hx	ENSMUSG00000104519_hx
+salmon_hx	ENSMUSG00000104633_hx
+salmon_hx	ENSMUSG00000105218_hx
+salmon_hx	ENSMUSG00000105229_hx
+salmon_hx	ENSMUSG00000105500_hx
+salmon_hx	ENSMUSG00000106189_hx
+salmon_hx	ENSMUSG00000106364_hx
+salmon_hx	ENSMUSG00000107272_hx
+salmon_hx	ENSMUSG00000107596_hx
+salmon_hx	ENSMUSG00000108132_hx
+salmon_hx	ENSMUSG00000108500_hx
+salmon_hx	ENSMUSG00000108778_hx
+salmon_hx	ENSMUSG00000109353_hx
+red_hx	ENSMUSG00000000600_hx
+red_hx	ENSMUSG00000001380_hx
+red_hx	ENSMUSG00000001687_hx
+red_hx	ENSMUSG00000002064_hx
+red_hx	ENSMUSG00000002265_hx
+red_hx	ENSMUSG00000002266_hx
+red_hx	ENSMUSG00000002342_hx
+red_hx	ENSMUSG00000002625_hx
+red_hx	ENSMUSG00000002768_hx
+red_hx	ENSMUSG00000002803_hx
+red_hx	ENSMUSG00000003031_hx
+red_hx	ENSMUSG00000003271_hx
+red_hx	ENSMUSG00000003344_hx
+red_hx	ENSMUSG00000003810_hx
+red_hx	ENSMUSG00000003814_hx
+red_hx	ENSMUSG00000004535_hx
+red_hx	ENSMUSG00000004815_hx
+red_hx	ENSMUSG00000005161_hx
+red_hx	ENSMUSG00000005267_hx
+red_hx	ENSMUSG00000005360_hx
+red_hx	ENSMUSG00000005610_hx
+red_hx	ENSMUSG00000005899_hx
+red_hx	ENSMUSG00000006241_hx
+red_hx	ENSMUSG00000006958_hx
+red_hx	ENSMUSG00000006998_hx
+red_hx	ENSMUSG00000007279_hx
+red_hx	ENSMUSG00000007721_hx
+red_hx	ENSMUSG00000007815_hx
+red_hx	ENSMUSG00000007950_hx
+red_hx	ENSMUSG00000008318_hx
+red_hx	ENSMUSG00000008668_hx
+red_hx	ENSMUSG00000008730_hx
+red_hx	ENSMUSG00000008958_hx
+red_hx	ENSMUSG00000008999_hx
+red_hx	ENSMUSG00000009248_hx
+red_hx	ENSMUSG00000009681_hx
+red_hx	ENSMUSG00000009739_hx
+red_hx	ENSMUSG00000013539_hx
+red_hx	ENSMUSG00000013787_hx
+red_hx	ENSMUSG00000015305_hx
+red_hx	ENSMUSG00000015363_hx
+red_hx	ENSMUSG00000015869_hx
+red_hx	ENSMUSG00000016253_hx
+red_hx	ENSMUSG00000016637_hx
+red_hx	ENSMUSG00000018042_hx
+red_hx	ENSMUSG00000018167_hx
+red_hx	ENSMUSG00000018340_hx
+red_hx	ENSMUSG00000018565_hx
+red_hx	ENSMUSG00000019054_hx
+red_hx	ENSMUSG00000019066_hx
+red_hx	ENSMUSG00000019188_hx
+red_hx	ENSMUSG00000019303_hx
+red_hx	ENSMUSG00000019470_hx
+red_hx	ENSMUSG00000019772_hx
+red_hx	ENSMUSG00000019777_hx
+red_hx	ENSMUSG00000019790_hx
+red_hx	ENSMUSG00000019795_hx
+red_hx	ENSMUSG00000019796_hx
+red_hx	ENSMUSG00000019802_hx
+red_hx	ENSMUSG00000019929_hx
+red_hx	ENSMUSG00000020111_hx
+red_hx	ENSMUSG00000020156_hx
+red_hx	ENSMUSG00000020176_hx
+red_hx	ENSMUSG00000020184_hx
+red_hx	ENSMUSG00000020248_hx
+red_hx	ENSMUSG00000020323_hx
+red_hx	ENSMUSG00000020358_hx
+red_hx	ENSMUSG00000020390_hx
+red_hx	ENSMUSG00000020457_hx
+red_hx	ENSMUSG00000020537_hx
+red_hx	ENSMUSG00000020576_hx
+red_hx	ENSMUSG00000020577_hx
+red_hx	ENSMUSG00000020580_hx
+red_hx	ENSMUSG00000020697_hx
+red_hx	ENSMUSG00000020803_hx
+red_hx	ENSMUSG00000020812_hx
+red_hx	ENSMUSG00000020829_hx
+red_hx	ENSMUSG00000020876_hx
+red_hx	ENSMUSG00000020892_hx
+red_hx	ENSMUSG00000021024_hx
+red_hx	ENSMUSG00000021039_hx
+red_hx	ENSMUSG00000021194_hx
+red_hx	ENSMUSG00000021244_hx
+red_hx	ENSMUSG00000021374_hx
+red_hx	ENSMUSG00000021643_hx
+red_hx	ENSMUSG00000021752_hx
+red_hx	ENSMUSG00000021838_hx
+red_hx	ENSMUSG00000021901_hx
+red_hx	ENSMUSG00000021932_hx
+red_hx	ENSMUSG00000021938_hx
+red_hx	ENSMUSG00000021959_hx
+red_hx	ENSMUSG00000021962_hx
+red_hx	ENSMUSG00000021994_hx
+red_hx	ENSMUSG00000022013_hx
+red_hx	ENSMUSG00000022216_hx
+red_hx	ENSMUSG00000022388_hx
+red_hx	ENSMUSG00000022394_hx
+red_hx	ENSMUSG00000022466_hx
+red_hx	ENSMUSG00000022490_hx
+red_hx	ENSMUSG00000022517_hx
+red_hx	ENSMUSG00000022558_hx
+red_hx	ENSMUSG00000022621_hx
+red_hx	ENSMUSG00000022658_hx
+red_hx	ENSMUSG00000022748_hx
+red_hx	ENSMUSG00000022754_hx
+red_hx	ENSMUSG00000022762_hx
+red_hx	ENSMUSG00000022844_hx
+red_hx	ENSMUSG00000022913_hx
+red_hx	ENSMUSG00000022941_hx
+red_hx	ENSMUSG00000022962_hx
+red_hx	ENSMUSG00000023032_hx
+red_hx	ENSMUSG00000023277_hx
+red_hx	ENSMUSG00000023286_hx
+red_hx	ENSMUSG00000023403_hx
+red_hx	ENSMUSG00000023868_hx
+red_hx	ENSMUSG00000023939_hx
+red_hx	ENSMUSG00000023965_hx
+red_hx	ENSMUSG00000023984_hx
+red_hx	ENSMUSG00000024054_hx
+red_hx	ENSMUSG00000024063_hx
+red_hx	ENSMUSG00000024073_hx
+red_hx	ENSMUSG00000024096_hx
+red_hx	ENSMUSG00000024170_hx
+red_hx	ENSMUSG00000024174_hx
+red_hx	ENSMUSG00000024182_hx
+red_hx	ENSMUSG00000024238_hx
+red_hx	ENSMUSG00000024240_hx
+red_hx	ENSMUSG00000024248_hx
+red_hx	ENSMUSG00000024268_hx
+red_hx	ENSMUSG00000024276_hx
+red_hx	ENSMUSG00000024287_hx
+red_hx	ENSMUSG00000024309_hx
+red_hx	ENSMUSG00000024400_hx
+red_hx	ENSMUSG00000024423_hx
+red_hx	ENSMUSG00000024566_hx
+red_hx	ENSMUSG00000024659_hx
+red_hx	ENSMUSG00000024777_hx
+red_hx	ENSMUSG00000024817_hx
+red_hx	ENSMUSG00000024847_hx
+red_hx	ENSMUSG00000024947_hx
+red_hx	ENSMUSG00000024957_hx
+red_hx	ENSMUSG00000024985_hx
+red_hx	ENSMUSG00000025025_hx
+red_hx	ENSMUSG00000025026_hx
+red_hx	ENSMUSG00000025135_hx
+red_hx	ENSMUSG00000025184_hx
+red_hx	ENSMUSG00000025358_hx
+red_hx	ENSMUSG00000025362_hx
+red_hx	ENSMUSG00000025371_hx
+red_hx	ENSMUSG00000025439_hx
+red_hx	ENSMUSG00000025492_hx
+red_hx	ENSMUSG00000025582_hx
+red_hx	ENSMUSG00000025730_hx
+red_hx	ENSMUSG00000025872_hx
+red_hx	ENSMUSG00000025899_hx
+red_hx	ENSMUSG00000026023_hx
+red_hx	ENSMUSG00000026150_hx
+red_hx	ENSMUSG00000026154_hx
+red_hx	ENSMUSG00000026197_hx
+red_hx	ENSMUSG00000026208_hx
+red_hx	ENSMUSG00000026254_hx
+red_hx	ENSMUSG00000026278_hx
+red_hx	ENSMUSG00000026418_hx
+red_hx	ENSMUSG00000026456_hx
+red_hx	ENSMUSG00000026458_hx
+red_hx	ENSMUSG00000026491_hx
+red_hx	ENSMUSG00000026563_hx
+red_hx	ENSMUSG00000026577_hx
+red_hx	ENSMUSG00000026615_hx
+red_hx	ENSMUSG00000026643_hx
+red_hx	ENSMUSG00000026675_hx
+red_hx	ENSMUSG00000026687_hx
+red_hx	ENSMUSG00000026766_hx
+red_hx	ENSMUSG00000026827_hx
+red_hx	ENSMUSG00000026833_hx
+red_hx	ENSMUSG00000026848_hx
+red_hx	ENSMUSG00000026853_hx
+red_hx	ENSMUSG00000026888_hx
+red_hx	ENSMUSG00000026895_hx
+red_hx	ENSMUSG00000026914_hx
+red_hx	ENSMUSG00000027016_hx
+red_hx	ENSMUSG00000027184_hx
+red_hx	ENSMUSG00000027200_hx
+red_hx	ENSMUSG00000027405_hx
+red_hx	ENSMUSG00000027457_hx
+red_hx	ENSMUSG00000027560_hx
+red_hx	ENSMUSG00000027612_hx
+red_hx	ENSMUSG00000027630_hx
+red_hx	ENSMUSG00000027668_hx
+red_hx	ENSMUSG00000027804_hx
+red_hx	ENSMUSG00000027834_hx
+red_hx	ENSMUSG00000027843_hx
+red_hx	ENSMUSG00000027938_hx
+red_hx	ENSMUSG00000027944_hx
+red_hx	ENSMUSG00000027999_hx
+red_hx	ENSMUSG00000028037_hx
+red_hx	ENSMUSG00000028053_hx
+red_hx	ENSMUSG00000028068_hx
+red_hx	ENSMUSG00000028246_hx
+red_hx	ENSMUSG00000028277_hx
+red_hx	ENSMUSG00000028282_hx
+red_hx	ENSMUSG00000028343_hx
+red_hx	ENSMUSG00000028392_hx
+red_hx	ENSMUSG00000028419_hx
+red_hx	ENSMUSG00000028445_hx
+red_hx	ENSMUSG00000028528_hx
+red_hx	ENSMUSG00000028560_hx
+red_hx	ENSMUSG00000028608_hx
+red_hx	ENSMUSG00000028639_hx
+red_hx	ENSMUSG00000028668_hx
+red_hx	ENSMUSG00000028760_hx
+red_hx	ENSMUSG00000028849_hx
+red_hx	ENSMUSG00000028917_hx
+red_hx	ENSMUSG00000028954_hx
+red_hx	ENSMUSG00000029053_hx
+red_hx	ENSMUSG00000029066_hx
+red_hx	ENSMUSG00000029088_hx
+red_hx	ENSMUSG00000029145_hx
+red_hx	ENSMUSG00000029148_hx
+red_hx	ENSMUSG00000029169_hx
+red_hx	ENSMUSG00000029227_hx
+red_hx	ENSMUSG00000029328_hx
+red_hx	ENSMUSG00000029370_hx
+red_hx	ENSMUSG00000029407_hx
+red_hx	ENSMUSG00000029415_hx
+red_hx	ENSMUSG00000029560_hx
+red_hx	ENSMUSG00000029651_hx
+red_hx	ENSMUSG00000029670_hx
+red_hx	ENSMUSG00000029681_hx
+red_hx	ENSMUSG00000029701_hx
+red_hx	ENSMUSG00000029726_hx
+red_hx	ENSMUSG00000029729_hx
+red_hx	ENSMUSG00000029767_hx
+red_hx	ENSMUSG00000029769_hx
+red_hx	ENSMUSG00000029797_hx
+red_hx	ENSMUSG00000030082_hx
+red_hx	ENSMUSG00000030096_hx
+red_hx	ENSMUSG00000030237_hx
+red_hx	ENSMUSG00000030324_hx
+red_hx	ENSMUSG00000030342_hx
+red_hx	ENSMUSG00000030397_hx
+red_hx	ENSMUSG00000030400_hx
+red_hx	ENSMUSG00000030494_hx
+red_hx	ENSMUSG00000030678_hx
+red_hx	ENSMUSG00000030787_hx
+red_hx	ENSMUSG00000030815_hx
+red_hx	ENSMUSG00000030894_hx
+red_hx	ENSMUSG00000030987_hx
+red_hx	ENSMUSG00000031027_hx
+red_hx	ENSMUSG00000031201_hx
+red_hx	ENSMUSG00000031360_hx
+red_hx	ENSMUSG00000031393_hx
+red_hx	ENSMUSG00000031465_hx
+red_hx	ENSMUSG00000031548_hx
+red_hx	ENSMUSG00000031605_hx
+red_hx	ENSMUSG00000031647_hx
+red_hx	ENSMUSG00000031661_hx
+red_hx	ENSMUSG00000031865_hx
+red_hx	ENSMUSG00000031903_hx
+red_hx	ENSMUSG00000031931_hx
+red_hx	ENSMUSG00000031937_hx
+red_hx	ENSMUSG00000031967_hx
+red_hx	ENSMUSG00000032182_hx
+red_hx	ENSMUSG00000032186_hx
+red_hx	ENSMUSG00000032281_hx
+red_hx	ENSMUSG00000032368_hx
+red_hx	ENSMUSG00000032434_hx
+red_hx	ENSMUSG00000032549_hx
+red_hx	ENSMUSG00000032571_hx
+red_hx	ENSMUSG00000032841_hx
+red_hx	ENSMUSG00000032977_hx
+red_hx	ENSMUSG00000033177_hx
+red_hx	ENSMUSG00000033237_hx
+red_hx	ENSMUSG00000033352_hx
+red_hx	ENSMUSG00000033392_hx
+red_hx	ENSMUSG00000033434_hx
+red_hx	ENSMUSG00000033530_hx
+red_hx	ENSMUSG00000033845_hx
+red_hx	ENSMUSG00000033910_hx
+red_hx	ENSMUSG00000034006_hx
+red_hx	ENSMUSG00000034201_hx
+red_hx	ENSMUSG00000034285_hx
+red_hx	ENSMUSG00000034311_hx
+red_hx	ENSMUSG00000034430_hx
+red_hx	ENSMUSG00000034687_hx
+red_hx	ENSMUSG00000034801_hx
+red_hx	ENSMUSG00000034813_hx
+red_hx	ENSMUSG00000034940_hx
+red_hx	ENSMUSG00000034981_hx
+red_hx	ENSMUSG00000035067_hx
+red_hx	ENSMUSG00000035151_hx
+red_hx	ENSMUSG00000035202_hx
+red_hx	ENSMUSG00000035325_hx
+red_hx	ENSMUSG00000035441_hx
+red_hx	ENSMUSG00000035530_hx
+red_hx	ENSMUSG00000035686_hx
+red_hx	ENSMUSG00000035783_hx
+red_hx	ENSMUSG00000036223_hx
+red_hx	ENSMUSG00000036304_hx
+red_hx	ENSMUSG00000036461_hx
+red_hx	ENSMUSG00000036499_hx
+red_hx	ENSMUSG00000036504_hx
+red_hx	ENSMUSG00000036964_hx
+red_hx	ENSMUSG00000036989_hx
+red_hx	ENSMUSG00000037224_hx
+red_hx	ENSMUSG00000037234_hx
+red_hx	ENSMUSG00000037235_hx
+red_hx	ENSMUSG00000037270_hx
+red_hx	ENSMUSG00000037362_hx
+red_hx	ENSMUSG00000037487_hx
+red_hx	ENSMUSG00000037649_hx
+red_hx	ENSMUSG00000037736_hx
+red_hx	ENSMUSG00000037896_hx
+red_hx	ENSMUSG00000038128_hx
+red_hx	ENSMUSG00000038175_hx
+red_hx	ENSMUSG00000038195_hx
+red_hx	ENSMUSG00000038366_hx
+red_hx	ENSMUSG00000038615_hx
+red_hx	ENSMUSG00000038806_hx
+red_hx	ENSMUSG00000038866_hx
+red_hx	ENSMUSG00000038914_hx
+red_hx	ENSMUSG00000039067_hx
+red_hx	ENSMUSG00000039395_hx
+red_hx	ENSMUSG00000039438_hx
+red_hx	ENSMUSG00000039616_hx
+red_hx	ENSMUSG00000039640_hx
+red_hx	ENSMUSG00000039701_hx
+red_hx	ENSMUSG00000040385_hx
+red_hx	ENSMUSG00000040414_hx
+red_hx	ENSMUSG00000040502_hx
+red_hx	ENSMUSG00000040506_hx
+red_hx	ENSMUSG00000040759_hx
+red_hx	ENSMUSG00000040943_hx
+red_hx	ENSMUSG00000040945_hx
+red_hx	ENSMUSG00000040969_hx
+red_hx	ENSMUSG00000041064_hx
+red_hx	ENSMUSG00000041328_hx
+red_hx	ENSMUSG00000041633_hx
+red_hx	ENSMUSG00000041729_hx
+red_hx	ENSMUSG00000041775_hx
+red_hx	ENSMUSG00000042064_hx
+red_hx	ENSMUSG00000042082_hx
+red_hx	ENSMUSG00000042198_hx
+red_hx	ENSMUSG00000042369_hx
+red_hx	ENSMUSG00000042523_hx
+red_hx	ENSMUSG00000042700_hx
+red_hx	ENSMUSG00000042742_hx
+red_hx	ENSMUSG00000043004_hx
+red_hx	ENSMUSG00000043154_hx
+red_hx	ENSMUSG00000043284_hx
+red_hx	ENSMUSG00000043384_hx
+red_hx	ENSMUSG00000043411_hx
+red_hx	ENSMUSG00000044024_hx
+red_hx	ENSMUSG00000044067_hx
+red_hx	ENSMUSG00000044156_hx
+red_hx	ENSMUSG00000044496_hx
+red_hx	ENSMUSG00000045039_hx
+red_hx	ENSMUSG00000045216_hx
+red_hx	ENSMUSG00000045411_hx
+red_hx	ENSMUSG00000045912_hx
+red_hx	ENSMUSG00000045969_hx
+red_hx	ENSMUSG00000046230_hx
+red_hx	ENSMUSG00000046341_hx
+red_hx	ENSMUSG00000046573_hx
+red_hx	ENSMUSG00000046668_hx
+red_hx	ENSMUSG00000046691_hx
+red_hx	ENSMUSG00000047514_hx
+red_hx	ENSMUSG00000048450_hx
+red_hx	ENSMUSG00000049526_hx
+red_hx	ENSMUSG00000049866_hx
+red_hx	ENSMUSG00000049971_hx
+red_hx	ENSMUSG00000050222_hx
+red_hx	ENSMUSG00000050953_hx
+red_hx	ENSMUSG00000051397_hx
+red_hx	ENSMUSG00000051617_hx
+red_hx	ENSMUSG00000051853_hx
+red_hx	ENSMUSG00000051934_hx
+red_hx	ENSMUSG00000052026_hx
+red_hx	ENSMUSG00000052040_hx
+red_hx	ENSMUSG00000052372_hx
+red_hx	ENSMUSG00000052631_hx
+red_hx	ENSMUSG00000053205_hx
+red_hx	ENSMUSG00000053702_hx
+red_hx	ENSMUSG00000053838_hx
+red_hx	ENSMUSG00000053897_hx
+red_hx	ENSMUSG00000054304_hx
+red_hx	ENSMUSG00000054409_hx
+red_hx	ENSMUSG00000054766_hx
+red_hx	ENSMUSG00000057003_hx
+red_hx	ENSMUSG00000057411_hx
+red_hx	ENSMUSG00000057818_hx
+red_hx	ENSMUSG00000058013_hx
+red_hx	ENSMUSG00000058135_hx
+red_hx	ENSMUSG00000058267_hx
+red_hx	ENSMUSG00000058446_hx
+red_hx	ENSMUSG00000058503_hx
+red_hx	ENSMUSG00000059070_hx
+red_hx	ENSMUSG00000059119_hx
+red_hx	ENSMUSG00000060512_hx
+red_hx	ENSMUSG00000060733_hx
+red_hx	ENSMUSG00000060780_hx
+red_hx	ENSMUSG00000061461_hx
+red_hx	ENSMUSG00000061669_hx
+red_hx	ENSMUSG00000062203_hx
+red_hx	ENSMUSG00000062421_hx
+red_hx	ENSMUSG00000062510_hx
+red_hx	ENSMUSG00000062866_hx
+red_hx	ENSMUSG00000063019_hx
+red_hx	ENSMUSG00000063281_hx
+red_hx	ENSMUSG00000063317_hx
+red_hx	ENSMUSG00000064493_hx
+red_hx	ENSMUSG00000066037_hx
+red_hx	ENSMUSG00000066235_hx
+red_hx	ENSMUSG00000068335_hx
+red_hx	ENSMUSG00000068706_hx
+red_hx	ENSMUSG00000068823_hx
+red_hx	ENSMUSG00000070426_hx
+red_hx	ENSMUSG00000070520_hx
+red_hx	ENSMUSG00000070604_hx
+red_hx	ENSMUSG00000070645_hx
+red_hx	ENSMUSG00000071054_hx
+red_hx	ENSMUSG00000071203_hx
+red_hx	ENSMUSG00000072640_hx
+red_hx	ENSMUSG00000072969_hx
+red_hx	ENSMUSG00000073131_hx
+red_hx	ENSMUSG00000073530_hx
+red_hx	ENSMUSG00000073594_hx
+red_hx	ENSMUSG00000074215_hx
+red_hx	ENSMUSG00000074238_hx
+red_hx	ENSMUSG00000074637_hx
+red_hx	ENSMUSG00000074733_hx
+red_hx	ENSMUSG00000074754_hx
+red_hx	ENSMUSG00000074923_hx
+red_hx	ENSMUSG00000076287_hx
+red_hx	ENSMUSG00000077274_hx
+red_hx	ENSMUSG00000077450_hx
+red_hx	ENSMUSG00000077535_hx
+red_hx	ENSMUSG00000078772_hx
+red_hx	ENSMUSG00000079465_hx
+red_hx	ENSMUSG00000079559_hx
+red_hx	ENSMUSG00000079677_hx
+red_hx	ENSMUSG00000081128_hx
+red_hx	ENSMUSG00000081226_hx
+red_hx	ENSMUSG00000081520_hx
+red_hx	ENSMUSG00000082431_hx
+red_hx	ENSMUSG00000082544_hx
+red_hx	ENSMUSG00000082855_hx
+red_hx	ENSMUSG00000083282_hx
+red_hx	ENSMUSG00000083353_hx
+red_hx	ENSMUSG00000083533_hx
+red_hx	ENSMUSG00000084453_hx
+red_hx	ENSMUSG00000085112_hx
+red_hx	ENSMUSG00000085251_hx
+red_hx	ENSMUSG00000085287_hx
+red_hx	ENSMUSG00000085316_hx
+red_hx	ENSMUSG00000085385_hx
+red_hx	ENSMUSG00000085438_hx
+red_hx	ENSMUSG00000085667_hx
+red_hx	ENSMUSG00000085760_hx
+red_hx	ENSMUSG00000085912_hx
+red_hx	ENSMUSG00000087017_hx
+red_hx	ENSMUSG00000087143_hx
+red_hx	ENSMUSG00000087620_hx
+red_hx	ENSMUSG00000089706_hx
+red_hx	ENSMUSG00000090000_hx
+red_hx	ENSMUSG00000090100_hx
+red_hx	ENSMUSG00000090112_hx
+red_hx	ENSMUSG00000091764_hx
+red_hx	ENSMUSG00000091831_hx
+red_hx	ENSMUSG00000093394_hx
+red_hx	ENSMUSG00000094626_hx
+red_hx	ENSMUSG00000096841_hx
+red_hx	ENSMUSG00000096977_hx
+red_hx	ENSMUSG00000097059_hx
+red_hx	ENSMUSG00000097203_hx
+red_hx	ENSMUSG00000097345_hx
+red_hx	ENSMUSG00000097391_hx
+red_hx	ENSMUSG00000097592_hx
+red_hx	ENSMUSG00000097674_hx
+red_hx	ENSMUSG00000097756_hx
+red_hx	ENSMUSG00000097803_hx
+red_hx	ENSMUSG00000099553_hx
+red_hx	ENSMUSG00000100053_hx
+red_hx	ENSMUSG00000100153_hx
+red_hx	ENSMUSG00000101464_hx
+red_hx	ENSMUSG00000101596_hx
+red_hx	ENSMUSG00000101609_hx
+red_hx	ENSMUSG00000102260_hx
+red_hx	ENSMUSG00000102397_hx
+red_hx	ENSMUSG00000102570_hx
+red_hx	ENSMUSG00000102815_hx
+red_hx	ENSMUSG00000103216_hx
+red_hx	ENSMUSG00000103324_hx
+red_hx	ENSMUSG00000103433_hx
+red_hx	ENSMUSG00000103747_hx
+red_hx	ENSMUSG00000103889_hx
+red_hx	ENSMUSG00000104696_hx
+red_hx	ENSMUSG00000105264_hx
+red_hx	ENSMUSG00000105980_hx
+red_hx	ENSMUSG00000106135_hx
+red_hx	ENSMUSG00000106469_hx
+red_hx	ENSMUSG00000106565_hx
+red_hx	ENSMUSG00000106696_hx
+red_hx	ENSMUSG00000106832_hx
+red_hx	ENSMUSG00000106918_hx
+red_hx	ENSMUSG00000107173_hx
+red_hx	ENSMUSG00000107451_hx
+red_hx	ENSMUSG00000107879_hx
+red_hx	ENSMUSG00000107932_hx
+red_hx	ENSMUSG00000108572_hx
+red_hx	ENSMUSG00000109074_hx
+lightpink4_hx	ENSMUSG00000001768_hx
+lightpink4_hx	ENSMUSG00000003421_hx
+lightpink4_hx	ENSMUSG00000005683_hx
+lightpink4_hx	ENSMUSG00000015597_hx
+lightpink4_hx	ENSMUSG00000016933_hx
+lightpink4_hx	ENSMUSG00000019982_hx
+lightpink4_hx	ENSMUSG00000020053_hx
+lightpink4_hx	ENSMUSG00000020361_hx
+lightpink4_hx	ENSMUSG00000021548_hx
+lightpink4_hx	ENSMUSG00000021774_hx
+lightpink4_hx	ENSMUSG00000022186_hx
+lightpink4_hx	ENSMUSG00000022336_hx
+lightpink4_hx	ENSMUSG00000022940_hx
+lightpink4_hx	ENSMUSG00000022956_hx
+lightpink4_hx	ENSMUSG00000023883_hx
+lightpink4_hx	ENSMUSG00000024642_hx
+lightpink4_hx	ENSMUSG00000025925_hx
+lightpink4_hx	ENSMUSG00000026155_hx
+lightpink4_hx	ENSMUSG00000026426_hx
+lightpink4_hx	ENSMUSG00000026510_hx
+lightpink4_hx	ENSMUSG00000026938_hx
+lightpink4_hx	ENSMUSG00000027419_hx
+lightpink4_hx	ENSMUSG00000027852_hx
+lightpink4_hx	ENSMUSG00000028039_hx
+lightpink4_hx	ENSMUSG00000028098_hx
+lightpink4_hx	ENSMUSG00000028128_hx
+lightpink4_hx	ENSMUSG00000028469_hx
+lightpink4_hx	ENSMUSG00000028701_hx
+lightpink4_hx	ENSMUSG00000029126_hx
+lightpink4_hx	ENSMUSG00000029267_hx
+lightpink4_hx	ENSMUSG00000030057_hx
+lightpink4_hx	ENSMUSG00000030930_hx
+lightpink4_hx	ENSMUSG00000031540_hx
+lightpink4_hx	ENSMUSG00000031878_hx
+lightpink4_hx	ENSMUSG00000032097_hx
+lightpink4_hx	ENSMUSG00000032180_hx
+lightpink4_hx	ENSMUSG00000032246_hx
+lightpink4_hx	ENSMUSG00000032375_hx
+lightpink4_hx	ENSMUSG00000032940_hx
+lightpink4_hx	ENSMUSG00000033047_hx
+lightpink4_hx	ENSMUSG00000033233_hx
+lightpink4_hx	ENSMUSG00000033938_hx
+lightpink4_hx	ENSMUSG00000034898_hx
+lightpink4_hx	ENSMUSG00000036309_hx
+lightpink4_hx	ENSMUSG00000036568_hx
+lightpink4_hx	ENSMUSG00000036712_hx
+lightpink4_hx	ENSMUSG00000037475_hx
+lightpink4_hx	ENSMUSG00000038014_hx
+lightpink4_hx	ENSMUSG00000038143_hx
+lightpink4_hx	ENSMUSG00000043162_hx
+lightpink4_hx	ENSMUSG00000043257_hx
+lightpink4_hx	ENSMUSG00000044715_hx
+lightpink4_hx	ENSMUSG00000046101_hx
+lightpink4_hx	ENSMUSG00000046185_hx
+lightpink4_hx	ENSMUSG00000047193_hx
+lightpink4_hx	ENSMUSG00000047221_hx
+lightpink4_hx	ENSMUSG00000048040_hx
+lightpink4_hx	ENSMUSG00000048988_hx
+lightpink4_hx	ENSMUSG00000051111_hx
+lightpink4_hx	ENSMUSG00000053907_hx
+lightpink4_hx	ENSMUSG00000056296_hx
+lightpink4_hx	ENSMUSG00000057234_hx
+lightpink4_hx	ENSMUSG00000058192_hx
+lightpink4_hx	ENSMUSG00000058886_hx
+lightpink4_hx	ENSMUSG00000060032_hx
+lightpink4_hx	ENSMUSG00000060992_hx
+lightpink4_hx	ENSMUSG00000063316_hx
+lightpink4_hx	ENSMUSG00000066026_hx
+lightpink4_hx	ENSMUSG00000070436_hx
+lightpink4_hx	ENSMUSG00000073411_hx
+lightpink4_hx	ENSMUSG00000073616_hx
+lightpink4_hx	ENSMUSG00000074093_hx
+lightpink4_hx	ENSMUSG00000074217_hx
+lightpink4_hx	ENSMUSG00000074578_hx
+lightpink4_hx	ENSMUSG00000074649_hx
+lightpink4_hx	ENSMUSG00000074892_hx
+lightpink4_hx	ENSMUSG00000079057_hx
+lightpink4_hx	ENSMUSG00000083306_hx
+lightpink4_hx	ENSMUSG00000085683_hx
+lightpink4_hx	ENSMUSG00000087598_hx
+lightpink4_hx	ENSMUSG00000090247_hx
+lightpink4_hx	ENSMUSG00000096375_hx
+lightpink4_hx	ENSMUSG00000102687_hx
+lightpink4_hx	ENSMUSG00000103214_hx
+lightpink4_hx	ENSMUSG00000106379_hx
+lightpink4_hx	ENSMUSG00000108286_hx
+lightpink4_hx	ENSMUSG00000108738_hx
+lightpink4_hx	ENSMUSG00000108752_hx
+DEG_feces	4-hydroxyhippurate_feces
+DEG_feces	campesterol_feces
+DEG_feces	thiamin (vitamin B1)_feces
+DEG_feces	beta-sitosterol_feces
+DEG_feces	3-phenylpropionate (hydrocinnamate)_feces
+DEG_feces	argininate*_feces
+DEG_feces	caproate (6:0)_feces
+DEG_feces	N2,N6-diacetyllysine_feces
+DEG_feces	glutaminylleucine_feces
+DEG_feces	glycerophosphoinositol*_feces
+DEG_feces	eicosapentaenoate (EPA; 20:5n3)_feces
+DEG_feces	2R,3R-dihydroxybutyrate_feces
+DEG_feces	betaine_feces
+DEG_feces	3-hydroxybutyrate (BHBA)_feces
+DEG_feces	oleoyl-linoleoyl-glycerol (18:1/18:2) [1]_feces
+DEG_feces	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*_feces
+DEG_feces	erythronate*_feces
+DEG_feces	2,4-dihydroxybutyrate_feces
+DEG_feces	5-hydroxypicolinic acid_feces
+DEG_feces	gamma-glutamylphenylalanine_feces
+DEG_feces	N-acetyl-1-methylhistidine*_feces
+DEG_feces	leucylalanine_feces
+DEG_feces	myo-inositol_feces
+DEG_feces	alanylleucine_feces
+DEG_feces	imidazole lactate_feces
+DEG_feces	1-palmitoyl-2-oleoyl-GPE (16:0/18:1)_feces
+DEG_feces	hydroxymethylpyrimidine_feces
+DEG_feces	N-formylphenylalanine_feces
+DEG_feces	1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*_feces
+DEG_feces	4-cholesten-3-one_feces
+DEG_feces	vanillic acid glycine_feces
+DEG_feces	linolenoylcarnitine (C18:3)*_feces
+DEG_feces	isovalerylglycine_feces
+DEG_feces	2-isopropylmalate_feces
+DEG_feces	caprate (10:0)_feces
+DEG_feces	stearidonate (18:4n3)_feces
+DEG_feces	isocaproate (i6:0)_feces
+DEG_feces	N1-methyl-4-pyridone-3-carboxamide_feces
+DEG_feces	linoleate (18:2n6)_feces
+DEG_feces	N-methylproline_feces
+DEG_feces	N6-formyllysine_feces
+DEG_feces	mannose_feces
+DEG_feces	1-arachidonoyl-GPC (20:4n6)*_feces
+DEG_feces	2-methylbutyrylcarnitine (C5)_feces
+DEG_feces	1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*_feces
+DEG_serum	flavin adenine dinucleotide (FAD)_serum
+DEG_serum	indoleacetate_serum
+DEG_serum	bilirubin (E,E)*_serum
+DEG_serum	docosapentaenoate (n3 DPA; 22:5n3)_serum
+DEG_serum	heneicosapentaenoate (21:5n3)_serum
+DEG_serum	indoleacetylglycine_serum
+DEG_serum	linoleoyl-docosahexaenoyl-glycerol (18:2/22:6) [1]*_serum
+DEG_serum	succinylcarnitine (C4-DC)_serum
+DEG_serum	1-stearoyl-GPG (18:0)_serum
+DEG_serum	12-HHTrE_serum
+DEG_serum	ophthalmate_serum
+DEG_serum	pantothenate_serum
+DEG_serum	docosahexaenoate (DHA; 22:6n3)_serum
+DEG_serum	sucrose_serum
+DEG_serum	perfluorohexanesulfonate (PFHxS)_serum
+DEG_serum	glucuronate_serum
+DEG_serum	eicosapentaenoate (EPA; 20:5n3)_serum
+DEG_serum	1-stearoyl-2-oleoyl-GPE (18:0/18:1)_serum
+DEG_serum	phosphoenolpyruvate (PEP)_serum
+DEG_serum	2,3-dihydroxy-2-methylbutyrate_serum
+DEG_fx	ENSMUSG00000050555_fx
+DEG_fx	ENSMUSG00000043631_fx
+DEG_fx	ENSMUSG00000031753_fx
+DEG_fx	ENSMUSG00000036427_fx
+DEG_fx	ENSMUSG00000069045_fx
+DEG_fx	ENSMUSG00000060036_fx
+DEG_fx	ENSMUSG00000024885_fx
+DEG_fx	ENSMUSG00000030109_fx
+DEG_fx	ENSMUSG00000037287_fx
+DEG_fx	ENSMUSG00000038368_fx
+DEG_fx	ENSMUSG00000047227_fx
+DEG_fx	ENSMUSG00000026579_fx
+DEG_fx	ENSMUSG00000041238_fx
+DEG_fx	ENSMUSG00000039852_fx
+DEG_fx	ENSMUSG00000037935_fx
+DEG_fx	ENSMUSG00000004031_fx
+DEG_fx	ENSMUSG00000018387_fx
+DEG_fx	ENSMUSG00000024400_fx
+DEG_fx	ENSMUSG00000056673_fx
+DEG_fx	ENSMUSG00000031389_fx
+DEG_fx	ENSMUSG00000000787_fx
+DEG_fx	ENSMUSG00000068457_fx
+DEG_fx	ENSMUSG00000025551_fx
+DEG_fx	ENSMUSG00000032026_fx
+DEG_fx	ENSMUSG00000034639_fx
+DEG_fx	ENSMUSG00000029714_fx
+DEG_fx	ENSMUSG00000003849_fx
+DEG_fx	ENSMUSG00000002455_fx
+DEG_fx	ENSMUSG00000057236_fx
+DEG_fx	ENSMUSG00000038388_fx
+DEG_fx	ENSMUSG00000058799_fx
+DEG_fx	ENSMUSG00000056145_fx
+DEG_fx	ENSMUSG00000036983_fx
+DEG_fx	ENSMUSG00000020537_fx
+DEG_fx	ENSMUSG00000052423_fx
+DEG_fx	ENSMUSG00000022325_fx
+DEG_fx	ENSMUSG00000070699_fx
+DEG_fx	ENSMUSG00000090213_fx
+DEG_fx	ENSMUSG00000029826_fx
+DEG_fx	ENSMUSG00000036890_fx
+DEG_fx	ENSMUSG00000085929_fx
+DEG_fx	ENSMUSG00000044734_fx
+DEG_fx	ENSMUSG00000029623_fx
+DEG_fx	ENSMUSG00000004530_fx
+DEG_fx	ENSMUSG00000040624_fx
+DEG_fx	ENSMUSG00000035278_fx
+DEG_fx	ENSMUSG00000079481_fx
+DEG_fx	ENSMUSG00000028414_fx
+DEG_fx	ENSMUSG00000037300_fx
+DEG_fx	ENSMUSG00000060962_fx
+DEG_fx	ENSMUSG00000026817_fx
+DEG_fx	ENSMUSG00000032667_fx
+DEG_fx	ENSMUSG00000070003_fx
+DEG_fx	ENSMUSG00000020743_fx
+DEG_fx	ENSMUSG00000043510_fx
+DEG_fx	ENSMUSG00000063235_fx
+DEG_fx	ENSMUSG00000032435_fx
+DEG_fx	ENSMUSG00000046862_fx
+DEG_fx	ENSMUSG00000026188_fx
+DEG_fx	ENSMUSG00000055567_fx
+DEG_fx	ENSMUSG00000020430_fx
+DEG_fx	ENSMUSG00000031672_fx
+DEG_fx	ENSMUSG00000047181_fx
+DEG_fx	ENSMUSG00000019772_fx
+DEG_fx	ENSMUSG00000020664_fx
+DEG_fx	ENSMUSG00000056174_fx
+DEG_fx	ENSMUSG00000022089_fx
+DEG_fx	ENSMUSG00000021102_fx
+DEG_fx	ENSMUSG00000063785_fx
+DEG_fx	ENSMUSG00000032612_fx
+DEG_fx	ENSMUSG00000003546_fx
+DEG_fx	ENSMUSG00000022546_fx
+DEG_fx	ENSMUSG00000032352_fx
+DEG_fx	ENSMUSG00000031902_fx
+DEG_fx	ENSMUSG00000025427_fx
+DEG_fx	ENSMUSG00000026087_fx
+DEG_fx	ENSMUSG00000060284_fx
+DEG_fx	ENSMUSG00000035033_fx
+DEG_fx	ENSMUSG00000063434_fx
+DEG_fx	ENSMUSG00000036333_fx
+DEG_fx	ENSMUSG00000051518_fx
+DEG_fx	ENSMUSG00000036334_fx
+DEG_fx	ENSMUSG00000033938_fx
+DEG_fx	ENSMUSG00000028233_fx
+DEG_fx	ENSMUSG00000034263_fx
+DEG_fx	ENSMUSG00000021774_fx
+DEG_fx	ENSMUSG00000087368_fx
+DEG_fx	ENSMUSG00000035681_fx
+DEG_fx	ENSMUSG00000024665_fx
+DEG_fx	ENSMUSG00000078676_fx
+DEG_fx	ENSMUSG00000022545_fx
+DEG_fx	ENSMUSG00000038619_fx
+DEG_fx	ENSMUSG00000002428_fx
+DEG_fx	ENSMUSG00000043924_fx
+DEG_fx	ENSMUSG00000058317_fx
+DEG_fx	ENSMUSG00000055692_fx
+DEG_fx	ENSMUSG00000024841_fx
+DEG_fx	ENSMUSG00000021262_fx
+DEG_fx	ENSMUSG00000031539_fx
+DEG_fx	ENSMUSG00000040929_fx
+DEG_fx	ENSMUSG00000027455_fx
+DEG_fx	ENSMUSG00000040488_fx
+DEG_fx	ENSMUSG00000054889_fx
+DEG_fx	ENSMUSG00000069049_fx
+DEG_fx	ENSMUSG00000055022_fx
+DEG_fx	ENSMUSG00000048782_fx
+DEG_fx	ENSMUSG00000048000_fx
+DEG_fx	ENSMUSG00000004610_fx
+DEG_fx	ENSMUSG00000048163_fx
+DEG_fx	ENSMUSG00000028671_fx
+DEG_fx	ENSMUSG00000015889_fx
+DEG_fx	ENSMUSG00000025189_fx
+DEG_fx	ENSMUSG00000060257_fx
+DEG_fx	ENSMUSG00000031399_fx
+DEG_fx	ENSMUSG00000060791_fx
+DEG_fx	ENSMUSG00000058402_fx
+DEG_fx	ENSMUSG00000034959_fx
+DEG_fx	ENSMUSG00000024387_fx
+DEG_fx	ENSMUSG00000063704_fx
+DEG_fx	ENSMUSG00000053297_fx
+DEG_fx	ENSMUSG00000048029_fx
+DEG_fx	ENSMUSG00000025190_fx
+DEG_fx	ENSMUSG00000031585_fx
+DEG_fx	ENSMUSG00000028434_fx
+DEG_fx	ENSMUSG00000028256_fx
+DEG_fx	ENSMUSG00000045071_fx
+DEG_fx	ENSMUSG00000043683_fx
+DEG_fx	ENSMUSG00000089682_fx
+DEG_fx	ENSMUSG00000021114_fx
+DEG_fx	ENSMUSG00000028514_fx
+DEG_fx	ENSMUSG00000012422_fx
+DEG_fx	ENSMUSG00000108228_fx
+DEG_fx	ENSMUSG00000020052_fx
+DEG_fx	ENSMUSG00000035578_fx
+DEG_fx	ENSMUSG00000094441_fx
+DEG_fx	ENSMUSG00000021820_fx
+DEG_fx	ENSMUSG00000026317_fx
+DEG_fx	ENSMUSG00000040550_fx
+DEG_fx	ENSMUSG00000026181_fx
+DEG_fx	ENSMUSG00000035392_fx
+DEG_fx	ENSMUSG00000003865_fx
+DEG_fx	ENSMUSG00000019877_fx
+DEG_fx	ENSMUSG00000060212_fx
+DEG_fx	ENSMUSG00000021807_fx
+DEG_fx	ENSMUSG00000016619_fx
+DEG_fx	ENSMUSG00000020827_fx
+DEG_fx	ENSMUSG00000066357_fx
+DEG_fx	ENSMUSG00000108621_fx
+DEG_fx	ENSMUSG00000024095_fx
+DEG_fx	ENSMUSG00000020424_fx
+DEG_fx	ENSMUSG00000034931_fx
+DEG_fx	ENSMUSG00000065990_fx
+DEG_fx	ENSMUSG00000017428_fx
+DEG_fx	ENSMUSG00000050229_fx
+DEG_fx	ENSMUSG00000011837_fx
+DEG_fx	ENSMUSG00000039166_fx
+DEG_fx	ENSMUSG00000013367_fx
+DEG_fx	ENSMUSG00000024018_fx
+DEG_fx	ENSMUSG00000076437_fx
+DEG_fx	ENSMUSG00000068220_fx
+DEG_fx	ENSMUSG00000031661_fx
+DEG_fx	ENSMUSG00000031618_fx
+DEG_fx	ENSMUSG00000030498_fx
+DEG_fx	ENSMUSG00000031302_fx
+DEG_fx	ENSMUSG00000030722_fx
+DEG_fx	ENSMUSG00000031879_fx
+DEG_fx	ENSMUSG00000034800_fx
+DEG_fx	ENSMUSG00000055053_fx
+DEG_fx	ENSMUSG00000022661_fx
+DEG_fx	ENSMUSG00000036820_fx
+DEG_fx	ENSMUSG00000029211_fx
+DEG_fx	ENSMUSG00000009630_fx
+DEG_fx	ENSMUSG00000008489_fx
+DEG_fx	ENSMUSG00000079470_fx
+DEG_fx	ENSMUSG00000005873_fx
+DEG_fx	ENSMUSG00000016181_fx
+DEG_fx	ENSMUSG00000020386_fx
+DEG_fx	ENSMUSG00000029778_fx
+DEG_fx	ENSMUSG00000032489_fx
+DEG_fx	ENSMUSG00000025780_fx
+DEG_fx	ENSMUSG00000099083_fx
+DEG_fx	ENSMUSG00000054893_fx
+DEG_fx	ENSMUSG00000055447_fx
+DEG_fx	ENSMUSG00000022521_fx
+DEG_fx	ENSMUSG00000026469_fx
+DEG_fx	ENSMUSG00000038025_fx
+DEG_fx	ENSMUSG00000047496_fx
+DEG_fx	ENSMUSG00000033610_fx
+DEG_fx	ENSMUSG00000059810_fx
+DEG_fx	ENSMUSG00000045624_fx
+DEG_fx	ENSMUSG00000031534_fx
+DEG_fx	ENSMUSG00000067215_fx
+DEG_fx	ENSMUSG00000028601_fx
+DEG_fx	ENSMUSG00000026163_fx
+DEG_fx	ENSMUSG00000035367_fx
+DEG_fx	ENSMUSG00000064043_fx
+DEG_fx	ENSMUSG00000022684_fx
+DEG_fx	ENSMUSG00000003283_fx
+DEG_fx	ENSMUSG00000072770_fx
+DEG_fx	ENSMUSG00000041771_fx
+DEG_fx	ENSMUSG00000029086_fx
+DEG_fx	ENSMUSG00000028683_fx
+DEG_fx	ENSMUSG00000032718_fx
+DEG_fx	ENSMUSG00000030685_fx
+DEG_fx	ENSMUSG00000033809_fx
+DEG_fx	ENSMUSG00000039270_fx
+DEG_fx	ENSMUSG00000046691_fx
+DEG_fx	ENSMUSG00000028542_fx
+DEG_fx	ENSMUSG00000023883_fx
+DEG_fx	ENSMUSG00000015094_fx
+DEG_fx	ENSMUSG00000074158_fx
+DEG_fx	ENSMUSG00000035311_fx
+DEG_fx	ENSMUSG00000021481_fx
+DEG_fx	ENSMUSG00000025232_fx
+DEG_fx	ENSMUSG00000068742_fx
+DEG_fx	ENSMUSG00000009734_fx
+DEG_fx	ENSMUSG00000052302_fx
+DEG_fx	ENSMUSG00000097321_fx
+DEG_fx	ENSMUSG00000056004_fx
+DEG_fx	ENSMUSG00000025537_fx
+DEG_fx	ENSMUSG00000031703_fx
+DEG_fx	ENSMUSG00000040520_fx
+DEG_fx	ENSMUSG00000020477_fx
+DEG_fx	ENSMUSG00000050138_fx
+DEG_fx	ENSMUSG00000028271_fx
+DEG_fx	ENSMUSG00000056851_fx
+DEG_fx	ENSMUSG00000025912_fx
+DEG_fx	ENSMUSG00000034463_fx
+DEG_fx	ENSMUSG00000040133_fx
+DEG_fx	ENSMUSG00000041923_fx
+DEG_fx	ENSMUSG00000023286_fx
+DEG_fx	ENSMUSG00000025785_fx
+DEG_fx	ENSMUSG00000041272_fx
+DEG_fx	ENSMUSG00000023495_fx
+DEG_fx	ENSMUSG00000051669_fx
+DEG_fx	ENSMUSG00000045980_fx
+DEG_fx	ENSMUSG00000028005_fx
+DEG_fx	ENSMUSG00000067872_fx
+DEG_fx	ENSMUSG00000033952_fx
+DEG_fx	ENSMUSG00000029821_fx
+DEG_fx	ENSMUSG00000034566_fx
+DEG_fx	ENSMUSG00000072572_fx
+DEG_fx	ENSMUSG00000025272_fx
+DEG_fx	ENSMUSG00000051285_fx
+DEG_fx	ENSMUSG00000003271_fx
+DEG_fx	ENSMUSG00000038174_fx
+DEG_fx	ENSMUSG00000098702_fx
+DEG_fx	ENSMUSG00000025856_fx
+DEG_fx	ENSMUSG00000041794_fx
+DEG_fx	ENSMUSG00000001942_fx
+DEG_fx	ENSMUSG00000041710_fx
+DEG_fx	ENSMUSG00000039754_fx
+DEG_fx	ENSMUSG00000055373_fx
+DEG_fx	ENSMUSG00000108063_fx
+DEG_fx	ENSMUSG00000027668_fx
+DEG_fx	ENSMUSG00000031176_fx
+DEG_fx	ENSMUSG00000029123_fx
+DEG_fx	ENSMUSG00000033965_fx
+DEG_fx	ENSMUSG00000086171_fx
+DEG_fx	ENSMUSG00000024851_fx
+DEG_fx	ENSMUSG00000037896_fx
+DEG_fx	ENSMUSG00000040818_fx
+DEG_fx	ENSMUSG00000048537_fx
+DEG_fx	ENSMUSG00000101970_fx
+DEG_fx	ENSMUSG00000057156_fx
+DEG_fx	ENSMUSG00000046364_fx
+DEG_fx	ENSMUSG00000021431_fx
+DEG_fx	ENSMUSG00000012535_fx
+DEG_fx	ENSMUSG00000056258_fx
+DEG_fx	ENSMUSG00000038074_fx
+DEG_fx	ENSMUSG00000032875_fx
+DEG_fx	ENSMUSG00000026799_fx
+DEG_fx	ENSMUSG00000024033_fx
+DEG_fx	ENSMUSG00000058975_fx
+DEG_fx	ENSMUSG00000025413_fx
+DEG_fx	ENSMUSG00000060708_fx
+DEG_fx	ENSMUSG00000021690_fx
+DEG_fx	ENSMUSG00000028402_fx
+DEG_fx	ENSMUSG00000050357_fx
+DEG_fx	ENSMUSG00000041199_fx
+DEG_fx	ENSMUSG00000052848_fx
+DEG_fx	ENSMUSG00000023150_fx
+DEG_fx	ENSMUSG00000010277_fx
+DEG_fx	ENSMUSG00000039191_fx
+DEG_fx	ENSMUSG00000018209_fx
+DEG_fx	ENSMUSG00000021140_fx
+DEG_fx	ENSMUSG00000074212_fx
+DEG_fx	ENSMUSG00000026781_fx
+DEG_fx	ENSMUSG00000025241_fx
+DEG_fx	ENSMUSG00000018920_fx
+DEG_fx	ENSMUSG00000037139_fx
+DEG_fx	ENSMUSG00000008036_fx
+DEG_fx	ENSMUSG00000034981_fx
+DEG_fx	ENSMUSG00000059842_fx
+DEG_fx	ENSMUSG00000022131_fx
+DEG_fx	ENSMUSG00000044349_fx
+DEG_fx	ENSMUSG00000079614_fx
+DEG_fx	ENSMUSG00000066880_fx
+DEG_fx	ENSMUSG00000058099_fx
+DEG_fx	ENSMUSG00000021708_fx
+DEG_fx	ENSMUSG00000062209_fx
+DEG_fx	ENSMUSG00000024338_fx
+DEG_fx	ENSMUSG00000074934_fx
+DEG_fx	ENSMUSG00000024560_fx
+DEG_fx	ENSMUSG00000036959_fx
+DEG_fx	ENSMUSG00000023015_fx
+DEG_fx	ENSMUSG00000021282_fx
+DEG_fx	ENSMUSG00000022231_fx
+DEG_fx	ENSMUSG00000028914_fx
+DEG_fx	ENSMUSG00000027650_fx
+DEG_fx	ENSMUSG00000024097_fx
+DEG_fx	ENSMUSG00000038736_fx
+DEG_fx	ENSMUSG00000028923_fx
+DEG_fx	ENSMUSG00000055128_fx
+DEG_fx	ENSMUSG00000022394_fx
+DEG_fx	ENSMUSG00000053441_fx
+DEG_fx	ENSMUSG00000025764_fx
+DEG_fx	ENSMUSG00000017264_fx
+DEG_fx	ENSMUSG00000061207_fx
+DEG_fx	ENSMUSG00000023473_fx
+DEG_fx	ENSMUSG00000007097_fx
+DEG_fx	ENSMUSG00000014301_fx
+DEG_fx	ENSMUSG00000029203_fx
+DEG_fx	ENSMUSG00000074466_fx
+DEG_fx	ENSMUSG00000095687_fx
+DEG_fx	ENSMUSG00000034560_fx
+DEG_fx	ENSMUSG00000050212_fx
+DEG_fx	ENSMUSG00000049421_fx
+DEG_fx	ENSMUSG00000019054_fx
+DEG_fx	ENSMUSG00000022159_fx
+DEG_fx	ENSMUSG00000049624_fx
+DEG_fx	ENSMUSG00000021910_fx
+DEG_fx	ENSMUSG00000032437_fx
+DEG_fx	ENSMUSG00000075486_fx
+DEG_fx	ENSMUSG00000000794_fx
+DEG_fx	ENSMUSG00000050549_fx
+DEG_fx	ENSMUSG00000027748_fx
+DEG_fx	ENSMUSG00000026153_fx
+DEG_fx	ENSMUSG00000027808_fx
+DEG_fx	ENSMUSG00000041959_fx
+DEG_fx	ENSMUSG00000047669_fx
+DEG_fx	ENSMUSG00000021302_fx
+DEG_fx	ENSMUSG00000057388_fx
+DEG_fx	ENSMUSG00000054027_fx
+DEG_fx	ENSMUSG00000019433_fx
+DEG_fx	ENSMUSG00000021928_fx
+DEG_fx	ENSMUSG00000037415_fx
+DEG_fx	ENSMUSG00000020393_fx
+DEG_fx	ENSMUSG00000051335_fx
+DEG_fx	ENSMUSG00000021835_fx
+DEG_fx	ENSMUSG00000029551_fx
+DEG_fx	ENSMUSG00000024070_fx
+DEG_fx	ENSMUSG00000031166_fx
+DEG_fx	ENSMUSG00000034854_fx
+DEG_fx	ENSMUSG00000080059_fx
+DEG_fx	ENSMUSG00000078440_fx
+DEG_fx	ENSMUSG00000026235_fx
+DEG_fx	ENSMUSG00000016262_fx
+DEG_fx	ENSMUSG00000055540_fx
+DEG_fx	ENSMUSG00000032575_fx
+DEG_fx	ENSMUSG00000074909_fx
+DEG_fx	ENSMUSG00000030245_fx
+DEG_fx	ENSMUSG00000073418_fx
+DEG_fx	ENSMUSG00000028394_fx
+DEG_fx	ENSMUSG00000028899_fx
+DEG_fx	ENSMUSG00000032410_fx
+DEG_fx	ENSMUSG00000020668_fx
+DEG_fx	ENSMUSG00000030122_fx
+DEG_fx	ENSMUSG00000039046_fx
+DEG_fx	ENSMUSG00000040721_fx
+DEG_fx	ENSMUSG00000097494_fx
+DEG_fx	ENSMUSG00000020024_fx
+DEG_fx	ENSMUSG00000011960_fx
+DEG_fx	ENSMUSG00000002043_fx
+DEG_fx	ENSMUSG00000031174_fx
+DEG_fx	ENSMUSG00000047867_fx
+DEG_fx	ENSMUSG00000031853_fx
+DEG_fx	ENSMUSG00000034473_fx
+DEG_fx	ENSMUSG00000021750_fx
+DEG_fx	ENSMUSG00000032508_fx
+DEG_fx	ENSMUSG00000020022_fx
+DEG_fx	ENSMUSG00000029718_fx
+DEG_fx	ENSMUSG00000027134_fx
+DEG_fx	ENSMUSG00000036528_fx
+DEG_fx	ENSMUSG00000026707_fx
+DEG_fx	ENSMUSG00000021318_fx
+DEG_fx	ENSMUSG00000020660_fx
+DEG_fx	ENSMUSG00000031701_fx
+DEG_fx	ENSMUSG00000025010_fx
+DEG_fx	ENSMUSG00000025892_fx
+DEG_fx	ENSMUSG00000057286_fx
+DEG_fx	ENSMUSG00000042195_fx
+DEG_fx	ENSMUSG00000056612_fx
+DEG_fx	ENSMUSG00000001445_fx
+DEG_fx	ENSMUSG00000097462_fx
+DEG_fx	ENSMUSG00000029578_fx
+DEG_fx	ENSMUSG00000062373_fx
+DEG_fx	ENSMUSG00000029550_fx
+DEG_fx	ENSMUSG00000028487_fx
+DEG_fx	ENSMUSG00000008682_fx
+DEG_fx	ENSMUSG00000036894_fx
+DEG_fx	ENSMUSG00000090069_fx
+DEG_fx	ENSMUSG00000029729_fx
+DEG_fx	ENSMUSG00000001627_fx
+DEG_fx	ENSMUSG00000027422_fx
+DEG_fx	ENSMUSG00000026437_fx
+DEG_fx	ENSMUSG00000021930_fx
+DEG_fx	ENSMUSG00000016526_fx
+DEG_fx	ENSMUSG00000020515_fx
+DEG_fx	ENSMUSG00000024507_fx
+DEG_fx	ENSMUSG00000051451_fx
+DEG_fx	ENSMUSG00000027955_fx
+DEG_fx	ENSMUSG00000079562_fx
+DEG_fx	ENSMUSG00000031143_fx
+DEG_fx	ENSMUSG00000022617_fx
+DEG_fx	ENSMUSG00000040125_fx
+DEG_fx	ENSMUSG00000037492_fx
+DEG_fx	ENSMUSG00000065353_fx
+DEG_fx	ENSMUSG00000074797_fx
+DEG_fx	ENSMUSG00000019373_fx
+DEG_fx	ENSMUSG00000015013_fx
+DEG_fx	ENSMUSG00000031918_fx
+DEG_fx	ENSMUSG00000014232_fx
+DEG_fx	ENSMUSG00000060275_fx
+DEG_fx	ENSMUSG00000021242_fx
+DEG_fx	ENSMUSG00000057835_fx
+DEG_fx	ENSMUSG00000023192_fx
+DEG_fx	ENSMUSG00000008028_fx
+DEG_fx	ENSMUSG00000023170_fx
+DEG_fx	ENSMUSG00000057897_fx
+DEG_fx	ENSMUSG00000028416_fx
+DEG_fx	ENSMUSG00000024816_fx
+DEG_fx	ENSMUSG00000028032_fx
+DEG_fx	ENSMUSG00000046269_fx
+DEG_fx	ENSMUSG00000031634_fx
+DEG_fx	ENSMUSG00000036377_fx
+DEG_fx	ENSMUSG00000092083_fx
+DEG_fx	ENSMUSG00000054309_fx
+DEG_fx	ENSMUSG00000062545_fx
+DEG_fx	ENSMUSG00000041000_fx
+DEG_fx	ENSMUSG00000071654_fx
+DEG_fx	ENSMUSG00000021457_fx
+DEG_fx	ENSMUSG00000031367_fx
+DEG_fx	ENSMUSG00000022994_fx
+DEG_fx	ENSMUSG00000035397_fx
+DEG_fx	ENSMUSG00000062981_fx
+DEG_fx	ENSMUSG00000078923_fx
+DEG_fx	ENSMUSG00000026810_fx
+DEG_fx	ENSMUSG00000046607_fx
+DEG_fx	ENSMUSG00000032020_fx
+DEG_fx	ENSMUSG00000023031_fx
+DEG_fx	ENSMUSG00000040699_fx
+DEG_fx	ENSMUSG00000047866_fx
+DEG_fx	ENSMUSG00000002833_fx
+DEG_fx	ENSMUSG00000041408_fx
+DEG_fx	ENSMUSG00000020176_fx
+DEG_fx	ENSMUSG00000024137_fx
+DEG_fx	ENSMUSG00000028603_fx
+DEG_fx	ENSMUSG00000038119_fx
+DEG_fx	ENSMUSG00000038876_fx
+DEG_fx	ENSMUSG00000057914_fx
+DEG_fx	ENSMUSG00000022965_fx
+DEG_fx	ENSMUSG00000045817_fx
+DEG_fx	ENSMUSG00000037573_fx
+DEG_fx	ENSMUSG00000042216_fx
+DEG_fx	ENSMUSG00000024957_fx
+DEG_fx	ENSMUSG00000029673_fx
+DEG_fx	ENSMUSG00000023977_fx
+DEG_fx	ENSMUSG00000081058_fx
+DEG_fx	ENSMUSG00000032009_fx
+DEG_fx	ENSMUSG00000074892_fx
+DEG_fx	ENSMUSG00000035984_fx
+DEG_fx	ENSMUSG00000031209_fx
+DEG_fx	ENSMUSG00000046312_fx
+DEG_fx	ENSMUSG00000020061_fx
+DEG_fx	ENSMUSG00000032309_fx
+DEG_fx	ENSMUSG00000027894_fx
+DEG_fx	ENSMUSG00000036323_fx
+DEG_fx	ENSMUSG00000028573_fx
+DEG_fx	ENSMUSG00000043448_fx
+DEG_fx	ENSMUSG00000003974_fx
+DEG_fx	ENSMUSG00000026090_fx
+DEG_fx	ENSMUSG00000005973_fx
+DEG_fx	ENSMUSG00000040562_fx
+DEG_fx	ENSMUSG00000034158_fx
+DEG_fx	ENSMUSG00000060534_fx
+DEG_fx	ENSMUSG00000022561_fx
+DEG_fx	ENSMUSG00000031490_fx
+DEG_fx	ENSMUSG00000033628_fx
+DEG_fx	ENSMUSG00000032518_fx
+DEG_fx	ENSMUSG00000017692_fx
+DEG_fx	ENSMUSG00000025813_fx
+DEG_fx	ENSMUSG00000006705_fx
+DEG_fx	ENSMUSG00000025221_fx
+DEG_fx	ENSMUSG00000020297_fx
+DEG_fx	ENSMUSG00000019897_fx
+DEG_fx	ENSMUSG00000036523_fx
+DEG_fx	ENSMUSG00000022876_fx
+DEG_fx	ENSMUSG00000042388_fx
+DEG_fx	ENSMUSG00000023353_fx
+DEG_fx	ENSMUSG00000037851_fx
+DEG_fx	ENSMUSG00000024045_fx
+DEG_fx	ENSMUSG00000020621_fx
+DEG_fx	ENSMUSG00000003949_fx
+DEG_fx	ENSMUSG00000068762_fx
+DEG_fx	ENSMUSG00000022120_fx
+DEG_fx	ENSMUSG00000059714_fx
+DEG_fx	ENSMUSG00000058558_fx
+DEG_fx	ENSMUSG00000024654_fx
+DEG_fx	ENSMUSG00000071655_fx
+DEG_fx	ENSMUSG00000028931_fx
+DEG_fx	ENSMUSG00000004996_fx
+DEG_fx	ENSMUSG00000037872_fx
+DEG_fx	ENSMUSG00000032113_fx
+DEG_fx	ENSMUSG00000043313_fx
+DEG_fx	ENSMUSG00000052415_fx
+DEG_fx	ENSMUSG00000035569_fx
+DEG_fx	ENSMUSG00000060938_fx
+DEG_fx	ENSMUSG00000068328_fx
+DEG_fx	ENSMUSG00000010080_fx
+DEG_fx	ENSMUSG00000021541_fx
+DEG_fx	ENSMUSG00000049807_fx
+DEG_fx	ENSMUSG00000040850_fx
+DEG_fx	ENSMUSG00000040260_fx
+DEG_fx	ENSMUSG00000038697_fx
+DEG_fx	ENSMUSG00000029167_fx
+DEG_fx	ENSMUSG00000025213_fx
+DEG_fx	ENSMUSG00000034218_fx
+DEG_fx	ENSMUSG00000037251_fx
+DEG_fx	ENSMUSG00000021264_fx
+DEG_fx	ENSMUSG00000042010_fx
+DEG_fx	ENSMUSG00000047466_fx
+DEG_fx	ENSMUSG00000020733_fx
+DEG_fx	ENSMUSG00000021981_fx
+DEG_fx	ENSMUSG00000034088_fx
+DEG_fx	ENSMUSG00000026766_fx
+DEG_fx	ENSMUSG00000030451_fx
+DEG_fx	ENSMUSG00000020644_fx
+DEG_fx	ENSMUSG00000039701_fx
+DEG_fx	ENSMUSG00000015189_fx
+DEG_fx	ENSMUSG00000006418_fx
+DEG_fx	ENSMUSG00000028937_fx
+DEG_fx	ENSMUSG00000073436_fx
+DEG_fx	ENSMUSG00000000489_fx
+DEG_fx	ENSMUSG00000037242_fx
+DEG_fx	ENSMUSG00000022961_fx
+DEG_fx	ENSMUSG00000043487_fx
+DEG_fx	ENSMUSG00000057706_fx
+DEG_fx	ENSMUSG00000079235_fx
+DEG_fx	ENSMUSG00000056204_fx
+DEG_fx	ENSMUSG00000033594_fx
+DEG_fx	ENSMUSG00000041406_fx
+DEG_fx	ENSMUSG00000053846_fx
+DEG_fx	ENSMUSG00000061601_fx
+DEG_fx	ENSMUSG00000052557_fx
+DEG_fx	ENSMUSG00000047603_fx
+DEG_fx	ENSMUSG00000039809_fx
+DEG_fx	ENSMUSG00000030486_fx
+DEG_fx	ENSMUSG00000015488_fx
+DEG_fx	ENSMUSG00000034685_fx
+DEG_fx	ENSMUSG00000022109_fx
+DEG_fx	ENSMUSG00000036840_fx
+DEG_fx	ENSMUSG00000032030_fx
+DEG_fx	ENSMUSG00000020890_fx
+DEG_fx	ENSMUSG00000050511_fx
+DEG_fx	ENSMUSG00000031865_fx
+DEG_fx	ENSMUSG00000060716_fx
+DEG_fx	ENSMUSG00000028992_fx
+DEG_fx	ENSMUSG00000004626_fx
+DEG_fx	ENSMUSG00000061286_fx
+DEG_fx	ENSMUSG00000026049_fx
+DEG_fx	ENSMUSG00000025860_fx
+DEG_fx	ENSMUSG00000004788_fx
+DEG_fx	ENSMUSG00000030881_fx
+DEG_fx	ENSMUSG00000036371_fx
+DEG_fx	ENSMUSG00000050855_fx
+DEG_fx	ENSMUSG00000019982_fx
+DEG_fx	ENSMUSG00000039601_fx
+DEG_fx	ENSMUSG00000056201_fx
+DEG_fx	ENSMUSG00000031659_fx
+DEG_fx	ENSMUSG00000074580_fx
+DEG_fx	ENSMUSG00000024099_fx
+DEG_fx	ENSMUSG00000046567_fx
+DEG_fx	ENSMUSG00000067722_fx
+DEG_fx	ENSMUSG00000039275_fx
+DEG_fx	ENSMUSG00000033386_fx
+DEG_fx	ENSMUSG00000027770_fx
+DEG_fx	ENSMUSG00000025035_fx
+DEG_fx	ENSMUSG00000001983_fx
+DEG_fx	ENSMUSG00000043154_fx
+DEG_fx	ENSMUSG00000050732_fx
+DEG_fx	ENSMUSG00000045954_fx
+DEG_fx	ENSMUSG00000079020_fx
+DEG_fx	ENSMUSG00000034893_fx
+DEG_fx	ENSMUSG00000043262_fx
+DEG_fx	ENSMUSG00000050565_fx
+DEG_fx	ENSMUSG00000020917_fx
+DEG_fx	ENSMUSG00000002052_fx
+DEG_fx	ENSMUSG00000054488_fx
+DEG_fx	ENSMUSG00000023033_fx
+DEG_fx	ENSMUSG00000070733_fx
+DEG_fx	ENSMUSG00000019796_fx
+DEG_fx	ENSMUSG00000023868_fx
+DEG_fx	ENSMUSG00000005951_fx
+DEG_fx	ENSMUSG00000001739_fx
+DEG_fx	ENSMUSG00000022195_fx
+DEG_fx	ENSMUSG00000039461_fx
+DEG_fx	ENSMUSG00000060475_fx
+DEG_fx	ENSMUSG00000045441_fx
+DEG_fx	ENSMUSG00000023707_fx
+DEG_fx	ENSMUSG00000040022_fx
+DEG_fx	ENSMUSG00000026754_fx
+DEG_fx	ENSMUSG00000022861_fx
+DEG_fx	ENSMUSG00000016921_fx
+DEG_fx	ENSMUSG00000029627_fx
+DEG_fx	ENSMUSG00000052479_fx
+DEG_fx	ENSMUSG00000031760_fx
+DEG_fx	ENSMUSG00000029772_fx
+DEG_fx	ENSMUSG00000059791_fx
+DEG_fx	ENSMUSG00000051373_fx
+DEG_fx	ENSMUSG00000038943_fx
+DEG_fx	ENSMUSG00000020532_fx
+DEG_fx	ENSMUSG00000020083_fx
+DEG_fx	ENSMUSG00000042425_fx
+DEG_fx	ENSMUSG00000021248_fx
+DEG_fx	ENSMUSG00000086290_fx
+DEG_fx	ENSMUSG00000020122_fx
+DEG_fx	ENSMUSG00000026833_fx
+DEG_fx	ENSMUSG00000041674_fx
+DEG_fx	ENSMUSG00000039153_fx
+DEG_fx	ENSMUSG00000040407_fx
+DEG_fx	ENSMUSG00000062762_fx
+DEG_fx	ENSMUSG00000029198_fx
+DEG_fx	ENSMUSG00000003992_fx
+DEG_fx	ENSMUSG00000073062_fx
+DEG_fx	ENSMUSG00000027799_fx
+DEG_fx	ENSMUSG00000007216_fx
+DEG_fx	ENSMUSG00000019810_fx
+DEG_fx	ENSMUSG00000026853_fx
+DEG_fx	ENSMUSG00000037344_fx
+DEG_fx	ENSMUSG00000021036_fx
+DEG_fx	ENSMUSG00000047143_fx
+DEG_fx	ENSMUSG00000004328_fx
+DEG_fx	ENSMUSG00000017466_fx
+DEG_fx	ENSMUSG00000020474_fx
+DEG_fx	ENSMUSG00000025158_fx
+DEG_fx	ENSMUSG00000036644_fx
+DEG_fx	ENSMUSG00000022885_fx
+DEG_fx	ENSMUSG00000027109_fx
+DEG_fx	ENSMUSG00000046637_fx
+DEG_hx	ENSMUSG00000055900_fx
+DEG_hx	ENSMUSG00000047419_fx
+DEG_hx	ENSMUSG00000085982_fx
+DEG_hx	ENSMUSG00000022679_fx
+DEG_hx	ENSMUSG00000025381_fx
+DEG_hx	ENSMUSG00000029627_fx
+DEG_hx	ENSMUSG00000027014_fx
+DEG_hx	ENSMUSG00000026831_fx
+DEG_hx	ENSMUSG00000042873_fx
+DEG_hx	ENSMUSG00000078451_fx
+DEG_hx	ENSMUSG00000035954_fx
+DEG_hx	ENSMUSG00000029389_fx
+DEG_hx	ENSMUSG00000032244_fx
+DEG_hx	ENSMUSG00000071648_fx
+DEG_hx	ENSMUSG00000051502_fx
+DEG_hx	ENSMUSG00000042216_fx
+DEG_hx	ENSMUSG00000022715_fx
+DEG_hx	ENSMUSG00000022443_fx
+DEG_hx	ENSMUSG00000025169_fx
+DEG_hx	ENSMUSG00000050967_fx
+DEG_hx	ENSMUSG00000019866_fx
+DEG_hx	ENSMUSG00000052430_fx
+DEG_hx	ENSMUSG00000032297_fx
+DEG_hx	ENSMUSG00000040009_fx
+DEG_hx	ENSMUSG00000026739_fx
+DEG_hx	ENSMUSG00000028133_fx
+DEG_hx	ENSMUSG00000026659_fx
+DEG_hx	ENSMUSG00000032253_fx
+DEG_hx	ENSMUSG00000035914_fx
+DEG_hx	ENSMUSG00000091649_fx
+DEG_hx	ENSMUSG00000006471_fx
+DEG_hx	ENSMUSG00000085208_fx
+DEG_hx	ENSMUSG00000019647_fx
+DEG_hx	ENSMUSG00000021636_fx
+DEG_hx	ENSMUSG00000021114_fx
+DEG_hx	ENSMUSG00000030249_fx
+DEG_hx	ENSMUSG00000039089_fx
+DEG_hx	ENSMUSG00000025068_fx
+DEG_hx	ENSMUSG00000060601_fx
+DEG_hx	ENSMUSG00000036241_fx
+DEG_hx	ENSMUSG00000029722_fx
+DEG_hx	ENSMUSG00000078700_fx
+DEG_hx	ENSMUSG00000053702_fx
+DEG_hx	ENSMUSG00000000093_fx
+DEG_hx	ENSMUSG00000000378_fx
+DEG_hx	ENSMUSG00000031629_fx
+DEG_hx	ENSMUSG00000002881_fx
+DEG_hx	ENSMUSG00000090125_fx
+DEG_hx	ENSMUSG00000030823_fx
+DEG_hx	ENSMUSG00000037536_fx
+DEG_hx	ENSMUSG00000029290_fx
+DEG_hx	ENSMUSG00000040532_fx
+DEG_hx	ENSMUSG00000047242_fx
+DEG_hx	ENSMUSG00000028034_fx
+DEG_hx	ENSMUSG00000028341_fx
+DEG_hx	ENSMUSG00000070304_fx
+DEG_hx	ENSMUSG00000028830_fx
+DEG_hx	ENSMUSG00000037762_fx
+DEG_hx	ENSMUSG00000099689_fx
+DEG_hx	ENSMUSG00000021939_fx
+DEG_hx	ENSMUSG00000059479_fx
+DEG_hx	ENSMUSG00000046523_fx
+DEG_hx	ENSMUSG00000056758_fx
+DEG_hx	ENSMUSG00000007653_fx
+DEG_hx	ENSMUSG00000022956_fx
+DEG_hx	ENSMUSG00000027170_fx
+DEG_hx	ENSMUSG00000030034_fx
+DEG_hx	ENSMUSG00000060803_fx
+DEG_hx	ENSMUSG00000041453_fx
+DEG_hx	ENSMUSG00000036478_fx
+DEG_hx	ENSMUSG00000023921_fx
+DEG_hx	ENSMUSG00000025876_fx
+DEG_hx	ENSMUSG00000005262_fx
+DEG_hx	ENSMUSG00000035439_fx
+DEG_hx	ENSMUSG00000021541_fx
+DEG_hx	ENSMUSG00000034664_fx
+DEG_hx	ENSMUSG00000021552_fx
+DEG_hx	ENSMUSG00000031774_fx
+DEG_hx	ENSMUSG00000002546_fx
+DEG_hx	ENSMUSG00000028233_fx
+DEG_hx	ENSMUSG00000027423_fx
+DEG_hx	ENSMUSG00000028960_fx
+DEG_hx	ENSMUSG00000025784_fx
+DEG_hx	ENSMUSG00000033249_fx
+DEG_hx	ENSMUSG00000049796_fx
+DEG_hx	ENSMUSG00000031015_fx
+DEG_hx	ENSMUSG00000029735_fx
+DEG_hx	ENSMUSG00000047866_fx
+DEG_hx	ENSMUSG00000028807_fx
+DEG_hx	ENSMUSG00000057497_fx
+DEG_hx	ENSMUSG00000027887_fx
+DEG_hx	ENSMUSG00000031539_fx
+DEG_hx	ENSMUSG00000043059_fx
+DEG_hx	ENSMUSG00000041479_fx
+DEG_hx	ENSMUSG00000038206_fx
+DEG_hx	ENSMUSG00000072762_fx
+DEG_hx	ENSMUSG00000046152_fx
+DEG_hx	ENSMUSG00000006920_fx
+DEG_hx	ENSMUSG00000020692_fx
+DEG_hx	ENSMUSG00000023473_fx
+DEG_hx	ENSMUSG00000028431_fx
+DEG_hx	ENSMUSG00000028709_fx
+DEG_hx	ENSMUSG00000063275_fx
+DEG_hx	ENSMUSG00000021638_fx
+DEG_hx	ENSMUSG00000044243_fx
+DEG_hx	ENSMUSG00000059842_fx
+DEG_hx	ENSMUSG00000001467_fx
+DEG_hx	ENSMUSG00000032733_fx
+DEG_hx	ENSMUSG00000034932_fx
+DEG_hx	ENSMUSG00000052229_fx
+DEG_hx	ENSMUSG00000032788_fx
+DEG_hx	ENSMUSG00000015478_fx
+DEG_hx	ENSMUSG00000028693_fx
+DEG_hx	ENSMUSG00000062929_fx
+DEG_hx	ENSMUSG00000039096_fx
+DEG_hx	ENSMUSG00000027637_fx
+DEG_hx	ENSMUSG00000013701_fx
+DEG_hx	ENSMUSG00000000693_fx
+DEG_hx	ENSMUSG00000026894_fx
+DEG_hx	ENSMUSG00000049489_fx
+DEG_hx	ENSMUSG00000063142_fx
+DEG_hx	ENSMUSG00000045273_fx
+DEG_hx	ENSMUSG00000052551_fx
+DEG_hx	ENSMUSG00000006442_fx
+DEG_hx	ENSMUSG00000046699_fx
+DEG_hx	ENSMUSG00000031954_fx
+DEG_hx	ENSMUSG00000062901_fx
+DEG_hx	ENSMUSG00000030766_fx
+DEG_hx	ENSMUSG00000010175_fx
+DEG_hx	ENSMUSG00000038637_fx
+DEG_hx	ENSMUSG00000038156_fx
+DEG_hx	ENSMUSG00000073705_fx
+DEG_hx	ENSMUSG00000010538_fx
+DEG_hx	ENSMUSG00000067818_fx
+DEG_hx	ENSMUSG00000027184_fx
+DEG_hx	ENSMUSG00000026709_fx
+DEG_hx	ENSMUSG00000041515_fx
+DEG_hx	ENSMUSG00000042644_fx
+DEG_hx	ENSMUSG00000025930_fx
+DEG_hx	ENSMUSG00000024236_fx
+DEG_hx	ENSMUSG00000035382_fx
+DEG_hx	ENSMUSG00000040111_fx
+DEG_hx	ENSMUSG00000031749_fx
+DEG_hx	ENSMUSG00000028111_fx
+DEG_hx	ENSMUSG00000073888_fx
+DEG_hx	ENSMUSG00000054836_fx
+DEG_hx	ENSMUSG00000038402_fx
+DEG_hx	ENSMUSG00000063450_fx
+DEG_hx	ENSMUSG00000029780_fx
+DEG_hx	ENSMUSG00000042406_fx
+DEG_hx	ENSMUSG00000027371_fx
+DEG_hx	ENSMUSG00000000305_fx
+DEG_hx	ENSMUSG00000078954_fx
+DEG_hx	ENSMUSG00000053617_fx
+DEG_hx	ENSMUSG00000001380_fx
+DEG_hx	ENSMUSG00000018381_fx
+DEG_hx	ENSMUSG00000086714_fx
+DEG_hx	ENSMUSG00000041930_fx
+DEG_hx	ENSMUSG00000054404_fx
+DEG_hx	ENSMUSG00000020821_fx
+DEG_hx	ENSMUSG00000045969_fx
+DEG_hx	ENSMUSG00000027313_fx
+DEG_hx	ENSMUSG00000005447_fx
+DEG_hx	ENSMUSG00000032400_fx
+DEG_hx	ENSMUSG00000025885_fx
+DEG_hx	ENSMUSG00000014496_fx
+DEG_hx	ENSMUSG00000019820_fx
+DEG_hx	ENSMUSG00000033885_fx
+DEG_hx	ENSMUSG00000042671_fx
+DEG_hx	ENSMUSG00000070327_fx
+DEG_hx	ENSMUSG00000025858_fx
+DEG_hx	ENSMUSG00000031974_fx
+DEG_hx	ENSMUSG00000007589_fx
+DEG_hx	ENSMUSG00000038816_fx
+DEG_hx	ENSMUSG00000039206_fx
+DEG_hx	ENSMUSG00000046160_fx
+DEG_hx	ENSMUSG00000032265_fx
+DEG_hx	ENSMUSG00000036591_fx
+DEG_hx	ENSMUSG00000087138_fx
+DEG_hx	ENSMUSG00000043833_fx
+DEG_hx	ENSMUSG00000032097_fx
+DEG_hx	ENSMUSG00000024242_fx
+DEG_hx	ENSMUSG00000021945_fx
+DEG_hx	ENSMUSG00000021198_fx
+DEG_hx	ENSMUSG00000027006_fx
+DEG_hx	ENSMUSG00000027722_fx
+DEG_hx	ENSMUSG00000030226_fx
+DEG_hx	ENSMUSG00000062127_fx
+DEG_hx	ENSMUSG00000016503_fx
+DEG_hx	ENSMUSG00000033940_fx
+DEG_hx	ENSMUSG00000022044_fx
+DEG_hx	ENSMUSG00000021287_fx
+DEG_hx	ENSMUSG00000022433_fx
+DEG_hx	ENSMUSG00000001774_fx
+DEG_hx	ENSMUSG00000026721_fx
+DEG_hx	ENSMUSG00000030638_fx
+DEG_hx	ENSMUSG00000032373_fx
+DEG_hx	ENSMUSG00000092083_fx
+DEG_hx	ENSMUSG00000001053_fx
+DEG_hx	ENSMUSG00000029769_fx
+DEG_hx	ENSMUSG00000034402_fx
+DEG_hx	ENSMUSG00000020357_fx
+DEG_hx	ENSMUSG00000033458_fx
+DEG_hx	ENSMUSG00000022765_fx
+DEG_hx	ENSMUSG00000060450_fx
+DEG_hx	ENSMUSG00000029875_fx
+DEG_hx	ENSMUSG00000031807_fx
+DEG_hx	ENSMUSG00000051146_fx
+DEG_hx	ENSMUSG00000039474_fx
+DEG_hx	ENSMUSG00000062991_fx
+DEG_hx	ENSMUSG00000006522_fx
+DEG_hx	ENSMUSG00000032727_fx
+DEG_hx	ENSMUSG00000025092_fx
+DEG_hx	ENSMUSG00000103711_fx
+DEG_hx	ENSMUSG00000092607_fx
+DEG_hx	ENSMUSG00000021750_fx
+DEG_hx	ENSMUSG00000031149_fx
+DEG_hx	ENSMUSG00000053192_fx
+DEG_hx	ENSMUSG00000052146_fx
+DEG_hx	ENSMUSG00000074968_fx
+DEG_hx	ENSMUSG00000009863_fx
+DEG_hx	ENSMUSG00000067215_fx
+DEG_hx	ENSMUSG00000029992_fx
+DEG_hx	ENSMUSG00000042121_fx
+DEG_hx	ENSMUSG00000024764_fx
+DEG_hx	ENSMUSG00000040774_fx
+DEG_hx	ENSMUSG00000022456_fx
+DEG_hx	ENSMUSG00000017057_fx
+DEG_hx	ENSMUSG00000073155_fx
+DEG_hx	ENSMUSG00000029314_fx
+DEG_hx	ENSMUSG00000059586_fx
+DEG_hx	ENSMUSG00000047221_fx
+DEG_hx	ENSMUSG00000056342_fx
+DEG_hx	ENSMUSG00000022247_fx
+DEG_hx	ENSMUSG00000058407_fx
+DEG_hx	ENSMUSG00000091931_fx
+DEG_hx	ENSMUSG00000057706_fx
+DEG_hx	ENSMUSG00000053091_fx
+DEG_hx	ENSMUSG00000053332_fx
+DEG_hx	ENSMUSG00000015214_fx
+DEG_hx	ENSMUSG00000059474_fx
+DEG_hx	ENSMUSG00000049504_fx
+DEG_hx	ENSMUSG00000050910_fx
+DEG_hx	ENSMUSG00000059363_fx
+DEG_hx	ENSMUSG00000055862_fx
+DEG_hx	ENSMUSG00000089774_fx
+DEG_hx	ENSMUSG00000037369_fx
+DEG_hx	ENSMUSG00000035681_fx
+DEG_hx	ENSMUSG00000027520_fx
+DEG_hx	ENSMUSG00000016995_fx
+DEG_hx	ENSMUSG00000019996_fx
+DEG_hx	ENSMUSG00000028189_fx
+DEG_hx	ENSMUSG00000067288_fx
+DEG_hx	ENSMUSG00000084946_fx
+DEG_hx	ENSMUSG00000039740_fx
+DEG_hx	ENSMUSG00000034343_fx
+DEG_hx	ENSMUSG00000097080_fx
+DEG_hx	ENSMUSG00000040225_fx
+DEG_hx	ENSMUSG00000044501_fx
+DEG_hx	ENSMUSG00000061518_fx
+DEG_hx	ENSMUSG00000005881_fx
+DEG_hx	ENSMUSG00000050312_fx
+DEG_hx	ENSMUSG00000044147_fx
+DEG_hx	ENSMUSG00000034151_fx
+DEG_hx	ENSMUSG00000037486_fx
+DEG_hx	ENSMUSG00000023967_fx
+DEG_hx	ENSMUSG00000020037_fx
+DEG_hx	ENSMUSG00000025189_fx
+DEG_hx	ENSMUSG00000029838_fx
+DEG_hx	ENSMUSG00000031592_fx
+DEG_hx	ENSMUSG00000031622_fx
+DEG_hx	ENSMUSG00000028540_fx
+DEG_hx	ENSMUSG00000023991_fx
+DEG_hx	ENSMUSG00000037070_fx
+DEG_hx	ENSMUSG00000034656_fx
+DEG_hx	ENSMUSG00000039754_fx
+DEG_hx	ENSMUSG00000019590_fx
+DEG_hx	ENSMUSG00000076439_fx
+DEG_hx	ENSMUSG00000032905_fx
+DEG_hx	ENSMUSG00000028047_fx
+DEG_hx	ENSMUSG00000020182_fx
+DEG_hx	ENSMUSG00000054808_fx
+DEG_hx	ENSMUSG00000028567_fx
+DEG_hx	ENSMUSG00000020994_fx
+DEG_hx	ENSMUSG00000074513_fx
+DEG_hx	ENSMUSG00000032096_fx
+DEG_hx	ENSMUSG00000074886_fx
+DEG_hx	ENSMUSG00000069520_fx
+DEG_hx	ENSMUSG00000031432_fx
+DEG_hx	ENSMUSG00000047238_fx
+DEG_hx	ENSMUSG00000032221_fx
+DEG_hx	ENSMUSG00000009614_fx
+DEG_hx	ENSMUSG00000042208_fx
+DEG_hx	ENSMUSG00000030655_fx
+DEG_hx	ENSMUSG00000059811_fx
+DEG_hx	ENSMUSG00000020847_fx
+DEG_hx	ENSMUSG00000002319_fx
+DEG_hx	ENSMUSG00000031391_fx
+DEG_hx	ENSMUSG00000036814_fx
+DEG_hx	ENSMUSG00000022354_fx
+DEG_hx	ENSMUSG00000033565_fx
+DEG_hx	ENSMUSG00000060985_fx
+DEG_hx	ENSMUSG00000030782_fx
+DEG_hx	ENSMUSG00000047215_fx
+DEG_hx	ENSMUSG00000063531_fx
+DEG_hx	ENSMUSG00000056258_fx
+DEG_hx	ENSMUSG00000030471_fx
+DEG_hx	ENSMUSG00000040591_fx
+DEG_hx	ENSMUSG00000026655_fx
+DEG_hx	ENSMUSG00000028991_fx
+DEG_hx	ENSMUSG00000035671_fx
+DEG_hx	ENSMUSG00000061086_fx
+DEG_hx	ENSMUSG00000022055_fx
+DEG_hx	ENSMUSG00000025821_fx
+DEG_hx	ENSMUSG00000058709_fx
+DEG_hx	ENSMUSG00000066568_fx
+DEG_hx	ENSMUSG00000040929_fx
+DEG_hx	ENSMUSG00000028457_fx
+DEG_hx	ENSMUSG00000042423_fx
+DEG_hx	ENSMUSG00000021573_fx
+DEG_hx	ENSMUSG00000047910_fx
+DEG_hx	ENSMUSG00000084910_fx
+DEG_hx	ENSMUSG00000039477_fx
+DEG_hx	ENSMUSG00000041268_fx
+DEG_hx	ENSMUSG00000028106_fx
+DEG_hx	ENSMUSG00000001642_fx
+DEG_hx	ENSMUSG00000042821_fx
+DEG_hx	ENSMUSG00000002748_fx
+DEG_hx	ENSMUSG00000075271_fx
+DEG_hx	ENSMUSG00000002900_fx
+DEG_hx	ENSMUSG00000023018_fx
+DEG_hx	ENSMUSG00000038690_fx
+DEG_hx	ENSMUSG00000032393_fx
+DEG_hx	ENSMUSG00000025020_fx
+DEG_hx	ENSMUSG00000045962_fx
+DEG_hx	ENSMUSG00000028671_fx
+DEG_hx	ENSMUSG00000018672_fx
+DEG_hx	ENSMUSG00000061718_fx
+DEG_hx	ENSMUSG00000015647_fx
+DEG_hx	ENSMUSG00000068206_fx
+DEG_hx	ENSMUSG00000057177_fx
+DEG_hx	ENSMUSG00000022751_fx
+DEG_hx	ENSMUSG00000032293_fx
+DEG_hx	ENSMUSG00000003657_fx
+DEG_hx	ENSMUSG00000027456_fx
+DEG_hx	ENSMUSG00000028664_fx
+DEG_hx	ENSMUSG00000021079_fx
+DEG_hx	ENSMUSG00000030310_fx
+DEG_hx	ENSMUSG00000079418_fx
+DEG_hx	ENSMUSG00000057719_fx
+DEG_hx	ENSMUSG00000039568_fx
+DEG_hx	ENSMUSG00000037593_fx
+DEG_hx	ENSMUSG00000036501_fx
+DEG_hx	ENSMUSG00000032612_fx
+DEG_hx	ENSMUSG00000031796_fx
+DEG_hx	ENSMUSG00000054008_fx
+DEG_hx	ENSMUSG00000040659_fx
+DEG_hx	ENSMUSG00000062373_fx
+DEG_hx	ENSMUSG00000020287_fx
+DEG_hx	ENSMUSG00000022621_fx
+DEG_hx	ENSMUSG00000033697_fx
+DEG_hx	ENSMUSG00000039616_fx
+DEG_hx	ENSMUSG00000038502_fx
+DEG_hx	ENSMUSG00000075270_fx
+DEG_hx	ENSMUSG00000042808_fx
+DEG_hx	ENSMUSG00000048402_fx
+DEG_hx	ENSMUSG00000070972_fx
+DEG_hx	ENSMUSG00000018707_fx
+DEG_hx	ENSMUSG00000025648_fx
+DEG_hx	ENSMUSG00000068922_fx
+DEG_hx	ENSMUSG00000040938_fx
+DEG_hx	ENSMUSG00000020019_fx
+DEG_hx	ENSMUSG00000037773_fx
+DEG_hx	ENSMUSG00000046798_fx
+DEG_hx	ENSMUSG00000022270_fx
+DEG_hx	ENSMUSG00000028158_fx
+DEG_hx	ENSMUSG00000021662_fx
+DEG_hx	ENSMUSG00000043811_fx
+DEG_hx	ENSMUSG00000027104_fx
+DEG_hx	ENSMUSG00000015085_fx
+DEG_hx	ENSMUSG00000057716_fx
+DEG_hx	ENSMUSG00000028717_fx
+DEG_hx	ENSMUSG00000044709_fx
+DEG_hx	ENSMUSG00000028011_fx
+DEG_hx	ENSMUSG00000030309_fx
+DEG_hx	ENSMUSG00000000028_fx
+DEG_hx	ENSMUSG00000031668_fx
+DEG_hx	ENSMUSG00000024957_fx
+DEG_hx	ENSMUSG00000066900_fx
+DEG_hx	ENSMUSG00000035764_fx
+DEG_hx	ENSMUSG00000047155_fx
+DEG_hx	ENSMUSG00000026594_fx
+DEG_hx	ENSMUSG00000027499_fx
+DEG_hx	ENSMUSG00000025220_fx
+DEG_hx	ENSMUSG00000010608_fx
+DEG_hx	ENSMUSG00000039509_fx
+DEG_hx	ENSMUSG00000029148_fx
+DEG_hx	ENSMUSG00000022841_fx
+DEG_hx	ENSMUSG00000036966_fx
+DEG_hx	ENSMUSG00000008206_fx
+DEG_hx	ENSMUSG00000032301_fx
+DEG_hx	ENSMUSG00000038079_fx
+DEG_hx	ENSMUSG00000068396_fx
+DEG_hx	ENSMUSG00000019278_fx
+DEG_hx	ENSMUSG00000030731_fx
+DEG_hx	ENSMUSG00000032741_fx
+DEG_hx	ENSMUSG00000037331_fx
+DEG_hx	ENSMUSG00000022623_fx
+DEG_hx	ENSMUSG00000060519_fx
+DEG_hx	ENSMUSG00000070425_fx
+DEG_hx	ENSMUSG00000025436_fx
+DEG_hx	ENSMUSG00000021373_fx
+DEG_hx	ENSMUSG00000018820_fx
+DEG_hx	ENSMUSG00000029276_fx
+DEG_hx	ENSMUSG00000038781_fx
+DEG_hx	ENSMUSG00000074934_fx
+DEG_hx	ENSMUSG00000052751_fx
+DEG_hx	ENSMUSG00000055024_fx
+DEG_hx	ENSMUSG00000100164_fx
+DEG_hx	ENSMUSG00000027487_fx
+DEG_hx	ENSMUSG00000009035_fx
+DEG_hx	ENSMUSG00000026478_fx
+DEG_hx	ENSMUSG00000014748_fx
+DEG_hx	ENSMUSG00000032497_fx
+DEG_hx	ENSMUSG00000035171_fx
+DEG_hx	ENSMUSG00000001240_fx
+DEG_hx	ENSMUSG00000052031_fx
+DEG_hx	ENSMUSG00000048027_fx
+DEG_hx	ENSMUSG00000029206_fx
+DEG_hx	ENSMUSG00000032402_fx
+DEG_hx	ENSMUSG00000019528_fx
+DEG_hx	ENSMUSG00000053113_fx
+DEG_hx	ENSMUSG00000026203_fx
+DEG_hx	ENSMUSG00000020097_fx
+DEG_hx	ENSMUSG00000040797_fx
+DEG_hx	ENSMUSG00000043923_fx
+DEG_hx	ENSMUSG00000032220_fx
+DEG_hx	ENSMUSG00000032547_fx
+DEG_hx	ENSMUSG00000051355_fx
+DEG_hx	ENSMUSG00000064036_fx
+DEG_hx	ENSMUSG00000031095_fx
+DEG_hx	ENSMUSG00000032637_fx
+DEG_hx	ENSMUSG00000024516_fx
+DEG_hx	ENSMUSG00000032291_fx
+DEG_hx	ENSMUSG00000040865_fx
+DEG_hx	ENSMUSG00000020459_fx
+DEG_hx	ENSMUSG00000022860_fx
+DEG_hx	ENSMUSG00000037126_fx
+DEG_hx	ENSMUSG00000020672_fx
+DEG_hx	ENSMUSG00000063558_fx
+DEG_hx	ENSMUSG00000039275_fx
+DEG_hx	ENSMUSG00000041014_fx
+DEG_hx	ENSMUSG00000037905_fx
+DEG_hx	ENSMUSG00000006586_fx
+DEG_hx	ENSMUSG00000015002_fx
+DEG_hx	ENSMUSG00000024759_fx
+DEG_hx	ENSMUSG00000037958_fx
+DEG_hx	ENSMUSG00000044231_fx
+DEG_hx	ENSMUSG00000026986_fx
+DEG_hx	ENSMUSG00000026694_fx
+DEG_hx	ENSMUSG00000025488_fx
+DEG_hx	ENSMUSG00000019982_fx
+DEG_hx	ENSMUSG00000036295_fx
+DEG_hx	ENSMUSG00000067369_fx
+DEG_hx	ENSMUSG00000020901_fx
+DEG_hx	ENSMUSG00000026425_fx
+DEG_hx	ENSMUSG00000053062_fx
+DEG_hx	ENSMUSG00000090919_fx
+DEG_hx	ENSMUSG00000034818_fx
+DEG_hx	ENSMUSG00000032333_fx
+DEG_hx	ENSMUSG00000028668_fx
+DEG_hx	ENSMUSG00000000538_fx
+DEG_hx	ENSMUSG00000071533_fx
+DEG_hx	ENSMUSG00000026932_fx
+DEG_hx	ENSMUSG00000041396_fx
+DEG_hx	ENSMUSG00000088625_fx
+DEG_hx	ENSMUSG00000023236_fx
+DEG_hx	ENSMUSG00000064138_fx
+DEG_hx	ENSMUSG00000017765_fx
+DEG_hx	ENSMUSG00000050556_fx
+DEG_hx	ENSMUSG00000020900_fx
+DEG_hx	ENSMUSG00000008450_fx
+DEG_hx	ENSMUSG00000000202_fx
+DEG_hx	ENSMUSG00000024045_fx
+DEG_hx	ENSMUSG00000036473_fx
+DEG_hx	ENSMUSG00000025272_fx
+DEG_hx	ENSMUSG00000022176_fx
+DEG_hx	ENSMUSG00000018574_fx
+DEG_hx	ENSMUSG00000019907_fx
+DEG_hx	ENSMUSG00000026111_fx
+DEG_hx	ENSMUSG00000030047_fx
+DEG_hx	ENSMUSG00000027176_fx
+DEG_hx	ENSMUSG00000033793_fx
+DEG_hx	ENSMUSG00000036875_fx
+DEG_hx	ENSMUSG00000025089_fx
+DEG_hx	ENSMUSG00000028367_fx
+DEG_hx	ENSMUSG00000044167_fx
+DEG_hx	ENSMUSG00000001333_fx
+DEG_hx	ENSMUSG00000049872_fx
+DEG_hx	ENSMUSG00000018654_fx
+DEG_hx	ENSMUSG00000028409_fx
+DEG_hx	ENSMUSG00000020868_fx
+DEG_hx	ENSMUSG00000030525_fx
+DEG_hx	ENSMUSG00000039361_fx
+DEG_hx	ENSMUSG00000020329_fx
+DEG_hx	ENSMUSG00000025034_fx
+DEG_hx	ENSMUSG00000040569_fx
+DEG_hx	ENSMUSG00000036907_fx
+DEG_hx	ENSMUSG00000032135_fx
+DEG_hx	ENSMUSG00000033318_fx
+DEG_hx	ENSMUSG00000068966_fx
+DEG_hx	ENSMUSG00000021186_fx
+DEG_hx	ENSMUSG00000027599_fx
+DEG_hx	ENSMUSG00000093803_fx
+DEG_hx	ENSMUSG00000099843_fx
+DEG_hx	ENSMUSG00000090247_fx
+DEG_hx	ENSMUSG00000035569_fx
+DEG_hx	ENSMUSG00000060314_fx
+DEG_hx	ENSMUSG00000031709_fx
+DEG_hx	ENSMUSG00000032423_fx
+DEG_hx	ENSMUSG00000026039_fx
+DEG_hx	ENSMUSG00000027177_fx
+DEG_hx	ENSMUSG00000040714_fx
+DEG_hx	ENSMUSG00000041605_fx
+DEG_hx	ENSMUSG00000079045_fx
+DEG_hx	ENSMUSG00000036292_fx
+DEG_hx	ENSMUSG00000024501_fx
+DEG_hx	ENSMUSG00000036661_fx
+DEG_hx	ENSMUSG00000031508_fx
+GWAS_hx	ENSMUSG00000036875_hx
+GWAS_hx	ENSMUSG00000021939_hx
+GWAS_hx	ENSMUSG00000031954_hx
+GWAS_hx	ENSMUSG00000103711_hx
+GWAS_hx	ENSMUSG00000022765_hx
+GWAS_hx	ENSMUSG00000038690_hx
+GWAS_hx	ENSMUSG00000025436_hx
+GWAS_hx	ENSMUSG00000028133_hx
+GWAS_hx	ENSMUSG00000039096_hx
+GWAS_hx	ENSMUSG00000047215_hx
+GWAS_hx	ENSMUSG00000048027_hx
+GWAS_hx	ENSMUSG00000078451_hx
+GWAS_hx	ENSMUSG00000063558_hx
+GWAS_hx	ENSMUSG00000031592_hx
+GWAS_hx	ENSMUSG00000066568_hx
+GWAS_hx	ENSMUSG00000060803_hx
+GWAS_hx	ENSMUSG00000053332_hx
+GWAS_hx	ENSMUSG00000005881_hx
+GWAS_hx	ENSMUSG00000064036_hx
+GWAS_hx	ENSMUSG00000016503_hx
+GWAS_hx	ENSMUSG00000027520_hx
+GWAS_hx	ENSMUSG00000066900_hx
+GWAS_hx	ENSMUSG00000067288_hx
+GWAS_hx	ENSMUSG00000053091_hx
+GWAS_hx	ENSMUSG00000052146_hx
+GWAS_hx	ENSMUSG00000044709_hx
+GWAS_hx	ENSMUSG00000028106_hx
+GWAS_hx	ENSMUSG00000038781_hx
+GWAS_hx	ENSMUSG00000000378_hx
+GWAS_hx	ENSMUSG00000037958_hx
+GWAS_hx	ENSMUSG00000022055_hx
+GWAS_hx	ENSMUSG00000036661_hx
+GWAS_hx	ENSMUSG00000067369_hx
+GWAS_hx	ENSMUSG00000022751_hx
+GWAS_hx	ENSMUSG00000029389_hx
+GWAS_hx	ENSMUSG00000033885_hx
+GWAS_hx	ENSMUSG00000063275_hx
+GWAS_hx	ENSMUSG00000047242_hx
+GWAS_hx	ENSMUSG00000051355_hx
+GWAS_hx	ENSMUSG00000025169_hx
+GWAS_hx	ENSMUSG00000054008_hx
+GWAS_hx	ENSMUSG00000021573_hx
+GWAS_hx	ENSMUSG00000041396_hx
+GWAS_hx	ENSMUSG00000042406_hx
+GWAS_hx	ENSMUSG00000034343_hx
+GWAS_hx	ENSMUSG00000026655_hx
+GWAS_hx	ENSMUSG00000052551_hx
+GWAS_hx	ENSMUSG00000040009_hx
+GWAS_hx	ENSMUSG00000059811_hx
+GWAS_hx	ENSMUSG00000074513_hx
+GWAS_hx	ENSMUSG00000074968_hx
+GWAS_hx	ENSMUSG00000036907_hx
+GWAS_hx	ENSMUSG00000019590_hx
+GWAS_hx	ENSMUSG00000074934_hx
+GWAS_hx	ENSMUSG00000039206_hx
+GWAS_hx	ENSMUSG00000022956_hx
+GWAS_hx	ENSMUSG00000060985_hx
+GWAS_hx	ENSMUSG00000031629_hx
+GWAS_hx	ENSMUSG00000025068_hx
+GWAS_hx	ENSMUSG00000062929_hx
+GWAS_hx	ENSMUSG00000054404_hx
+GWAS_hx	ENSMUSG00000032497_hx
+GWAS_hx	ENSMUSG00000031508_hx
+GWAS_hx	ENSMUSG00000000538_hx

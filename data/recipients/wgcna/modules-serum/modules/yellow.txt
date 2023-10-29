@@ -1,0 +1,57 @@
+2-oxoadipate
+kynurenate
+N6-methyladenosine
+3-(4-hydroxyphenyl)lactate
+phenylpyruvate
+glutarate (C5-DC)
+histidine
+leucine
+glutathione, oxidized (GSSG)
+phenylalanine
+lactate
+urea
+tryptophan
+valine
+alanine
+picolinate
+N-acetylleucine
+N-acetylvaline
+N-carbamoylaspartate
+4-hydroxyphenylpyruvate
+gamma-glutamylhistidine
+gamma-glutamylleucine
+xanthurenate
+2-ketogulonate
+allo-threonine
+N-acetylglutamate
+N-alpha-acetylornithine
+5-aminovalerate
+gamma-glutamylphenylalanine
+maleate
+isovalerate (i5:0)
+gamma-glutamylvaline
+3-methylcrotonylglycine
+N-acetylglutamine
+N-acetylasparagine
+N-acetylarginine
+N-acetylthreonine
+N-acetylisoleucine
+N-acetylhistidine
+gamma-glutamyltryptophan
+N-acetylproline
+isovalerylglycine
+gamma-glutamylisoleucine*
+gulonate*
+tiglylcarnitine (C5:1-DC)
+mannitol/sorbitol
+3-methylglutaconate
+2-oxoarginine*
+N-acetylmethionine sulfoxide
+N-formylphenylalanine
+gamma-tocopherol/beta-tocopherol
+N-palmitoyl-sphinganine (d18:0/16:0)
+1-palmitoyl-2-oleoyl-GPI (16:0/18:1)*
+1-stearoyl-2-oleoyl-GPI (18:0/18:1)*
+ascorbic acid 2-sulfate
+sphingomyelin (d17:2/16:0, d18:2/15:0)*
+picolinoylglycine

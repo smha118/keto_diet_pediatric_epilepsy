@@ -1,0 +1,16 @@
+COA-PWY: coenzyme A biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+GLYCOCAT-PWY: glycogen degradation I (bacterial)|g__Klebsiella.s__Klebsiella_oxytoca
+KETOGLUCONMET-PWY: ketogluconate metabolism|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-4702: phytate degradation I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5676: acetyl-CoA fermentation to butanoate II|unclassified
+PWY-5791: 1,4-dihydroxy-2-naphthoate biosynthesis II (plants)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5837: 1,4-dihydroxy-2-naphthoate biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5838: superpathway of menaquinol-8 biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5897: superpathway of menaquinol-11 biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5898: superpathway of menaquinol-12 biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5899: superpathway of menaquinol-13 biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6608: guanosine nucleotides degradation III|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6859: all-trans-farnesol biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69
+PWY0-1261: anhydromuropeptides recycling|g__Klebsiella.s__Klebsiella_oxytoca
+VALSYN-PWY: L-valine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_longum_CAG_69

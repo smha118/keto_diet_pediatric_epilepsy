@@ -1,0 +1,8 @@
+Description	Filename/Parameter
+Nodes or Gene Sets	./Resources/kda_temp/Node4wKDA.txt
+Gene Sets Description	No Gene Sets Description
+Network	./Resources/kda_temp/mmvec.edge_new.txt
+Search Depth	1
+Edge Type	Undirected
+Min Overlap	0.33
+Min Overlap	0.0

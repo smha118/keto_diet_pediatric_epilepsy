@@ -1,0 +1,8 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Arginine biosynthesis",14,0.046481,1,0.045684,1.3402,1,1,0
+"Nicotinate and nicotinamide metabolism",15,0.049801,1,0.048882,1.3108,1,1,0
+"Glycine, serine and threonine metabolism",34,0.11288,1,0.10804,0.96643,1,1,0
+"Glycerophospholipid metabolism",36,0.11952,1,0.11409,0.94276,1,1,0.01736
+"Arginine and proline metabolism",38,0.12616,1,0.12011,0.92044,1,1,0.01212
+"Pyrimidine metabolism",39,0.12948,1,0.1231,0.90973,1,1,0.04819
+"Purine metabolism",66,0.21912,1,0.20098,0.69684,1,1,0

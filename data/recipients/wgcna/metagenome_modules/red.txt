@@ -1,0 +1,357 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Alistipes.s__Alistipes_finegoldii
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_sartorii
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_xylanisolvens
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Dielma.s__Dielma_fastidiosa
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Dielma.s__Dielma_fastidiosa
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+BIOTIN-BIOSYNTHESIS-PWY: biotin biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_cellulosilyticus
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_sartorii
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_xylanisolvens
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+CATECHOL-ORTHO-CLEAVAGE-PWY: catechol degradation to &beta;-ketoadipate|g__Citrobacter.s__Citrobacter_amalonaticus
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Alistipes.s__Alistipes_finegoldii
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_sartorii
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_xylanisolvens
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Dielma.s__Dielma_fastidiosa
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Lachnoclostridium.s__Clostridium_hylemonae
+COA-PWY: coenzyme A biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+COA-PWY: coenzyme A biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+COA-PWY: coenzyme A biosynthesis I|g__Dielma.s__Dielma_fastidiosa
+COA-PWY: coenzyme A biosynthesis I|g__Lachnoclostridium.s__Clostridium_hylemonae
+COA-PWY: coenzyme A biosynthesis I|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+FASYN-ELONG-PWY: fatty acid elongation -- saturated|g__Citrobacter.s__Citrobacter_amalonaticus
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Bacteroides.s__Bacteroides_xylanisolvens
+GLUCONEO-PWY: gluconeogenesis I|g__Alistipes.s__Alistipes_finegoldii
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Dielma.s__Dielma_fastidiosa
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Bacteroides.s__Bacteroides_sartorii
+GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol|g__Hungatella.s__Hungatella_hathewayi
+HISDEG-PWY: L-histidine degradation I|g__Alistipes.s__Alistipes_finegoldii
+HISDEG-PWY: L-histidine degradation I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+HISDEG-PWY: L-histidine degradation I|g__Bacteroides.s__Bacteroides_sartorii
+HISDEG-PWY: L-histidine degradation I|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+HISTSYN-PWY: L-histidine biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Alistipes.s__Alistipes_finegoldii
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Bacteroides.s__Bacteroides_cellulosilyticus
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Lachnoclostridium.s__Clostridium_hylemonae
+NAD-BIOSYNTHESIS-II: NAD salvage pathway II|unclassified
+NAGLIPASYN-PWY: lipid IVA biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+NONMEVIPP-PWY: methylerythritol phosphate pathway I|unclassified
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Alistipes.s__Alistipes_finegoldii
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bacteroides.s__Bacteroides_sartorii
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bacteroides.s__Bacteroides_xylanisolvens
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Dielma.s__Dielma_fastidiosa
+P161-PWY: acetylene degradation|g__Dielma.s__Dielma_fastidiosa
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+PENTOSE-P-PWY: pentose phosphate pathway|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PENTOSE-P-PWY: pentose phosphate pathway|g__Dielma.s__Dielma_fastidiosa
+PENTOSE-P-PWY: pentose phosphate pathway|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Alistipes.s__Alistipes_finegoldii
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_sartorii
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_xylanisolvens
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Citrobacter.s__Citrobacter_amalonaticus
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Lachnoclostridium.s__Clostridium_hylemonae
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+POLYAMSYN-PWY: superpathway of polyamine biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PPGPPMET-PWY: ppGpp biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-1042: glycolysis IV (plant cytosol)|g__Alistipes.s__Alistipes_finegoldii
+PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_sartorii
+PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-1042: glycolysis IV (plant cytosol)|g__Dielma.s__Dielma_fastidiosa
+PWY-1042: glycolysis IV (plant cytosol)|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-1042: glycolysis IV (plant cytosol)|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-2942: L-lysine biosynthesis III|g__Alistipes.s__Alistipes_finegoldii
+PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-2942: L-lysine biosynthesis III|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-2942: L-lysine biosynthesis III|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY-3841: folate transformations II|g__Alistipes.s__Alistipes_finegoldii
+PWY-3841: folate transformations II|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_sartorii
+PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-3841: folate transformations II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-3841: folate transformations II|g__Dielma.s__Dielma_fastidiosa
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Alistipes.s__Alistipes_finegoldii
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Alistipes.s__Alistipes_putredinis
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_sartorii
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-4702: phytate degradation I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5030: L-histidine degradation III|g__Alistipes.s__Alistipes_finegoldii
+PWY-5030: L-histidine degradation III|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-5030: L-histidine degradation III|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-5030: L-histidine degradation III|g__Bacteroides.s__Bacteroides_sartorii
+PWY-5030: L-histidine degradation III|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY-5088: L-glutamate degradation VIII (to propanoate)
+PWY-5097: L-lysine biosynthesis VI|g__Alistipes.s__Alistipes_finegoldii
+PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-5097: L-lysine biosynthesis VI|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-5097: L-lysine biosynthesis VI|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Dielma.s__Dielma_fastidiosa
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY-5101: L-isoleucine biosynthesis II|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-5101: L-isoleucine biosynthesis II|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY-5103: L-isoleucine biosynthesis III|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-5177: glutaryl-CoA degradation|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-5417: catechol degradation III (ortho-cleavage pathway)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5431: aromatic compounds degradation via &beta;-ketoadipate|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Bacteroides.s__Bacteroides_sartorii
+PWY-5659: GDP-mannose biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+PWY-5659: GDP-mannose biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY-5686: UMP biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+PWY-5686: UMP biosynthesis|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-5686: UMP biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-5686: UMP biosynthesis|g__Dielma.s__Dielma_fastidiosa
+PWY-5686: UMP biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-5686: UMP biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Alistipes.s__Alistipes_finegoldii
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_sartorii
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-5973: cis-vaccenate biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5989: stearate biosynthesis II (bacteria and plants)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Dielma.s__Dielma_fastidiosa
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Alistipes.s__Alistipes_finegoldii
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Dielma.s__Dielma_fastidiosa
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Dielma.s__Dielma_fastidiosa
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Alistipes.s__Alistipes_finegoldii
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_uniformis_CAG_3
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Dielma.s__Dielma_fastidiosa
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Alistipes.s__Alistipes_finegoldii
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Bacteroides.s__Bacteroides_sartorii
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Clostridium.s__Clostridium_sp_chh4_2
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_sartorii
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Dielma.s__Dielma_fastidiosa
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Alistipes.s__Alistipes_finegoldii
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_sartorii
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Alistipes.s__Alistipes_finegoldii
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_sartorii
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Alistipes.s__Alistipes_finegoldii
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_sartorii
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY-6478: GDP-D-glycero-&alpha;-D-manno-heptose biosynthesis
+PWY-6478: GDP-D-glycero-&alpha;-D-manno-heptose biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Lachnoclostridium.s__Clostridium_lavalense
+PWY-6519: 8-amino-7-oxononanoate biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6527: stachyose degradation|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-6608: guanosine nucleotides degradation III|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_sartorii
+PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-6609: adenine and adenosine salvage III|g__Butyricimonas.s__Butyricimonas_virosa
+PWY-6609: adenine and adenosine salvage III|g__Dielma.s__Dielma_fastidiosa
+PWY-6609: adenine and adenosine salvage III|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-6700: queuosine biosynthesis|g__Dielma.s__Dielma_fastidiosa
+PWY-6700: queuosine biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-6700: queuosine biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY-6703: preQ0 biosynthesis|g__Alistipes.s__Alistipes_putredinis
+PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-6737: starch degradation V|g__Clostridium.s__Clostridium_sp_chh4_2
+PWY-6737: starch degradation V|g__Dielma.s__Dielma_fastidiosa
+PWY-6737: starch degradation V|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY-6859: all-trans-farnesol biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6897: thiamin salvage II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6897: thiamin salvage II|g__Bacteroides.s__Bacteroides_sartorii
+PWY-6897: thiamin salvage II|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-6897: thiamin salvage II|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY-6936: seleno-amino acid biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7039: phosphatidate metabolism, as a signaling molecule|unclassified
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Alistipes.s__Alistipes_finegoldii
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_sartorii
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Clostridium.s__Clostridium_sp_chh4_2
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-7187: pyrimidine deoxyribonucleotides de novo biosynthesis II|g__Cutibacterium.s__Cutibacterium_acnes
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Cutibacterium.s__Cutibacterium_acnes
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Alistipes.s__Alistipes_finegoldii
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_sartorii
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Dielma.s__Dielma_fastidiosa
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_sartorii
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Dielma.s__Dielma_fastidiosa
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Clostridium.s__Clostridium_sp_chh4_2
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Dielma.s__Dielma_fastidiosa
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Dielma.s__Dielma_fastidiosa
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_sartorii
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Clostridium.s__Clostridium_sp_chh4_2
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Dielma.s__Dielma_fastidiosa
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Alistipes.s__Alistipes_finegoldii
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Alistipes.s__Alistipes_finegoldii
+PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Bacteroides.s__Bacteroides_sartorii
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Bacteroides.s__Bacteroides_xylanisolvens
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Dielma.s__Dielma_fastidiosa
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY-7446: sulfoglycolysis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7456: mannan degradation|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Alistipes.s__Alistipes_finegoldii
+PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Alistipes.s__Alistipes_putredinis
+PWY-7664: oleate biosynthesis IV (anaerobic)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY0-1296: purine ribonucleosides degradation|g__Dielma.s__Dielma_fastidiosa
+PWY0-1296: purine ribonucleosides degradation|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Dielma.s__Dielma_fastidiosa
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Dielma.s__Dielma_fastidiosa
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Alistipes.s__Alistipes_finegoldii
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Lachnoclostridium.s__Clostridium_hylemonae
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Lachnoclostridium.s__Clostridium_saccharolyticum
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_sartorii
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY66-389: phytol degradation|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY66-400: glycolysis VI (metazoan)|g__Alistipes.s__Alistipes_finegoldii
+PWY66-400: glycolysis VI (metazoan)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY66-400: glycolysis VI (metazoan)|g__Bacteroides.s__Bacteroides_sartorii
+PWY66-400: glycolysis VI (metazoan)|g__Dielma.s__Dielma_fastidiosa
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Dielma.s__Dielma_fastidiosa
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_fragilis
+RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_sartorii
+RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_xylanisolvens
+RHAMCAT-PWY: L-rhamnose degradation I|g__Hungatella.s__Hungatella_hathewayi
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_fragilis
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_xylanisolvens
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bacteroides.s__Bacteroides_sartorii
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Bacteroides.s__Bacteroides_sartorii
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Alistipes.s__Alistipes_finegoldii
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_uniformis_CAG_3
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_sartorii
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_xylanisolvens
+VALSYN-PWY: L-valine biosynthesis|g__Lachnoclostridium.s__Clostridium_hylemonae
+VALSYN-PWY: L-valine biosynthesis|g__Lachnoclostridium.s__Clostridium_saccharolyticum

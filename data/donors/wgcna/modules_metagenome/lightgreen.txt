@@ -1,0 +1,225 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_finegoldii
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Hungatella.s__Hungatella_hathewayi
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_finegoldii
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bifidobacterium.s__Bifidobacterium_animalis
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Bifidobacterium.s__Bifidobacterium_animalis
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Hungatella.s__Hungatella_hathewayi
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Bifidobacterium.s__Bifidobacterium_animalis
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Hungatella.s__Hungatella_hathewayi
+ARO-PWY: chorismate biosynthesis I|g__Hungatella.s__Hungatella_hathewayi
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Bifidobacterium.s__Bifidobacterium_animalis
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Hungatella.s__Hungatella_hathewayi
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Hungatella.s__Hungatella_hathewayi
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_finegoldii
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bifidobacterium.s__Bifidobacterium_animalis
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Hungatella.s__Hungatella_hathewayi
+COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_finegoldii
+COA-PWY: coenzyme A biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_dentium
+COA-PWY: coenzyme A biosynthesis I|g__Hungatella.s__Hungatella_hathewayi
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Hungatella.s__Hungatella_hathewayi
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_animalis
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_finegoldii
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_animalis
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Hungatella.s__Hungatella_hathewayi
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Lactobacillus.s__Lactobacillus_rhamnosus
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Bacteroides.s__Bacteroides_finegoldii
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+FUCCAT-PWY: fucose degradation|g__Lachnoclostridium.s__Clostridium_clostridioforme
+GLUTORN-PWY: L-ornithine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_animalis
+GLUTORN-PWY: L-ornithine biosynthesis|g__Hungatella.s__Hungatella_hathewayi
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+HISDEG-PWY: L-histidine degradation I|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_finegoldii
+HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+HISTSYN-PWY: L-histidine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_animalis
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_animalis
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Bifidobacterium.s__Bifidobacterium_animalis
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Hungatella.s__Hungatella_hathewayi
+LACTOSECAT-PWY: lactose and galactose degradation I|g__Lactobacillus.s__Lactobacillus_rhamnosus
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bifidobacterium.s__Bifidobacterium_animalis
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Hungatella.s__Hungatella_hathewayi
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Lactobacillus.s__Lactobacillus_rhamnosus
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|g__Bifidobacterium.s__Bifidobacterium_animalis
+P122-PWY: heterolactic fermentation|unclassified
+P124-PWY: Bifidobacterium shunt|g__Bifidobacterium.s__Bifidobacterium_animalis
+P161-PWY: acetylene degradation|g__Flavonifractor.s__Flavonifractor_plautii
+P161-PWY: acetylene degradation|g__Lactobacillus.s__Lactobacillus_rhamnosus
+P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)|g__Hungatella.s__Hungatella_hathewayi
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Hungatella.s__Hungatella_hathewayi
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_finegoldii
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Hungatella.s__Hungatella_hathewayi
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Hungatella.s__Hungatella_hathewayi
+PENTOSE-P-PWY: pentose phosphate pathway|g__Bifidobacterium.s__Bifidobacterium_animalis
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_finegoldii
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_animalis
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Hungatella.s__Hungatella_hathewayi
+PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-1042: glycolysis IV (plant cytosol)|g__Hungatella.s__Hungatella_hathewayi
+PWY-1861: formaldehyde assimilation II (RuMP Cycle)|g__Hungatella.s__Hungatella_hathewayi
+PWY-2941: L-lysine biosynthesis II|g__Lactobacillus.s__Lactobacillus_rhamnosus
+PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-2942: L-lysine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-2942: L-lysine biosynthesis III|g__Hungatella.s__Hungatella_hathewayi
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-3841: folate transformations II|g__Hungatella.s__Hungatella_hathewayi
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Hungatella.s__Hungatella_hathewayi
+PWY-5030: L-histidine degradation III|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-5097: L-lysine biosynthesis VI|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-5097: L-lysine biosynthesis VI|g__Hungatella.s__Hungatella_hathewayi
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Hungatella.s__Hungatella_hathewayi
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Lactobacillus.s__Lactobacillus_rhamnosus
+PWY-5103: L-isoleucine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-5103: L-isoleucine biosynthesis III|g__Hungatella.s__Hungatella_hathewayi
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Hungatella.s__Hungatella_hathewayi
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-5659: GDP-mannose biosynthesis|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-5659: GDP-mannose biosynthesis|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-5659: GDP-mannose biosynthesis|g__Lachnoclostridium.s__Clostridium_clostridioforme
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Hungatella.s__Hungatella_hathewayi
+PWY-5686: UMP biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-5686: UMP biosynthesis|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-5686: UMP biosynthesis|g__Hungatella.s__Hungatella_hathewayi
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-5973: cis-vaccenate biosynthesis|g__Hungatella.s__Hungatella_hathewayi
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Hungatella.s__Hungatella_hathewayi
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Hungatella.s__Hungatella_hathewayi
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lactobacillus.s__Lactobacillus_rhamnosus
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Lactobacillus.s__Lactobacillus_reuteri
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Lactobacillus.s__Lactobacillus_rhamnosus
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Lactobacillus.s__Lactobacillus_rhamnosus
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Hungatella.s__Hungatella_hathewayi
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Lactobacillus.s__Lactobacillus_rhamnosus
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Hungatella.s__Hungatella_hathewayi
+PWY-6168: flavin biosynthesis III (fungi)|g__Hungatella.s__Hungatella_hathewayi
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Hungatella.s__Hungatella_hathewayi
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lactobacillus.s__Lactobacillus_rhamnosus
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Hungatella.s__Hungatella_hathewayi
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Hungatella.s__Hungatella_hathewayi
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Hungatella.s__Hungatella_hathewayi
+PWY-6396: superpathway of 2,3-butanediol biosynthesis
+PWY-6527: stachyose degradation|g__Lactobacillus.s__Lactobacillus_rhamnosus
+PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-6609: adenine and adenosine salvage III|g__Hungatella.s__Hungatella_hathewayi
+PWY-6609: adenine and adenosine salvage III|g__Lactobacillus.s__Lactobacillus_reuteri
+PWY-6609: adenine and adenosine salvage III|g__Lactobacillus.s__Lactobacillus_rhamnosus
+PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6700: queuosine biosynthesis|g__Hungatella.s__Hungatella_hathewayi
+PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-6703: preQ0 biosynthesis|g__Hungatella.s__Hungatella_hathewayi
+PWY-6737: starch degradation V|g__Hungatella.s__Hungatella_hathewayi
+PWY-6897: thiamin salvage II|g__Hungatella.s__Hungatella_hathewayi
+PWY-6936: seleno-amino acid biosynthesis|g__Hungatella.s__Hungatella_hathewayi
+PWY-6936: seleno-amino acid biosynthesis|g__Lactobacillus.s__Lactobacillus_rhamnosus
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Hungatella.s__Hungatella_hathewayi
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_dentium
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Hungatella.s__Hungatella_hathewayi
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Lactobacillus.s__Lactobacillus_rhamnosus
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Hungatella.s__Hungatella_hathewayi
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Hungatella.s__Hungatella_hathewayi
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Hungatella.s__Hungatella_hathewayi
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_finegoldii
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-7237: myo-, chiro- and scillo-inositol degradation|g__Hungatella.s__Hungatella_hathewayi
+PWY-7237: myo-, chiro- and scillo-inositol degradation|g__Lactobacillus.s__Lactobacillus_rhamnosus
+PWY-7242: D-fructuronate degradation|g__Lactobacillus.s__Lactobacillus_rhamnosus
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-7288: fatty acid &beta;-oxidation (peroxisome, yeast)|g__Flavonifractor.s__Flavonifractor_plautii
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Hungatella.s__Hungatella_hathewayi
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Lactobacillus.s__Lactobacillus_rhamnosus
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Hungatella.s__Hungatella_hathewayi
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Hungatella.s__Hungatella_hathewayi
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY0-1296: purine ribonucleosides degradation|g__Hungatella.s__Hungatella_hathewayi
+PWY0-1296: purine ribonucleosides degradation|g__Lactobacillus.s__Lactobacillus_reuteri
+PWY0-1296: purine ribonucleosides degradation|g__Lactobacillus.s__Lactobacillus_rhamnosus
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Lactobacillus.s__Lactobacillus_reuteri
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Lactobacillus.s__Lactobacillus_rhamnosus
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Hungatella.s__Hungatella_hathewayi
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_dentium
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Hungatella.s__Hungatella_hathewayi
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Klebsiella.s__Klebsiella_variicola
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_animalis
+PWY66-400: glycolysis VI (metazoan)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_finegoldii
+RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+RHAMCAT-PWY: L-rhamnose degradation I|g__Lactobacillus.s__Lactobacillus_rhamnosus
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_finegoldii
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Hungatella.s__Hungatella_hathewayi
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_animalis
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_animalis
+TRNA-CHARGING-PWY: tRNA charging|g__Hungatella.s__Hungatella_hathewayi
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bifidobacterium.s__Bifidobacterium_animalis
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Hungatella.s__Hungatella_hathewayi
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_animalis
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_finegoldii
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_thetaiotaomicron
+VALSYN-PWY: L-valine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_animalis
+VALSYN-PWY: L-valine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_dentium
+VALSYN-PWY: L-valine biosynthesis|g__Hungatella.s__Hungatella_hathewayi

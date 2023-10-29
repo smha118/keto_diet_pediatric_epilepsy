@@ -1,6 +1,0 @@
-cysteinylglycine
-cystathionine
-gamma-glutamylmethionine
-dihydrobiopterin
-2,4,6-trihydroxybenzoate
-S-(3-hydroxypropyl)mercapturic acid (HPMA)

@@ -1,0 +1,47 @@
+S-1-pyrroline-5-carboxylate
+stachyose
+sucrose
+5-oxoproline
+alpha-tocopherol
+N-acetylneuraminate
+choline
+beta-hydroxyisovalerate
+acetylcholine
+cadaverine
+diaminopimelate
+quinate
+N6-formyllysine
+daidzin (daidzein 7-O-glucoside)
+N-acetylarginine
+N6-carbamoylthreonyladenosine
+orotidine
+N-glycolylneuraminate
+glutamine_degradant*
+undecanedioate (C11-DC)
+formononetin
+afromosin
+N6-succinyladenosine
+pheophorbide A
+deoxymugineic acid
+pheophytin A
+chiro-inositol
+verbascose
+beta-cryptoxanthin
+argininate*
+apigenin 7-O(6-malonyl-beta-glucoside)
+1,1-kestotetraose
+carboxyethyl-GABA
+fructosyllysine
+ferulic acid 4-sulfate
+alpha-CEHC taurine*
+arabitol/xylitol
+taurochenodeoxycholic acid (7 or 27)-sulfate
+caffeic acid sulfate
+ferulylglycine (1)
+ferulylglycine (2)
+carotene diol (1)
+carotene diol (2)
+carotene diol (3)
+4-vinylcatechol sulfate
+apigenin sulfate (1)
+N1,N10-dicoumaroylspermidine

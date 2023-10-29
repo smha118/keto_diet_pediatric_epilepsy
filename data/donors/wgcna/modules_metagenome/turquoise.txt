@@ -1,0 +1,1079 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+3-HYDROXYPHENYLACETATE-DEGRADATION-PWY: 4-hydroxyphenylacetate degradation|g__Klebsiella.s__Klebsiella_oxytoca
+3-HYDROXYPHENYLACETATE-DEGRADATION-PWY: 4-hydroxyphenylacetate degradation|unclassified
+AEROBACTINSYN-PWY: aerobactin biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+AEROBACTINSYN-PWY: aerobactin biosynthesis|g__Klebsiella.s__Klebsiella_quasipneumoniae
+ANAEROFRUCAT-PWY: homolactic fermentation|g__Citrobacter.s__Citrobacter_amalonaticus
+ANAEROFRUCAT-PWY: homolactic fermentation|g__Citrobacter.s__Citrobacter_koseri
+ANAEROFRUCAT-PWY: homolactic fermentation|g__Citrobacter.s__Citrobacter_werkmanii
+ANAEROFRUCAT-PWY: homolactic fermentation|g__Klebsiella.s__Klebsiella_oxytoca
+ANAEROFRUCAT-PWY: homolactic fermentation|g__Klebsiella.s__Klebsiella_pneumoniae
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Citrobacter.s__Citrobacter_koseri
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Citrobacter.s__Citrobacter_werkmanii
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Klebsiella.s__Klebsiella_oxytoca
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Klebsiella.s__Klebsiella_pneumoniae
+ARG+POLYAMINE-SYN: superpathway of arginine and polyamine biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+ARG+POLYAMINE-SYN: superpathway of arginine and polyamine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+ARG+POLYAMINE-SYN: superpathway of arginine and polyamine biosynthesis|unclassified
+ARGDEG-PWY: superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation|g__Klebsiella.s__Klebsiella_oxytoca
+ARGDEG-PWY: superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation|unclassified
+ARGININE-SYN4-PWY: L-ornithine de novo  biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+ARGININE-SYN4-PWY: L-ornithine de novo  biosynthesis|unclassified
+ARGORNPROST-PWY: arginine, ornithine and proline interconversion
+ARGORNPROST-PWY: arginine, ornithine and proline interconversion|g__Citrobacter.s__Citrobacter_koseri
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Citrobacter.s__Citrobacter_amalonaticus
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Citrobacter.s__Citrobacter_koseri
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Citrobacter.s__Citrobacter_werkmanii
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Klebsiella.s__Klebsiella_oxytoca
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Klebsiella.s__Klebsiella_oxytoca
+ARO-PWY: chorismate biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+ARO-PWY: chorismate biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+ARO-PWY: chorismate biosynthesis I|g__Enterococcus.s__Enterococcus_faecalis
+ARO-PWY: chorismate biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+AST-PWY: L-arginine degradation II (AST pathway)|g__Citrobacter.s__Citrobacter_amalonaticus
+AST-PWY: L-arginine degradation II (AST pathway)|g__Citrobacter.s__Citrobacter_koseri
+AST-PWY: L-arginine degradation II (AST pathway)|g__Citrobacter.s__Citrobacter_werkmanii
+AST-PWY: L-arginine degradation II (AST pathway)|g__Klebsiella.s__Klebsiella_oxytoca
+BIOTIN-BIOSYNTHESIS-PWY: biotin biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+BIOTIN-BIOSYNTHESIS-PWY: biotin biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+BIOTIN-BIOSYNTHESIS-PWY: biotin biosynthesis I|unclassified
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Klebsiella.s__Klebsiella_quasipneumoniae
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Veillonella.s__Veillonella_dispar
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Citrobacter.s__Citrobacter_koseri
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Citrobacter.s__Citrobacter_werkmanii
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Klebsiella.s__Klebsiella_oxytoca
+CATECHOL-ORTHO-CLEAVAGE-PWY: catechol degradation to &beta;-ketoadipate|unclassified
+CITRULBIO-PWY: L-citrulline biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+CITRULBIO-PWY: L-citrulline biosynthesis|unclassified
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Citrobacter.s__Citrobacter_koseri
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Citrobacter.s__Citrobacter_werkmanii
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Enterococcus.s__Enterococcus_faecalis
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Klebsiella.s__Klebsiella_oxytoca
+COA-PWY: coenzyme A biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+COA-PWY: coenzyme A biosynthesis I|g__Enterococcus.s__Enterococcus_faecalis
+COA-PWY: coenzyme A biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+COBALSYN-PWY: adenosylcobalamin salvage from cobinamide I|g__Citrobacter.s__Citrobacter_amalonaticus
+COBALSYN-PWY: adenosylcobalamin salvage from cobinamide I|g__Citrobacter.s__Citrobacter_koseri
+COBALSYN-PWY: adenosylcobalamin salvage from cobinamide I|g__Citrobacter.s__Citrobacter_werkmanii
+COBALSYN-PWY: adenosylcobalamin salvage from cobinamide I|g__Klebsiella.s__Klebsiella_oxytoca
+COLANSYN-PWY: colanic acid building blocks biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+COLANSYN-PWY: colanic acid building blocks biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|unclassified
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|unclassified
+DENOVOPURINE2-PWY: superpathway of purine nucleotides de novo biosynthesis II|g__Citrobacter.s__Citrobacter_koseri
+DENOVOPURINE2-PWY: superpathway of purine nucleotides de novo biosynthesis II|g__Klebsiella.s__Klebsiella_oxytoca
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Citrobacter.s__Citrobacter_werkmanii
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Enterococcus.s__Enterococcus_faecalis
+ECASYN-PWY: enterobacterial common antigen biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+ECASYN-PWY: enterobacterial common antigen biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+ECASYN-PWY: enterobacterial common antigen biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+ECASYN-PWY: enterobacterial common antigen biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+ENTBACSYN-PWY: enterobactin biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+ENTBACSYN-PWY: enterobactin biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+ENTBACSYN-PWY: enterobactin biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+ENTBACSYN-PWY: enterobactin biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+FAO-PWY: fatty acid &beta;-oxidation I|g__Citrobacter.s__Citrobacter_amalonaticus
+FAO-PWY: fatty acid &beta;-oxidation I|g__Citrobacter.s__Citrobacter_koseri
+FAO-PWY: fatty acid &beta;-oxidation I|g__Citrobacter.s__Citrobacter_werkmanii
+FAO-PWY: fatty acid &beta;-oxidation I|g__Klebsiella.s__Klebsiella_oxytoca
+FASYN-ELONG-PWY: fatty acid elongation -- saturated|g__Citrobacter.s__Citrobacter_koseri
+FASYN-ELONG-PWY: fatty acid elongation -- saturated|g__Citrobacter.s__Citrobacter_werkmanii
+FASYN-ELONG-PWY: fatty acid elongation -- saturated|g__Klebsiella.s__Klebsiella_oxytoca
+FASYN-ELONG-PWY: fatty acid elongation -- saturated|unclassified
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Citrobacter.s__Citrobacter_koseri
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Citrobacter.s__Citrobacter_werkmanii
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Klebsiella.s__Klebsiella_oxytoca
+FERMENTATION-PWY: mixed acid fermentation|g__Citrobacter.s__Citrobacter_amalonaticus
+FERMENTATION-PWY: mixed acid fermentation|g__Citrobacter.s__Citrobacter_koseri
+FERMENTATION-PWY: mixed acid fermentation|g__Citrobacter.s__Citrobacter_werkmanii
+FERMENTATION-PWY: mixed acid fermentation|g__Klebsiella.s__Klebsiella_oxytoca
+FERMENTATION-PWY: mixed acid fermentation|unclassified
+FOLSYN-PWY: superpathway of tetrahydrofolate biosynthesis and salvage|g__Klebsiella.s__Klebsiella_oxytoca
+FOLSYN-PWY: superpathway of tetrahydrofolate biosynthesis and salvage|unclassified
+FUC-RHAMCAT-PWY: superpathway of fucose and rhamnose degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+FUC-RHAMCAT-PWY: superpathway of fucose and rhamnose degradation|g__Citrobacter.s__Citrobacter_koseri
+FUC-RHAMCAT-PWY: superpathway of fucose and rhamnose degradation|g__Citrobacter.s__Citrobacter_werkmanii
+FUC-RHAMCAT-PWY: superpathway of fucose and rhamnose degradation|g__Klebsiella.s__Klebsiella_oxytoca
+FUCCAT-PWY: fucose degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+FUCCAT-PWY: fucose degradation|g__Citrobacter.s__Citrobacter_koseri
+FUCCAT-PWY: fucose degradation|g__Citrobacter.s__Citrobacter_werkmanii
+FUCCAT-PWY: fucose degradation|g__Klebsiella.s__Klebsiella_oxytoca
+FUCCAT-PWY: fucose degradation|unclassified
+GALACT-GLUCUROCAT-PWY: superpathway of hexuronide and hexuronate degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+GALACT-GLUCUROCAT-PWY: superpathway of hexuronide and hexuronate degradation|g__Citrobacter.s__Citrobacter_koseri
+GALACT-GLUCUROCAT-PWY: superpathway of hexuronide and hexuronate degradation|g__Citrobacter.s__Citrobacter_werkmanii
+GALACT-GLUCUROCAT-PWY: superpathway of hexuronide and hexuronate degradation|g__Klebsiella.s__Klebsiella_oxytoca
+GALACTARDEG-PWY: D-galactarate degradation I|g__Citrobacter.s__Citrobacter_koseri
+GALACTARDEG-PWY: D-galactarate degradation I|g__Citrobacter.s__Citrobacter_werkmanii
+GALACTARDEG-PWY: D-galactarate degradation I|g__Klebsiella.s__Klebsiella_oxytoca
+GALACTUROCAT-PWY: D-galacturonate degradation I|g__Citrobacter.s__Citrobacter_amalonaticus
+GALACTUROCAT-PWY: D-galacturonate degradation I|g__Citrobacter.s__Citrobacter_koseri
+GALACTUROCAT-PWY: D-galacturonate degradation I|g__Citrobacter.s__Citrobacter_werkmanii
+GALACTUROCAT-PWY: D-galacturonate degradation I|g__Klebsiella.s__Klebsiella_oxytoca
+GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation|g__Citrobacter.s__Citrobacter_koseri
+GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation|g__Citrobacter.s__Citrobacter_werkmanii
+GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation|g__Klebsiella.s__Klebsiella_oxytoca
+GLUCARDEG-PWY: D-glucarate degradation I|g__Citrobacter.s__Citrobacter_koseri
+GLUCARDEG-PWY: D-glucarate degradation I|g__Citrobacter.s__Citrobacter_werkmanii
+GLUCARDEG-PWY: D-glucarate degradation I|g__Klebsiella.s__Klebsiella_oxytoca
+GLUCARGALACTSUPER-PWY: superpathway of D-glucarate and D-galactarate degradation|g__Citrobacter.s__Citrobacter_koseri
+GLUCARGALACTSUPER-PWY: superpathway of D-glucarate and D-galactarate degradation|g__Citrobacter.s__Citrobacter_werkmanii
+GLUCARGALACTSUPER-PWY: superpathway of D-glucarate and D-galactarate degradation|g__Klebsiella.s__Klebsiella_oxytoca
+GLUCONEO-PWY: gluconeogenesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+GLUCONEO-PWY: gluconeogenesis I|g__Citrobacter.s__Citrobacter_koseri
+GLUCONEO-PWY: gluconeogenesis I|g__Citrobacter.s__Citrobacter_werkmanii
+GLUCONEO-PWY: gluconeogenesis I|g__Klebsiella.s__Klebsiella_oxytoca
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|g__Citrobacter.s__Citrobacter_koseri
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|g__Citrobacter.s__Citrobacter_werkmanii
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|g__Klebsiella.s__Klebsiella_oxytoca
+GLUCUROCAT-PWY: superpathway of &beta;-D-glucuronide and D-glucuronate degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+GLUCUROCAT-PWY: superpathway of &beta;-D-glucuronide and D-glucuronate degradation|g__Citrobacter.s__Citrobacter_koseri
+GLUCUROCAT-PWY: superpathway of &beta;-D-glucuronide and D-glucuronate degradation|g__Citrobacter.s__Citrobacter_werkmanii
+GLUCUROCAT-PWY: superpathway of &beta;-D-glucuronide and D-glucuronate degradation|g__Klebsiella.s__Klebsiella_oxytoca
+GLUTORN-PWY: L-ornithine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+GLUTORN-PWY: L-ornithine biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+GLUTORN-PWY: L-ornithine biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+GLUTORN-PWY: L-ornithine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+GLYCOCAT-PWY: glycogen degradation I (bacterial)|g__Citrobacter.s__Citrobacter_amalonaticus
+GLYCOCAT-PWY: glycogen degradation I (bacterial)|g__Citrobacter.s__Citrobacter_koseri
+GLYCOCAT-PWY: glycogen degradation I (bacterial)|g__Citrobacter.s__Citrobacter_werkmanii
+GLYCOCAT-PWY: glycogen degradation I (bacterial)|g__Klebsiella.s__Klebsiella_oxytoca
+GLYCOCAT-PWY: glycogen degradation I (bacterial)|unclassified
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Citrobacter.s__Citrobacter_amalonaticus
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Citrobacter.s__Citrobacter_koseri
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Citrobacter.s__Citrobacter_werkmanii
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Klebsiella.s__Klebsiella_oxytoca
+GLYCOL-GLYOXDEG-PWY: superpathway of glycol metabolism and degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+GLYCOL-GLYOXDEG-PWY: superpathway of glycol metabolism and degradation|g__Citrobacter.s__Citrobacter_koseri
+GLYCOL-GLYOXDEG-PWY: superpathway of glycol metabolism and degradation|g__Citrobacter.s__Citrobacter_werkmanii
+GLYCOLYSIS-E-D: superpathway of glycolysis and Entner-Doudoroff|g__Citrobacter.s__Citrobacter_amalonaticus
+GLYCOLYSIS-E-D: superpathway of glycolysis and Entner-Doudoroff|g__Citrobacter.s__Citrobacter_koseri
+GLYCOLYSIS-E-D: superpathway of glycolysis and Entner-Doudoroff|g__Citrobacter.s__Citrobacter_werkmanii
+GLYCOLYSIS-E-D: superpathway of glycolysis and Entner-Doudoroff|g__Klebsiella.s__Klebsiella_oxytoca
+GLYCOLYSIS-TCA-GLYOX-BYPASS: superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass|g__Citrobacter.s__Citrobacter_amalonaticus
+GLYCOLYSIS-TCA-GLYOX-BYPASS: superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass|g__Citrobacter.s__Citrobacter_koseri
+GLYCOLYSIS-TCA-GLYOX-BYPASS: superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass|g__Citrobacter.s__Citrobacter_werkmanii
+GLYCOLYSIS-TCA-GLYOX-BYPASS: superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass|g__Klebsiella.s__Klebsiella_oxytoca
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Citrobacter.s__Citrobacter_koseri
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Citrobacter.s__Citrobacter_werkmanii
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Klebsiella.s__Klebsiella_oxytoca
+GLYOXYLATE-BYPASS: glyoxylate cycle|g__Citrobacter.s__Citrobacter_koseri
+GLYOXYLATE-BYPASS: glyoxylate cycle|g__Citrobacter.s__Citrobacter_werkmanii
+GLYOXYLATE-BYPASS: glyoxylate cycle|g__Klebsiella.s__Klebsiella_oxytoca
+GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol|g__Citrobacter.s__Citrobacter_koseri
+GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol|g__Citrobacter.s__Citrobacter_werkmanii
+GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol|g__Klebsiella.s__Klebsiella_oxytoca
+GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol|unclassified
+HCAMHPDEG-PWY: 3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-oxopent-4-enoate|g__Citrobacter.s__Citrobacter_amalonaticus
+HCAMHPDEG-PWY: 3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-oxopent-4-enoate|g__Citrobacter.s__Citrobacter_werkmanii
+HCAMHPDEG-PWY: 3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-oxopent-4-enoate|g__Klebsiella.s__Klebsiella_oxytoca
+HCAMHPDEG-PWY: 3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-oxopent-4-enoate|unclassified
+HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)|g__Citrobacter.s__Citrobacter_amalonaticus
+HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)|g__Citrobacter.s__Citrobacter_koseri
+HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)|g__Citrobacter.s__Citrobacter_werkmanii
+HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)|g__Klebsiella.s__Klebsiella_oxytoca
+HEMESYN2-PWY: heme biosynthesis II (anaerobic)|g__Citrobacter.s__Citrobacter_amalonaticus
+HEMESYN2-PWY: heme biosynthesis II (anaerobic)|g__Citrobacter.s__Citrobacter_koseri
+HEMESYN2-PWY: heme biosynthesis II (anaerobic)|g__Citrobacter.s__Citrobacter_werkmanii
+HEMESYN2-PWY: heme biosynthesis II (anaerobic)|g__Klebsiella.s__Klebsiella_oxytoca
+HEXITOLDEGSUPER-PWY: superpathway of hexitol degradation (bacteria)
+HEXITOLDEGSUPER-PWY: superpathway of hexitol degradation (bacteria)|g__Citrobacter.s__Citrobacter_amalonaticus
+HEXITOLDEGSUPER-PWY: superpathway of hexitol degradation (bacteria)|g__Citrobacter.s__Citrobacter_koseri
+HEXITOLDEGSUPER-PWY: superpathway of hexitol degradation (bacteria)|g__Citrobacter.s__Citrobacter_werkmanii
+HEXITOLDEGSUPER-PWY: superpathway of hexitol degradation (bacteria)|g__Klebsiella.s__Klebsiella_oxytoca
+HEXITOLDEGSUPER-PWY: superpathway of hexitol degradation (bacteria)|unclassified
+HISDEG-PWY: L-histidine degradation I|g__Citrobacter.s__Citrobacter_koseri
+HISDEG-PWY: L-histidine degradation I|g__Citrobacter.s__Citrobacter_werkmanii
+HISDEG-PWY: L-histidine degradation I|g__Klebsiella.s__Klebsiella_oxytoca
+HISDEG-PWY: L-histidine degradation I|unclassified
+HISTSYN-PWY: L-histidine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+HISTSYN-PWY: L-histidine biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+HISTSYN-PWY: L-histidine biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+HISTSYN-PWY: L-histidine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Citrobacter.s__Citrobacter_werkmanii
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|unclassified
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Citrobacter.s__Citrobacter_amalonaticus
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Citrobacter.s__Citrobacter_koseri
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Citrobacter.s__Citrobacter_werkmanii
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Klebsiella.s__Klebsiella_oxytoca
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Klebsiella.s__Klebsiella_quasipneumoniae
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Veillonella.s__Veillonella_dispar
+KETOGLUCONMET-PWY: ketogluconate metabolism|g__Citrobacter.s__Citrobacter_koseri
+KETOGLUCONMET-PWY: ketogluconate metabolism|g__Citrobacter.s__Citrobacter_werkmanii
+KETOGLUCONMET-PWY: ketogluconate metabolism|g__Klebsiella.s__Klebsiella_oxytoca
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+NAD-BIOSYNTHESIS-II: NAD salvage pathway II|g__Citrobacter.s__Citrobacter_amalonaticus
+NAD-BIOSYNTHESIS-II: NAD salvage pathway II|g__Citrobacter.s__Citrobacter_koseri
+NAD-BIOSYNTHESIS-II: NAD salvage pathway II|g__Citrobacter.s__Citrobacter_werkmanii
+NAD-BIOSYNTHESIS-II: NAD salvage pathway II|g__Klebsiella.s__Klebsiella_oxytoca
+NAD-BIOSYNTHESIS-II: NAD salvage pathway II|unclassified
+NAGLIPASYN-PWY: lipid IVA biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+NAGLIPASYN-PWY: lipid IVA biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+NAGLIPASYN-PWY: lipid IVA biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+NAGLIPASYN-PWY: lipid IVA biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Citrobacter.s__Citrobacter_amalonaticus
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Citrobacter.s__Citrobacter_koseri
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Citrobacter.s__Citrobacter_werkmanii
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Enterococcus.s__Enterococcus_faecalis
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Klebsiella.s__Klebsiella_oxytoca
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|unclassified
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|g__Eggerthella.s__Eggerthella_lenta
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|g__Enterococcus.s__Enterococcus_faecalis
+ORNARGDEG-PWY: superpathway of L-arginine and L-ornithine degradation|g__Klebsiella.s__Klebsiella_oxytoca
+ORNARGDEG-PWY: superpathway of L-arginine and L-ornithine degradation|unclassified
+ORNDEG-PWY: superpathway of ornithine degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+ORNDEG-PWY: superpathway of ornithine degradation|g__Klebsiella.s__Klebsiella_oxytoca
+P105-PWY: TCA cycle IV (2-oxoglutarate decarboxylase)|g__Klebsiella.s__Klebsiella_oxytoca
+P108-PWY: pyruvate fermentation to propanoate I|g__Klebsiella.s__Klebsiella_pneumoniae
+P122-PWY: heterolactic fermentation|g__Citrobacter.s__Citrobacter_koseri
+P122-PWY: heterolactic fermentation|g__Klebsiella.s__Klebsiella_oxytoca
+P161-PWY: acetylene degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+P161-PWY: acetylene degradation|g__Citrobacter.s__Citrobacter_koseri
+P161-PWY: acetylene degradation|g__Citrobacter.s__Citrobacter_werkmanii
+P161-PWY: acetylene degradation|g__Enterococcus.s__Enterococcus_faecalis
+P161-PWY: acetylene degradation|g__Klebsiella.s__Klebsiella_oxytoca
+P165-PWY: superpathway of purines degradation in plants
+P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)
+P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)|g__Citrobacter.s__Citrobacter_koseri
+P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)|g__Citrobacter.s__Citrobacter_werkmanii
+P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)|g__Klebsiella.s__Klebsiella_oxytoca
+P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)|unclassified
+P4-PWY: superpathway of L-lysine, L-threonine and L-methionine biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+P4-PWY: superpathway of L-lysine, L-threonine and L-methionine biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+P4-PWY: superpathway of L-lysine, L-threonine and L-methionine biosynthesis I|unclassified
+P42-PWY: incomplete reductive TCA cycle
+P441-PWY: superpathway of N-acetylneuraminate degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+P441-PWY: superpathway of N-acetylneuraminate degradation|g__Citrobacter.s__Citrobacter_koseri
+P441-PWY: superpathway of N-acetylneuraminate degradation|g__Citrobacter.s__Citrobacter_werkmanii
+P441-PWY: superpathway of N-acetylneuraminate degradation|g__Klebsiella.s__Klebsiella_oxytoca
+P441-PWY: superpathway of N-acetylneuraminate degradation|g__Klebsiella.s__Klebsiella_pneumoniae
+P441-PWY: superpathway of N-acetylneuraminate degradation|unclassified
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Citrobacter.s__Citrobacter_amalonaticus
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Citrobacter.s__Citrobacter_koseri
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Citrobacter.s__Citrobacter_werkmanii
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Enterococcus.s__Enterococcus_faecalis
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Klebsiella.s__Klebsiella_oxytoca
+P562-PWY: myo-inositol degradation I|g__Citrobacter.s__Citrobacter_werkmanii
+P562-PWY: myo-inositol degradation I|g__Klebsiella.s__Klebsiella_oxytoca
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Citrobacter.s__Citrobacter_werkmanii
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Enterococcus.s__Enterococcus_faecalis
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Enterococcus.s__Enterococcus_faecium
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Eggerthella.s__Eggerthella_lenta
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Enterococcus.s__Enterococcus_faecalis
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Enterococcus.s__Enterococcus_faecium
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PENTOSE-P-PWY: pentose phosphate pathway|g__Citrobacter.s__Citrobacter_amalonaticus
+PENTOSE-P-PWY: pentose phosphate pathway|g__Citrobacter.s__Citrobacter_koseri
+PENTOSE-P-PWY: pentose phosphate pathway|g__Citrobacter.s__Citrobacter_werkmanii
+PENTOSE-P-PWY: pentose phosphate pathway|g__Klebsiella.s__Klebsiella_oxytoca
+PENTOSE-P-PWY: pentose phosphate pathway|unclassified
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Citrobacter.s__Citrobacter_koseri
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Citrobacter.s__Citrobacter_werkmanii
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Enterococcus.s__Enterococcus_faecalis
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Klebsiella.s__Klebsiella_oxytoca
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)|g__Citrobacter.s__Citrobacter_koseri
+PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)|g__Citrobacter.s__Citrobacter_werkmanii
+PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)|g__Klebsiella.s__Klebsiella_oxytoca
+POLYAMSYN-PWY: superpathway of polyamine biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+POLYAMSYN-PWY: superpathway of polyamine biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+POLYAMSYN-PWY: superpathway of polyamine biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+POLYAMSYN-PWY: superpathway of polyamine biosynthesis I|unclassified
+POLYISOPRENSYN-PWY: polyisoprenoid biosynthesis (E. coli)|g__Citrobacter.s__Citrobacter_amalonaticus
+POLYISOPRENSYN-PWY: polyisoprenoid biosynthesis (E. coli)|g__Citrobacter.s__Citrobacter_koseri
+POLYISOPRENSYN-PWY: polyisoprenoid biosynthesis (E. coli)|g__Citrobacter.s__Citrobacter_werkmanii
+POLYISOPRENSYN-PWY: polyisoprenoid biosynthesis (E. coli)|g__Klebsiella.s__Klebsiella_oxytoca
+PPGPPMET-PWY: ppGpp biosynthesis
+PPGPPMET-PWY: ppGpp biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PPGPPMET-PWY: ppGpp biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PPGPPMET-PWY: ppGpp biosynthesis|g__Enterococcus.s__Enterococcus_faecalis
+PPGPPMET-PWY: ppGpp biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY: protocatechuate degradation II (ortho-cleavage pathway)
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY: protocatechuate degradation II (ortho-cleavage pathway)|unclassified
+PRPP-PWY: superpathway of histidine, purine, and pyrimidine biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-1042: glycolysis IV (plant cytosol)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-1042: glycolysis IV (plant cytosol)|g__Citrobacter.s__Citrobacter_koseri
+PWY-1042: glycolysis IV (plant cytosol)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-1042: glycolysis IV (plant cytosol)|g__Clostridium.s__Clostridium_paraputrificum
+PWY-1042: glycolysis IV (plant cytosol)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-1541: superpathway of taurine degradation
+PWY-1861: formaldehyde assimilation II (RuMP Cycle)
+PWY-1861: formaldehyde assimilation II (RuMP Cycle)|unclassified
+PWY-2723: trehalose degradation V|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-2723: trehalose degradation V|g__Citrobacter.s__Citrobacter_koseri
+PWY-2723: trehalose degradation V|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-2723: trehalose degradation V|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-2723: trehalose degradation V|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-2723: trehalose degradation V|unclassified
+PWY-2941: L-lysine biosynthesis II|g__Enterococcus.s__Enterococcus_faecalis
+PWY-2941: L-lysine biosynthesis II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-2941: L-lysine biosynthesis II|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-2942: L-lysine biosynthesis III|g__Citrobacter.s__Citrobacter_koseri
+PWY-2942: L-lysine biosynthesis III|g__Enterococcus.s__Enterococcus_faecalis
+PWY-2942: L-lysine biosynthesis III|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-3781: aerobic respiration I (cytochrome c)|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-3801: sucrose degradation II (sucrose synthase)
+PWY-3801: sucrose degradation II (sucrose synthase)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-3841: folate transformations II|g__Citrobacter.s__Citrobacter_koseri
+PWY-3841: folate transformations II|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-3841: folate transformations II|g__Enterococcus.s__Enterococcus_faecalis
+PWY-3841: folate transformations II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-3841: folate transformations II|g__Veillonella.s__Veillonella_dispar
+PWY-4041: &gamma;-glutamyl cycle|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-4041: &gamma;-glutamyl cycle|g__Citrobacter.s__Citrobacter_koseri
+PWY-4041: &gamma;-glutamyl cycle|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-4041: &gamma;-glutamyl cycle|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Citrobacter.s__Citrobacter_koseri
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Enterococcus.s__Enterococcus_faecalis
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Citrobacter.s__Citrobacter_koseri
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Enterococcus.s__Enterococcus_faecalis
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5005: biotin biosynthesis II|unclassified
+PWY-5022: 4-aminobutanoate degradation V
+PWY-5022: 4-aminobutanoate degradation V|g__Citrobacter.s__Citrobacter_koseri
+PWY-5022: 4-aminobutanoate degradation V|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5083: NAD/NADH phosphorylation and dephosphorylation|g__Citrobacter.s__Citrobacter_koseri
+PWY-5083: NAD/NADH phosphorylation and dephosphorylation|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-5083: NAD/NADH phosphorylation and dephosphorylation|unclassified
+PWY-5097: L-lysine biosynthesis VI|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5097: L-lysine biosynthesis VI|g__Citrobacter.s__Citrobacter_koseri
+PWY-5097: L-lysine biosynthesis VI|g__Enterococcus.s__Enterococcus_faecalis
+PWY-5097: L-lysine biosynthesis VI|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Citrobacter.s__Citrobacter_koseri
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Enterococcus.s__Enterococcus_faecalis
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5103: L-isoleucine biosynthesis III|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5103: L-isoleucine biosynthesis III|g__Citrobacter.s__Citrobacter_koseri
+PWY-5103: L-isoleucine biosynthesis III|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5103: L-isoleucine biosynthesis III|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5103: L-isoleucine biosynthesis III|g__Klebsiella.s__Klebsiella_quasipneumoniae
+PWY-5103: L-isoleucine biosynthesis III|g__Veillonella.s__Veillonella_dispar
+PWY-5104: L-isoleucine biosynthesis IV|g__Citrobacter.s__Citrobacter_koseri
+PWY-5104: L-isoleucine biosynthesis IV|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5104: L-isoleucine biosynthesis IV|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5104: L-isoleucine biosynthesis IV|unclassified
+PWY-5136: fatty acid &beta;-oxidation II (peroxisome)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5136: fatty acid &beta;-oxidation II (peroxisome)|g__Citrobacter.s__Citrobacter_koseri
+PWY-5136: fatty acid &beta;-oxidation II (peroxisome)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5136: fatty acid &beta;-oxidation II (peroxisome)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation|g__Citrobacter.s__Citrobacter_koseri
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5173: superpathway of acetyl-CoA biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5173: superpathway of acetyl-CoA biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-5173: superpathway of acetyl-CoA biosynthesis|g__Enterococcus.s__Enterococcus_faecalis
+PWY-5173: superpathway of acetyl-CoA biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5177: glutaryl-CoA degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Citrobacter.s__Citrobacter_koseri
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Veillonella.s__Veillonella_dispar
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Citrobacter.s__Citrobacter_koseri
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Veillonella.s__Veillonella_dispar
+PWY-5265: peptidoglycan biosynthesis II (staphylococci)
+PWY-5265: peptidoglycan biosynthesis II (staphylococci)|g__Enterococcus.s__Enterococcus_faecalis
+PWY-5265: peptidoglycan biosynthesis II (staphylococci)|g__Enterococcus.s__Enterococcus_faecium
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|g__Citrobacter.s__Citrobacter_koseri
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|unclassified
+PWY-5367: petroselinate biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5367: petroselinate biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-5367: petroselinate biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5367: petroselinate biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|g__Citrobacter.s__Citrobacter_koseri
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5464: superpathway of cytosolic glycolysis (plants), pyruvate dehydrogenase and TCA cycle|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Citrobacter.s__Citrobacter_koseri
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-5509: adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I|g__Citrobacter.s__Citrobacter_koseri
+PWY-5509: adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5509: adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-561: superpathway of glyoxylate cycle and fatty acid degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5659: GDP-mannose biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-5659: GDP-mannose biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5659: GDP-mannose biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5675: nitrate reduction V (assimilatory)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5676: acetyl-CoA fermentation to butanoate II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5686: UMP biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-5686: UMP biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5686: UMP biosynthesis|g__Enterococcus.s__Enterococcus_faecalis
+PWY-5686: UMP biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5690: TCA cycle II (plants and fungi)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5692: allantoin degradation to glyoxylate II|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Citrobacter.s__Citrobacter_koseri
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Enterococcus.s__Enterococcus_faecalis
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-5705: allantoin degradation to glyoxylate III|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5705: allantoin degradation to glyoxylate III|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5723: Rubisco shunt|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5723: Rubisco shunt|g__Citrobacter.s__Citrobacter_koseri
+PWY-5723: Rubisco shunt|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5723: Rubisco shunt|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5747: 2-methylcitrate cycle II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5747: 2-methylcitrate cycle II|g__Citrobacter.s__Citrobacter_koseri
+PWY-5747: 2-methylcitrate cycle II|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5747: 2-methylcitrate cycle II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5791: 1,4-dihydroxy-2-naphthoate biosynthesis II (plants)|g__Citrobacter.s__Citrobacter_koseri
+PWY-5791: 1,4-dihydroxy-2-naphthoate biosynthesis II (plants)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5791: 1,4-dihydroxy-2-naphthoate biosynthesis II (plants)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5837: 1,4-dihydroxy-2-naphthoate biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+PWY-5837: 1,4-dihydroxy-2-naphthoate biosynthesis I|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5837: 1,4-dihydroxy-2-naphthoate biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5838: superpathway of menaquinol-8 biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5838: superpathway of menaquinol-8 biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+PWY-5838: superpathway of menaquinol-8 biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5840: superpathway of menaquinol-7 biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5840: superpathway of menaquinol-7 biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5845: superpathway of menaquinol-9 biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5845: superpathway of menaquinol-9 biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5850: superpathway of menaquinol-6 biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5850: superpathway of menaquinol-6 biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5855: ubiquinol-7 biosynthesis (prokaryotic)|g__Citrobacter.s__Citrobacter_koseri
+PWY-5855: ubiquinol-7 biosynthesis (prokaryotic)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5855: ubiquinol-7 biosynthesis (prokaryotic)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5856: ubiquinol-9 biosynthesis (prokaryotic)|g__Citrobacter.s__Citrobacter_koseri
+PWY-5856: ubiquinol-9 biosynthesis (prokaryotic)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5856: ubiquinol-9 biosynthesis (prokaryotic)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5857: ubiquinol-10 biosynthesis (prokaryotic)|g__Citrobacter.s__Citrobacter_koseri
+PWY-5857: ubiquinol-10 biosynthesis (prokaryotic)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5857: ubiquinol-10 biosynthesis (prokaryotic)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5860: superpathway of demethylmenaquinol-6 biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5860: superpathway of demethylmenaquinol-6 biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5861: superpathway of demethylmenaquinol-8 biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5861: superpathway of demethylmenaquinol-8 biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-5861: superpathway of demethylmenaquinol-8 biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5862: superpathway of demethylmenaquinol-9 biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5862: superpathway of demethylmenaquinol-9 biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5863: superpathway of phylloquinol biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5863: superpathway of phylloquinol biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5896: superpathway of menaquinol-10 biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5896: superpathway of menaquinol-10 biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5897: superpathway of menaquinol-11 biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5897: superpathway of menaquinol-11 biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-5897: superpathway of menaquinol-11 biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5897: superpathway of menaquinol-11 biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5898: superpathway of menaquinol-12 biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5898: superpathway of menaquinol-12 biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-5898: superpathway of menaquinol-12 biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5898: superpathway of menaquinol-12 biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5899: superpathway of menaquinol-13 biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5899: superpathway of menaquinol-13 biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-5899: superpathway of menaquinol-13 biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5899: superpathway of menaquinol-13 biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5913: TCA cycle VI (obligate autotrophs)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-5913: TCA cycle VI (obligate autotrophs)|g__Citrobacter.s__Citrobacter_koseri
+PWY-5913: TCA cycle VI (obligate autotrophs)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5913: TCA cycle VI (obligate autotrophs)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5918: superpathay of heme biosynthesis from glutamate|g__Citrobacter.s__Citrobacter_koseri
+PWY-5918: superpathay of heme biosynthesis from glutamate|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5918: superpathay of heme biosynthesis from glutamate|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5920: superpathway of heme biosynthesis from glycine|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5971: palmitate biosynthesis II (bacteria and plants)|g__Citrobacter.s__Citrobacter_koseri
+PWY-5971: palmitate biosynthesis II (bacteria and plants)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5971: palmitate biosynthesis II (bacteria and plants)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5973: cis-vaccenate biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-5973: cis-vaccenate biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5973: cis-vaccenate biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-5973: cis-vaccenate biosynthesis|unclassified
+PWY-5989: stearate biosynthesis II (bacteria and plants)|g__Citrobacter.s__Citrobacter_koseri
+PWY-5989: stearate biosynthesis II (bacteria and plants)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-5989: stearate biosynthesis II (bacteria and plants)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6060: malonate degradation II (biotin-dependent)
+PWY-6060: malonate degradation II (biotin-dependent)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6071: superpathway of phenylethylamine degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6071: superpathway of phenylethylamine degradation|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-6113: superpathway of mycolate biosynthesis
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Citrobacter.s__Citrobacter_koseri
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Citrobacter.s__Citrobacter_koseri
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Veillonella.s__Veillonella_dispar
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Citrobacter.s__Citrobacter_koseri
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Citrobacter.s__Citrobacter_koseri
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Citrobacter.s__Citrobacter_koseri
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Citrobacter.s__Citrobacter_koseri
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6168: flavin biosynthesis III (fungi)|g__Citrobacter.s__Citrobacter_koseri
+PWY-6168: flavin biosynthesis III (fungi)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6168: flavin biosynthesis III (fungi)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6168: flavin biosynthesis III (fungi)|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-621: sucrose degradation III (sucrose invertase)
+PWY-621: sucrose degradation III (sucrose invertase)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-621: sucrose degradation III (sucrose invertase)|g__Citrobacter.s__Citrobacter_koseri
+PWY-621: sucrose degradation III (sucrose invertase)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-621: sucrose degradation III (sucrose invertase)|g__Enterococcus.s__Enterococcus_faecalis
+PWY-621: sucrose degradation III (sucrose invertase)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6269: adenosylcobalamin salvage from cobinamide II|g__Citrobacter.s__Citrobacter_koseri
+PWY-6269: adenosylcobalamin salvage from cobinamide II|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6269: adenosylcobalamin salvage from cobinamide II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|g__Citrobacter.s__Citrobacter_koseri
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|unclassified
+PWY-6284: superpathway of unsaturated fatty acids biosynthesis (E. coli)|g__Citrobacter.s__Citrobacter_koseri
+PWY-6284: superpathway of unsaturated fatty acids biosynthesis (E. coli)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6284: superpathway of unsaturated fatty acids biosynthesis (E. coli)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6285: superpathway of fatty acids biosynthesis (E. coli)|g__Citrobacter.s__Citrobacter_koseri
+PWY-6285: superpathway of fatty acids biosynthesis (E. coli)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6285: superpathway of fatty acids biosynthesis (E. coli)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6305: putrescine biosynthesis IV|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6305: putrescine biosynthesis IV|g__Citrobacter.s__Citrobacter_koseri
+PWY-6305: putrescine biosynthesis IV|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6305: putrescine biosynthesis IV|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6305: putrescine biosynthesis IV|g__Klebsiella.s__Klebsiella_quasipneumoniae
+PWY-6305: putrescine biosynthesis IV|g__Klebsiella.s__Klebsiella_variicola
+PWY-6305: putrescine biosynthesis IV|g__Klebsiella.s__Klebsiella_variicola_CAG_634
+PWY-6317: galactose degradation I (Leloir pathway)|g__Citrobacter.s__Citrobacter_koseri
+PWY-6317: galactose degradation I (Leloir pathway)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6317: galactose degradation I (Leloir pathway)|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6317: galactose degradation I (Leloir pathway)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6318: L-phenylalanine degradation IV (mammalian, via side chain)
+PWY-6318: L-phenylalanine degradation IV (mammalian, via side chain)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6353: purine nucleotides degradation II (aerobic)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Citrobacter.s__Citrobacter_koseri
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Citrobacter.s__Citrobacter_koseri
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Citrobacter.s__Citrobacter_koseri
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Streptococcus.s__Streptococcus_thermophilus_CAG_236
+PWY-6470: peptidoglycan biosynthesis V (&beta;-lactam resistance)
+PWY-6471: peptidoglycan biosynthesis IV (Enterococcus faecium)|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Citrobacter.s__Citrobacter_koseri
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6519: 8-amino-7-oxononanoate biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+PWY-6519: 8-amino-7-oxononanoate biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6519: 8-amino-7-oxononanoate biosynthesis I|unclassified
+PWY-6527: stachyose degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6527: stachyose degradation|g__Citrobacter.s__Citrobacter_koseri
+PWY-6527: stachyose degradation|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6527: stachyose degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6531: mannitol cycle|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6531: mannitol cycle|g__Citrobacter.s__Citrobacter_koseri
+PWY-6531: mannitol cycle|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6531: mannitol cycle|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6531: mannitol cycle|unclassified
+PWY-6545: pyrimidine deoxyribonucleotides de novo biosynthesis III|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6545: pyrimidine deoxyribonucleotides de novo biosynthesis III|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-6549: L-glutamine biosynthesis III
+PWY-6588: pyruvate fermentation to acetone|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6588: pyruvate fermentation to acetone|g__Citrobacter.s__Citrobacter_koseri
+PWY-6588: pyruvate fermentation to acetone|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6588: pyruvate fermentation to acetone|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6608: guanosine nucleotides degradation III|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6609: adenine and adenosine salvage III|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6609: adenine and adenosine salvage III|g__Citrobacter.s__Citrobacter_koseri
+PWY-6609: adenine and adenosine salvage III|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6609: adenine and adenosine salvage III|g__Clostridium.s__Clostridium_paraputrificum
+PWY-6609: adenine and adenosine salvage III|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6609: adenine and adenosine salvage III|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6612: superpathway of tetrahydrofolate biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6612: superpathway of tetrahydrofolate biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6612: superpathway of tetrahydrofolate biosynthesis|unclassified
+PWY-6628: superpathway of L-phenylalanine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6628: superpathway of L-phenylalanine biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-6628: superpathway of L-phenylalanine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6628: superpathway of L-phenylalanine biosynthesis|unclassified
+PWY-6629: superpathway of L-tryptophan biosynthesis|unclassified
+PWY-6630: superpathway of L-tyrosine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6630: superpathway of L-tyrosine biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-6630: superpathway of L-tyrosine biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-6630: superpathway of L-tyrosine biosynthesis|unclassified
+PWY-6641: superpathway of sulfolactate degradation
+PWY-6641: superpathway of sulfolactate degradation|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-6690: cinnamate and 3-hydroxycinnamate degradation to 2-oxopent-4-enoate|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6690: cinnamate and 3-hydroxycinnamate degradation to 2-oxopent-4-enoate|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6690: cinnamate and 3-hydroxycinnamate degradation to 2-oxopent-4-enoate|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6690: cinnamate and 3-hydroxycinnamate degradation to 2-oxopent-4-enoate|unclassified
+PWY-6700: queuosine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6700: queuosine biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-6700: queuosine biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6700: queuosine biosynthesis|g__Enterococcus.s__Enterococcus_faecalis
+PWY-6700: queuosine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6700: queuosine biosynthesis|g__Streptococcus.s__Streptococcus_thermophilus
+PWY-6700: queuosine biosynthesis|g__Veillonella.s__Veillonella_dispar
+PWY-6703: preQ0 biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-6703: preQ0 biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6703: preQ0 biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6708: ubiquinol-8 biosynthesis (prokaryotic)|g__Citrobacter.s__Citrobacter_koseri
+PWY-6708: ubiquinol-8 biosynthesis (prokaryotic)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6708: ubiquinol-8 biosynthesis (prokaryotic)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6731: starch degradation III|unclassified
+PWY-6737: starch degradation V|g__Citrobacter.s__Citrobacter_koseri
+PWY-6737: starch degradation V|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6737: starch degradation V|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6803: phosphatidylcholine acyl editing|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6803: phosphatidylcholine acyl editing|g__Citrobacter.s__Citrobacter_koseri
+PWY-6803: phosphatidylcholine acyl editing|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6803: phosphatidylcholine acyl editing|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6823: molybdenum cofactor biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6823: molybdenum cofactor biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-6823: molybdenum cofactor biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6823: molybdenum cofactor biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6837: fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)|g__Citrobacter.s__Citrobacter_koseri
+PWY-6837: fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6837: fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6859: all-trans-farnesol biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6859: all-trans-farnesol biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-6859: all-trans-farnesol biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6876: isopropanol biosynthesis
+PWY-6891: thiazole biosynthesis II (Bacillus)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6891: thiazole biosynthesis II (Bacillus)|g__Citrobacter.s__Citrobacter_koseri
+PWY-6891: thiazole biosynthesis II (Bacillus)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6891: thiazole biosynthesis II (Bacillus)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6891: thiazole biosynthesis II (Bacillus)|unclassified
+PWY-6892: thiazole biosynthesis I (E. coli)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6892: thiazole biosynthesis I (E. coli)|g__Citrobacter.s__Citrobacter_koseri
+PWY-6892: thiazole biosynthesis I (E. coli)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6892: thiazole biosynthesis I (E. coli)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6892: thiazole biosynthesis I (E. coli)|unclassified
+PWY-6895: superpathway of thiamin diphosphate biosynthesis II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6895: superpathway of thiamin diphosphate biosynthesis II|g__Citrobacter.s__Citrobacter_koseri
+PWY-6895: superpathway of thiamin diphosphate biosynthesis II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6895: superpathway of thiamin diphosphate biosynthesis II|unclassified
+PWY-6897: thiamin salvage II|g__Citrobacter.s__Citrobacter_koseri
+PWY-6897: thiamin salvage II|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6897: thiamin salvage II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6897: thiamin salvage II|g__Veillonella.s__Veillonella_dispar
+PWY-6901: superpathway of glucose and xylose degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6901: superpathway of glucose and xylose degradation|g__Citrobacter.s__Citrobacter_koseri
+PWY-6901: superpathway of glucose and xylose degradation|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6901: superpathway of glucose and xylose degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6936: seleno-amino acid biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-6936: seleno-amino acid biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-6936: seleno-amino acid biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-6936: seleno-amino acid biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-6936: seleno-amino acid biosynthesis|unclassified
+PWY-6969: TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7003: glycerol degradation to butanol|g__Citrobacter.s__Citrobacter_koseri
+PWY-7003: glycerol degradation to butanol|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7003: glycerol degradation to butanol|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7013: L-1,2-propanediol degradation
+PWY-7013: L-1,2-propanediol degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7013: L-1,2-propanediol degradation|g__Citrobacter.s__Citrobacter_koseri
+PWY-7013: L-1,2-propanediol degradation|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7013: L-1,2-propanediol degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7013: L-1,2-propanediol degradation|g__Klebsiella.s__Klebsiella_quasipneumoniae
+PWY-7013: L-1,2-propanediol degradation|g__Veillonella.s__Veillonella_dispar
+PWY-7094: fatty acid salvage|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7094: fatty acid salvage|g__Citrobacter.s__Citrobacter_koseri
+PWY-7094: fatty acid salvage|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7094: fatty acid salvage|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Citrobacter.s__Citrobacter_koseri
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Klebsiella.s__Klebsiella_variicola
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Veillonella.s__Veillonella_dispar
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|unclassified
+PWY-7115: C4 photosynthetic carbon assimilation cycle, NAD-ME type
+PWY-7115: C4 photosynthetic carbon assimilation cycle, NAD-ME type|g__Citrobacter.s__Citrobacter_koseri
+PWY-7115: C4 photosynthetic carbon assimilation cycle, NAD-ME type|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7115: C4 photosynthetic carbon assimilation cycle, NAD-ME type|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7117: C4 photosynthetic carbon assimilation cycle, PEPCK type|g__Citrobacter.s__Citrobacter_koseri
+PWY-7117: C4 photosynthetic carbon assimilation cycle, PEPCK type|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7117: C4 photosynthetic carbon assimilation cycle, PEPCK type|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7118: chitin degradation to ethanol
+PWY-7118: chitin degradation to ethanol|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7187: pyrimidine deoxyribonucleotides de novo biosynthesis II|g__Citrobacter.s__Citrobacter_koseri
+PWY-7187: pyrimidine deoxyribonucleotides de novo biosynthesis II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Citrobacter.s__Citrobacter_koseri
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Enterococcus.s__Enterococcus_faecalis
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-7198: pyrimidine deoxyribonucleotides de novo biosynthesis IV|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7198: pyrimidine deoxyribonucleotides de novo biosynthesis IV|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Citrobacter.s__Citrobacter_koseri
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Enterococcus.s__Enterococcus_faecalis
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7204: pyridoxal 5'-phosphate salvage II (plants)|g__Citrobacter.s__Citrobacter_koseri
+PWY-7204: pyridoxal 5'-phosphate salvage II (plants)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7204: pyridoxal 5'-phosphate salvage II (plants)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Citrobacter.s__Citrobacter_koseri
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Enterococcus.s__Enterococcus_faecalis
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7210: pyrimidine deoxyribonucleotides biosynthesis from CTP
+PWY-7210: pyrimidine deoxyribonucleotides biosynthesis from CTP|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7210: pyrimidine deoxyribonucleotides biosynthesis from CTP|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-7210: pyrimidine deoxyribonucleotides biosynthesis from CTP|unclassified
+PWY-7211: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis
+PWY-7211: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Enterococcus.s__Enterococcus_faecalis
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Citrobacter.s__Citrobacter_koseri
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Enterococcus.s__Enterococcus_faecalis
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Enterococcus.s__Enterococcus_faecalis
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Klebsiella.s__Klebsiella_variicola
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Klebsiella.s__Klebsiella_variicola_CAG_634
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Veillonella.s__Veillonella_dispar
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Citrobacter.s__Citrobacter_koseri
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Enterococcus.s__Enterococcus_faecalis
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Enterococcus.s__Enterococcus_faecalis
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Citrobacter.s__Citrobacter_koseri
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Enterococcus.s__Enterococcus_faecalis
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7237: myo-, chiro- and scillo-inositol degradation|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7237: myo-, chiro- and scillo-inositol degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7242: D-fructuronate degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7242: D-fructuronate degradation|g__Citrobacter.s__Citrobacter_koseri
+PWY-7242: D-fructuronate degradation|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7242: D-fructuronate degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Citrobacter.s__Citrobacter_koseri
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Enterococcus.s__Enterococcus_faecalis
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7254: TCA cycle VII (acetate-producers)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7269: NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)|g__Citrobacter.s__Citrobacter_koseri
+PWY-7269: NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7269: NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7279: aerobic respiration II (cytochrome c) (yeast)
+PWY-7279: aerobic respiration II (cytochrome c) (yeast)|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Citrobacter.s__Citrobacter_koseri
+PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7315: dTDP-N-acetylthomosamine biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-7315: dTDP-N-acetylthomosamine biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7315: dTDP-N-acetylthomosamine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7328: superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY-7328: superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-7345: superpathway of anaerobic sucrose degradation
+PWY-7345: superpathway of anaerobic sucrose degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Citrobacter.s__Citrobacter_koseri
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Eggerthella.s__Eggerthella_lenta
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Enterococcus.s__Enterococcus_faecalis
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Enterococcus.s__Enterococcus_faecium
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Veillonella.s__Veillonella_dispar
+PWY-7377: cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion)
+PWY-7377: cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion)|g__Citrobacter.s__Citrobacter_koseri
+PWY-7385: 1,3-propanediol biosynthesis (engineered)|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY-7388: octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)|g__Citrobacter.s__Citrobacter_koseri
+PWY-7388: octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7388: octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7399: methylphosphonate degradation II
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7409: phospholipid remodeling (phosphatidylethanolamine, yeast)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7446: sulfoglycolysis|g__Citrobacter.s__Citrobacter_koseri
+PWY-7446: sulfoglycolysis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Citrobacter.s__Citrobacter_koseri
+PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Citrobacter.s__Citrobacter_koseri
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7664: oleate biosynthesis IV (anaerobic)|g__Citrobacter.s__Citrobacter_koseri
+PWY-7664: oleate biosynthesis IV (anaerobic)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY-7664: oleate biosynthesis IV (anaerobic)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY-7664: oleate biosynthesis IV (anaerobic)|unclassified
+PWY-821: superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)
+PWY-841: superpathway of purine nucleotides de novo biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+PWY-841: superpathway of purine nucleotides de novo biosynthesis I|g__Citrobacter.s__Citrobacter_werkmanii
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Klebsiella.s__Klebsiella_variicola
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-1261: anhydromuropeptides recycling
+PWY0-1261: anhydromuropeptides recycling|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY0-1261: anhydromuropeptides recycling|g__Citrobacter.s__Citrobacter_koseri
+PWY0-1261: anhydromuropeptides recycling|g__Citrobacter.s__Citrobacter_werkmanii
+PWY0-1261: anhydromuropeptides recycling|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-1261: anhydromuropeptides recycling|g__Klebsiella.s__Klebsiella_variicola_CAG_634
+PWY0-1261: anhydromuropeptides recycling|unclassified
+PWY0-1277: 3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation|g__Citrobacter.s__Citrobacter_werkmanii
+PWY0-1277: 3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-1296: purine ribonucleosides degradation|g__Citrobacter.s__Citrobacter_koseri
+PWY0-1296: purine ribonucleosides degradation|g__Citrobacter.s__Citrobacter_werkmanii
+PWY0-1296: purine ribonucleosides degradation|g__Clostridium.s__Clostridium_paraputrificum
+PWY0-1296: purine ribonucleosides degradation|g__Enterococcus.s__Enterococcus_faecalis
+PWY0-1296: purine ribonucleosides degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Citrobacter.s__Citrobacter_koseri
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Citrobacter.s__Citrobacter_werkmanii
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Enterococcus.s__Enterococcus_faecalis
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Citrobacter.s__Citrobacter_koseri
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Citrobacter.s__Citrobacter_werkmanii
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Enterococcus.s__Enterococcus_faecalis
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Citrobacter.s__Citrobacter_koseri
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Citrobacter.s__Citrobacter_werkmanii
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-1338: polymyxin resistance|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY0-1338: polymyxin resistance|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-1338: polymyxin resistance|unclassified
+PWY0-1415: superpathway of heme biosynthesis from uroporphyrinogen-III|g__Citrobacter.s__Citrobacter_koseri
+PWY0-1415: superpathway of heme biosynthesis from uroporphyrinogen-III|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-1479: tRNA processing|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY0-1479: tRNA processing|g__Citrobacter.s__Citrobacter_werkmanii
+PWY0-1479: tRNA processing|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-1479: tRNA processing|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY0-1479: tRNA processing|g__Klebsiella.s__Klebsiella_quasipneumoniae
+PWY0-1533: methylphosphonate degradation I|g__Citrobacter.s__Citrobacter_koseri
+PWY0-1533: methylphosphonate degradation I|g__Citrobacter.s__Citrobacter_werkmanii
+PWY0-1533: methylphosphonate degradation I|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Citrobacter.s__Citrobacter_koseri
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Enterococcus.s__Enterococcus_faecalis
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Enterococcus.s__Enterococcus_faecium
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Streptococcus.s__Streptococcus_thermophilus
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|unclassified
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)|g__Citrobacter.s__Citrobacter_koseri
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-321: phenylacetate degradation I (aerobic)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-321: phenylacetate degradation I (aerobic)|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY0-41: allantoin degradation IV (anaerobic)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY0-42: 2-methylcitrate cycle I|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY0-42: 2-methylcitrate cycle I|g__Citrobacter.s__Citrobacter_koseri
+PWY0-42: 2-methylcitrate cycle I|g__Citrobacter.s__Citrobacter_werkmanii
+PWY0-781: aspartate superpathway
+PWY0-781: aspartate superpathway|unclassified
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Citrobacter.s__Citrobacter_koseri
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Citrobacter.s__Citrobacter_werkmanii
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-862: (5Z)-dodec-5-enoate biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+PWY0-862: (5Z)-dodec-5-enoate biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+PWY0-862: (5Z)-dodec-5-enoate biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+PWY0-862: (5Z)-dodec-5-enoate biosynthesis|unclassified
+PWY0-881: superpathway of fatty acid biosynthesis I (E. coli)|unclassified
+PWY3O-355: stearate biosynthesis III (fungi)|unclassified
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)|g__Citrobacter.s__Citrobacter_koseri
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)|g__Citrobacter.s__Citrobacter_koseri
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY4LZ-257: superpathway of fermentation (Chlamydomonas reinhardtii)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY4LZ-257: superpathway of fermentation (Chlamydomonas reinhardtii)|g__Citrobacter.s__Citrobacter_koseri
+PWY4LZ-257: superpathway of fermentation (Chlamydomonas reinhardtii)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY4LZ-257: superpathway of fermentation (Chlamydomonas reinhardtii)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY66-389: phytol degradation|g__Klebsiella.s__Klebsiella_oxytoca
+PWY66-389: phytol degradation|g__Klebsiella.s__Klebsiella_pneumoniae
+PWY66-398: TCA cycle III (animals)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY66-400: glycolysis VI (metazoan)|g__Citrobacter.s__Citrobacter_koseri
+PWY66-400: glycolysis VI (metazoan)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY66-400: glycolysis VI (metazoan)|g__Klebsiella.s__Klebsiella_oxytoca
+PWY66-409: superpathway of purine nucleotide salvage|g__Citrobacter.s__Citrobacter_koseri
+PWY66-409: superpathway of purine nucleotide salvage|g__Klebsiella.s__Klebsiella_oxytoca
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Citrobacter.s__Citrobacter_amalonaticus
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Citrobacter.s__Citrobacter_koseri
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Citrobacter.s__Citrobacter_werkmanii
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Enterococcus.s__Enterococcus_faecalis
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Klebsiella.s__Klebsiella_oxytoca
+PWYG-321: mycolate biosynthesis
+PYRIDNUCSAL-PWY: NAD salvage pathway I|g__Citrobacter.s__Citrobacter_koseri
+PYRIDNUCSAL-PWY: NAD salvage pathway I|g__Citrobacter.s__Citrobacter_werkmanii
+PYRIDNUCSYN-PWY: NAD biosynthesis I (from aspartate)|g__Citrobacter.s__Citrobacter_koseri
+PYRIDNUCSYN-PWY: NAD biosynthesis I (from aspartate)|g__Citrobacter.s__Citrobacter_werkmanii
+PYRIDNUCSYN-PWY: NAD biosynthesis I (from aspartate)|g__Klebsiella.s__Klebsiella_oxytoca
+PYRIDNUCSYN-PWY: NAD biosynthesis I (from aspartate)|unclassified
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Citrobacter.s__Citrobacter_werkmanii
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+REDCITCYC: TCA cycle VIII (helicobacter)|g__Klebsiella.s__Klebsiella_oxytoca
+RHAMCAT-PWY: L-rhamnose degradation I|g__Citrobacter.s__Citrobacter_koseri
+RHAMCAT-PWY: L-rhamnose degradation I|g__Citrobacter.s__Citrobacter_werkmanii
+RHAMCAT-PWY: L-rhamnose degradation I|g__Enterococcus.s__Enterococcus_faecalis
+RHAMCAT-PWY: L-rhamnose degradation I|g__Klebsiella.s__Klebsiella_oxytoca
+RHAMCAT-PWY: L-rhamnose degradation I|unclassified
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Citrobacter.s__Citrobacter_amalonaticus
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Citrobacter.s__Citrobacter_koseri
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Citrobacter.s__Citrobacter_werkmanii
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Erysipelatoclostridium.s__Clostridium_innocuum
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Klebsiella.s__Klebsiella_oxytoca
+RUMP-PWY: formaldehyde oxidation I
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Citrobacter.s__Citrobacter_werkmanii
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+SO4ASSIM-PWY: sulfate reduction I (assimilatory)|g__Citrobacter.s__Citrobacter_amalonaticus
+SO4ASSIM-PWY: sulfate reduction I (assimilatory)|g__Citrobacter.s__Citrobacter_koseri
+SO4ASSIM-PWY: sulfate reduction I (assimilatory)|g__Citrobacter.s__Citrobacter_werkmanii
+SO4ASSIM-PWY: sulfate reduction I (assimilatory)|g__Klebsiella.s__Klebsiella_oxytoca
+SULFATE-CYS-PWY: superpathway of sulfate assimilation and cysteine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+SULFATE-CYS-PWY: superpathway of sulfate assimilation and cysteine biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+SULFATE-CYS-PWY: superpathway of sulfate assimilation and cysteine biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+SULFATE-CYS-PWY: superpathway of sulfate assimilation and cysteine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+TCA-GLYOX-BYPASS: superpathway of glyoxylate bypass and TCA|g__Citrobacter.s__Citrobacter_amalonaticus
+TCA-GLYOX-BYPASS: superpathway of glyoxylate bypass and TCA|g__Citrobacter.s__Citrobacter_koseri
+TCA-GLYOX-BYPASS: superpathway of glyoxylate bypass and TCA|g__Citrobacter.s__Citrobacter_werkmanii
+TCA-GLYOX-BYPASS: superpathway of glyoxylate bypass and TCA|g__Klebsiella.s__Klebsiella_oxytoca
+TCA: TCA cycle I (prokaryotic)|g__Citrobacter.s__Citrobacter_amalonaticus
+TCA: TCA cycle I (prokaryotic)|g__Citrobacter.s__Citrobacter_koseri
+TCA: TCA cycle I (prokaryotic)|g__Citrobacter.s__Citrobacter_werkmanii
+TCA: TCA cycle I (prokaryotic)|g__Klebsiella.s__Klebsiella_oxytoca
+THISYN-PWY: superpathway of thiamin diphosphate biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+THISYN-PWY: superpathway of thiamin diphosphate biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+THISYN-PWY: superpathway of thiamin diphosphate biosynthesis I|g__Citrobacter.s__Citrobacter_werkmanii
+THISYN-PWY: superpathway of thiamin diphosphate biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+THISYN-PWY: superpathway of thiamin diphosphate biosynthesis I|unclassified
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Citrobacter.s__Citrobacter_koseri
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Citrobacter.s__Citrobacter_werkmanii
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Klebsiella.s__Klebsiella_oxytoca
+THREOCAT-PWY: superpathway of L-threonine metabolism|g__Klebsiella.s__Klebsiella_oxytoca
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Enterococcus.s__Enterococcus_faecalis
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+TRNA-CHARGING-PWY: tRNA charging|g__Citrobacter.s__Citrobacter_amalonaticus
+TRNA-CHARGING-PWY: tRNA charging|g__Citrobacter.s__Citrobacter_koseri
+TRNA-CHARGING-PWY: tRNA charging|g__Citrobacter.s__Citrobacter_werkmanii
+TRNA-CHARGING-PWY: tRNA charging|g__Klebsiella.s__Klebsiella_oxytoca
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Veillonella.s__Veillonella_dispar
+UBISYN-PWY: superpathway of ubiquinol-8 biosynthesis (prokaryotic)|g__Citrobacter.s__Citrobacter_koseri
+UBISYN-PWY: superpathway of ubiquinol-8 biosynthesis (prokaryotic)|g__Klebsiella.s__Klebsiella_oxytoca
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Citrobacter.s__Citrobacter_amalonaticus
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Citrobacter.s__Citrobacter_koseri
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Citrobacter.s__Citrobacter_werkmanii
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Enterococcus.s__Enterococcus_faecalis
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Klebsiella.s__Klebsiella_oxytoca
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Veillonella.s__Veillonella_dispar
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|unclassified
+URDEGR-PWY: superpathway of allantoin degradation in plants|g__Citrobacter.s__Citrobacter_werkmanii
+URSIN-PWY: ureide biosynthesis
+VALSYN-PWY: L-valine biosynthesis|g__Citrobacter.s__Citrobacter_amalonaticus
+VALSYN-PWY: L-valine biosynthesis|g__Citrobacter.s__Citrobacter_koseri
+VALSYN-PWY: L-valine biosynthesis|g__Citrobacter.s__Citrobacter_werkmanii
+VALSYN-PWY: L-valine biosynthesis|g__Clostridium.s__Clostridium_paraputrificum
+VALSYN-PWY: L-valine biosynthesis|g__Klebsiella.s__Klebsiella_oxytoca
+VALSYN-PWY: L-valine biosynthesis|g__Klebsiella.s__Klebsiella_variicola_CAG_634
+VALSYN-PWY: L-valine biosynthesis|g__Veillonella.s__Veillonella_dispar

@@ -1,0 +1,30 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Glycine, serine and threonine metabolism",34,0.81275,6,0.00010048,3.9979,0.0084406,0.0084406,0.4959
+"Arginine biosynthesis",14,0.33466,4,0.00023261,3.6334,0.019307,0.0097697,0.28934
+"Arginine and proline metabolism",38,0.90837,5,0.0016633,2.779,0.13639,0.046571,0.21501
+"Alanine, aspartate and glutamate metabolism",28,0.66932,4,0.0037433,2.4267,0.30321,0.078609,0.04808
+"Histidine metabolism",16,0.38247,3,0.0056758,2.246,0.45407,0.095354,0.17213
+"Pentose and glucuronate interconversions",18,0.43028,3,0.0080026,2.0968,0.63221,0.11204,0.29688
+"Lysine degradation",25,0.59761,3,0.020109,1.6966,1,0.2069,0.02347
+"Primary bile acid biosynthesis",46,1.0996,4,0.021947,1.6586,1,0.2069,0.06809
+"Ascorbate and aldarate metabolism",10,0.23904,2,0.022168,1.6543,1,0.2069,0.25
+"Valine, leucine and isoleucine degradation",40,0.95618,3,0.067672,1.1696,1,0.56844,0.02264
+"Citrate cycle (TCA cycle)",20,0.47809,2,0.080639,1.0935,1,0.61474,0.14894
+"Sphingolipid metabolism",21,0.50199,2,0.087821,1.0564,1,0.61474,0.26978
+"Linoleic acid metabolism",5,0.11952,1,0.11409,0.94276,1,0.73718,0
+"D-Glutamine and D-glutamate metabolism",6,0.14343,1,0.13533,0.86859,1,0.78077,0
+"Glutathione metabolism",28,0.66932,2,0.14265,0.84574,1,0.78077,0.08873
+"Inositol phosphate metabolism",30,0.71713,2,0.15944,0.79739,1,0.78077,0.12939
+"Valine, leucine and isoleucine biosynthesis",8,0.19124,1,0.17635,0.75361,1,0.78077,0
+"Taurine and hypotaurine metabolism",8,0.19124,1,0.17635,0.75361,1,0.78077,0
+"Glyoxylate and dicarboxylate metabolism",32,0.76494,2,0.1766,0.753,1,0.78077,0.13757
+"Tryptophan metabolism",41,0.98008,2,0.25656,0.59082,1,1,0.0991
+"alpha-Linolenic acid metabolism",13,0.31076,1,0.2708,0.56735,1,1,0
+"Butanoate metabolism",15,0.35857,1,0.30555,0.51491,1,1,0
+"Aminoacyl-tRNA biosynthesis",48,1.1474,2,0.31964,0.49534,1,1,0
+"Galactose metabolism",27,0.64542,1,0.48265,0.31637,1,1,0
+"Phosphatidylinositol signaling system",28,0.66932,1,0.49524,0.30518,1,1,0.03736
+"Porphyrin and chlorophyll metabolism",30,0.71713,1,0.51954,0.28438,1,1,0
+"Cysteine and methionine metabolism",33,0.78884,1,0.55387,0.25659,1,1,0.17854
+"Arachidonic acid metabolism",36,0.86056,1,0.58581,0.23225,1,1,0
+"Glycerophospholipid metabolism",36,0.86056,1,0.58581,0.23225,1,1,0.09446

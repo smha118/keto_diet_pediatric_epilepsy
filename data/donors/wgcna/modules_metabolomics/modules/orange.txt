@@ -1,0 +1,6 @@
+cholesterol
+1-palmitoyl-2-oleoyl-GPC (16:0/18:1)
+1-oleoyl-GPC (18:1)
+1-linoleoyl-GPC (18:2)
+1-linoleoyl-GPE (18:2)*
+1-oleoyl-GPI (18:1)

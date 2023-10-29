@@ -1,0 +1,301 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bifidobacterium.s__Bifidobacterium_breve
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Bifidobacterium.s__Bifidobacterium_breve
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Bifidobacterium.s__Bifidobacterium_breve
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+ARO-PWY: chorismate biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Bifidobacterium.s__Bifidobacterium_breve
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Eggerthella.s__Eggerthella_lenta
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bifidobacterium.s__Bifidobacterium_breve
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+COA-PWY: coenzyme A biosynthesis I
+COA-PWY: coenzyme A biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+COA-PWY: coenzyme A biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+DAPLYSINESYN-PWY: L-lysine biosynthesis I
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_breve
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_breve
+FASYN-ELONG-PWY: fatty acid elongation -- saturated|g__Bifidobacterium.s__Bifidobacterium_breve
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|g__Bifidobacterium.s__Bifidobacterium_bifidum
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|g__Bifidobacterium.s__Bifidobacterium_breve
+GLUTORN-PWY: L-ornithine biosynthesis
+GLUTORN-PWY: L-ornithine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+GLUTORN-PWY: L-ornithine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+GLUTORN-PWY: L-ornithine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+GLUTORN-PWY: L-ornithine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_breve
+GLUTORN-PWY: L-ornithine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+GLYCOCAT-PWY: glycogen degradation I (bacterial)
+GLYCOCAT-PWY: glycogen degradation I (bacterial)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+GLYCOCAT-PWY: glycogen degradation I (bacterial)|g__Bifidobacterium.s__Bifidobacterium_breve
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Bifidobacterium.s__Bifidobacterium_breve
+HISTSYN-PWY: L-histidine biosynthesis
+HISTSYN-PWY: L-histidine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+HISTSYN-PWY: L-histidine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+HISTSYN-PWY: L-histidine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_breve
+HISTSYN-PWY: L-histidine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+HSERMETANA-PWY: L-methionine biosynthesis III
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_bifidum
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_breve
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Bifidobacterium.s__Bifidobacterium_breve
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Eggerthella.s__Eggerthella_lenta
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bifidobacterium.s__Bifidobacterium_breve
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|g__Bifidobacterium.s__Bifidobacterium_breve
+P122-PWY: heterolactic fermentation
+P122-PWY: heterolactic fermentation|g__Bifidobacterium.s__Bifidobacterium_bifidum
+P122-PWY: heterolactic fermentation|g__Bifidobacterium.s__Bifidobacterium_breve
+P124-PWY: Bifidobacterium shunt
+P124-PWY: Bifidobacterium shunt|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+P124-PWY: Bifidobacterium shunt|g__Bifidobacterium.s__Bifidobacterium_bifidum
+P124-PWY: Bifidobacterium shunt|g__Bifidobacterium.s__Bifidobacterium_breve
+P124-PWY: Bifidobacterium shunt|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PENTOSE-P-PWY: pentose phosphate pathway
+PENTOSE-P-PWY: pentose phosphate pathway|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PENTOSE-P-PWY: pentose phosphate pathway|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PENTOSE-P-PWY: pentose phosphate pathway|g__Bifidobacterium.s__Bifidobacterium_breve
+PENTOSE-P-PWY: pentose phosphate pathway|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-2942: L-lysine biosynthesis III
+PWY-2942: L-lysine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-2942: L-lysine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-2942: L-lysine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-2942: L-lysine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-2942: L-lysine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-3001: superpathway of L-isoleucine biosynthesis I
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-3841: folate transformations II
+PWY-3841: folate transformations II|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-3841: folate transformations II|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-4242: pantothenate and coenzyme A biosynthesis III
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-5097: L-lysine biosynthesis VI
+PWY-5097: L-lysine biosynthesis VI|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-5097: L-lysine biosynthesis VI|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-5097: L-lysine biosynthesis VI|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-5097: L-lysine biosynthesis VI|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-5097: L-lysine biosynthesis VI|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-5101: L-isoleucine biosynthesis II|g__Eggerthella.s__Eggerthella_lenta
+PWY-5103: L-isoleucine biosynthesis III
+PWY-5103: L-isoleucine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-5103: L-isoleucine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-5103: L-isoleucine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-5103: L-isoleucine biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-5103: L-isoleucine biosynthesis III|g__Eggerthella.s__Eggerthella_lenta
+PWY-5104: L-isoleucine biosynthesis IV|g__Eggerthella.s__Eggerthella_lenta
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-5686: UMP biosynthesis
+PWY-5686: UMP biosynthesis|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-5686: UMP biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-5686: UMP biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-5686: UMP biosynthesis|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-5686: UMP biosynthesis|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-5913: TCA cycle VI (obligate autotrophs)
+PWY-5971: palmitate biosynthesis II (bacteria and plants)|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-5973: cis-vaccenate biosynthesis|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-5989: stearate biosynthesis II (bacteria and plants)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-5989: stearate biosynthesis II (bacteria and plants)|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-6123: inosine-5'-phosphate biosynthesis I
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-6124: inosine-5'-phosphate biosynthesis II
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-6151: S-adenosyl-L-methionine cycle I
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-6527: stachyose degradation
+PWY-6527: stachyose degradation|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-6527: stachyose degradation|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6527: stachyose degradation|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-6737: starch degradation V
+PWY-6737: starch degradation V|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-6737: starch degradation V|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-6901: superpathway of glucose and xylose degradation
+PWY-7111: pyruvate fermentation to isobutanol (engineered)
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Eggerthella.s__Eggerthella_lenta
+PWY-7208: superpathway of pyrimidine nucleobases salvage
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-7219: adenosine ribonucleotides de novo biosynthesis
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-7221: guanosine ribonucleotides de novo biosynthesis
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-7234: inosine-5'-phosphate biosynthesis III
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-7388: octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY-7664: oleate biosynthesis IV (anaerobic)|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+PWY0-862: (5Z)-dodec-5-enoate biosynthesis|g__Bifidobacterium.s__Bifidobacterium_breve
+PWY66-422: D-galactose degradation V (Leloir pathway)
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Bifidobacterium.s__Bifidobacterium_bifidum
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Bifidobacterium.s__Bifidobacterium_breve
+PWYG-321: mycolate biosynthesis|g__Bifidobacterium.s__Bifidobacterium_breve
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bifidobacterium.s__Bifidobacterium_longum
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_breve
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Eggerthella.s__Eggerthella_lenta
+THRESYN-PWY: superpathway of L-threonine biosynthesis
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_breve
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+TRPSYN-PWY: L-tryptophan biosynthesis
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bifidobacterium.s__Bifidobacterium_breve
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_bifidum
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_breve
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+VALSYN-PWY: L-valine biosynthesis
+VALSYN-PWY: L-valine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_adolescentis
+VALSYN-PWY: L-valine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum
+VALSYN-PWY: L-valine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_bifidum_CAG_234
+VALSYN-PWY: L-valine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_breve
+VALSYN-PWY: L-valine biosynthesis|g__Bifidobacterium.s__Bifidobacterium_pseudocatenulatum
+VALSYN-PWY: L-valine biosynthesis|g__Eggerthella.s__Eggerthella_lenta

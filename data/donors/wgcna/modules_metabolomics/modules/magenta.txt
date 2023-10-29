@@ -1,0 +1,39 @@
+spermidine
+12,13-DiHOME
+4-hydroxyphenylacetate
+9,10-DiHOME
+sphingosine
+phytosphingosine
+retinol (vitamin A)
+adenosine
+adenine
+thymine
+caprate (10:0)
+caprylate (8:0)
+5-oxoproline
+methyl indole-3-acetate
+ursodeoxycholate
+N(1)-acetylspermine
+N-acetylglutamate
+indolelactate
+8-hydroxyoctanoate
+phenylacetylglutamine
+3-ketosphinganine
+glutamine_degradant*
+octadecanedioate (C18-DC)
+isoursodeoxycholate
+ursocholate
+diglycerol
+2-hydroxydecanoate
+tryptophol
+N-acetylhistamine
+phenylacetylglutamate
+(3'-5')-uridylyluridine
+N-(2-hydroxypalmitoyl)-sphingosine (d18:1/16:0(2OH))
+sphingadienine
+hexadecasphingosine (d16:1)*
+heptadecasphingosine (d17:1)
+eicosanoylsphingosine (d20:1)*
+N-palmitoyl-phytosphingosine (t18:0/16:0)
+3-indoleglyoxylic acid
+geranyllinalool

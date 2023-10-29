@@ -1,0 +1,7 @@
+2-oleoylglycerol (18:1)
+2-linoleoylglycerol (18:2)
+1-linolenoylglycerol (18:3)
+linoleoyl-linolenoyl-glycerol (18:2/18:3) [1]*
+linoleoyl-linolenoyl-glycerol (18:2/18:3) [2]*
+linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*
+linoleoyl-linoleoyl-glycerol (18:2/18:2) [2]*

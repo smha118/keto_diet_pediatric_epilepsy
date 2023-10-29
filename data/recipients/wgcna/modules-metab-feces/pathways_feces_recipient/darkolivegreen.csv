@@ -1,5 +1,0 @@
-"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
-"Folate biosynthesis",27,0.053785,1,0.052861,1.2769,1,1,0.0203
-"Glutathione metabolism",28,0.055777,1,0.054782,1.2614,1,1,0.0568
-"Cysteine and methionine metabolism",33,0.065737,1,0.064349,1.1915,1,1,0.17854
-"Glycine, serine and threonine metabolism",34,0.067729,1,0.066255,1.1788,1,1,0

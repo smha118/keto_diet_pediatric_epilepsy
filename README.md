@@ -9,9 +9,9 @@ that confer seizure resistance in mice"
 Each directory contains donors & recipients data and relevant source codes in jupyter notebook format. Due to the size limit mmvec result files are stored in the [Google Drive](https://drive.google.com/drive/folders/1Z8sWRNHAHaUCh3hYm9MvkVGY32F4IZ1w?usp=sharing).
 
 The overall schematic looks like below:<br>
-After 3.Merge_module_info2mmvec_network_for_wkda, the output files were used in [Mergeomics](http://mergeomics.research.idre.ucla.edu/) webpage to perform wKDA analysis.
-The results of wKDA were then used to modify the node description in 4.modify_mergeomics_results. 
-After 4.modify_mergeomics_results, the results files were loaded onto the Cytoscape for further visualization.
+After 2.parse_wgcna_modules, the output files were used in [Mergeomics](http://mergeomics.research.idre.ucla.edu/) webpage to perform wKDA analysis.
+The results of wKDA were then used to modify the node description in 3.Merge_module_wkda_gwas_deg_info2mmvec_network. 
+After 3.Merge_module_wkda_gwas_deg_info2mmvec_network, the results files were loaded onto the Cytoscape for further visualization.
 
 
 
@@ -19,12 +19,9 @@ After 4.modify_mergeomics_results, the results files were loaded onto the Cytosc
 flowchart TD;
 	A[WGNCA] --> C[1.parse_mmvec]
 	B[MMVEC] --> C[1.parse_mmvec]
-	C-->D{WGCNA from RNA-seq data?}
-	D -- Yes --> E[2.parse_wgcna_modules]
-	D -- No --> F[3.Merge_module_info2mmvec_network_for_wkda]
-	E --> F[3.Merge_module_info2mmvec_network_for_wkda]
-	F --> G[Mergeomics]
-	G --> H[4.modify_mergeomics_results]
+	C-->D[2.parse_wgcna_modules]
+	D-->E{Mergeomics wKDA}
+	E-->F[3.Merge_module_wkda_gwas_deg_info2mmvec_network]
 ```
 
 

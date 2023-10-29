@@ -1,0 +1,97 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Enterococcus.s__Enterococcus_avium
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Enterococcus.s__Enterococcus_avium
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Enterococcus.s__Enterococcus_avium
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Enterococcus.s__Enterococcus_avium
+ARO-PWY: chorismate biosynthesis I|g__Enterococcus.s__Enterococcus_avium
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Enterococcus.s__Enterococcus_avium
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Enterococcus.s__Enterococcus_avium
+COA-PWY: coenzyme A biosynthesis I|g__Enterococcus.s__Enterococcus_avium
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Clostridioides.s__Clostridioides_difficile
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Enterococcus.s__Enterococcus_avium
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Enterococcus.s__Enterococcus_avium
+GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation|g__Clostridioides.s__Clostridioides_difficile
+GLUTORN-PWY: L-ornithine biosynthesis|g__Blautia.s__Ruminococcus_gnavus
+GLUTORN-PWY: L-ornithine biosynthesis|g__Enterococcus.s__Enterococcus_avium
+GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol|g__Enterococcus.s__Enterococcus_avium
+HISTSYN-PWY: L-histidine biosynthesis|g__Enterococcus.s__Enterococcus_avium
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Enterococcus.s__Enterococcus_avium
+LACTOSECAT-PWY: lactose and galactose degradation I|g__Enterococcus.s__Enterococcus_avium
+LACTOSECAT-PWY: lactose and galactose degradation I|g__Listeria.s__Listeria_monocytogenes
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Enterococcus.s__Enterococcus_avium
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Listeria.s__Listeria_monocytogenes
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|g__Enterococcus.s__Enterococcus_avium
+P161-PWY: acetylene degradation|g__Enterococcus.s__Enterococcus_avium
+P161-PWY: acetylene degradation|g__Turicibacter.s__Turicibacter_sanguinis
+P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)|g__Enterococcus.s__Enterococcus_avium
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate|g__Enterococcus.s__Enterococcus_avium
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Enterococcus.s__Enterococcus_avium
+PENTOSE-P-PWY: pentose phosphate pathway|g__Enterococcus.s__Enterococcus_avium
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Enterococcus.s__Enterococcus_avium
+PPGPPMET-PWY: ppGpp biosynthesis|g__Enterococcus.s__Enterococcus_avium
+PWY-1042: glycolysis IV (plant cytosol)|g__Enterococcus.s__Enterococcus_avium
+PWY-1042: glycolysis IV (plant cytosol)|g__Listeria.s__Listeria_monocytogenes
+PWY-1042: glycolysis IV (plant cytosol)|g__Turicibacter.s__Turicibacter_sanguinis
+PWY-2941: L-lysine biosynthesis II|g__Enterococcus.s__Enterococcus_avium
+PWY-2942: L-lysine biosynthesis III|g__Enterococcus.s__Enterococcus_avium
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Enterococcus.s__Enterococcus_avium
+PWY-3841: folate transformations II|g__Enterococcus.s__Enterococcus_avium
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Enterococcus.s__Enterococcus_avium
+PWY-5097: L-lysine biosynthesis VI|g__Enterococcus.s__Enterococcus_avium
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Enterococcus.s__Enterococcus_avium
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Turicibacter.s__Turicibacter_sanguinis
+PWY-5686: UMP biosynthesis|g__Enterococcus.s__Enterococcus_avium
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Enterococcus.s__Enterococcus_avium
+PWY-5973: cis-vaccenate biosynthesis|g__Enterococcus.s__Enterococcus_avium
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Enterococcus.s__Enterococcus_avium
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Enterococcus.s__Enterococcus_avium
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Enterococcus.s__Enterococcus_avium
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Enterococcus.s__Enterococcus_avium
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Enterococcus.s__Enterococcus_avium
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Enterococcus.s__Enterococcus_avium
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Enterococcus.s__Enterococcus_avium
+PWY-621: sucrose degradation III (sucrose invertase)|g__Enterococcus.s__Enterococcus_avium
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Enterococcus.s__Enterococcus_avium
+PWY-6317: galactose degradation I (Leloir pathway)|g__Enterococcus.s__Enterococcus_avium
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Enterococcus.s__Enterococcus_avium
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Enterococcus.s__Enterococcus_avium
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Enterococcus.s__Enterococcus_avium
+PWY-6470: peptidoglycan biosynthesis V (&beta;-lactam resistance)|g__Enterococcus.s__Enterococcus_avium
+PWY-6471: peptidoglycan biosynthesis IV (Enterococcus faecium)|g__Enterococcus.s__Enterococcus_avium
+PWY-6609: adenine and adenosine salvage III|g__Enterococcus.s__Enterococcus_avium
+PWY-6700: queuosine biosynthesis|g__Enterococcus.s__Enterococcus_avium
+PWY-7013: L-1,2-propanediol degradation|g__Enterococcus.s__Enterococcus_avium
+PWY-7013: L-1,2-propanediol degradation|g__Listeria.s__Listeria_monocytogenes
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Enterococcus.s__Enterococcus_avium
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Listeria.s__Listeria_monocytogenes
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I|g__Enterococcus.s__Enterococcus_avium
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Enterococcus.s__Enterococcus_avium
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Enterococcus.s__Enterococcus_avium
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Enterococcus.s__Enterococcus_avium
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Enterococcus.s__Enterococcus_avium
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Enterococcus.s__Enterococcus_avium
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Enterococcus.s__Enterococcus_avium
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Enterococcus.s__Enterococcus_avium
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Enterococcus.s__Enterococcus_avium
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Enterococcus.s__Enterococcus_avium
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Enterococcus.s__Enterococcus_avium
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Enterococcus.s__Enterococcus_avium
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Enterococcus.s__Enterococcus_avium
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Enterococcus.s__Enterococcus_avium
+PWY-841: superpathway of purine nucleotides de novo biosynthesis I|g__Enterococcus.s__Enterococcus_avium
+PWY0-1296: purine ribonucleosides degradation|g__Enterococcus.s__Enterococcus_avium
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|g__Enterococcus.s__Enterococcus_avium
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|g__Enterococcus.s__Enterococcus_avium
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Enterococcus.s__Enterococcus_avium
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)|g__Enterococcus.s__Enterococcus_avium
+PWY66-400: glycolysis VI (metazoan)|g__Enterococcus.s__Enterococcus_avium
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Enterococcus.s__Enterococcus_avium
+RHAMCAT-PWY: L-rhamnose degradation I|g__Enterococcus.s__Enterococcus_avium
+RHAMCAT-PWY: L-rhamnose degradation I|g__Listeria.s__Listeria_monocytogenes
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Enterococcus.s__Enterococcus_avium
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Enterococcus.s__Enterococcus_avium
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Enterococcus.s__Enterococcus_avium
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Enterococcus.s__Enterococcus_avium
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Enterococcus.s__Enterococcus_avium
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Listeria.s__Listeria_monocytogenes
+VALSYN-PWY: L-valine biosynthesis|g__Enterococcus.s__Enterococcus_avium
+VALSYN-PWY: L-valine biosynthesis|g__Listeria.s__Listeria_monocytogenes

@@ -1,0 +1,533 @@
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Bacteroides.s__Bacteroides_faecis
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Blautia.s__Ruminococcus_torques
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Coprococcus.s__Coprococcus_eutactus
+1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+ALLANTOINDEG-PWY: superpathway of allantoin degradation in yeast
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Alistipes.s__Alistipes_putredinis
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Bacteroides.s__Bacteroides_faecis
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Blautia.s__Ruminococcus_torques
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|g__Parabacteroides.s__Parabacteroides_merdae
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Blautia.s__Ruminococcus_torques
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Coprococcus.s__Coprococcus_eutactus
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+ARO-PWY: chorismate biosynthesis I|g__Coprococcus.s__Coprococcus_eutactus
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Bacteroides.s__Bacteroides_massiliensis
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Lachnoclostridium.s__Lachnoclostridium_sp_An131
+AST-PWY: L-arginine degradation II (AST pathway)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Blautia.s__Ruminococcus_torques
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Coprococcus.s__Coprococcus_comes
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Coprococcus.s__Coprococcus_comes_CAG_19
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Coprococcus.s__Coprococcus_eutactus
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Lachnoclostridium.s__Lachnoclostridium_sp_An131
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Alistipes.s__Alistipes_putredinis
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Alistipes.s__Alistipes_putredinis_CAG_67
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_cellulosilyticus
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_faecis
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_massiliensis
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Bacteroides.s__Bacteroides_uniformis_CAG_3
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Parabacteroides.s__Parabacteroides_merdae
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Prevotella.s__Prevotella_copri
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Prevotella.s__Prevotella_copri_CAG_164
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+CATECHOL-ORTHO-CLEAVAGE-PWY: catechol degradation to &beta;-ketoadipate|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_caccae
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_faecis
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_uniformis_CAG_3
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Coprococcus.s__Coprococcus_eutactus
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Oscillibacter.s__Oscillibacter_sp_CAG_241
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_caccae
+COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_faecis
+COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_uniformis_CAG_3
+COA-PWY: coenzyme A biosynthesis I|g__Coprococcus.s__Coprococcus_eutactus
+COA-PWY: coenzyme A biosynthesis I|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+COA-PWY: coenzyme A biosynthesis I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+COBALSYN-PWY: adenosylcobalamin salvage from cobinamide I
+COBALSYN-PWY: adenosylcobalamin salvage from cobinamide I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Coprococcus.s__Coprococcus_eutactus
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+DENITRIFICATION-PWY: nitrate reduction I (denitrification)
+DENITRIFICATION-PWY: nitrate reduction I (denitrification)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Alistipes.s__Alistipes_putredinis
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Bacteroides.s__Bacteroides_faecis
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Lachnoclostridium.s__Lachnoclostridium_sp_An131
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+FAO-PWY: fatty acid &beta;-oxidation I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+FASYN-ELONG-PWY: fatty acid elongation -- saturated|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Bacteroides.s__Bacteroides_faecis
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Parabacteroides.s__Parabacteroides_merdae
+FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+GLUTORN-PWY: L-ornithine biosynthesis|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+GLUTORN-PWY: L-ornithine biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+GLUTORN-PWY: L-ornithine biosynthesis|g__Ruminococcus.s__Ruminococcus_bicirculans
+GLYCOCAT-PWY: glycogen degradation I (bacterial)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Bacteroides.s__Bacteroides_faecis
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Alistipes.s__Alistipes_putredinis
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Bacteroides.s__Bacteroides_faecis
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|g__Parabacteroides.s__Parabacteroides_merdae
+HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+HISDEG-PWY: L-histidine degradation I|g__Alistipes.s__Alistipes_putredinis
+HISDEG-PWY: L-histidine degradation I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+HISDEG-PWY: L-histidine degradation I|g__Bacteroides.s__Bacteroides_faecis
+HISDEG-PWY: L-histidine degradation I|g__Bacteroides.s__Bacteroides_fragilis
+HISDEG-PWY: L-histidine degradation I|g__Bacteroides.s__Bacteroides_uniformis_CAG_3
+HISDEG-PWY: L-histidine degradation I|g__Oscillibacter.s__Oscillibacter_sp_CAG_241
+HISDEG-PWY: L-histidine degradation I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_faecis
+HISTSYN-PWY: L-histidine biosynthesis|g__Blautia.s__Ruminococcus_torques
+HISTSYN-PWY: L-histidine biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Blautia.s__Ruminococcus_torques
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Coprococcus.s__Coprococcus_eutactus
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Coprococcus.s__Coprococcus_eutactus
+HSERMETANA-PWY: L-methionine biosynthesis III|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Coprococcus.s__Coprococcus_comes
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Coprococcus.s__Coprococcus_comes_CAG_19
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Coprococcus.s__Coprococcus_eutactus
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Lachnoclostridium.s__Lachnoclostridium_sp_An131
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+LEU-DEG2-PWY: L-leucine degradation I
+LEU-DEG2-PWY: L-leucine degradation I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Blautia.s__Ruminococcus_torques
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Coprococcus.s__Coprococcus_eutactus
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Blautia.s__Ruminococcus_torques
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Coprococcus.s__Coprococcus_eutactus
+METSYN-PWY: L-homoserine and L-methionine biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+NAGLIPASYN-PWY: lipid IVA biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+NAGLIPASYN-PWY: lipid IVA biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Bacteroides.s__Bacteroides_faecis
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Oscillibacter.s__Oscillibacter_sp_CAG_241
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+P163-PWY: L-lysine fermentation to acetate and butanoate|g__Alistipes.s__Alistipes_putredinis
+P163-PWY: L-lysine fermentation to acetate and butanoate|g__Oscillibacter.s__Oscillibacter_sp_CAG_241
+P221-PWY: octane oxidation|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+P4-PWY: superpathway of L-lysine, L-threonine and L-methionine biosynthesis I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_faecis
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Coprococcus.s__Coprococcus_eutactus
+PANTO-PWY: phosphopantothenate biosynthesis I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_faecis
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_uniformis_CAG_3
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Blautia.s__Ruminococcus_torques
+PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Alistipes.s__Alistipes_putredinis
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_faecis
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Coprococcus.s__Coprococcus_eutactus
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Lachnoclostridium.s__Lachnoclostridium_sp_An131
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Oscillibacter.s__Oscillibacter_sp_CAG_241
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Prevotella.s__Prevotella_copri
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Prevotella.s__Prevotella_copri_CAG_164
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PPGPPMET-PWY: ppGpp biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY: protocatechuate degradation II (ortho-cleavage pathway)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-1042: glycolysis IV (plant cytosol)|g__Alistipes.s__Alistipes_putredinis
+PWY-1042: glycolysis IV (plant cytosol)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-1042: glycolysis IV (plant cytosol)|g__Bacteroides.s__Bacteroides_faecis
+PWY-1042: glycolysis IV (plant cytosol)|g__Coprococcus.s__Coprococcus_comes
+PWY-1042: glycolysis IV (plant cytosol)|g__Prevotella.s__Prevotella_copri
+PWY-1042: glycolysis IV (plant cytosol)|g__Prevotella.s__Prevotella_copri_CAG_164
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-2941: L-lysine biosynthesis II|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_faecis
+PWY-2942: L-lysine biosynthesis III|g__Bacteroides.s__Bacteroides_uniformis_CAG_3
+PWY-2942: L-lysine biosynthesis III|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-3781: aerobic respiration I (cytochrome c)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-3841: folate transformations II|g__Alistipes.s__Alistipes_putredinis
+PWY-3841: folate transformations II|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-3841: folate transformations II|g__Bacteroides.s__Bacteroides_faecis
+PWY-3841: folate transformations II|g__Blautia.s__Ruminococcus_torques
+PWY-3841: folate transformations II|g__Coprococcus.s__Coprococcus_eutactus
+PWY-3841: folate transformations II|g__Oscillibacter.s__Oscillibacter_sp_CAG_241
+PWY-3841: folate transformations II|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+PWY-3841: folate transformations II|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_faecis
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Blautia.s__Ruminococcus_torques
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Ruminococcus.s__Ruminococcus_bicirculans
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-4981: L-proline biosynthesis II (from arginine)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5030: L-histidine degradation III|g__Alistipes.s__Alistipes_putredinis
+PWY-5030: L-histidine degradation III|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-5030: L-histidine degradation III|g__Bacteroides.s__Bacteroides_faecis
+PWY-5030: L-histidine degradation III|g__Bacteroides.s__Bacteroides_uniformis_CAG_3
+PWY-5030: L-histidine degradation III|g__Oscillibacter.s__Oscillibacter_sp_CAG_241
+PWY-5083: NAD/NADH phosphorylation and dephosphorylation|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_faecis
+PWY-5097: L-lysine biosynthesis VI|g__Bacteroides.s__Bacteroides_uniformis_CAG_3
+PWY-5097: L-lysine biosynthesis VI|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-5097: L-lysine biosynthesis VI|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5100: pyruvate fermentation to acetate and lactate II|g__Coprococcus.s__Coprococcus_eutactus
+PWY-5101: L-isoleucine biosynthesis II|g__Blautia.s__Ruminococcus_torques
+PWY-5101: L-isoleucine biosynthesis II|g__Coprococcus.s__Coprococcus_eutactus
+PWY-5101: L-isoleucine biosynthesis II|g__Coprococcus.s__Coprococcus_eutactus_CAG_665
+PWY-5103: L-isoleucine biosynthesis III|g__Blautia.s__Ruminococcus_torques
+PWY-5103: L-isoleucine biosynthesis III|g__Coprococcus.s__Coprococcus_comes
+PWY-5103: L-isoleucine biosynthesis III|g__Coprococcus.s__Coprococcus_comes_CAG_19
+PWY-5103: L-isoleucine biosynthesis III|g__Coprococcus.s__Coprococcus_eutactus
+PWY-5103: L-isoleucine biosynthesis III|g__Lachnoclostridium.s__Lachnoclostridium_sp_An131
+PWY-5103: L-isoleucine biosynthesis III|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+PWY-5103: L-isoleucine biosynthesis III|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5104: L-isoleucine biosynthesis IV|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5136: fatty acid &beta;-oxidation II (peroxisome)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5138: unsaturated, even numbered fatty acid &beta;-oxidation|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5173: superpathway of acetyl-CoA biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5177: glutaryl-CoA degradation|g__Coprococcus.s__Coprococcus_comes_CAG_19
+PWY-5177: glutaryl-CoA degradation|g__Coprococcus.s__Coprococcus_eutactus
+PWY-5177: glutaryl-CoA degradation|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+PWY-5181: toluene degradation III (aerobic) (via p-cresol)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Coprococcus.s__Coprococcus_eutactus
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5304: superpathway of sulfur oxidation (Acidianus ambivalens)
+PWY-5304: superpathway of sulfur oxidation (Acidianus ambivalens)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|g__Blautia.s__Ruminococcus_torques
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|g__Coprococcus.s__Coprococcus_eutactus
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5417: catechol degradation III (ortho-cleavage pathway)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5431: aromatic compounds degradation via &beta;-ketoadipate|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Alistipes.s__Alistipes_putredinis
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Bacteroides.s__Bacteroides_faecis
+PWY-5484: glycolysis II (from fructose 6-phosphate)|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-5505: L-glutamate and L-glutamine biosynthesis
+PWY-5659: GDP-mannose biosynthesis|g__Bacteroides.s__Bacteroides_caccae
+PWY-5659: GDP-mannose biosynthesis|g__Bacteroides.s__Bacteroides_uniformis_CAG_3
+PWY-5659: GDP-mannose biosynthesis|g__Prevotella.s__Prevotella_copri
+PWY-5659: GDP-mannose biosynthesis|g__Prevotella.s__Prevotella_copri_CAG_164
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Alistipes.s__Alistipes_putredinis
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Bacteroides.s__Bacteroides_uniformis
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Coprococcus.s__Coprococcus_comes
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Coprococcus.s__Coprococcus_comes_CAG_19
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Oscillibacter.s__Oscillibacter_sp_CAG_241
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5686: UMP biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-5686: UMP biosynthesis|g__Bacteroides.s__Bacteroides_faecis
+PWY-5686: UMP biosynthesis|g__Coprococcus.s__Coprococcus_eutactus
+PWY-5686: UMP biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Bacteroides.s__Bacteroides_faecis
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Prevotella.s__Prevotella_copri
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Prevotella.s__Prevotella_copri_CAG_164
+PWY-5747: 2-methylcitrate cycle II|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5823: superpathway of CDP-glucose-derived O-antigen building blocks biosynthesis
+PWY-5855: ubiquinol-7 biosynthesis (prokaryotic)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5856: ubiquinol-9 biosynthesis (prokaryotic)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5857: ubiquinol-10 biosynthesis (prokaryotic)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5918: superpathay of heme biosynthesis from glutamate|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5973: cis-vaccenate biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-5989: stearate biosynthesis II (bacteria and plants)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Alistipes.s__Alistipes_putredinis
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Barnesiella.s__Barnesiella_intestinihominis
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Blautia.s__Ruminococcus_torques
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Coprococcus.s__Coprococcus_comes
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Coprococcus.s__Coprococcus_eutactus
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Lachnoclostridium.s__Lachnoclostridium_sp_An131
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Alistipes.s__Alistipes_putredinis
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Bacteroides.s__Bacteroides_faecis
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Barnesiella.s__Barnesiella_intestinihominis
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Blautia.s__Ruminococcus_torques
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Coprococcus.s__Coprococcus_comes_CAG_19
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Coprococcus.s__Coprococcus_eutactus
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lachnoclostridium.s__Lachnoclostridium_sp_An131
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Prevotella.s__Prevotella_copri_CAG_164
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Alistipes.s__Alistipes_putredinis
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_faecis
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Alistipes.s__Alistipes_putredinis
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Bacteroides.s__Bacteroides_faecis
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_faecis
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Bacteroides.s__Bacteroides_uniformis_CAG_3
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Bacteroides.s__Bacteroides_vulgatus
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Coprococcus.s__Coprococcus_comes_CAG_19
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Coprococcus.s__Coprococcus_eutactus
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Oscillibacter.s__Oscillibacter_sp_CAG_241
+PWY-6151: S-adenosyl-L-methionine cycle I|g__Prevotella.s__Prevotella_copri_CAG_164
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_faecis
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Bacteroides.s__Bacteroides_massiliensis
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Coprococcus.s__Coprococcus_eutactus
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6168: flavin biosynthesis III (fungi)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6182: superpathway of salicylate degradation|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6185: 4-methylcatechol degradation (ortho cleavage)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-621: sucrose degradation III (sucrose invertase)|g__Coprococcus.s__Coprococcus_eutactus
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Alistipes.s__Alistipes_putredinis
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Bacteroides.s__Bacteroides_faecis
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Barnesiella.s__Barnesiella_intestinihominis
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Blautia.s__Ruminococcus_torques
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Coprococcus.s__Coprococcus_comes_CAG_19
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Coprococcus.s__Coprococcus_eutactus
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lachnoclostridium.s__Lachnoclostridium_sp_An131
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Prevotella.s__Prevotella_copri_CAG_164
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6305: putrescine biosynthesis IV|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6318: L-phenylalanine degradation IV (mammalian, via side chain)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Bacteroides.s__Bacteroides_faecis
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Oscillibacter.s__Oscillibacter_sp_CAG_241
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Prevotella.s__Prevotella_copri
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Prevotella.s__Prevotella_copri_CAG_164
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Bacteroides.s__Bacteroides_faecis
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Coprococcus.s__Coprococcus_eutactus
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Oscillibacter.s__Oscillibacter_sp_CAG_241
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Prevotella.s__Prevotella_copri
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Prevotella.s__Prevotella_copri_CAG_164
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Alistipes.s__Alistipes_putredinis
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Bacteroides.s__Bacteroides_faecis
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Coprococcus.s__Coprococcus_eutactus
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Lachnoclostridium.s__Lachnoclostridium_sp_An131
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Oscillibacter.s__Oscillibacter_sp_CAG_241
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Prevotella.s__Prevotella_copri
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Prevotella.s__Prevotella_copri_CAG_164
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6609: adenine and adenosine salvage III|g__Alistipes.s__Alistipes_putredinis
+PWY-6609: adenine and adenosine salvage III|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_faecis
+PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_uniformis
+PWY-6609: adenine and adenosine salvage III|g__Eubacterium.s__Eubacterium_ramulus
+PWY-6609: adenine and adenosine salvage III|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-6609: adenine and adenosine salvage III|g__Prevotella.s__Prevotella_copri
+PWY-6609: adenine and adenosine salvage III|g__Prevotella.s__Prevotella_copri_CAG_164
+PWY-6609: adenine and adenosine salvage III|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+PWY-6660: 2-heptyl-3-hydroxy-4(1H)-quinolone biosynthesis
+PWY-6660: 2-heptyl-3-hydroxy-4(1H)-quinolone biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6662: superpathway of quinolone and alkylquinolone biosynthesis
+PWY-6662: superpathway of quinolone and alkylquinolone biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_caccae
+PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_faecis
+PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_massiliensis
+PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_uniformis_CAG_3
+PWY-6700: queuosine biosynthesis|g__Coprococcus.s__Coprococcus_eutactus
+PWY-6700: queuosine biosynthesis|g__Oscillibacter.s__Oscillibacter_sp_CAG_241
+PWY-6700: queuosine biosynthesis|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-6700: queuosine biosynthesis|g__Prevotella.s__Prevotella_copri_CAG_164
+PWY-6700: queuosine biosynthesis|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+PWY-6700: queuosine biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_faecis
+PWY-6703: preQ0 biosynthesis|g__Bacteroides.s__Bacteroides_uniformis
+PWY-6703: preQ0 biosynthesis|g__Coprococcus.s__Coprococcus_eutactus
+PWY-6703: preQ0 biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6708: ubiquinol-8 biosynthesis (prokaryotic)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6737: starch degradation V|g__Coprococcus.s__Coprococcus_comes
+PWY-6737: starch degradation V|g__Coprococcus.s__Coprococcus_comes_CAG_19
+PWY-6737: starch degradation V|g__Lachnoclostridium.s__Lachnoclostridium_sp_An131
+PWY-6737: starch degradation V|g__Prevotella.s__Prevotella_copri
+PWY-6737: starch degradation V|g__Prevotella.s__Prevotella_copri_CAG_164
+PWY-6737: starch degradation V|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6748: nitrate reduction VII (denitrification)
+PWY-6748: nitrate reduction VII (denitrification)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6749: CMP-legionaminate biosynthesis I|unclassified
+PWY-6837: fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-6897: thiamin salvage II|g__Bacteroides.s__Bacteroides_faecis
+PWY-6897: thiamin salvage II|g__Bacteroides.s__Bacteroides_massiliensis
+PWY-6897: thiamin salvage II|g__Prevotella.s__Prevotella_copri_CAG_164
+PWY-6936: seleno-amino acid biosynthesis|g__Blautia.s__Ruminococcus_torques
+PWY-6936: seleno-amino acid biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-7094: fatty acid salvage|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Bacteroides.s__Bacteroides_faecis
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Coprococcus.s__Coprococcus_comes
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Coprococcus.s__Coprococcus_comes_CAG_19
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Coprococcus.s__Coprococcus_eutactus
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Coprococcus.s__Coprococcus_eutactus_CAG_665
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Lachnoclostridium.s__Lachnoclostridium_sp_An131
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-7117: C4 photosynthetic carbon assimilation cycle, PEPCK type|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Alistipes.s__Alistipes_putredinis
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_faecis
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_uniformis_CAG_3
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Oscillibacter.s__Oscillibacter_sp_CAG_241
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Bacteroides.s__Bacteroides_faecis
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Methanobrevibacter.s__Methanobrevibacter_smithii
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Alistipes.s__Alistipes_putredinis
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_faecis
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Barnesiella.s__Barnesiella_intestinihominis
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Coprococcus.s__Coprococcus_comes
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Coprococcus.s__Coprococcus_comes_CAG_19
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Coprococcus.s__Coprococcus_eutactus
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Eubacterium.s__Eubacterium_ramulus
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Oscillibacter.s__Oscillibacter_sp_CAG_241
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Parabacteroides.s__Parabacteroides_merdae
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Prevotella.s__Prevotella_copri_CAG_164
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_faecis
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Alistipes.s__Alistipes_putredinis
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_faecis
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_uniformis_CAG_3
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Coprococcus.s__Coprococcus_comes
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Coprococcus.s__Coprococcus_comes_CAG_19
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Coprococcus.s__Coprococcus_eutactus
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Prevotella.s__Prevotella_copri
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Prevotella.s__Prevotella_copri_CAG_164
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Bacteroides.s__Bacteroides_faecis
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Bacteroides.s__Bacteroides_faecis
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Alistipes.s__Alistipes_putredinis
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY-7234: inosine-5'-phosphate biosynthesis III|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-7242: D-fructuronate degradation|unclassified
+PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-7254: TCA cycle VII (acetate-producers)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-7268: NAD/NADP-NADH/NADPH cytosolic interconversion (yeast)
+PWY-7268: NAD/NADP-NADH/NADPH cytosolic interconversion (yeast)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-7269: NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-7282: 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast)|g__Bacteroides.s__Bacteroides_faecis
+PWY-7316: dTDP-N-acetylviosamine biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY-7316: dTDP-N-acetylviosamine biosynthesis|unclassified
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Bacteroides.s__Bacteroides_faecis
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Bacteroides.s__Bacteroides_massiliensis
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Coprococcus.s__Coprococcus_eutactus
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Prevotella.s__Prevotella_copri_CAG_164
+PWY-7388: octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+PWY-7663: gondoate biosynthesis (anaerobic)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY-7664: oleate biosynthesis IV (anaerobic)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY0-1061: superpathway of L-alanine biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Alistipes.s__Alistipes_putredinis
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Bacteroides.s__Bacteroides_uniformis
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Bacteroides.s__Bacteroides_vulgatus
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Coprococcus.s__Coprococcus_comes
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Coprococcus.s__Coprococcus_comes_CAG_19
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Oscillibacter.s__Oscillibacter_sp_CAG_241
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY0-1338: polymyxin resistance|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY0-1479: tRNA processing|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY0-1533: methylphosphonate degradation I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY0-42: 2-methylcitrate cycle I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Bacteroides.s__Bacteroides_faecis
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY0-862: (5Z)-dodec-5-enoate biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY0-881: superpathway of fatty acid biosynthesis I (E. coli)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY66-388: fatty acid &alpha;-oxidation III
+PWY66-388: fatty acid &alpha;-oxidation III|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY66-389: phytol degradation|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PWY66-400: glycolysis VI (metazoan)|g__Alistipes.s__Alistipes_putredinis
+PWY66-400: glycolysis VI (metazoan)|g__Alistipes.s__Alistipes_putredinis_CAG_67
+PWY66-400: glycolysis VI (metazoan)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PWY66-400: glycolysis VI (metazoan)|g__Bacteroides.s__Bacteroides_faecis
+PWY66-400: glycolysis VI (metazoan)|g__Parabacteroides.s__Parabacteroides_merdae
+PYRIDNUCSYN-PWY: NAD biosynthesis I (from aspartate)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_cellulosilyticus
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_faecis
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_caccae
+RHAMCAT-PWY: L-rhamnose degradation I|g__Bacteroides.s__Bacteroides_faecis
+RHAMCAT-PWY: L-rhamnose degradation I|g__Blautia.s__Ruminococcus_torques
+RHAMCAT-PWY: L-rhamnose degradation I|g__Prevotella.s__Prevotella_copri
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Bacteroides.s__Bacteroides_cellulosilyticus
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Coprococcus.s__Coprococcus_eutactus
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Bacteroides.s__Bacteroides_massiliensis
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Coprococcus.s__Coprococcus_comes
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Coprococcus.s__Coprococcus_eutactus
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Eisenbergiella.s__Eisenbergiella_massiliensis
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Ruminococcus.s__Ruminococcus_bicirculans
+SO4ASSIM-PWY: sulfate reduction I (assimilatory)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+SULFATE-CYS-PWY: superpathway of sulfate assimilation and cysteine biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Bacteroides.s__Bacteroides_faecis
+THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Prevotella.s__Prevotella_copri_CAG_164
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+TRNA-CHARGING-PWY: tRNA charging|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Bacteroides.s__Bacteroides_faecis
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Coprococcus.s__Coprococcus_eutactus
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+TYRFUMCAT-PWY: L-tyrosine degradation I
+UBISYN-PWY: superpathway of ubiquinol-8 biosynthesis (prokaryotic)|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_cellulosilyticus
+VALSYN-PWY: L-valine biosynthesis|g__Bacteroides.s__Bacteroides_faecis
+VALSYN-PWY: L-valine biosynthesis|g__Coprococcus.s__Coprococcus_comes_CAG_19
+VALSYN-PWY: L-valine biosynthesis|g__Coprococcus.s__Coprococcus_eutactus
+VALSYN-PWY: L-valine biosynthesis|g__Coprococcus.s__Coprococcus_eutactus_CAG_665
+VALSYN-PWY: L-valine biosynthesis|g__Lachnoclostridium.s__Lachnoclostridium_sp_An131
+VALSYN-PWY: L-valine biosynthesis|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184
+VALSYN-PWY: L-valine biosynthesis|g__Pseudomonas.s__Pseudomonas_aeruginosa_group
