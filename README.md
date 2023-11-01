@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10059754.svg)](https://doi.org/10.5281/zenodo.10059754
 # Multiomics data analysis and code for ketogenic diet therapy for pediatric epilepsy 
 
 
